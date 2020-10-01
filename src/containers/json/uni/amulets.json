@@ -1,0 +1,406 @@
+[
+  {
+    "item_name": "Nokozan Relic",
+    "item_base": "Amulet",
+    "item_level": "14",
+    "level_requirement": "10",
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "3",
+        "max": "6"
+      }
+    },
+    "char_mods": {
+      "max_fire_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "fire_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "The Eye of Etlich",
+    "item_base": "Amulet",
+    "item_level": "20",
+    "level_requirement": "15",
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "10",
+        "max": "40"
+      },
+      "min_cold_damage": {
+        "min": "1",
+        "max": "2"
+      },
+      "max_cold_damage": {
+        "min": "3",
+        "max": "5"
+      },
+      "cold_length": {
+        "min": "50",
+        "max": "250"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "1",
+        "max": "5"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "life_stolen_per_hit": {
+        "min": "3",
+        "max": "7"
+      }
+    }
+  },
+  {
+    "item_name": "The Mahim-Oak Curio",
+    "item_base": "Amulet",
+    "item_level": "34",
+    "level_requirement": "25",
+    "item_mods": {
+      "defense": {
+        "min": "10",
+        "max": "10"
+      },
+      "enhanced_defense": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "energy": {
+        "min": "10",
+        "max": "10"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "attack_rating_percent": {
+        "min": "10",
+        "max": "10"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "The Cat's Eye",
+    "item_base": "Amulet",
+    "item_level": "58",
+    "level_requirement": "50",
+    "item_mods": {
+      "defense": {
+        "min": "100",
+        "max": "100"
+      },
+      "defense_vs_missles": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "30",
+        "max": "30"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "The Rising Sun",
+    "item_base": "Amulet",
+    "item_level": "73",
+    "level_requirement": "65",
+    "item_mods": {
+      "cast_when_struck": {
+        "chance_to_cast": "2",
+        "skill_level": "0",
+        "skill": "Meteor"
+      },
+      "added_fire_damage": {
+        "min": "24",
+        "max": "48"
+      }
+    },
+    "char_mods": {
+      "fire_absorb_per_level": {},
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "fire_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "life_replenish": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Crescent Moon",
+    "item_base": "Amulet",
+    "item_level": "58",
+    "level_requirement": "50",
+    "item_mods": {
+      "damagetomana": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "11",
+        "max": "15"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "light_radius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "mana": {
+        "min": "45",
+        "max": "45"
+      },
+      "life_stolen_per_hit": {
+        "min": "3",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "Mara's Kaleidoscope",
+    "item_base": "Amulet",
+    "item_level": "80",
+    "level_requirement": "67",
+    "item_mods": {},
+    "char_mods": {
+      "all_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "30"
+      },
+      "strength": {
+        "min": "5",
+        "max": "5"
+      },
+      "dexterity": {
+        "min": "5",
+        "max": "5"
+      },
+      "vitality": {
+        "min": "5",
+        "max": "5"
+      },
+      "energy": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Atma's Scarab",
+    "item_base": "Amulet",
+    "item_level": "60",
+    "level_requirement": "60",
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "102",
+        "max": "102"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "2",
+        "skill": "Amplify Damage"
+      }
+    },
+    "char_mods": {
+      "poison_resist": {
+        "min": "75",
+        "max": "75"
+      },
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      },
+      "thorns": {
+        "min": "5",
+        "max": "5"
+      },
+      "attack_rating_percent": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Highlord's Wrath",
+    "item_base": "Amulet",
+    "item_level": "73",
+    "level_requirement": "65",
+    "item_mods": {
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "30"
+      },
+      "attacker_takes_lightning": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "lightning_resist": {
+        "min": "35",
+        "max": "35"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "deadly_strike_perlevel": {}
+    }
+  },
+  {
+    "item_name": "Saracen's Chance",
+    "item_base": "Amulet",
+    "item_level": "55",
+    "level_requirement": "47",
+    "item_mods": {
+      "cast_when_struck": {
+        "chance_to_cast": "10",
+        "skill_level": "2",
+        "skill": "Iron Maiden"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "15",
+        "max": "25"
+      },
+      "strength": {
+        "min": "12",
+        "max": "12"
+      },
+      "dexterity": {
+        "min": "12",
+        "max": "12"
+      },
+      "energy": {
+        "min": "12",
+        "max": "12"
+      },
+      "vitality": {
+        "min": "12",
+        "max": "12"
+      }
+    }
+  },
+  {
+    "item_name": "Seraph's Hymn",
+    "item_base": "Amulet",
+    "item_level": "73",
+    "level_requirement": "65",
+    "item_mods": {
+      "increased_damage_demon": {
+        "min": "25",
+        "max": "50"
+      },
+      "increased_damage_undead": {
+        "min": "25",
+        "max": "50"
+      },
+      "increased_attack_rating_demon": {
+        "min": "150",
+        "max": "250"
+      },
+      "increased_attack_rating_undead": {
+        "min": "150",
+        "max": "250"
+      }
+    },
+    "char_mods": {
+      "all_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "offensive_auras": {
+        "min": "1",
+        "max": "2"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Metalgrid",
+    "item_base": "amulet",
+    "item_level": "85",
+    "level_requirement": "81",
+    "item_mods": {
+      "defense": {
+        "min": "300",
+        "max": "350"
+      },
+      "charged_skill": {
+        "min": "20",
+        "max": "12"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "25",
+        "max": "35"
+      },
+      "attack_rating": {
+        "min": "400",
+        "max": "450"
+      }
+    }
+  }
+]

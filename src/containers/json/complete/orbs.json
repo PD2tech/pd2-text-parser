@@ -1,0 +1,191 @@
+[
+  {
+    "item_name": "The Oculus",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_properties": {
+      "item_base": "Swirling Crystal",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 18,
+        "max": 42
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_when_struck": {
+        "chance_to_cast": "25",
+        "skill_level": "1",
+        "skill": "Teleport"
+      },
+      "enhanced_defense": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "sorceress_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "faster_cast_rate": {
+        "min": "30",
+        "max": "30"
+      },
+      "vitality": {
+        "min": "20",
+        "max": "20"
+      },
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_after_kill": {
+        "min": "5",
+        "max": "5"
+      },
+      "magic_find": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Death's Fathom",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_properties": {
+      "item_base": "Dimensional Shard",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 30,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "73",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {
+      "sorceress_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "increased_cold_damage": {
+        "min": "15",
+        "max": "30"
+      },
+      "faster_cast_rate": {
+        "min": "20",
+        "max": "20"
+      },
+      "fire_resist": {
+        "min": "25",
+        "max": "40"
+      },
+      "lightning_resist": {
+        "min": "25",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "Eschuta's temper",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_properties": {
+      "item_base": "Eldritch Orb",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 18,
+        "max": 50
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "72",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {
+      "sorceress_skills": {
+        "min": "1",
+        "max": "3"
+      },
+      "faster_cast_rate": {
+        "min": "40",
+        "max": "40"
+      },
+      "increased_fire_damage": {
+        "min": "10",
+        "max": "20"
+      },
+      "increased_lightning_damage": {
+        "min": "10",
+        "max": "20"
+      },
+      "energy": {
+        "min": "20",
+        "max": "30"
+      }
+    }
+  }
+]

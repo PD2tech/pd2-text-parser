@@ -1,0 +1,510 @@
+[
+  {
+    "item_name": "Hotspur",
+    "item_base": "Boots",
+    "item_level": "7",
+    "level_requirement": "5",
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "3",
+        "max": "6"
+      },
+      "defense": {
+        "min": "6",
+        "max": "6"
+      },
+      "enhanced_defense": {
+        "min": "10",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "max_fire_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "life": {
+        "min": "15",
+        "max": "15"
+      },
+      "fire_resist": {
+        "min": "45",
+        "max": "45"
+      }
+    }
+  },
+  {
+    "item_name": "Gorefoot",
+    "item_base": "Heavy Boots",
+    "item_level": "12",
+    "level_requirement": "9",
+    "item_mods": {
+      "extrablood": {
+        "min": "3",
+        "max": "5"
+      },
+      "defense": {
+        "min": "12",
+        "max": "12"
+      },
+      "enhanced_defense": {
+        "min": "20",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_stolen_per_hit": {
+        "min": "2",
+        "max": "2"
+      },
+      "thorns": {
+        "min": "2",
+        "max": "2"
+      },
+      "leap": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Treads of Cthon",
+    "item_base": "Chain Boots",
+    "item_level": "20",
+    "level_requirement": "15",
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "50",
+        "max": "50"
+      },
+      "staminadrainpct": {
+        "min": "50",
+        "max": "50"
+      },
+      "defense": {
+        "min": "12",
+        "max": "12"
+      },
+      "enhanced_defense": {
+        "min": "30",
+        "max": "40"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "30",
+        "max": "30"
+      },
+      "life": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Goblin Toe",
+    "item_base": "Light Plated Boots",
+    "item_level": "30",
+    "level_requirement": "22",
+    "item_mods": {
+      "defense": {
+        "min": "15",
+        "max": "15"
+      },
+      "enhanced_defense": {
+        "min": "50",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      },
+      "normal_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "magic_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "light_radius": {
+        "min": "-1",
+        "max": "-1"
+      }
+    }
+  },
+  {
+    "item_name": "Tearhaunch",
+    "item_base": "Greaves",
+    "item_level": "39",
+    "level_requirement": "29",
+    "item_mods": {
+      "defense": {
+        "min": "35",
+        "max": "35"
+      },
+      "enhanced_defense": {
+        "min": "60",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "5",
+        "max": "5"
+      },
+      "dexterity": {
+        "min": "5",
+        "max": "5"
+      },
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "vigor": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Infernostride",
+    "item_base": "Demonhide Boots",
+    "item_level": "37",
+    "level_requirement": "29",
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "12",
+        "max": "33"
+      },
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      },
+      "defense": {
+        "min": "15",
+        "max": "15"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "5",
+        "skill_level": "8",
+        "skill": "Blaze"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "max_fire_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "fire_resist": {
+        "min": "30",
+        "max": "30"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "gold_find": {
+        "min": "40",
+        "max": "70"
+      }
+    }
+  },
+  {
+    "item_name": "Waterwalk",
+    "item_base": "Sharkskin Boots",
+    "item_level": "40",
+    "level_requirement": "32",
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "100",
+        "max": "100"
+      },
+      "enhanced_defense": {
+        "min": "180",
+        "max": "210"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "life": {
+        "min": "45",
+        "max": "65"
+      },
+      "max_stamina": {
+        "min": "40",
+        "max": "40"
+      },
+      "max_fire_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "stamina_regen": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Silkweave",
+    "item_base": "Mesh Boots",
+    "item_level": "44",
+    "level_requirement": "36",
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "190"
+      },
+      "defense_vs_missles": {
+        "min": "200",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "mana_after_kill": {
+        "min": "5",
+        "max": "5"
+      },
+      "mana_percent": {
+        "min": "10",
+        "max": "10"
+      },
+      "faster_run_walk": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "War Traveler",
+    "item_base": "Battle Boots",
+    "item_level": "50",
+    "level_requirement": "42",
+    "item_mods": {
+      "max_durability": {
+        "min": "30",
+        "max": "30"
+      },
+      "enhanced_defense": {
+        "min": "150",
+        "max": "190"
+      },
+      "added_damage": {
+        "min": "15",
+        "max": "25"
+      },
+      "staminadrainpct": {
+        "min": "40",
+        "max": "40"
+      }
+    },
+    "char_mods": {
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "magic_find": {
+        "min": "30",
+        "max": "50"
+      },
+      "faster_run_walk": {
+        "min": "25",
+        "max": "25"
+      },
+      "thorns": {
+        "min": "5",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Gorerider",
+    "item_base": "War Boots",
+    "item_level": "55",
+    "level_requirement": "47",
+    "item_mods": {
+      "reduced_requirements": {
+        "min": "-25",
+        "max": "-25"
+      },
+      "enhanced_defense": {
+        "min": "160",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "15",
+        "max": "15"
+      },
+      "faster_run_walk": {
+        "min": "30",
+        "max": "30"
+      },
+      "crushing_blow": {
+        "min": "15",
+        "max": "15"
+      },
+      "open_wounds": {
+        "min": "10",
+        "max": "10"
+      },
+      "max_stamina": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Shadowdancer",
+    "item_base": "Myrmidon Greaves",
+    "item_level": "79",
+    "level_requirement": "71",
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "70",
+        "max": "100"
+      },
+      "reduced_requirements": {
+        "min": "-20",
+        "max": "-20"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "30",
+        "max": "30"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "25"
+      },
+      "shadow_disciplines": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Sandstorm Trek",
+    "item_base": "Scarabshell Boots",
+    "item_level": "72",
+    "level_requirement": "64",
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "140",
+        "max": "170"
+      },
+      "staminadrainpct": {
+        "min": "50",
+        "max": "50"
+      },
+      "replenish_durability": {}
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "stamina_per_level": {
+        "min": "1",
+        "max": "1"
+      },
+      "poison_resist": {
+        "min": "40",
+        "max": "70"
+      },
+      "strength": {
+        "min": "10",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Marrowwalk",
+    "item_base": "Boneweave Boots",
+    "item_level": "74",
+    "level_requirement": "66",
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "170",
+        "max": "200"
+      },
+      "charged_skill": {
+        "min": "10",
+        "max": "12"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "stamina_regen": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana_regen": {
+        "min": "10",
+        "max": "10"
+      },
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      },
+      "strength": {
+        "min": "10",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "17",
+        "max": "17"
+      },
+      "skeleton_mastery": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  }
+]

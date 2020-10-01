@@ -1,0 +1,401 @@
+[{
+  "item_name": "Sash",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+  "item_type": "armor",
+  "item_properties": { 
+    "item_base": "Sash",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 2,
+      "max": 2
+    },
+    "durability": 12,
+    "strength_requirement": 0,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Light Belt",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+  "item_type": "armor",
+  "item_properties": { 
+    "item_base": "Light Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 3,
+      "max": 3
+    },
+    "durability": 14,
+    "strength_requirement": 0,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+  "item_properties": { 
+    "item_base": "Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 5,
+      "max": 5
+    },
+    "durability": 16,
+    "strength_requirement": 25,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Heavy Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+  "item_properties": { 
+    "item_base": "Heavy Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 6,
+      "max": 6
+    },
+    "durability": 18,
+    "strength_requirement": 45,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Plated Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+  "item_properties": { 
+    "item_base": "Plated Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 8,
+      "max": 11
+    },
+    "durability": 24,
+    "strength_requirement": 60,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Demonhide Sash",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+  "item_properties": { 
+    "item_base": "Demonhide Sash",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 29,
+      "max": 34
+    },
+    "durability": 12,
+    "strength_requirement": 20,
+    "dexterity_requirement": 0,
+    "level_requirement": 24,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Sharkskin Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+  "item_properties": { 
+    "item_base": "Sharkskin Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 31,
+      "max": 36
+    },
+    "durability": 14,
+    "strength_requirement": 20,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Mesh Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+  "item_properties": { 
+    "item_base": "Mesh Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 35,
+      "max": 40
+    },
+    "durability": 16,
+    "strength_requirement": 58,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Battle Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+  "item_properties": { 
+    "item_base": "Mesh Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 37,
+      "max": 42
+    },
+    "durability": 18,
+    "strength_requirement": 88,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "War Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+  "item_properties": { 
+    "item_base": "War Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 41,
+      "max": 52
+    },
+    "durability": 24,
+    "strength_requirement": 110,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},{
+  "item_name": "Spiderweb Sash",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+  "item_properties": { 
+    "item_base": "Spiderweb Sash",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 55,
+      "max": 62
+    },
+    "durability": 12,
+    "strength_requirement": 50,
+    "dexterity_requirement": 0,
+    "level_requirement": 46,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  }
+},{
+  "item_name": "Vampirefang Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+  "item_properties": { 
+    "item_base": "Vampirefang Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 56,
+      "max": 63
+    },
+    "durability": 14,
+    "strength_requirement": 50,
+    "dexterity_requirement": 0,
+    "level_requirement": 51,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  }
+},{
+  "item_name": "Mithril Coil",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+  "item_properties": { 
+    "item_base": "Mithril Coil",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 58,
+      "max": 65
+    },
+    "durability": 16,
+    "strength_requirement": 106,
+    "dexterity_requirement": 0,
+    "level_requirement": 56,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  }
+},{
+  "item_name": "Troll Belt",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+  "item_properties": { 
+    "item_base": "Mithril Coil",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 59,
+      "max": 66
+    },
+    "durability": 18,
+    "strength_requirement": 151,
+    "dexterity_requirement": 0,
+    "level_requirement": 62,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  }
+},{
+  "item_name": "Colossus Girdle",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+  "item_properties": { 
+    "item_base": "Mithril Coil",
+      "sub_type": "belt",
+      "class_specific": null,
+    "defense": {
+      "min": 61,
+      "max": 71
+    },
+    "durability": 24,
+    "strength_requirement": 185,
+    "dexterity_requirement": 0,
+    "level_requirement": 67,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  }
+}]

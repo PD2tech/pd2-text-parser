@@ -1,0 +1,671 @@
+[
+  {
+    "item_name": "The Hand of Broc",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/lgl.png",
+    "item_properties": {
+      "item_base": "Leather Gloves",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 2,
+        "max": 3
+      },
+      "durability": 12,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "10",
+        "max": "10"
+      },
+      "enhanced_defense": {
+        "min": "10",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "3",
+        "max": "3"
+      },
+      "life_stolen_per_hit": {
+        "min": "3",
+        "max": "3"
+      },
+      "poison_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Bloodfist",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/vgl.png",
+    "item_properties": {
+      "item_base": "Heavy Gloves",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 5,
+        "max": 6
+      },
+      "durability": 14,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "9",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "min_damage": {
+        "min": "5",
+        "max": "5"
+      },
+      "defense": {
+        "min": "10",
+        "max": "10"
+      },
+      "enhanced_defense": {
+        "min": "10",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "life": {
+        "min": "40",
+        "max": "40"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Chance Guards",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/mgl.png",
+    "item_properties": {
+      "item_base": "Chain Gloves",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 9
+      },
+      "durability": 16,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "15",
+        "max": "15"
+      },
+      "enhanced_defense": {
+        "min": "20",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "gold_find": {
+        "min": "200",
+        "max": "200"
+      },
+      "magic_find": {
+        "min": "25",
+        "max": "40"
+      },
+      "attack_rating": {
+        "min": "25",
+        "max": "25"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Magefist",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/tgl.png",
+    "item_properties": {
+      "item_base": "Light Gauntlets",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 9,
+        "max": 11
+      },
+      "durability": 18,
+      "strength_requirement": 45,
+      "dexterity_requirement": 0,
+      "level_requirement": "23",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "1",
+        "max": "6"
+      },
+      "defense": {
+        "min": "10",
+        "max": "10"
+      },
+      "enhanced_defense": {
+        "min": "20",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "faster_cast_rate": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_regen": {
+        "min": "25",
+        "max": "25"
+      },
+      "fire_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Frostburn",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/hgl.png",
+    "item_properties": {
+      "item_base": "Gauntlets",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 12,
+        "max": 15
+      },
+      "durability": 24,
+      "strength_requirement": 60,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "30",
+        "max": "30"
+      },
+      "enhanced_damage": {
+        "min": "5",
+        "max": "5"
+      },
+      "enhanced_defense": {
+        "min": "10",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "mana_percent": {
+        "min": "40",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "Venom Grip",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/lgl.png",
+    "item_properties": {
+      "item_base": "Demonhide Gloves",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 28,
+        "max": 35
+      },
+      "durability": 12,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "153",
+        "max": "153"
+      },
+      "defense": {
+        "min": "15",
+        "max": "25"
+      },
+      "enhanced_defense": {
+        "min": "130",
+        "max": "160"
+      }
+    },
+    "char_mods": {
+      "poison_resist": {
+        "min": "30",
+        "max": "30"
+      },
+      "max_poison_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "crushing_blow": {
+        "min": "5",
+        "max": "5"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Gravepalm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/vgl.png",
+    "item_properties": {
+      "item_base": "Sharkskin Gloves",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 33,
+        "max": 39
+      },
+      "durability": 14,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "32",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": "100",
+        "max": "200"
+      },
+      "increased_attack_rating_undead": {
+        "min": "100",
+        "max": "200"
+      },
+      "enhanced_defense": {
+        "min": "140",
+        "max": "180"
+      }
+    },
+    "char_mods": {
+      "energy": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Ghoulhide",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/mgl.png",
+    "item_properties": {
+      "item_base": "Heavy Bracers",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 37,
+        "max": 44
+      },
+      "durability": 16,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "damage_undead_per_level": {
+        "min": "2",
+        "max": "2"
+      },
+      "enhanced_defense": {
+        "min": "150",
+        "max": "190"
+      }
+    },
+    "char_mods": {
+      "attack_rating_undead_per_level": {
+        "min": "8",
+        "max": "8"
+      },
+      "mana_stolen_per_hit": {
+        "min": "4",
+        "max": "5"
+      },
+      "life": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Lavagout",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/tgl.png",
+    "item_properties": {
+      "item_base": "Battle Gauntlets",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 39,
+        "max": 47
+      },
+      "durability": 18,
+      "strength_requirement": 88,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "2",
+        "skill_level": "10",
+        "skill": "Enchant"
+      },
+      "enhanced_defense": {
+        "min": "150",
+        "max": "200"
+      },
+      "added_fire_damage": {
+        "min": "13",
+        "max": "46"
+      },
+      "max_durability": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "fire_resist": {
+        "min": "24",
+        "max": "24"
+      },
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Hellmouth",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/hgl.png",
+    "item_properties": {
+      "item_base": "War Gauntlets",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 43,
+        "max": 53
+      },
+      "durability": 24,
+      "strength_requirement": 110,
+      "dexterity_requirement": 0,
+      "level_requirement": "47",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "15",
+        "max": "72"
+      },
+      "enhanced_defense": {
+        "min": "150",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "15",
+        "max": "15"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "4",
+        "skill_level": "12",
+        "skill": "Firestorm"
+      }
+    },
+    "char_mods": {
+      "fire_absorb": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Souldrain",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/mgl.png",
+    "item_properties": {
+      "item_base": "Vambraces",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 59,
+        "max": 67
+      },
+      "durability": 16,
+      "strength_requirement": 106,
+      "dexterity_requirement": 0,
+      "level_requirement": "74",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "90",
+        "max": "120"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "8",
+        "skill_level": "3",
+        "skill": "Weaken"
+      },
+      "reduce_defense_per_hit": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "4",
+        "max": "7"
+      },
+      "life_stolen_per_hit": {
+        "min": "4",
+        "max": "7"
+      }
+    }
+  },
+  {
+    "item_name": "Dracul's Grasp",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/vgl.png",
+    "item_properties": {
+      "item_base": "Vampirebone Gloves",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 56,
+        "max": 65
+      },
+      "durability": 14,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "76",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "90",
+        "max": "120"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "10",
+        "skill": "Life Tap"
+      },
+      "life_after_kill": {
+        "min": "5",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "7",
+        "max": "10"
+      },
+      "open_wounds": {
+        "min": "25",
+        "max": "25"
+      },
+      "strength": {
+        "min": "10",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Steelrend",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/hgl.png",
+    "item_properties": {
+      "item_base": "Ogre Gauntlets",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "defense": {
+        "min": 62,
+        "max": 71
+      },
+      "durability": 24,
+      "strength_requirement": 185,
+      "dexterity_requirement": 0,
+      "level_requirement": "70",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "170",
+        "max": "210"
+      },
+      "enhanced_damage": {
+        "min": "30",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "15",
+        "max": "20"
+      },
+      "crushing_blow": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  }
+]

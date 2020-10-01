@@ -1,0 +1,2423 @@
+[
+  {
+    "item_name": "Felloak",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/clb.png",
+    "item_properties": {
+      "item_base": "Club",
+      "sub_type": "club",
+      "class_specific": null,
+      "damage": {
+        "min": 1,
+        "max": 6
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "3",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "min_fire_damage": {
+        "min": "6",
+        "max": "6"
+      },
+      "max_fire_damage": {
+        "min": "8",
+        "max": "8"
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "lightning_resist": {
+        "min": "60",
+        "max": "60"
+      },
+      "fire_resist": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Knell Striker",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 11
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      },
+      "fire_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "poison_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana": {
+        "min": "15",
+        "max": "15"
+      },
+      "attack_rating": {
+        "min": "35",
+        "max": "35"
+      }
+    }
+  },
+  {
+    "item_name": "Rusthandle",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_properties": {
+      "item_base": "Grand Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 18
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 37,
+      "dexterity_requirement": 0,
+      "level_requirement": "17",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": "50",
+        "max": "60"
+      },
+      "added_damage": {
+        "min": "3",
+        "max": "7"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "paladin_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "magic_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "life_stolen_per_hit": {
+        "min": "8",
+        "max": "8"
+      },
+      "vengeance": {
+        "min": "1",
+        "max": "3"
+      },
+      "thorns": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Stormeye",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_properties": {
+      "item_base": "War Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 70,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "23",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "6"
+      },
+      "enhanced_damage": {
+        "min": "80",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "life_replenish": {
+        "min": "10",
+        "max": "10"
+      },
+      "resist_lightning": {
+        "min": "3",
+        "max": "5"
+      },
+      "holy_shock": {
+        "min": "3",
+        "max": "3"
+      },
+      "fist_of_the_heavens": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Stoutnail",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/spc.png",
+    "item_properties": {
+      "item_base": "Spiked Club",
+      "sub_type": "club",
+      "class_specific": null,
+      "damage": {
+        "min": 5,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 36,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "thorns": {
+        "min": "3",
+        "max": "10"
+      },
+      "vitality": {
+        "min": "7",
+        "max": "7"
+      },
+      "magic_damage_reduction": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Crushflange",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_properties": {
+      "item_base": "Mace",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 10
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 27,
+      "dexterity_requirement": 0,
+      "level_requirement": "9",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "fire_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "crushing_blow": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Bloodrise",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_properties": {
+      "item_base": "Morning Star",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 36,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "120",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "50",
+        "max": "50"
+      },
+      "open_wounds": {
+        "min": "25",
+        "max": "25"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "sacrifice": {
+        "min": "3",
+        "max": "3"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "The Generals Tan Do Li Ga",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Flail",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 1,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 30,
+      "strength_requirement": 41,
+      "dexterity_requirement": 35,
+      "level_requirement": "21",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "min_damage": {
+        "min": "1",
+        "max": "1"
+      },
+      "max_damage": {
+        "min": "20",
+        "max": "20"
+      },
+      "slow_target": {
+        "min": "50",
+        "max": "50"
+      },
+      "defense": {
+        "min": "25",
+        "max": "25"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Ironstone",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/WarHammer.gif",
+    "item_properties": {
+      "item_base": "War Hammer",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 19,
+        "max": 29
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 55,
+      "strength_requirement": 53,
+      "dexterity_requirement": 0,
+      "level_requirement": "27",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "150"
+      },
+      "min_lightning_damage": {
+        "min": "1",
+        "max": "1"
+      },
+      "max_lightning_damage": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "100",
+        "max": "150"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Bonesob",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/Maul.gif",
+    "item_properties": {
+      "item_base": "Maul",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 30,
+        "max": 43
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 69,
+      "dexterity_requirement": 0,
+      "level_requirement": "24",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": "50",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "300"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "40",
+        "max": "40"
+      },
+      "fire_resist": {
+        "min": "30",
+        "max": "30"
+      },
+      "cold_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Steeldriver",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/GreatMaul.gif",
+    "item_properties": {
+      "item_base": "Great Maul",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 38,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 99,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "reduced_requirements": {
+        "min": "-50",
+        "max": "-50"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "250"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "40",
+        "max": "40"
+      },
+      "stamina_regen": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Dark Clan Crusher",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/clb.png",
+    "item_properties": {
+      "item_base": "Cudgel",
+      "sub_type": "club",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "34",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "increased_damage_demon": {
+        "min": "200",
+        "max": "200"
+      },
+      "increased_attack_rating_demon": {
+        "min": "200",
+        "max": "200"
+      },
+      "enhanced_damage": {
+        "min": "195",
+        "max": "195"
+      }
+    },
+    "char_mods": {
+      "druid_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "attack_rating_percent": {
+        "min": "20",
+        "max": "25"
+      },
+      "life_after_demon_kill": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Zakarum's Hand",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Rune Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": "37",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "6",
+        "skill_level": "5",
+        "skill": "Blizzard"
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "220"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "8",
+        "max": "8"
+      },
+      "mana_regen": {
+        "min": "10",
+        "max": "10"
+      },
+      "stamina_regen": {
+        "min": "15",
+        "max": "15"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "holy_freeze": {
+        "min": "2",
+        "max": "2"
+      },
+      "holy_shock": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "The Fetid Sprinkler",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_properties": {
+      "item_base": "Holy Water Sprinkler",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 36
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 76,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "10",
+        "skill_level": "1",
+        "skill": "Confuse"
+      },
+      "added_poison_damage": {
+        "min": "409",
+        "max": "409"
+      },
+      "enhanced_damage": {
+        "min": "160",
+        "max": "190"
+      },
+      "added_damage": {
+        "min": "15",
+        "max": "25"
+      }
+    },
+    "char_mods": {
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "attack_rating": {
+        "min": "150",
+        "max": "200"
+      }
+    }
+  },
+  {
+    "item_name": "Hand of Blessed Light",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_properties": {
+      "item_base": "Divine Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 38
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 70,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "130",
+        "max": "160"
+      },
+      "defense": {
+        "min": "50",
+        "max": "50"
+      },
+      "added_damage": {
+        "min": "20",
+        "max": "45"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "4",
+        "skill": "Fist of the Heavens"
+      }
+    },
+    "char_mods": {
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "attack_rating_percent": {
+        "min": "100",
+        "max": "100"
+      },
+      "mana_regen": {
+        "min": "15",
+        "max": "15"
+      },
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "holy_bolt": {
+        "min": "4",
+        "max": "4"
+      },
+      "fist_of_the_heavens": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Fleshrender",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/spc.png",
+    "item_properties": {
+      "item_base": "Barbed Club",
+      "sub_type": "club",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 25
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 36,
+      "strength_requirement": 30,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "35",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "130",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "open_wounds": {
+        "min": "25",
+        "max": "25"
+      },
+      "crushing_blow": {
+        "min": "20",
+        "max": "20"
+      },
+      "deadly_strike": {
+        "min": "20",
+        "max": "20"
+      },
+      "druid_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "shape_shifting": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Sureshrill Frost",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_properties": {
+      "item_base": "Flanged Mace",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 23
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 61,
+      "dexterity_requirement": 0,
+      "level_requirement": "39",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "180"
+      },
+      "added_damage": {
+        "min": "5",
+        "max": "10"
+      },
+      "freeze_target": {
+        "min": "3",
+        "max": "3"
+      },
+      "charged_skill": {
+        "min": "50",
+        "max": "9"
+      }
+    },
+    "char_mods": {
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Moonfall",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_properties": {
+      "item_base": "Jagged Star",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 20,
+        "max": 31
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 74,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "6",
+        "skill": "Meteor"
+      },
+      "added_fire_damage": {
+        "min": "55",
+        "max": "115"
+      },
+      "enhanced_damage": {
+        "min": "120",
+        "max": "150"
+      },
+      "charged_skill": {
+        "min": "60",
+        "max": "11"
+      },
+      "added_damage": {
+        "min": "10",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "magic_damage_reduction": {
+        "min": "9",
+        "max": "12"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Baezil's Vortex",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Knout",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 30,
+      "strength_requirement": 82,
+      "dexterity_requirement": 73,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "8",
+        "skill": "Nova"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "150"
+      },
+      "enhanced_damage": {
+        "min": "160",
+        "max": "200"
+      },
+      "charged_skill": {
+        "min": "80",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "mana": {
+        "min": "100",
+        "max": "100"
+      },
+      "lightning_resist": {
+        "min": "25",
+        "max": "25"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Earthshaker",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/WarHammer.gif",
+    "item_properties": {
+      "item_base": "Battle Hammer",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 35,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 55,
+      "strength_requirement": 100,
+      "dexterity_requirement": 0,
+      "level_requirement": "43",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "7",
+        "skill": "Eruption"
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "180"
+      },
+      "blind_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "max_durability": {
+        "min": "50",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "elemental_skills": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Bloodtree Stump",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/Maul.gif",
+    "item_properties": {
+      "item_base": "War Club",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 53,
+        "max": 78
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 124,
+      "dexterity_requirement": 0,
+      "level_requirement": "48",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "220"
+      },
+      "max_durability": {
+        "min": "40",
+        "max": "40"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "50",
+        "max": "50"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "25",
+        "max": "25"
+      },
+      "combat_masteries": {
+        "min": "2",
+        "max": "2"
+      },
+      "mace_mastery": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "The Gavel of Pain",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/GreatMaul.gif",
+    "item_properties": {
+      "item_base": "Martel De Fer",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 61,
+        "max": 99
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 169,
+      "dexterity_requirement": 0,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "1",
+        "skill": "Amplify Damage"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "5",
+        "skill_level": "1",
+        "skill": "Iron Maiden"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "12",
+        "max": "30"
+      },
+      "enhanced_damage": {
+        "min": "130",
+        "max": "160"
+      },
+      "charged_skill": {
+        "min": "3",
+        "max": "8"
+      }
+    },
+    "char_mods": {
+      "thorns": {
+        "min": "26",
+        "max": "26"
+      }
+    }
+  },
+  {
+    "item_name": "Baranar's Star",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_properties": {
+      "item_base": "Devil Star",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 41,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 153,
+      "dexterity_requirement": 44,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "100",
+        "max": "100"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "200"
+      },
+      "added_fire_damage": {
+        "min": "1",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "200",
+        "max": "200"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "increased_attack_speed": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Schaefer's Hammer",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/WarHammer.gif",
+    "item_properties": {
+      "item_base": "Legendary Mallet",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 50,
+        "max": 61
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 65,
+      "strength_requirement": 189,
+      "dexterity_requirement": 0,
+      "level_requirement": "79",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "20",
+        "skill_level": "10",
+        "skill": "Static Field"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "130"
+      },
+      "added_lightning_damage": {
+        "min": "50",
+        "max": "200"
+      },
+      "max_damage_per_level": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "char_mods": {
+      "life": {
+        "min": "50",
+        "max": "50"
+      },
+      "attack_rating_per_level": {
+        "min": "8",
+        "max": "8"
+      },
+      "lightning_resist": {
+        "min": "75",
+        "max": "75"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "light_radius": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "The Cranium Basher",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/GreatMaul.gif",
+    "item_properties": {
+      "item_base": "Thunder Maul",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 180
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 253,
+      "dexterity_requirement": 0,
+      "level_requirement": "87",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "20",
+        "max": "20"
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "240"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "4",
+        "skill_level": "1",
+        "skill": "Amplify Damage"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "25",
+        "max": "25"
+      },
+      "all_resist": {
+        "min": "25",
+        "max": "25"
+      },
+      "crushing_blow": {
+        "min": "75",
+        "max": "75"
+      }
+    }
+  },
+  {
+    "item_name": "Demonlimb",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/spc.png",
+    "item_properties": {
+      "item_base": "Tyrant Club",
+      "sub_type": "club",
+      "class_specific": null,
+      "damage": {
+        "min": 32,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 65,
+      "strength_requirement": 133,
+      "dexterity_requirement": 0,
+      "level_requirement": "63",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "230"
+      },
+      "added_fire_damage": {
+        "min": "222",
+        "max": "333"
+      },
+      "charged_skill": {
+        "min": "20",
+        "max": "23"
+      },
+      "replenish_durability": {},
+      "increased_damage_demon": {
+        "min": "123",
+        "max": "123"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "7",
+        "max": "13"
+      },
+      "fire_resist": {
+        "min": "15",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Windhammer",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/Maul.gif",
+    "item_properties": {
+      "item_base": "Ogre Maul",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 77,
+        "max": 106
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 225,
+      "dexterity_requirement": 0,
+      "level_requirement": "68",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "230"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "33",
+        "skill_level": "22",
+        "skill": "Twister"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_speed": {
+        "min": "60",
+        "max": "60"
+      }
+    }
+  },
+  {
+    "item_name": "Stormlash",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Scourge",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 80
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 125,
+      "dexterity_requirement": 77,
+      "level_requirement": "82",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "240",
+        "max": "300"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "20",
+        "skill_level": "18",
+        "skill": "Tornado"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "473"
+      },
+      "attacker_takes_lightning": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "crushing_blow": {
+        "min": "33",
+        "max": "33"
+      },
+      "lightning_absorb": {
+        "min": "3",
+        "max": "9"
+      }
+    }
+  },
+  {
+    "item_name": "Astreon's Ironward",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_properties": {
+      "item_base": "Caduceus",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 37,
+        "max": 43
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 70,
+      "strength_requirement": 97,
+      "dexterity_requirement": 70,
+      "level_requirement": "60",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "240",
+        "max": "290"
+      },
+      "slow_target": {
+        "min": "25",
+        "max": "25"
+      },
+      "added_magic_damage": {
+        "min": "80",
+        "max": "240"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "normal_damage_reduction": {
+        "min": "4",
+        "max": "7"
+      },
+      "combat_skills_pally": {
+        "min": "2",
+        "max": "4"
+      },
+      "crushing_blow": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Nord's Tenderizer",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/clb.png",
+    "item_properties": {
+      "item_base": "Truncheon",
+      "sub_type": "club",
+      "class_specific": null,
+      "damage": {
+        "min": 35,
+        "max": 43
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 55,
+      "strength_requirement": 88,
+      "dexterity_requirement": 43,
+      "level_requirement": "68",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "270",
+        "max": "330"
+      },
+      "freeze_target": {
+        "min": "2",
+        "max": "4"
+      },
+      "charged_skill": {
+        "min": "12",
+        "max": "16"
+      },
+      "added_cold_damage": {
+        "min": "205",
+        "max": "455"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "25",
+        "max": "25"
+      },
+      "attack_rating_percent": {
+        "min": "150",
+        "max": "180"
+      },
+      "cold_absorb_percent": {
+        "min": "5",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "The Reedeemer",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Mighty Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 52
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 125,
+      "dexterity_requirement": 65,
+      "level_requirement": "72",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "250",
+        "max": "300"
+      },
+      "increased_damage_demon": {
+        "min": "200",
+        "max": "250"
+      },
+      "reduced_requirements": {
+        "min": "-60",
+        "max": "-60"
+      },
+      "reduce_target_ar": {
+        "min": "33",
+        "max": "33"
+      }
+    },
+    "char_mods": {
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "redemption": {
+        "min": "2",
+        "max": "4"
+      },
+      "holy_bolt": {
+        "min": "2",
+        "max": "4"
+      },
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Horizon's Tornado",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Scourge",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 80
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 125,
+      "dexterity_requirement": 77,
+      "level_requirement": "64",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "230",
+        "max": "280"
+      },
+      "slow_target": {
+        "min": "20",
+        "max": "20"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "20",
+        "skill_level": "15",
+        "skill": "Tornado"
+      },
+      "reduced_requirements": {
+        "min": "-20",
+        "max": "-20"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Stone Crusher",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/WarHammer.gif",
+    "item_properties": {
+      "item_base": "Legendary Mallet",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 50,
+        "max": 61
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 65,
+      "strength_requirement": 189,
+      "dexterity_requirement": 0,
+      "level_requirement": "68",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "280",
+        "max": "320"
+      },
+      "reduce_target_ar": {
+        "min": "25",
+        "max": "25"
+      },
+      "reduce_defense_per_hit": {
+        "min": "-100",
+        "max": "-100"
+      },
+      "added_damage": {
+        "min": "10",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "20",
+        "max": "30"
+      },
+      "crushing_blow": {
+        "min": "40",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "Heaven's Light",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Mighty Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 52
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 125,
+      "dexterity_requirement": 65,
+      "level_requirement": "61",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "250",
+        "max": "300"
+      },
+      "reduce_target_ar": {
+        "min": "33",
+        "max": "33"
+      },
+      "sockets": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      },
+      "life_after_demon_kill": {
+        "min": "15",
+        "max": "20"
+      },
+      "crushing_blow": {
+        "min": "33",
+        "max": "33"
+      },
+      "paladin_skills": {
+        "min": "2",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Earthshifter",
+    "item_type": "weapon",
+    "item_image": "https://podcalculatorimages.s3.us-east-2.amazonaws.com/diabloitemimages/maces/GreatMaul.gif",
+    "item_properties": {
+      "item_base": "Thunder Maul",
+      "sub_type": "hammer",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 180
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.1
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 60,
+      "strength_requirement": 253,
+      "dexterity_requirement": 0,
+      "level_requirement": "69",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      },
+      "enhanced_damage": {
+        "min": "250",
+        "max": "300"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "25",
+        "skill_level": "14",
+        "skill": "Eruption"
+      },
+      "charged_skill": {
+        "min": "30",
+        "max": "14"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "33",
+        "max": "33"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "elemental_skills": {
+        "min": "7",
+        "max": "7"
+      },
+      "faster_cast_rate": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  }
+]

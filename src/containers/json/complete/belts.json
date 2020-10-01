@@ -1,0 +1,704 @@
+[
+  {
+    "item_name": "Lenyms Cord",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+    "item_type": "armor",
+    "item_properties": {
+      "item_base": "Sash",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 2,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "7",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {
+      "mana": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana_regen": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "light_radius": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Snakecord",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+    "item_type": "armor",
+    "item_properties": {
+      "item_base": "Light Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 3,
+        "max": 3
+      },
+      "durability": 14,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "12",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "40",
+        "max": "40"
+      },
+      "defense": {
+        "min": "10",
+        "max": "10"
+      },
+      "enhanced_defense": {
+        "min": "20",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "poison_resist": {
+        "min": "25",
+        "max": "25"
+      },
+      "life_replenish": {
+        "min": "5",
+        "max": "5"
+      },
+      "reduced_poison_length": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Nightsmoke",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+    "item_properties": {
+      "item_base": "Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 5,
+        "max": 5
+      },
+      "durability": 16,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "damagetomana": {
+        "min": "50",
+        "max": "50"
+      },
+      "defense": {
+        "min": "15",
+        "max": "15"
+      },
+      "enhanced_defense": {
+        "min": "30",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana": {
+        "min": "20",
+        "max": "20"
+      },
+      "normal_damage_reduction": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Goldwrap",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+    "item_properties": {
+      "item_base": "Heavy Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 6,
+        "max": 6
+      },
+      "durability": 18,
+      "strength_requirement": 45,
+      "dexterity_requirement": 0,
+      "level_requirement": "27",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "25",
+        "max": "25"
+      },
+      "enhanced_defense": {
+        "min": "40",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "magic_find": {
+        "min": "30",
+        "max": "30"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "gold_find": {
+        "min": "50",
+        "max": "80"
+      }
+    }
+  },
+  {
+    "item_name": "Bladebuckle",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+    "item_properties": {
+      "item_base": "Plated Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 11
+      },
+      "durability": 24,
+      "strength_requirement": 60,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "30",
+        "max": "30"
+      },
+      "enhanced_defense": {
+        "min": "80",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "thorns": {
+        "min": "8",
+        "max": "8"
+      },
+      "normal_damage_reduction": {
+        "min": "3",
+        "max": "3"
+      },
+      "strength": {
+        "min": "5",
+        "max": "5"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "String of Ears",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+    "item_properties": {
+      "item_base": "Demonhide Sash",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 29,
+        "max": 34
+      },
+      "durability": 12,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "180"
+      },
+      "defense": {
+        "min": "15",
+        "max": "15"
+      },
+      "max_durability": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "15"
+      },
+      "damage_reduction": {
+        "min": "10",
+        "max": "15"
+      },
+      "life_stolen_per_hit": {
+        "min": "6",
+        "max": "8"
+      }
+    }
+  },
+  {
+    "item_name": "Razortail",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+    "item_properties": {
+      "item_base": "Sharkskin Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 31,
+        "max": 36
+      },
+      "durability": 14,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "32",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "15",
+        "max": "15"
+      },
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      },
+      "max_damage": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "thorns_per_level": {
+        "min": "1",
+        "max": "1"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "chance_to_pierce": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Gloomstrap",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+    "item_properties": {
+      "item_base": "Mesh Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 35,
+        "max": 40
+      },
+      "durability": 16,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "-3",
+        "max": "-3"
+      },
+      "mana_percent": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "vitality": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana_regen": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Snowclash",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+    "item_properties": {
+      "item_base": "Mesh Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 37,
+        "max": 42
+      },
+      "durability": 18,
+      "strength_requirement": 88,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_when_struck": {
+        "chance_to_cast": "5",
+        "skill_level": "0",
+        "skill": "Blizzard"
+      },
+      "enhanced_defense": {
+        "min": "130",
+        "max": "170"
+      }
+    },
+    "char_mods": {
+      "cold_absorb": {
+        "min": "15",
+        "max": "15"
+      },
+      "max_cold_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "blizzard": {
+        "min": "2",
+        "max": "2"
+      },
+      "glacial_spike": {
+        "min": "3",
+        "max": "3"
+      },
+      "chilling_armor": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Thudergod's Vigor",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+    "item_properties": {
+      "item_base": "War Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 41,
+        "max": 52
+      },
+      "durability": 24,
+      "strength_requirement": 110,
+      "dexterity_requirement": 0,
+      "level_requirement": "47",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_when_struck": {
+        "chance_to_cast": "5",
+        "skill_level": "7",
+        "skill": "Fist of the Heavens"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "50"
+      },
+      "enhanced_defense": {
+        "min": "160",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "max_lightning_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "lightning_absorb": {
+        "min": "20",
+        "max": "20"
+      },
+      "vitality": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "lightning_strike": {
+        "min": "3",
+        "max": "3"
+      },
+      "lightning_fury": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Arachnid Mesh",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+    "item_properties": {
+      "item_base": "Spiderweb Sash",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 55,
+        "max": 62
+      },
+      "durability": 12,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "80",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "char_mods": {
+      "faster_cast_rate": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "mana_percent": {
+        "min": "5",
+        "max": "5"
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "90",
+        "max": "120"
+      },
+      "charged_skill": {
+        "min": "11",
+        "max": "3"
+      },
+      "slow_target": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Nosferatu's Coil",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+    "item_properties": {
+      "item_base": "Vampirefang Belt",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 56,
+        "max": 63
+      },
+      "durability": 14,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "51",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana_after_kill": {
+        "min": "2",
+        "max": "2"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "7"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "light_radius": {
+        "min": "-3",
+        "max": "-3"
+      }
+    },
+    "item_mods": {
+      "slow_target": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Verdugo's Hearty Cord",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+    "item_properties": {
+      "item_base": "Mithril Coil",
+      "sub_type": "belt",
+      "class_specific": null,
+      "defense": {
+        "min": 58,
+        "max": 65
+      },
+      "durability": 16,
+      "strength_requirement": 106,
+      "dexterity_requirement": 0,
+      "level_requirement": "63",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "char_mods": {
+      "vitality": {
+        "min": "30",
+        "max": "40"
+      },
+      "max_stamina": {
+        "min": "100",
+        "max": "120"
+      },
+      "faster_hit_recovery": {
+        "min": "10",
+        "max": "10"
+      },
+      "damage_reduction": {
+        "min": "10",
+        "max": "15"
+      },
+      "life_replenish": {
+        "min": "10",
+        "max": "13"
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "90",
+        "max": "140"
+      }
+    }
+  }
+]

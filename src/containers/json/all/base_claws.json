@@ -1,0 +1,779 @@
+[
+  {
+    "item_name": "Katar",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Katar",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 4,
+        "max": 7
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 48,
+      "strength_requirement": 20,
+      "dexterity_requirement": 20,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Wrist Blade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Wrist Blade",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 5,
+        "max": 9
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 52,
+      "strength_requirement": 33,
+      "dexterity_requirement": 33,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hatchet Hands",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "Hatchet Hands",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 2,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 56,
+      "strength_requirement": 37,
+      "dexterity_requirement": 37,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Cetsus",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "Cetsus",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 7,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 72,
+      "strength_requirement": 42,
+      "dexterity_requirement": 42,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Claws",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Claws",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 8,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 64,
+      "strength_requirement": 46,
+      "dexterity_requirement": 46,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Blade Talons",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Blade Talons",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 10,
+        "max": 14
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -20,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 69,
+      "strength_requirement": 50,
+      "dexterity_requirement": 50,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Scissors Katar",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/skr.png",
+    "item_properties": {
+      "item_base": "Scissors Katar",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 9,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 68,
+      "strength_requirement": 55,
+      "dexterity_requirement": 55,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Quhab",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Quhab",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 11,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 48,
+      "strength_requirement": 57,
+      "dexterity_requirement": 57,
+      "level_requirement": 21,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Wrist Spike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Wrist Spike",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 13,
+        "max": 27
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 56,
+      "strength_requirement": 66,
+      "dexterity_requirement": 66,
+      "level_requirement": 24,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Fascia",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "Fascia",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 8,
+        "max": 37
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 64,
+      "strength_requirement": 69,
+      "dexterity_requirement": 69,
+      "level_requirement": 27,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hand Scythe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "Hand Scythe",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 16,
+        "max": 37
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 72,
+      "strength_requirement": 73,
+      "dexterity_requirement": 73,
+      "level_requirement": 30,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Greater Claws",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Greater Claws",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 18,
+        "max": 37
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -20,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 52,
+      "strength_requirement": 76,
+      "dexterity_requirement": 76,
+      "level_requirement": 33,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Greater Talons",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Greater Talons",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 21,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -30,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 69,
+      "strength_requirement": 79,
+      "dexterity_requirement": 79,
+      "level_requirement": 37,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Scissors Quhab",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/skr.png",
+    "item_properties": {
+      "item_base": "Scissors Quhab",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 19,
+        "max": 40
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 69,
+      "strength_requirement": 82,
+      "dexterity_requirement": 82,
+      "level_requirement": 40,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Suwayyah",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Suwayyah",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 39,
+        "max": 52
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 48,
+      "strength_requirement": 99,
+      "dexterity_requirement": 99,
+      "level_requirement": 44,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Wrist Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Wrist Sword",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 34,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 56,
+      "strength_requirement": 105,
+      "dexterity_requirement": 105,
+      "level_requirement": 46,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Fist",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "War Fist",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 44,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 64,
+      "strength_requirement": 108,
+      "dexterity_requirement": 108,
+      "level_requirement": 51,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Battle Cestus",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "Battle Cestus",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 36,
+        "max": 42
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 72,
+      "strength_requirement": 110,
+      "dexterity_requirement": 110,
+      "level_requirement": 54,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Feral Claws",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Feral Claws",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 22,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -20,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 52,
+      "strength_requirement": 113,
+      "dexterity_requirement": 113,
+      "level_requirement": 58,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Runic Talons",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Runic Talons",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 24,
+        "max": 44
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -30,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 69,
+      "strength_requirement": 115,
+      "dexterity_requirement": 115,
+      "level_requirement": 60,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Scissors Suwayya",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/skr.png",
+    "item_properties": {
+      "item_base": "Scissors Suwayya",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 40,
+        "max": 51
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 68,
+      "strength_requirement": 118,
+      "dexterity_requirement": 118,
+      "level_requirement": 64,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

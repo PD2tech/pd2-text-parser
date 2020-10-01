@@ -1,0 +1,1301 @@
+[
+  {
+    "item_name": "Rixots Keen",
+    "item_base": "Short Sword",
+    "item_level": "3",
+    "level_requirement": "2",
+    "item_mods": {
+      "min_damage": {
+        "min": "5",
+        "max": "5"
+      },
+      "defense": {
+        "min": "25",
+        "max": "25"
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Blood Crescent",
+    "item_base": "Scimitar",
+    "item_level": "10",
+    "level_requirement": "7",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "60",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "life": {
+        "min": "15",
+        "max": "15"
+      },
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "open_wounds": {
+        "min": "33",
+        "max": "33"
+      },
+      "increased_attack_speed": {
+        "min": "15",
+        "max": "15"
+      },
+      "life_stolen_per_hit": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Krintizs Skewer",
+    "item_base": "Sabre",
+    "item_level": "14",
+    "level_requirement": "10",
+    "item_mods": {
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "50"
+      },
+      "added_damage": {
+        "min": "3",
+        "max": "7"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana_stolen_per_hit": {
+        "min": "7",
+        "max": "7"
+      }
+    }
+  },
+  {
+    "item_name": "Gleamscythe",
+    "item_base": "Falchion",
+    "item_level": "18",
+    "level_requirement": "13",
+    "dmg-cold": {
+      "min": "3",
+      "max": "5"
+    },
+    "item_mods": {
+      "defense": {
+        "min": "20",
+        "max": "20"
+      },
+      "enhanced_damage": {
+        "min": "60",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      },
+      "mana": {
+        "min": "30",
+        "max": "30"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Griswolds Edge",
+    "item_base": "Broad Sword",
+    "item_level": "23",
+    "level_requirement": "17",
+    "item_mods": {
+      "min_fire_damage": {
+        "min": "10",
+        "max": "12"
+      },
+      "max_fire_damage": {
+        "min": "15",
+        "max": "25"
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "80",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "100",
+        "max": "100"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "12",
+        "max": "12"
+      }
+    }
+  },
+  {
+    "item_name": "Hellplague",
+    "item_base": "Long Sword",
+    "item_level": "30",
+    "level_requirement": "22",
+    "item_mods": {
+      "min_poison_damage": {
+        "min": "48",
+        "max": "48"
+      },
+      "max_poison_damage": {
+        "min": "96",
+        "max": "96"
+      },
+      "poison_length": {
+        "min": "150",
+        "max": "150"
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "80"
+      },
+      "added_fire_damage": {
+        "min": "25",
+        "max": "75"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "fire_skills": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Culwens Point",
+    "item_base": "War Sword",
+    "item_level": "39",
+    "level_requirement": "29",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "reduced_poison_length": {
+        "min": "50",
+        "max": "50"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "attack_rating": {
+        "min": "60",
+        "max": "60"
+      }
+    }
+  },
+  {
+    "item_name": "Shadowfang",
+    "item_base": "Two-Handed Sword",
+    "item_level": "16",
+    "level_requirement": "12",
+    "dmg-cold": {
+      "min": "10",
+      "max": "30"
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "9",
+        "max": "9"
+      },
+      "cold_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "light_radius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "life_stolen_per_hit": {
+        "min": "9",
+        "max": "9"
+      }
+    }
+  },
+  {
+    "item_name": "Soulflay",
+    "item_base": "Claymore",
+    "item_level": "26",
+    "level_requirement": "19",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "70",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "4",
+        "max": "10"
+      },
+      "life_stolen_per_hit": {
+        "min": "4",
+        "max": "4"
+      },
+      "all_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Kinemils Awl",
+    "item_base": "Giant Sword",
+    "item_level": "31",
+    "level_requirement": "23",
+    "item_mods": {
+      "min_fire_damage": {
+        "min": "6",
+        "max": "6"
+      },
+      "max_fire_damage": {
+        "min": "20",
+        "max": "40"
+      },
+      "enhanced_damage": {
+        "min": "80",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "100",
+        "max": "150"
+      },
+      "mana": {
+        "min": "20",
+        "max": "20"
+      },
+      "holy_fire": {
+        "min": "6",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "Blacktongue",
+    "item_base": "Bastard Sword",
+    "item_level": "35",
+    "level_requirement": "26",
+    "*hp": {
+      "min": "-10",
+      "max": "-10"
+    },
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "192",
+        "max": "192"
+      },
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "50",
+        "max": "50"
+      },
+      "poison_resist": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Ripsaw",
+    "item_base": "Flamberge",
+    "item_level": "35",
+    "level_requirement": "26",
+    "item_mods": {
+      "max_damage": {
+        "min": "15",
+        "max": "15"
+      },
+      "enhanced_damage": {
+        "min": "80",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "open_wounds": {
+        "min": "80",
+        "max": "80"
+      },
+      "mana_stolen_per_hit": {
+        "min": "6",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "The Patriarch",
+    "item_base": "Great Sword",
+    "item_level": "39",
+    "level_requirement": "29",
+    "item_mods": {
+      "blind_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "normal_damage_reduction": {
+        "min": "3",
+        "max": "3"
+      },
+      "magic_damage_reduction": {
+        "min": "3",
+        "max": "3"
+      },
+      "gold_find": {
+        "min": "100",
+        "max": "100"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Bloodletter",
+    "item_base": "Gladius",
+    "item_level": "38",
+    "level_requirement": "30",
+    "item_mods": {
+      "added_damage": {
+        "min": "12",
+        "max": "45"
+      },
+      "staminadrainpct": {
+        "min": "10",
+        "max": "10"
+      },
+      "enhanced_damage": {
+        "min": "140",
+        "max": "140"
+      },
+      "max_durability": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "90",
+        "max": "90"
+      },
+      "life_stolen_per_hit": {
+        "min": "8",
+        "max": "8"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "sword_mastery": {
+        "min": "2",
+        "max": "4"
+      },
+      "whirlwind": {
+        "min": "1",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Coldsteel Eye",
+    "item_base": "Cutlass",
+    "item_level": "39",
+    "level_requirement": "31",
+    "item_mods": {
+      "blind_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "slow_target": {
+        "min": "30",
+        "max": "30"
+      },
+      "max_durability": {
+        "min": "50",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "250"
+      }
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_stolen_per_hit": {
+        "min": "6",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "Hexfire",
+    "item_base": "Shamshir",
+    "item_level": "41",
+    "level_requirement": "33",
+    "item_mods": {
+      "charged_skill": {
+        "min": "36",
+        "max": "6"
+      },
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "35",
+        "max": "40"
+      },
+      "enhanced_damage": {
+        "min": "140",
+        "max": "160"
+      }
+    },
+    "char_mods": {
+      "fire_resist": {
+        "min": "25",
+        "max": "25"
+      },
+      "max_fire_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "fire_skills": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Blade of Ali Baba",
+    "item_base": "Tulwar",
+    "item_level": "43",
+    "level_requirement": "35",
+    "item_mods": {
+      "sockets": {
+        "min": "2",
+        "max": "2"
+      },
+      "enhanced_damage": {
+        "min": "60",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "gold_find_per_level": {
+        "min": "2.5",
+        "max": "2.5"
+      },
+      "magic_find_per_level": {
+        "min": "1",
+        "max": "1"
+      },
+      "mana": {
+        "min": "15",
+        "max": "15"
+      },
+      "dexterity": {
+        "min": "5",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Ginther's Rift",
+    "item_base": "Dimensional Blade",
+    "item_level": "45",
+    "level_requirement": "37",
+    "item_mods": {
+      "replenish_durability": {},
+      "max_durability": {
+        "min": "40",
+        "max": "40"
+      },
+      "added_magic_damage": {
+        "min": "50",
+        "max": "120"
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "magic_damage_reduction": {
+        "min": "7",
+        "max": "12"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Headstriker",
+    "item_base": "Battle Sword",
+    "item_level": "47",
+    "level_requirement": "39",
+    "item_mods": {
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "150"
+      },
+      "max_damage_per_level": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "deadly_strike_perlevel": {
+        "min": "1.5",
+        "max": "1.5"
+      }
+    }
+  },
+  {
+    "item_name": "Plague Bearer",
+    "item_base": "Rune Sword",
+    "item_level": "49",
+    "level_requirement": "41",
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "4",
+        "skill": "Poison Nova"
+      },
+      "added_poison_damage": {
+        "min": "384",
+        "max": "384"
+      },
+      "added_damage": {
+        "min": "10",
+        "max": "45"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "poison_resist": {
+        "min": "45",
+        "max": "45"
+      },
+      "rabies": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "The Atlantian",
+    "item_base": "Ancient Sword",
+    "item_level": "50",
+    "level_requirement": "42",
+    "item_mods": {
+      "max_durability": {
+        "min": "100",
+        "max": "100"
+      },
+      "defense": {
+        "min": "75",
+        "max": "75"
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "250"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "16",
+        "max": "16"
+      },
+      "dexterity": {
+        "min": "12",
+        "max": "12"
+      },
+      "vitality": {
+        "min": "8",
+        "max": "8"
+      },
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "attack_rating_percent": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Crainte Vomir",
+    "item_base": "Espandon",
+    "item_level": "50",
+    "level_requirement": "42",
+    "item_mods": {
+      "slow_target": {
+        "min": "35",
+        "max": "35"
+      },
+      "reduce_defense_per_hit": {
+        "min": "-70",
+        "max": "-70"
+      },
+      "enhanced_damage": {
+        "min": "160",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "increased_attack_speed": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Bing Sz Wang",
+    "item_base": "Dalcian Falx",
+    "item_level": "51",
+    "level_requirement": "43",
+    "dmg-cold": {
+      "min": "50",
+      "max": "140"
+    },
+    "item_mods": {
+      "reduced_requirements": {
+        "min": "-30",
+        "max": "-30"
+      },
+      "freeze_target": {
+        "min": "2",
+        "max": "2"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "3",
+        "skill": "Frozen Orb"
+      },
+      "enhanced_damage": {
+        "min": "130",
+        "max": "160"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "The Vile Husk",
+    "item_base": "Tusk Sword",
+    "item_level": "52",
+    "level_requirement": "44",
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "6",
+        "skill_level": "1",
+        "skill": "Amplify Damage"
+      },
+      "damage_undead_per_level": {
+        "min": "7.5",
+        "max": "7.5"
+      },
+      "added_poison_damage": {
+        "min": "426",
+        "max": "426"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "poison_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "attack_rating_undead_per_level": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Cloudcrack",
+    "item_base": "Gothic Sword",
+    "item_level": "53",
+    "level_requirement": "45",
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "6",
+        "skill_level": "7",
+        "skill": "Fist of the Heavens"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "240"
+      },
+      "defense": {
+        "min": "30",
+        "max": "30"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "attacker_takes_lightning": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "max_lightning_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "defensive_auras": {
+        "min": "2",
+        "max": "2"
+      },
+      "offensive_auras": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Todesfaelle Flamme",
+    "item_base": "Zweihander",
+    "item_level": "54",
+    "level_requirement": "46",
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "50",
+        "max": "200"
+      },
+      "cast_on_attack": {
+        "chance_to_cast": "10",
+        "skill_level": "6",
+        "skill": "Fire Ball"
+      },
+      "enhanced_damage": {
+        "min": "120",
+        "max": "160"
+      },
+      "charged_skill": {
+        "min": "20",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "fire_resist": {
+        "min": "40",
+        "max": "40"
+      },
+      "fire_absorb": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Swordguard",
+    "item_base": "Executioner Sword",
+    "item_level": "55",
+    "level_requirement": "48",
+    "item_mods": {
+      "reduced_requirements": {
+        "min": "-50",
+        "max": "-50"
+      },
+      "defense_per_level": {
+        "min": "5",
+        "max": "5"
+      },
+      "defense_vs_missles": {
+        "min": "100",
+        "max": "100"
+      },
+      "damagetomana": {
+        "min": "30",
+        "max": "30"
+      },
+      "enhanced_damage": {
+        "min": "170",
+        "max": "180"
+      },
+      "defense_vs_hth": {
+        "min": "200",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "10",
+        "max": "20"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "chance_to_block": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Doombringer",
+    "item_base": "Champion Sword",
+    "item_level": "75",
+    "level_requirement": "69",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "180",
+        "max": "250"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "30",
+        "max": "100"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "8",
+        "skill_level": "3",
+        "skill": "Weaken"
+      }
+    },
+    "char_mods": {
+      "life_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "attack_rating_percent": {
+        "min": "40",
+        "max": "40"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "7"
+      }
+    }
+  },
+  {
+    "item_name": "The Grandfather",
+    "item_base": "Colossus Blade",
+    "item_level": "85",
+    "level_requirement": "81",
+    "item_mods": {
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "250"
+      },
+      "max_damage_per_level": {
+        "min": "2.5",
+        "max": "2.5"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "vitality": {
+        "min": "20",
+        "max": "20"
+      },
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "attack_rating_percent": {
+        "min": "50",
+        "max": "50"
+      },
+      "life": {
+        "min": "80",
+        "max": "80"
+      }
+    }
+  },
+  {
+    "item_name": "Bloodmoon",
+    "item_base": "Elegant Blade",
+    "item_level": "69",
+    "level_requirement": "61",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "210",
+        "max": "260"
+      },
+      "charged_skill": {
+        "min": "9",
+        "max": "15"
+      },
+      "life_after_kill": {
+        "min": "7",
+        "max": "13"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "10",
+        "max": "15"
+      },
+      "open_wounds": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Djinnslayer",
+    "item_base": "Ataghan",
+    "item_level": "73",
+    "level_requirement": "65",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "190",
+        "max": "240"
+      },
+      "added_fire_damage": {
+        "min": "250",
+        "max": "500"
+      },
+      "increased_damage_demon": {
+        "min": "100",
+        "max": "150"
+      },
+      "increased_attack_rating_demon": {
+        "min": "200",
+        "max": "300"
+      },
+      "sockets": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "char_mods": {
+      "lightning_absorb": {
+        "min": "3",
+        "max": "7"
+      },
+      "mana_stolen_per_hit": {
+        "min": "3",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "Azurewrath",
+    "item_base": "Phase Blade",
+    "item_level": "87",
+    "level_requirement": "85",
+    "dmg-cold": {
+      "min": "250",
+      "max": "500"
+    },
+    "item_mods": {
+      "added_magic_damage": {
+        "min": "250",
+        "max": "500"
+      },
+      "enhanced_damage": {
+        "min": "230",
+        "max": "270"
+      },
+      "aura": {
+        "min": "10",
+        "max": "13"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_attributes": {
+        "min": "5",
+        "max": "10"
+      },
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Flamebellow",
+    "item_base": "Balrog Blade",
+    "item_level": "79",
+    "level_requirement": "71",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "170",
+        "max": "240"
+      },
+      "added_fire_damage": {
+        "min": "233",
+        "max": "482"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "12",
+        "skill_level": "16",
+        "skill": "Firestorm"
+      }
+    },
+    "char_mods": {
+      "fire_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "fire_absorb_percent": {
+        "min": "20",
+        "max": "30"
+      },
+      "strength": {
+        "min": "10",
+        "max": "20"
+      },
+      "vitality": {
+        "min": "5",
+        "max": "10"
+      },
+      "inferno": {
+        "min": "12",
+        "max": "18"
+      }
+    }
+  },
+  {
+    "item_name": "Frostwind",
+    "item_base": "Cryptic Sword",
+    "item_level": "78",
+    "level_requirement": "70",
+    "dmg-cold": {
+      "min": "237",
+      "max": "486"
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "180",
+        "max": "230"
+      },
+      "freeze_target": {
+        "min": "4",
+        "max": "4"
+      }
+    },
+    "char_mods": {
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      },
+      "increased_attack_speed": {
+        "min": "25",
+        "max": "25"
+      },
+      "cold_absorb_percent": {
+        "min": "7",
+        "max": "15"
+      },
+      "artctic_blast": {
+        "min": "7",
+        "max": "14"
+      }
+    }
+  },
+  {
+    "item_name": "Lightsabre",
+    "item_base": "Phase Blade",
+    "item_level": "66",
+    "level_requirement": "58",
+    "item_mods": {
+      "cast_on_attack": {
+        "chance_to_cast": "5",
+        "skill_level": "0",
+        "skill": "Chain Lightning"
+      },
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_magic_damage": {
+        "min": "60",
+        "max": "120"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "200"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "added_damage": {
+        "min": "10",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "7",
+        "max": "7"
+      },
+      "lightning_absorb_percent": {
+        "min": "25",
+        "max": "25"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "7"
+      }
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "item_name": "The Scalper",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_properties": {
+      "item_base": "Francisca",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 33
+      },
+      "melee_damage": {
+        "min": 11,
+        "max": 22
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "max_quantity": 130,
+      "strength_requirement": 25,
+      "dexterity_requirement": 80,
+      "level_requirement": "57",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "replenish_quantity": {},
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "25",
+        "max": "25"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "open_wounds": {
+        "min": "33",
+        "max": "33"
+      },
+      "life_stolen_per_hit": {
+        "min": "4",
+        "max": "6"
+      },
+      "mana_after_kill": {
+        "min": "4",
+        "max": "4"
+      }
+    }
+  },
+  {
+    "item_name": "Deathbit",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_properties": {
+      "item_base": "Battle Dart",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 11,
+        "max": 24
+      },
+      "melee_damage": {
+        "min": 8,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "max_quantity": 160,
+      "strength_requirement": 25,
+      "dexterity_requirement": 52,
+      "level_requirement": "44",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "130",
+        "max": "180"
+      },
+      "replenish_quantity": {}
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "40",
+        "max": "40"
+      },
+      "attack_rating": {
+        "min": "200",
+        "max": "450"
+      },
+      "life_stolen_per_hit": {
+        "min": "7",
+        "max": "9"
+      },
+      "mana_stolen_per_hit": {
+        "min": "4",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "Warshrike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_properties": {
+      "item_base": "Winged Knife",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 23,
+        "max": 39
+      },
+      "melee_damage": {
+        "min": 27,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "max_quantity": "200",
+      "strength_requirement": 45,
+      "dexterity_requirement": 142,
+      "level_requirement": "75",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "200",
+        "max": "250"
+      },
+      "replenish_quantity": {},
+      "cast_on_hit": {
+        "chance_to_cast": "25",
+        "skill_level": "9",
+        "skill": "Nova"
+      }
+    },
+    "char_mods": {
+      "chance_to_pierce": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "deadly_strike": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Lacerator",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_properties": {
+      "item_base": "Winged Axe",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 60
+      },
+      "melee_damage": {
+        "min": 11,
+        "max": 56
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "max_quantity": 180,
+      "strength_requirement": 96,
+      "dexterity_requirement": 122,
+      "level_requirement": "68",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "210"
+      },
+      "replenish_quantity": {},
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "causes_monster_flee": {
+        "min": "64",
+        "max": "64"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "33",
+        "skill_level": "3",
+        "skill": "Amplify Damage"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "open_wounds": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Gimmershred",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_properties": {
+      "item_base": "Flying Axe",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 66
+      },
+      "melee_damage": {
+        "min": 17,
+        "max": 65
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "max_quantity": 180,
+      "strength_requirement": 88,
+      "dexterity_requirement": 108,
+      "level_requirement": "70",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "160",
+        "max": "210"
+      },
+      "added_fire_damage": {
+        "min": "218",
+        "max": "483"
+      },
+      "added_lightning_damage": {
+        "min": "29",
+        "max": "501"
+      },
+      "increased_stack_size": {
+        "min": "60",
+        "max": "60"
+      },
+      "added_cold_damage": {
+        "min": "176",
+        "max": "397"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  }
+]

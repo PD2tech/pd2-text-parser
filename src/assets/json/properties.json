@@ -1,0 +1,1604 @@
+[
+  {
+    "code": "ac",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "armorclass"
+  },
+  {
+    "code": "ac-miss",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "armorclass_vs_missile"
+  },
+  {
+    "code": "ac-hth",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "armorclass_vs_hth"
+  },
+  {
+    "code": "red-dmg",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "normal_damage_reduction"
+  },
+  {
+    "code": "red-dmg%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "damageresist"
+  },
+  {
+    "code": "ac%",
+    "*done": "1",
+    "func1": "2",
+    "stat1": "item_armor_percent"
+  },
+  {
+    "code": "red-mag",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "magic_damage_reduction"
+  },
+  {
+    "code": "str",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "strength"
+  },
+  {
+    "code": "dex",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "dexterity"
+  },
+  {
+    "code": "vit",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "vitality"
+  },
+  {
+    "code": "enr",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "energy"
+  },
+  {
+    "code": "mana",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxmana"
+  },
+  {
+    "code": "mana%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_maxmana_percent"
+  },
+  {
+    "code": "hp",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxhp"
+  },
+  {
+    "code": "hp%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_maxhp_percent"
+  },
+  {
+    "code": "att",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "tohit"
+  },
+  {
+    "code": "block",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "toblock"
+  },
+  {
+    "code": "cold-min",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "coldmindam"
+  },
+  {
+    "code": "cold-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "coldmaxdam"
+  },
+  {
+    "code": "cold-len",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "coldlength"
+  },
+  {
+    "code": "fire-min",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "firemindam"
+  },
+  {
+    "code": "fire-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "firemaxdam"
+  },
+  {
+    "code": "ltng-min",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "lightmindam"
+  },
+  {
+    "code": "ltng-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "lightmaxdam"
+  },
+  {
+    "code": "pois-min",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "poisonmindam"
+  },
+  {
+    "code": "pois-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "poisonmaxdam"
+  },
+  {
+    "code": "pois-len",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "poisonlength"
+  },
+  {
+    "code": "dmg-min",
+    "*done": "1",
+    "func1": "5",
+    "stat1": "damage_min"
+  },
+  {
+    "code": "dmg-max",
+    "*done": "1",
+    "func1": "6",
+    "stat1": "damage_max"
+  },
+  {
+    "code": "dmg%",
+    "*done": "1",
+    "func1": "7",
+    "stat1": "item_damage_percent"
+  },
+  {
+    "code": "dmg-to-mana",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_damagetomana"
+  },
+  {
+    "code": "res-fire",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "fireresist"
+  },
+  {
+    "code": "res-fire-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxfireresist"
+  },
+  {
+    "code": "res-ltng",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "lightresist"
+  },
+  {
+    "code": "res-ltng-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxlightresist"
+  },
+  {
+    "code": "res-cold",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "coldresist"
+  },
+  {
+    "code": "res-cold-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxcoldresist"
+  },
+  {
+    "code": "res-mag",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "magicresist"
+  },
+  {
+    "code": "res-mag-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxmagicresist"
+  },
+  {
+    "code": "res-pois",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "poisonresist"
+  },
+  {
+    "code": "res-pois-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxpoisonresist"
+  },
+  {
+    "code": "res-all",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "all_resist",
+    "func2": "3",
+    "stat2": "lightresist",
+    "func3": "3",
+    "stat3": "coldresist",
+    "func4": "3",
+    "stat4": "poisonresist"
+  },
+  {
+    "code": "res-all-max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "all_resist_max",
+    "func2": "3",
+    "stat2": "maxlightresist",
+    "func3": "3",
+    "stat3": "maxcoldresist",
+    "func4": "3",
+    "stat4": "maxpoisonresist"
+  },
+  {
+    "code": "abs-fire%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorbfire_percent"
+  },
+  {
+    "code": "abs-fire",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorbfire"
+  },
+  {
+    "code": "abs-ltng%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorblight_percent"
+  },
+  {
+    "code": "abs-ltng",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorblight"
+  },
+  {
+    "code": "abs-mag%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorbmagic_percent"
+  },
+  {
+    "code": "abs-mag",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorbmagic"
+  },
+  {
+    "code": "abs-cold%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorbcold_percent"
+  },
+  {
+    "code": "abs-cold",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_absorbcold"
+  },
+  {
+    "code": "dur",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxdurability"
+  },
+  {
+    "code": "dur%",
+    "*done": "1",
+    "func1": "13",
+    "stat1": "item_maxdurability_percent"
+  },
+  {
+    "code": "regen",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "hpregen"
+  },
+  {
+    "code": "thorns",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_attackertakesdamage"
+  },
+  {
+    "code": "swing1",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fasterattackrate"
+  },
+  {
+    "code": "swing2",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fasterattackrate"
+  },
+  {
+    "code": "swing3",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fasterattackrate"
+  },
+  {
+    "code": "gold%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_goldbonus"
+  },
+  {
+    "code": "mag%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_magicbonus"
+  },
+  {
+    "code": "knock",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_knockback"
+  },
+  {
+    "code": "regen-stam",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "staminarecoverybonus"
+  },
+  {
+    "code": "regen-mana",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "manarecoverybonus"
+  },
+  {
+    "code": "stam",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "maxstamina"
+  },
+  {
+    "code": "time",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_timeduration"
+  },
+  {
+    "code": "manasteal",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "manadrainmindam"
+  },
+  {
+    "code": "lifesteal",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "lifedrainmindam"
+  },
+  {
+    "code": "ama",
+    "*done": "1",
+    "val1": "0",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "pal",
+    "*done": "1",
+    "val1": "3",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "nec",
+    "*done": "1",
+    "val1": "2",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "sor",
+    "*done": "1",
+    "val1": "1",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "bar",
+    "*done": "1",
+    "val1": "4",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "herb",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_doubleherbduration"
+  },
+  {
+    "code": "light",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_lightradius"
+  },
+  {
+    "code": "color",
+    "*done": "1",
+    "set1": "1",
+    "func1": "1",
+    "stat1": "item_lightcolor"
+  },
+  {
+    "code": "ease",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_req_percent"
+  },
+  {
+    "code": "move1",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastermovevelocity"
+  },
+  {
+    "code": "move2",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastermovevelocity"
+  },
+  {
+    "code": "move3",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastermovevelocity"
+  },
+  {
+    "code": "balance1",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastergethitrate"
+  },
+  {
+    "code": "balance2",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastergethitrate"
+  },
+  {
+    "code": "balance3",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastergethitrate"
+  },
+  {
+    "code": "block1",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fasterblockrate"
+  },
+  {
+    "code": "block2",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fasterblockrate"
+  },
+  {
+    "code": "block3",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fasterblockrate"
+  },
+  {
+    "code": "cast1",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastercastrate"
+  },
+  {
+    "code": "cast2",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastercastrate"
+  },
+  {
+    "code": "cast3",
+    "*done": "1",
+    "func1": "8",
+    "stat1": "item_fastercastrate"
+  },
+  {
+    "code": "res-pois-len",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_poisonlengthresist"
+  },
+  {
+    "code": "dmg",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_normaldamage"
+  },
+  {
+    "code": "howl",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_howl"
+  },
+  {
+    "code": "stupidity",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_stupidity"
+  },
+  {
+    "code": "ignore-ac",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_ignoretargetac"
+  },
+  {
+    "code": "reduce-ac",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_fractionaltargetac"
+  },
+  {
+    "code": "noheal",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_preventheal"
+  },
+  {
+    "code": "half-freeze",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_halffreezeduration"
+  },
+  {
+    "code": "att%",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_tohit_percent"
+  },
+  {
+    "code": "dmg-ac",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_damagetargetac"
+  },
+  {
+    "code": "dmg-demon",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_demondamage_percent"
+  },
+  {
+    "code": "dmg-undead",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_undeaddamage_percent"
+  },
+  {
+    "code": "att-demon",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_demon_tohit"
+  },
+  {
+    "code": "att-undead",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_undead_tohit"
+  },
+  {
+    "code": "throw",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_throwable"
+  },
+  {
+    "code": "fireskill",
+    "*done": "1",
+    "val1": "1",
+    "func1": "21",
+    "stat1": "item_elemskill"
+  },
+  {
+    "code": "allskills",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_allskills"
+  },
+  {
+    "code": "light-thorns",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_attackertakeslightdamage"
+  },
+  {
+    "code": "freeze",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_freeze"
+  },
+  {
+    "code": "openwounds",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_openwounds"
+  },
+  {
+    "code": "crush",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_crushingblow"
+  },
+  {
+    "code": "kick",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_kickdamage"
+  },
+  {
+    "code": "mana-kill",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_manaafterkill"
+  },
+  {
+    "code": "demon-heal",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_healafterdemonkill"
+  },
+  {
+    "code": "bloody",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_extrablood"
+  },
+  {
+    "code": "deadly",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_deadlystrike"
+  },
+  {
+    "code": "slow",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_slow"
+  },
+  {
+    "code": "nofreeze",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_cannotbefrozen"
+  },
+  {
+    "code": "stamdrain",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_staminadrainpct"
+  },
+  {
+    "code": "reanimate",
+    "*done": "1",
+    "func1": "24",
+    "stat1": "item_reanimate"
+  },
+  {
+    "code": "pierce",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_pierce"
+  },
+  {
+    "code": "magicarrow",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_magicarrow"
+  },
+  {
+    "code": "explosivearrow",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_explosivearrow"
+  },
+  {
+    "code": "Expansion"
+  },
+  {
+    "code": "dru",
+    "*done": "1",
+    "val1": "5",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "ass",
+    "*done": "1",
+    "val1": "6",
+    "func1": "21",
+    "stat1": "item_addclassskills"
+  },
+  {
+    "code": "skill",
+    "*done": "1",
+    "func1": "22",
+    "stat1": "item_singleskill"
+  },
+  {
+    "code": "skilltab",
+    "*done": "1",
+    "func1": "10",
+    "stat1": "item_addskill_tab"
+  },
+  {
+    "code": "aura",
+    "*done": "1",
+    "func1": "22",
+    "stat1": "item_aura"
+  },
+  {
+    "code": "att-skill",
+    "*done": "1",
+    "func1": "11",
+    "stat1": "item_skillonattack"
+  },
+  {
+    "code": "hit-skill",
+    "*done": "1",
+    "func1": "11",
+    "stat1": "item_skillonhit"
+  },
+  {
+    "code": "gethit-skill",
+    "*done": "1",
+    "func1": "11",
+    "stat1": "item_skillongethit"
+  },
+  {
+    "code": "gembonus"
+  },
+  {
+    "code": "regen-dur"
+  },
+  {
+    "code": "fire-fx"
+  },
+  {
+    "code": "ltng-fx"
+  },
+  {
+    "code": "sock",
+    "*done": "1",
+    "func1": "14",
+    "stat1": "item_numsockets"
+  },
+  {
+    "code": "dmg-fire",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "firedmg_flat",
+    "func2": "16",
+    "stat2": "firemaxdam"
+  },
+  {
+    "code": "dmg-ltng",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "lightdmg_flat",
+    "func2": "16",
+    "stat2": "lightmaxdam"
+  },
+  {
+    "code": "dmg-mag",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "magicdmg_flat",
+    "func2": "16",
+    "stat2": "magicmaxdam"
+  },
+  {
+    "code": "dmg-cold",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "colddmg_flat",
+    "func2": "16",
+    "stat2": "coldmaxdam",
+    "func3": "17",
+    "stat3": "coldlength"
+  },
+  {
+    "code": "dmg-pois",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "poisondmg_flat",
+    "func2": "16",
+    "stat2": "poisonmaxdam",
+    "func3": "17",
+    "stat3": "poisonlength"
+  },
+  {
+    "code": "dmg-throw",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "item_throw_mindamage",
+    "func2": "16",
+    "stat2": "item_throw_maxdamage"
+  },
+  {
+    "code": "dmg-norm",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "damage_flat",
+    "func2": "16",
+    "stat2": "maxdamage"
+  },
+  {
+    "code": "ac/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_armor_perlevel"
+  },
+  {
+    "code": "ac%/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_armorpercent_perlevel"
+  },
+  {
+    "code": "hp/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_hp_perlevel"
+  },
+  {
+    "code": "mana/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_mana_perlevel"
+  },
+  {
+    "code": "dmg/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_maxdamage_perlevel"
+  },
+  {
+    "code": "dmg%/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_maxdamage_percent_perlevel"
+  },
+  {
+    "code": "str/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_strength_perlevel"
+  },
+  {
+    "code": "dex/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_dexterity_perlevel"
+  },
+  {
+    "code": "enr/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_energy_perlevel"
+  },
+  {
+    "code": "vit/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_vitality_perlevel"
+  },
+  {
+    "code": "att/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_tohit_perlevel"
+  },
+  {
+    "code": "att%/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_tohitpercent_perlevel"
+  },
+  {
+    "code": "dmg-cold/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_cold_damagemax_perlevel"
+  },
+  {
+    "code": "dmg-fire/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_fire_damagemax_perlevel"
+  },
+  {
+    "code": "dmg-ltng/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_ltng_damagemax_perlevel"
+  },
+  {
+    "code": "dmg-pois/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_pois_damagemax_perlevel"
+  },
+  {
+    "code": "res-cold/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_resist_cold_perlevel"
+  },
+  {
+    "code": "res-fire/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_resist_fire_perlevel"
+  },
+  {
+    "code": "res-ltng/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_resist_ltng_perlevel"
+  },
+  {
+    "code": "res-pois/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_resist_pois_perlevel"
+  },
+  {
+    "code": "abs-cold/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_absorb_cold_perlevel"
+  },
+  {
+    "code": "abs-fire/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_absorb_fire_perlevel"
+  },
+  {
+    "code": "abs-ltng/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_absorb_ltng_perlevel"
+  },
+  {
+    "code": "abs-pois/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_absorb_pois_perlevel"
+  },
+  {
+    "code": "thorns/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_thorns_perlevel"
+  },
+  {
+    "code": "gold%/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_find_gold_perlevel"
+  },
+  {
+    "code": "mag%/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_find_magic_perlevel"
+  },
+  {
+    "code": "regen-stam/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_regenstamina_perlevel"
+  },
+  {
+    "code": "stam/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_stamina_perlevel"
+  },
+  {
+    "code": "dmg-dem/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_damage_demon_perlevel"
+  },
+  {
+    "code": "dmg-und/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_damage_undead_perlevel"
+  },
+  {
+    "code": "att-dem/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_tohit_demon_perlevel"
+  },
+  {
+    "code": "att-und/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_tohit_undead_perlevel"
+  },
+  {
+    "code": "crush/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_crushingblow_perlevel"
+  },
+  {
+    "code": "wounds/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_openwounds_perlevel"
+  },
+  {
+    "code": "kick/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_kick_damage_perlevel"
+  },
+  {
+    "code": "deadly/lvl",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_deadlystrike_perlevel"
+  },
+  {
+    "code": "gems%/lvl"
+  },
+  {
+    "code": "rep-dur",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_replenish_durability"
+  },
+  {
+    "code": "rep-quant",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "item_replenish_quantity"
+  },
+  {
+    "code": "stack",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_extra_stack"
+  },
+  {
+    "code": "item%"
+  },
+  {
+    "code": "dmg-slash"
+  },
+  {
+    "code": "dmg-slash%"
+  },
+  {
+    "code": "dmg-crush"
+  },
+  {
+    "code": "dmg-crush%"
+  },
+  {
+    "code": "dmg-thrust"
+  },
+  {
+    "code": "dmg-thrust%"
+  },
+  {
+    "code": "abs-slash"
+  },
+  {
+    "code": "abs-crush"
+  },
+  {
+    "code": "abs-thrust"
+  },
+  {
+    "code": "abs-slash%"
+  },
+  {
+    "code": "abs-crush%"
+  },
+  {
+    "code": "abs-thrust%"
+  },
+  {
+    "code": "ac/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_armor_bytime"
+  },
+  {
+    "code": "ac%/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_armorpercent_bytime"
+  },
+  {
+    "code": "hp/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_hp_bytime"
+  },
+  {
+    "code": "mana/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_mana_bytime"
+  },
+  {
+    "code": "dmg/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_maxdamage_bytime"
+  },
+  {
+    "code": "dmg%/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_maxdamage_percent_bytime"
+  },
+  {
+    "code": "str/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_strength_bytime"
+  },
+  {
+    "code": "dex/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_dexterity_bytime"
+  },
+  {
+    "code": "enr/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_energy_bytime"
+  },
+  {
+    "code": "vit/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_vitality_bytime"
+  },
+  {
+    "code": "att/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_tohit_bytime"
+  },
+  {
+    "code": "att%/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_tohitpercent_bytime"
+  },
+  {
+    "code": "dmg-cold/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_cold_damagemax_bytime"
+  },
+  {
+    "code": "dmg-fire/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_fire_damagemax_bytime"
+  },
+  {
+    "code": "dmg-ltng/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_ltng_damagemax_bytime"
+  },
+  {
+    "code": "dmg-pois/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_pois_damagemax_bytime"
+  },
+  {
+    "code": "res-cold/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_resist_cold_bytime"
+  },
+  {
+    "code": "res-fire/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_resist_fire_bytime"
+  },
+  {
+    "code": "res-ltng/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_resist_ltng_bytime"
+  },
+  {
+    "code": "res-pois/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_resist_pois_bytime"
+  },
+  {
+    "code": "abs-cold/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_absorb_cold_bytime"
+  },
+  {
+    "code": "abs-fire/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_absorb_fire_bytime"
+  },
+  {
+    "code": "abs-ltng/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_absorb_ltng_bytime"
+  },
+  {
+    "code": "abs-pois/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_absorb_pois_bytime"
+  },
+  {
+    "code": "gold%/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_find_gold_bytime"
+  },
+  {
+    "code": "mag%/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_find_magic_bytime"
+  },
+  {
+    "code": "regen-stam/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_regenstamina_bytime"
+  },
+  {
+    "code": "stam/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_stamina_bytime"
+  },
+  {
+    "code": "dmg-dem/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_damage_demon_bytime"
+  },
+  {
+    "code": "dmg-und/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_damage_undead_bytime"
+  },
+  {
+    "code": "att-dem/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_tohit_demon_bytime"
+  },
+  {
+    "code": "att-und/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_tohit_undead_bytime"
+  },
+  {
+    "code": "crush/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_crushingblow_bytime"
+  },
+  {
+    "code": "wounds/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_openwounds_bytime"
+  },
+  {
+    "code": "kick/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_kick_damage_bytime"
+  },
+  {
+    "code": "deadly/time",
+    "*done": "1",
+    "func1": "18",
+    "stat1": "item_deadlystrike_bytime"
+  },
+  {
+    "code": "gems%/time"
+  },
+  {
+    "code": "pierce-fire",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_fire_pierce"
+  },
+  {
+    "code": "pierce-ltng",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_ltng_pierce"
+  },
+  {
+    "code": "pierce-cold",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_cold_pierce"
+  },
+  {
+    "code": "pierce-pois",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_pois_pierce"
+  },
+  {
+    "code": "dmg-mon"
+  },
+  {
+    "code": "dmg%-mon"
+  },
+  {
+    "code": "att-mon"
+  },
+  {
+    "code": "att%-mon"
+  },
+  {
+    "code": "ac-mon"
+  },
+  {
+    "code": "ac%-mon"
+  },
+  {
+    "code": "indestruct",
+    "*done": "1",
+    "func1": "20"
+  },
+  {
+    "code": "charged",
+    "*done": "1",
+    "func1": "19",
+    "stat1": "item_charged_skill"
+  },
+  {
+    "code": "extra-fire",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_fire_mastery"
+  },
+  {
+    "code": "extra-ltng",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_ltng_mastery"
+  },
+  {
+    "code": "extra-cold",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_cold_mastery"
+  },
+  {
+    "code": "extra-pois",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "passive_pois_mastery"
+  },
+  {
+    "code": "dmg-elem",
+    "*done": "1",
+    "func1": "15",
+    "stat1": "eledmg_flat",
+    "func2": "16",
+    "stat2": "firemaxdam",
+    "func3": "15",
+    "stat3": "lightmindam",
+    "func4": "16",
+    "stat4": "lightmaxdam",
+    "func5": "15",
+    "stat5": "coldmindam",
+    "func6": "16",
+    "stat6": "coldmaxdam",
+    "func7": "17",
+    "stat7": "coldlength"
+  },
+  {
+    "code": "dmg-elem-min",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "eledmg_min",
+    "func2": "3",
+    "stat2": "lightmindam",
+    "func3": "3",
+    "stat3": "coldmindam"
+  },
+  {
+    "code": "eledmg_max",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "firemaxdam",
+    "func2": "3",
+    "stat2": "lightmaxdam",
+    "func3": "3",
+    "stat3": "coldmaxdam",
+    "func4": "17",
+    "stat4": "coldlength"
+  },
+  {
+    "code": "all-stats",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "all_attributes",
+    "func2": "3",
+    "stat2": "energy",
+    "func3": "3",
+    "stat3": "dexterity",
+    "func4": "3",
+    "stat4": "vitality"
+  },
+  {
+    "code": "addxp",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_addexperience"
+  },
+  {
+    "code": "heal-kill",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_healafterkill"
+  },
+  {
+    "code": "cheap",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_reducedprices"
+  },
+  {
+    "code": "rip",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_restinpeace"
+  },
+  {
+    "code": "att-mon%",
+    "*done": "1",
+    "func1": "24",
+    "stat1": "attack_vs_montype"
+  },
+  {
+    "code": "dmg-mon%",
+    "*done": "1",
+    "func1": "24",
+    "stat1": "damage_vs_montype"
+  },
+  {
+    "code": "kill-skill",
+    "*done": "1",
+    "func1": "11",
+    "stat1": "item_skillonkill"
+  },
+  {
+    "code": "death-skill",
+    "*done": "1",
+    "func1": "11",
+    "stat1": "item_skillondeath"
+  },
+  {
+    "code": "levelup-skill",
+    "*done": "1",
+    "func1": "11",
+    "stat1": "item_skillonlevelup"
+  },
+  {
+    "code": "skill-rand",
+    "*done": "1",
+    "func1": "12",
+    "stat1": "item_singleskill"
+  },
+  {
+    "code": "fade",
+    "*done": "1",
+    "func1": "17",
+    "stat1": "fade"
+  },
+  {
+    "code": "levelreq",
+    "*done": "1",
+    "func1": "1",
+    "stat1": "item_levelreq"
+  },
+  {
+    "code": "ethereal",
+    "*done": "1",
+    "func1": "23"
+  },
+  {
+    "code": "oskill",
+    "*done": "1",
+    "func1": "22",
+    "stat1": "item_nonclassskill"
+  },
+  {
+    "code": "state",
+    "*done": "1",
+    "func1": "24",
+    "stat1": "state"
+  },
+  {
+    "code": "randclassskill",
+    "*done": "1",
+    "val1": "3",
+    "func1": "36",
+    "stat1": "item_addclassskills"
+  }
+]

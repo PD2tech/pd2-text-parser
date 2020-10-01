@@ -1,0 +1,632 @@
+[
+  {
+    "item_name": "Cedar Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/cst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Cedar Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 11,
+        "max": 32
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 35,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Walking Stick",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/sst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Walking Stick",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 69,
+        "max": 85
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 43,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Shillelagh",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/bst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Shillelagh",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 65,
+        "max": 108
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 40,
+      "strength_requirement": 52,
+      "dexterity_requirement": 27,
+      "level_requirement": 62,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Gnarled Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/cst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Gnarled Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 4,
+        "max": 12
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 35,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Rune Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/wst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Rune Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 24,
+        "max": 54
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Jo Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/sst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Jo Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 18,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Gothic Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/bst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Gothic Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 34
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 40,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Elder Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/cst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Elder Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 80,
+        "max": 93
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 35,
+      "strength_requirement": 44,
+      "dexterity_requirement": 37,
+      "level_requirement": 55,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Archon Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/wst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Archon Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 83,
+        "max": 99
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 66,
+      "dexterity_requirement": 34,
+      "level_requirement": 66,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Battle Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/bst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Battle Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 13
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 40,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Quarter Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/lst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Quarter Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 26
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 23,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/wst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "War Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 28
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Short Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/sst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Short Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 1,
+        "max": 5
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Long Staff",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/lst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Long Staff",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 2,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Stalagmite",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/lst.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Stalagmite",
+      "sub_type": "staff",
+      "class_specific": null,
+      "damage": {
+        "min": 75,
+        "max": 107
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 63,
+      "dexterity_requirement": 35,
+      "level_requirement": 49,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "char_mods": {}
+  }
+]

@@ -1,0 +1,746 @@
+[
+  {
+    "item_name": "Cap",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "Cap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 3,
+        "max": 5
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Skull Cap",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Skull Cap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 11
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 15,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 15,
+        "max": 18
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 26,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Full Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Full Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 23,
+        "max": 26
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 41,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Mask",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 9,
+        "max": 27
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 23,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Bone Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Bone Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 33,
+        "max": 36
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Great Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Great Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 30,
+        "max": 35
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 63,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Crown",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 25,
+        "max": 45
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Hat",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "War Hat",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 45,
+        "max": 53
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": 22,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Sallet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Sallet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 52,
+        "max": 62
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Casque",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Casque",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 63,
+        "max": 72
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 59,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Basinet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Basinet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 75,
+        "max": 84
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 82,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Death Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Death Mask",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 54,
+        "max": 86
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Grim Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Grim Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 60,
+        "max": 125
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Winged Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Winged Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 85,
+        "max": 98
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 115,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Grand Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Grand Crown",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 78,
+        "max": 113
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Shako",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "Shako",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 98,
+        "max": 141
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": 43,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hydraskull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Hydraskull",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 101,
+        "max": 145
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 84,
+      "dexterity_requirement": 0,
+      "level_requirement": 47,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Armet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Armet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 105,
+        "max": 149
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 109,
+      "dexterity_requirement": 0,
+      "level_requirement": 51,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Giant Conch",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Giant Conch",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 110,
+        "max": 154
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 142,
+      "dexterity_requirement": 0,
+      "level_requirement": 40,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Demonhead",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Demonhead",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 101,
+        "max": 154
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 102,
+      "dexterity_requirement": 0,
+      "level_requirement": 55,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Bone Visage",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Bone Visage",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 100,
+        "max": 157
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 106,
+      "dexterity_requirement": 0,
+      "level_requirement": 63,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Spired Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Spired Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 192,
+      "dexterity_requirement": 0,
+      "level_requirement": 59,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Corona",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Corona",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 111,
+        "max": 165
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": 66,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

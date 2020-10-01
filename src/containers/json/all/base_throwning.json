@@ -1,0 +1,446 @@
+[
+  {
+    "item_name": "Throwing Knife",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_properties": {
+      "item_base": "Throwing Knife",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 4,
+        "max": 9
+      },
+      "melee_damage": {
+        "min": 2,
+        "max": 3
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "max_quantity": 160,
+      "strength_requirement": 0,
+      "dexterity_requirement": 21,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Balanced Knife",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_properties": {
+      "item_base": "Balanced Knife",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 11
+      },
+      "melee_damage": {
+        "min": 1,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "max_quantity": 160,
+      "strength_requirement": 0,
+      "dexterity_requirement": 51,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Throwing Axe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_properties": {
+      "item_base": "Throwing Axe",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 12
+      },
+      "melee_damage": {
+        "min": 4,
+        "max": 7
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "max_quantity": 130,
+      "strength_requirement": 0,
+      "dexterity_requirement": 40,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Balanced Axe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_properties": {
+      "item_base": "Balanced Axe",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 15
+      },
+      "melee_damage": {
+        "min": 5,
+        "max": 10
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "max_quantity": 130,
+      "strength_requirement": 0,
+      "dexterity_requirement": 57,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Battle Dart",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_properties": {
+      "item_base": "Battle Dart",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 11,
+        "max": 24
+      },
+      "melee_damage": {
+        "min": 8,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "max_quantity": 160,
+      "strength_requirement": 25,
+      "dexterity_requirement": 52,
+      "level_requirement": 19,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Dart",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_properties": {
+      "item_base": "War Dart",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 27
+      },
+      "melee_damage": {
+        "min": 6,
+        "max": 25
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "max_quantity": 160,
+      "strength_requirement": 25,
+      "dexterity_requirement": 97,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Francisca",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_properties": {
+      "item_base": "Francisca",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 33
+      },
+      "melee_damage": {
+        "min": 11,
+        "max": 22
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "max_quantity": 130,
+      "strength_requirement": 25,
+      "dexterity_requirement": 80,
+      "level_requirement": 22,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hurlbat",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_properties": {
+      "item_base": "Hurlbat",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 24,
+        "max": 34
+      },
+      "melee_damage": {
+        "min": 13,
+        "max": 27
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "max_quantity": 130,
+      "strength_requirement": 25,
+      "dexterity_requirement": 106,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Flying Knife",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_properties": {
+      "item_base": "Flying Knife",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 23,
+        "max": 54
+      },
+      "melee_damage": {
+        "min": 23,
+        "max": 54
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "max_quantity": 200,
+      "strength_requirement": 48,
+      "dexterity_requirement": 141,
+      "level_requirement": 48,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Winged Knife",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_properties": {
+      "item_base": "Winged Knife",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 23,
+        "max": 39
+      },
+      "melee_damage": {
+        "min": 27,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "max_quantity": "200",
+      "strength_requirement": 45,
+      "dexterity_requirement": 142,
+      "level_requirement": 57,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Flying Axe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_properties": {
+      "item_base": "Flying Axe",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 66
+      },
+      "melee_damage": {
+        "min": 17,
+        "max": 65
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "max_quantity": 180,
+      "strength_requirement": 88,
+      "dexterity_requirement": 108,
+      "level_requirement": 42,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Winged Axe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_properties": {
+      "item_base": "Winged Axe",
+      "sub_type": "throwing",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 60
+      },
+      "melee_damage": {
+        "min": 11,
+        "max": 56
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "max_quantity": 180,
+      "strength_requirement": 96,
+      "dexterity_requirement": 122,
+      "level_requirement": 58,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

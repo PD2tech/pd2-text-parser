@@ -1,0 +1,2141 @@
+[
+  {
+    "item_name": "Greyform",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_properties": {
+      "item_base": "Quilted Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 11
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 12,
+      "dexterity_requirement": 0,
+      "level_requirement": "7",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "magic_damage_reduction": {
+        "min": "3",
+        "max": "3"
+      },
+      "cold_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "fire_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Blinkbats Form",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_properties": {
+      "item_base": "Leather Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 14,
+        "max": 17
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 14,
+      "dexterity_requirement": 0,
+      "level_requirement": "12",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "50",
+        "max": "50"
+      },
+      "defense": {
+        "min": "25",
+        "max": "25"
+      },
+      "min_fire_damage": {
+        "min": "3",
+        "max": "3"
+      },
+      "max_fire_damage": {
+        "min": "6",
+        "max": "6"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "10",
+        "max": "10"
+      },
+      "faster_hit_recovery": {
+        "min": "40",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "The Centurion",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_properties": {
+      "item_base": "Hard Leather Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 21,
+        "max": 24
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "30",
+        "max": "30"
+      },
+      "staminadrainpct": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "50",
+        "max": "50"
+      },
+      "normal_damage_reduction": {
+        "min": "2",
+        "max": "2"
+      },
+      "life": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana": {
+        "min": "15",
+        "max": "15"
+      },
+      "max_stamina": {
+        "min": "15",
+        "max": "15"
+      },
+      "life_replenish": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Twitchthroe",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_properties": {
+      "item_base": "Studded Leather",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 32,
+        "max": 35
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 27,
+      "dexterity_requirement": 0,
+      "level_requirement": "16",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "chance_to_block": {
+        "min": "25",
+        "max": "25"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Darkglow",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_properties": {
+      "item_base": "Ring Mail",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 45,
+        "max": 48
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 26,
+      "strength_requirement": 36,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_vs_hth": {
+        "min": "50",
+        "max": "50"
+      },
+      "enhanced_defense": {
+        "min": "70",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "20",
+        "max": "20"
+      },
+      "light_radius": {
+        "min": "3",
+        "max": "3"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Hawkmail",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_properties": {
+      "item_base": "Scale Mail",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 57,
+        "max": 60
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 36,
+      "strength_requirement": 44,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "80",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "max_cold_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "cold_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "faster_run_walk": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Sparking Mail",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_properties": {
+      "item_base": "Chain Mail",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 72,
+        "max": 75
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 45,
+      "strength_requirement": 48,
+      "dexterity_requirement": 0,
+      "level_requirement": "17",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "75",
+        "max": "85"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "20"
+      },
+      "attacker_takes_lightning": {
+        "min": "10",
+        "max": "14"
+      }
+    },
+    "char_mods": {
+      "lightning_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Venomsward",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_properties": {
+      "item_base": "Breast Plate",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 65,
+        "max": 68
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 30,
+      "dexterity_requirement": 0,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "60",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "max_poison_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "reduced_poison_length": {
+        "min": "50",
+        "max": "50"
+      },
+      "poison_resist": {
+        "min": "90",
+        "max": "90"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Iceblink",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_properties": {
+      "item_base": "Splint Mail",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 90,
+        "max": 95
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 51,
+      "dexterity_requirement": 0,
+      "level_requirement": "22",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "freeze_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_defense": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "cold_resist": {
+        "min": "30",
+        "max": "30"
+      },
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "magic_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Boneflesh",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_properties": {
+      "item_base": "Plate Mail",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 108,
+        "max": 116
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": "26",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "100",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "attack_rating": {
+        "min": "35",
+        "max": "35"
+      },
+      "open_wounds": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Rockfleece",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_properties": {
+      "item_base": "Field Plate",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 101,
+        "max": 105
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 48,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "reduced_requirements": {
+        "min": "-10",
+        "max": "-10"
+      },
+      "enhanced_defense": {
+        "min": "100",
+        "max": "130"
+      }
+    },
+    "char_mods": {
+      "damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "normal_damage_reduction": {
+        "min": "5",
+        "max": "5"
+      },
+      "strength": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Rattlecage",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_properties": {
+      "item_base": "Gothic Plate",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 128,
+        "max": 135
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 55,
+      "strength_requirement": 70,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "causes_monster_flee": {
+        "min": "52",
+        "max": "52"
+      },
+      "defense": {
+        "min": "200",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "45",
+        "max": "45"
+      },
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Goldskin",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_properties": {
+      "item_base": "Full Plate Mail",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 150,
+        "max": 161
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 70,
+      "strength_requirement": 80,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "35",
+        "max": "35"
+      },
+      "thorns": {
+        "min": "10",
+        "max": "10"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "gold_find": {
+        "min": "100",
+        "max": "100"
+      }
+    }
+  },
+  {
+    "item_name": "Victors Silk",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Ancient Armor",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 218,
+        "max": 223
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 100,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "100",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Heavenly Garb",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_properties": {
+      "item_base": "Light Plate",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 90,
+        "max": 107
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 41,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "100",
+        "max": "100"
+      },
+      "increased_damage_undead": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_rating_undead": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana_regen": {
+        "min": "25",
+        "max": "25"
+      },
+      "energy": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "The Spirit Shroud",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_properties": {
+      "item_base": "Ghost Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 102,
+        "max": 117
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 38,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "magic_damage_reduction": {
+        "min": "7",
+        "max": "11"
+      },
+      "life_replenish": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Skin of the Vipermagi",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_properties": {
+      "item_base": "Serpentskin Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 111,
+        "max": 126
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "120",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "20",
+        "max": "35"
+      },
+      "faster_cast_rate": {
+        "min": "30",
+        "max": "30"
+      },
+      "magic_damage_reduction": {
+        "min": "9",
+        "max": "13"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Skin of the Flayerd One",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_properties": {
+      "item_base": "Demonhide Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 122,
+        "max": 136
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "31",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "replenish_durability": {},
+      "max_durability": {
+        "min": "30",
+        "max": "30"
+      },
+      "enhanced_defense": {
+        "min": "150",
+        "max": "190"
+      }
+    },
+    "char_mods": {
+      "life_replenish": {
+        "min": "15",
+        "max": "25"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "7"
+      },
+      "thorns": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Iron Pelt",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_properties": {
+      "item_base": "Trellised Armor",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 138,
+        "max": 153
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 61,
+      "dexterity_requirement": 0,
+      "level_requirement": "33",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "max_durability": {
+        "min": "125",
+        "max": "125"
+      },
+      "defense_per_level": {
+        "min": "3",
+        "max": "3"
+      },
+      "enhanced_defense": {
+        "min": "50",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "life": {
+        "min": "25",
+        "max": "25"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "16"
+      },
+      "normal_damage_reduction": {
+        "min": "15",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Spirit Forge",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_properties": {
+      "item_base": "Linked Mail",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 158,
+        "max": 172
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 26,
+      "strength_requirement": 74,
+      "dexterity_requirement": 0,
+      "level_requirement": "35",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "20",
+        "max": "65"
+      },
+      "enhanced_defense": {
+        "min": "120",
+        "max": "160"
+      },
+      "sockets": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "life_per_level": {
+        "min": "1.25",
+        "max": "1.25"
+      },
+      "fire_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Crow Caw",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_properties": {
+      "item_base": "Tigulated Mail",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 176,
+        "max": 190
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 36,
+      "strength_requirement": 86,
+      "dexterity_requirement": 0,
+      "level_requirement": "37",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "180"
+      }
+    },
+    "char_mods": {
+      "open_wounds": {
+        "min": "35",
+        "max": "35"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "faster_hit_recovery": {
+        "min": "15",
+        "max": "15"
+      },
+      "increased_attack_speed": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Shaftstop",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_properties": {
+      "item_base": "Mesh Armor",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 198,
+        "max": 213
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 45,
+      "strength_requirement": 92,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "250",
+        "max": "250"
+      },
+      "enhanced_defense": {
+        "min": "180",
+        "max": "220"
+      }
+    },
+    "char_mods": {
+      "damage_reduction": {
+        "min": "30",
+        "max": "30"
+      },
+      "life": {
+        "min": "60",
+        "max": "60"
+      }
+    }
+  },
+  {
+    "item_name": "Duriel's Shell",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_properties": {
+      "item_base": "Cuirass",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 188,
+        "max": 202
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_per_level": {
+        "min": "1.25",
+        "max": "1.25"
+      },
+      "enhanced_defense": {
+        "min": "160",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "life_per_level": {
+        "min": "1",
+        "max": "1"
+      },
+      "fire_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "lightning_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "poison_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "cold_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Skullder's Ire",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_properties": {
+      "item_base": "Russet Armor",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 225,
+        "max": 243
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 97,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "160",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "60",
+        "max": "60"
+      },
+      "replenish_durability": {}
+    },
+    "char_mods": {
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "magic_find_per_level": {
+        "min": "1.25",
+        "max": "1.25"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Guardian Angel",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_properties": {
+      "item_base": "Templar Coat",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 252,
+        "max": 274
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "180",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "paladin_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "faster_block_rate": {
+        "min": "30",
+        "max": "30"
+      },
+      "attack_rating_demon_per_level": {
+        "min": "2.5",
+        "max": "2.5"
+      },
+      "chance_to_block": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Toothrow",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_properties": {
+      "item_base": "Sharktooth Armor",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 242,
+        "max": 258
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 48,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": "48",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "40",
+        "max": "60"
+      },
+      "enhanced_defense": {
+        "min": "160",
+        "max": "220"
+      },
+      "max_durability": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "thorns": {
+        "min": "20",
+        "max": "40"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "open_wounds": {
+        "min": "40",
+        "max": "40"
+      },
+      "fire_resist": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Atma's Wail",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_properties": {
+      "item_base": "Embossed Plate",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 282,
+        "max": 303
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 55,
+      "strength_requirement": 125,
+      "dexterity_requirement": 0,
+      "level_requirement": "51",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_per_level": {
+        "min": "2",
+        "max": "2"
+      },
+      "max_durability": {
+        "min": "50",
+        "max": "50"
+      },
+      "enhanced_defense": {
+        "min": "120",
+        "max": "160"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "life_replenish": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana_percent": {
+        "min": "15",
+        "max": "15"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "magic_find": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Black Hades",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_properties": {
+      "item_base": "Chaos Armor",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 315,
+        "max": 342
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 70,
+      "strength_requirement": 140,
+      "dexterity_requirement": 0,
+      "level_requirement": "53",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_attack_rating_demon": {
+        "min": "200",
+        "max": "250"
+      },
+      "sockets": {
+        "min": "3",
+        "max": "3"
+      },
+      "enhanced_defense": {
+        "min": "140",
+        "max": "200"
+      },
+      "increased_damage_demon": {
+        "min": "30",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Corpsemourn",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Ornate Armor",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 417,
+        "max": 450
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 170,
+      "dexterity_requirement": 0,
+      "level_requirement": "55",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_when_struck": {
+        "chance_to_cast": "6",
+        "skill_level": "2",
+        "skill": "Iron Maiden"
+      },
+      "enhanced_defense": {
+        "min": "150",
+        "max": "180"
+      },
+      "added_fire_damage": {
+        "min": "12",
+        "max": "36"
+      },
+      "charged_skill": {
+        "min": "40",
+        "max": "5"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "8",
+        "max": "8"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "cold_resist": {
+        "min": "35",
+        "max": "35"
+      }
+    }
+  },
+  {
+    "item_name": "Que-Hegan's Wisdon",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_properties": {
+      "item_base": "Mage Plate",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 225,
+        "max": 261
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "51",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "140",
+        "max": "160"
+      }
+    },
+    "char_mods": {
+      "faster_cast_rate": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_after_kill": {
+        "min": "3",
+        "max": "3"
+      },
+      "magic_damage_reduction": {
+        "min": "6",
+        "max": "10"
+      },
+      "energy": {
+        "min": "15",
+        "max": "15"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "The Gladiator's Bane",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_properties": {
+      "item_base": "Wire Fleece",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 375,
+        "max": 481
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 32,
+      "strength_requirement": 111,
+      "dexterity_requirement": 0,
+      "level_requirement": "85",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "200"
+      },
+      "max_durability": {
+        "min": "103",
+        "max": "103"
+      },
+      "defense": {
+        "min": "50",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "magic_damage_reduction": {
+        "min": "15",
+        "max": "20"
+      },
+      "normal_damage_reduction": {
+        "min": "15",
+        "max": "20"
+      },
+      "thorns": {
+        "min": "20",
+        "max": "20"
+      },
+      "reduced_poison_length": {
+        "min": "50",
+        "max": "50"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Arkaine's Valor",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_properties": {
+      "item_base": "Balrog Skin",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 410,
+        "max": 517
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 30,
+      "strength_requirement": 165,
+      "dexterity_requirement": 0,
+      "level_requirement": "85",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "180"
+      }
+    },
+    "char_mods": {
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "2"
+      },
+      "normal_damage_reduction": {
+        "min": "10",
+        "max": "15"
+      },
+      "vitality_per_level": {
+        "min": "0.5",
+        "max": "0.5"
+      }
+    }
+  },
+  {
+    "item_name": "Tyrael's Might",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Sacred Armor",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 487,
+        "max": 600
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 232,
+      "dexterity_requirement": 0,
+      "level_requirement": "84",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "reduced_requirements": {
+        "min": "-100",
+        "max": "-100"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      },
+      "rest_in_peace": {
+        "min": "1",
+        "max": "1"
+      },
+      "increased_damage_demon": {
+        "min": "50",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "30"
+      },
+      "strength": {
+        "min": "20",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Leviathan",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_properties": {
+      "item_base": "Kraken Shell",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 417,
+        "max": 523
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 48,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "170",
+        "max": "200"
+      },
+      "defense": {
+        "min": "100",
+        "max": "150"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "damage_reduction": {
+        "min": "15",
+        "max": "25"
+      },
+      "strength": {
+        "min": "40",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Steel Carapice",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_properties": {
+      "item_base": "Shadow Plate",
+      "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 446,
+        "max": 557
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 70,
+      "strength_requirement": 230,
+      "dexterity_requirement": 0,
+      "level_requirement": "66",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "190",
+        "max": "220"
+      },
+      "replenish_durability": {},
+      "cast_when_struck": {
+        "chance_to_cast": "8",
+        "skill_level": "6",
+        "skill": "Iron Maiden"
+      }
+    },
+    "char_mods": {
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "normal_damage_reduction": {
+        "min": "9",
+        "max": "14"
+      },
+      "cold_resist": {
+        "min": "40",
+        "max": "60"
+      },
+      "mana_regen": {
+        "min": "10",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Ormus' Robes",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_properties": {
+      "item_base": "Dusk Shroud",
+      "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 361,
+        "max": 467
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 20,
+      "strength_requirement": 77,
+      "dexterity_requirement": 0,
+      "level_requirement": "75",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "10",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "faster_cast_rate": {
+        "min": "20",
+        "max": "20"
+      },
+      "increased_fire_damage": {
+        "min": "10",
+        "max": "15"
+      },
+      "increased_cold_damage": {
+        "min": "10",
+        "max": "15"
+      },
+      "increased_lightning_damage": {
+        "min": "10",
+        "max": "15"
+      },
+      "mana_regen": {
+        "min": "10",
+        "max": "15"
+      },
+      "single_skill": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Templar's Might",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Sacred Armor",
+      "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+      "defense": {
+        "min": 487,
+        "max": 600
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 232,
+      "dexterity_requirement": 0,
+      "level_requirement": "74",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "170",
+        "max": "220"
+      },
+      "defense_vs_missles": {
+        "min": "250",
+        "max": "300"
+      }
+    },
+    "char_mods": {
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "max_stamina": {
+        "min": "40",
+        "max": "50"
+      },
+      "strength": {
+        "min": "10",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "15"
+      },
+      "defensive_auras": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  }
+]

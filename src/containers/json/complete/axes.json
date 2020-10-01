@@ -1,0 +1,1776 @@
+[
+  {
+    "item_name": "The Gnasher",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/hax.png",
+    "item_properties": {
+      "item_base": "Hand Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 6
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "60",
+        "max": "70"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "8",
+        "max": "8"
+      },
+      "open_wounds": {
+        "min": "50",
+        "max": "50"
+      },
+      "crushing_blow": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Deathspade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/axe.png",
+    "item_properties": {
+      "item_base": "Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 4,
+        "max": 11
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 24,
+      "strength_requirement": 32,
+      "dexterity_requirement": 0,
+      "level_requirement": "9",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "blind_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "min_damage": {
+        "min": "8",
+        "max": "8"
+      },
+      "enhanced_damage": {
+        "min": "60",
+        "max": "70"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana_after_kill": {
+        "min": "4",
+        "max": "4"
+      }
+    }
+  },
+  {
+    "item_name": "Bladebone",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/2ax.png",
+    "item_properties": {
+      "item_base": "Double Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 5,
+        "max": 13
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 24,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": "100",
+        "max": "100"
+      },
+      "increased_attack_rating_undead": {
+        "min": "40",
+        "max": "40"
+      },
+      "defense": {
+        "min": "20",
+        "max": "20"
+      },
+      "min_fire_damage": {
+        "min": "8",
+        "max": "8"
+      },
+      "max_fire_damage": {
+        "min": "12",
+        "max": "12"
+      },
+      "enhanced_damage": {
+        "min": "30",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Mindrend",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/mpi.png",
+    "item_properties": {
+      "item_base": "Military Pick",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 11
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 43,
+      "dexterity_requirement": 33,
+      "level_requirement": "21",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "blind_target": {
+        "min": "2",
+        "max": "2"
+      },
+      "min_lightning_damage": {
+        "min": "1",
+        "max": "1"
+      },
+      "max_lightning_damage": {
+        "min": "12",
+        "max": "15"
+      },
+      "enhanced_damage": {
+        "min": "60",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "mana_regen": {
+        "min": "20",
+        "max": "20"
+      },
+      "attack_rating": {
+        "min": "50",
+        "max": "100"
+      },
+      "open_wounds": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Rakescar",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_properties": {
+      "item_base": "War Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 18
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 67,
+      "dexterity_requirement": 0,
+      "level_requirement": "27",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "min_poison_damage": {
+        "min": "128",
+        "max": "128"
+      },
+      "max_poison_damage": {
+        "min": "128",
+        "max": "128"
+      },
+      "poison_length": {
+        "min": "75",
+        "max": "75"
+      },
+      "enhanced_damage": {
+        "min": "75",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "50",
+        "max": "50"
+      },
+      "poison_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Fechmars Axe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/lax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Large Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 13
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 30,
+      "strength_requirement": 35,
+      "dexterity_requirement": 0,
+      "level_requirement": "8",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "70",
+        "max": "90"
+      },
+      "freeze_target": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "char_mods": {
+      "cold_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Goreshovel",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/brx.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Broad Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 18
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 35,
+      "strength_requirement": 48,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "40",
+        "max": "50"
+      },
+      "max_damage": {
+        "min": "9",
+        "max": "9"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "strength": {
+        "min": "25",
+        "max": "25"
+      },
+      "open_wounds": {
+        "min": "60",
+        "max": "60"
+      }
+    }
+  },
+  {
+    "item_name": "The Chieftan",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/btx.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Battle Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 32
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 40,
+      "strength_requirement": 54,
+      "dexterity_requirement": 0,
+      "level_requirement": "19",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "40"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "10",
+        "max": "20"
+      },
+      "mana_after_kill": {
+        "min": "6",
+        "max": "6"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Brainhew",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Great Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 9,
+        "max": 30
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 63,
+      "dexterity_requirement": 39,
+      "level_requirement": "25",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "min_damage": {
+        "min": "14",
+        "max": "14"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "80"
+      },
+      "added_fire_damage": {
+        "min": "15",
+        "max": "35"
+      }
+    },
+    "char_mods": {
+      "mana": {
+        "min": "25",
+        "max": "25"
+      },
+      "light_radius": {
+        "min": "4",
+        "max": "4"
+      },
+      "mana_stolen_per_hit": {
+        "min": "10",
+        "max": "13"
+      }
+    }
+  },
+  {
+    "item_name": "The Humongous",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gix.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Giant Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 22,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 70,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "min_damage": {
+        "min": "8",
+        "max": "8"
+      },
+      "max_damage": {
+        "min": "15",
+        "max": "25"
+      },
+      "reduced_requirements": {
+        "min": "20",
+        "max": "20"
+      },
+      "enhanced_damage": {
+        "min": "80",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "20",
+        "max": "30"
+      },
+      "crushing_blow": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Coldkill",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_properties": {
+      "item_base": "Hatchet",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 25,
+      "dexterity_requirement": 25,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "10",
+        "skill_level": "10",
+        "skill": "Ice Blast"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "10",
+        "skill_level": "5",
+        "skill": "Frost Nova"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "190"
+      }
+    },
+    "char_mods": {
+      "cold_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "max_cold_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Butcher's Pupil",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/axe.png",
+    "item_properties": {
+      "item_base": "Cleaver",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 33
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 24,
+      "strength_requirement": 68,
+      "dexterity_requirement": 0,
+      "level_requirement": "39",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "30",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "35",
+        "max": "35"
+      },
+      "open_wounds": {
+        "min": "25",
+        "max": "25"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Islestrike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/2ax.png",
+    "item_properties": {
+      "item_base": "Twin Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 38
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 24,
+      "strength_requirement": 85,
+      "dexterity_requirement": 0,
+      "level_requirement": "43",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "50",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "170",
+        "max": "190"
+      }
+    },
+    "char_mods": {
+      "druid_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "energy": {
+        "min": "10",
+        "max": "10"
+      },
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      },
+      "maul": {
+        "min": "1",
+        "max": "1"
+      },
+      "fury": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Pompe's Wrath",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/mpi.png",
+    "item_properties": {
+      "item_base": "Crowbill",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 34
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 94,
+      "dexterity_requirement": 70,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "4",
+        "skill_level": "8",
+        "skill": "Volcano"
+      },
+      "slow_target": {
+        "min": "50",
+        "max": "50"
+      },
+      "added_fire_damage": {
+        "min": "35",
+        "max": "150"
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "140",
+        "max": "170"
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Guardian Naga",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_properties": {
+      "item_base": "Naga",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 121,
+      "dexterity_requirement": 0,
+      "level_requirement": "48",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "8",
+        "skill": "Poison Nova"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "180"
+      },
+      "added_poison_damage": {
+        "min": "256",
+        "max": "256"
+      },
+      "max_damage": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "thorns": {
+        "min": "15",
+        "max": "15"
+      },
+      "poison_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Warlord's Trust",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/lax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Military Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 34
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 30,
+      "strength_requirement": 73,
+      "dexterity_requirement": 0,
+      "level_requirement": "35",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "75",
+        "max": "75"
+      },
+      "replenish_durability": {},
+      "enhanced_damage": {
+        "min": "175",
+        "max": "175"
+      }
+    },
+    "char_mods": {
+      "life_replenish": {
+        "min": "20",
+        "max": "20"
+      },
+      "vitality_per_level": {
+        "min": "0.5",
+        "max": "0.5"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Spellsteel",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/brx.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Bearded Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 21,
+        "max": 42
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 35,
+      "strength_requirement": 92,
+      "dexterity_requirement": 0,
+      "level_requirement": "39",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "reduced_requirements": {
+        "min": "-60",
+        "max": "-60"
+      },
+      "enhanced_damage": {
+        "min": "165",
+        "max": "165"
+      },
+      "charged_skill": {
+        "min": "60",
+        "max": "12"
+      }
+    },
+    "char_mods": {
+      "mana": {
+        "min": "100",
+        "max": "100"
+      },
+      "magic_damage_reduction": {
+        "min": "12",
+        "max": "15"
+      },
+      "faster_cast_rate": {
+        "min": "10",
+        "max": "10"
+      },
+      "mana_regen": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Stormrider",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/btx.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Tabar",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 24,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 40,
+      "strength_requirement": 101,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "10",
+        "skill_level": "0",
+        "skill": "Charged Bolt"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "200"
+      },
+      "added_damage": {
+        "min": "35",
+        "max": "75"
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      },
+      "max_durability": {
+        "min": "50",
+        "max": "50"
+      },
+      "attacker_takes_lightning": {
+        "min": "15",
+        "max": "15"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "15",
+        "skill_level": "5",
+        "skill": "Charged Bolt"
+      }
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Boneslayer Blade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Gothic Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 54
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 115,
+      "dexterity_requirement": 79,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "damage_undead_per_level": {
+        "min": "2.5",
+        "max": "2.5"
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "220"
+      },
+      "charged_skill": {
+        "min": "200",
+        "max": "20"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "50",
+        "skill_level": "20",
+        "skill": "Holy Bolt"
+      }
+    },
+    "char_mods": {
+      "attack_rating_undead_per_level": {
+        "min": "5",
+        "max": "5"
+      },
+      "strength": {
+        "min": "8",
+        "max": "8"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "attack_rating_percent": {
+        "min": "35",
+        "max": "35"
+      }
+    }
+  },
+  {
+    "item_name": "The Minataur",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gix.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ancient Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 46,
+        "max": 74
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 125,
+      "dexterity_requirement": 0,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "blind_target": {
+        "min": "2",
+        "max": "2"
+      },
+      "slow_target": {
+        "min": "50",
+        "max": "50"
+      },
+      "added_damage": {
+        "min": "20",
+        "max": "30"
+      },
+      "enhanced_damage": {
+        "min": "140",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      },
+      "strength": {
+        "min": "15",
+        "max": "20"
+      },
+      "crushing_blow": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Hellslayer",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/btx.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Decapitator",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 49,
+        "max": 137
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 40,
+      "strength_requirement": 189,
+      "dexterity_requirement": 33,
+      "level_requirement": "66",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_fire_damage": {
+        "min": "150",
+        "max": "250"
+      },
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      },
+      "cast_on_attack": {
+        "chance_to_cast": "10",
+        "skill_level": "20",
+        "skill": "Fire Ball"
+      },
+      "max_damage_per_level_percent": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "char_mods": {
+      "strength_per_level": {
+        "min": "0.5",
+        "max": "0.5"
+      },
+      "vitality_per_level": {
+        "min": "0.5",
+        "max": "0.5"
+      },
+      "life": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Messerschmidt's Reaver",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Champion Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 59,
+        "max": 94
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 167,
+      "dexterity_requirement": 59,
+      "level_requirement": "70",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "200",
+        "max": "200"
+      },
+      "added_fire_damage": {
+        "min": "20",
+        "max": "240"
+      },
+      "max_durability": {
+        "min": "25",
+        "max": "25"
+      },
+      "max_damage_per_level_percent": {
+        "min": "2.5",
+        "max": "2.5"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "15",
+        "max": "15"
+      },
+      "energy": {
+        "min": "15",
+        "max": "15"
+      },
+      "attack_rating_percent": {
+        "min": "100",
+        "max": "100"
+      }
+    }
+  },
+  {
+    "item_name": "Runemaster",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/2ax.png",
+    "item_properties": {
+      "item_base": "Ettin Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 66
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 24,
+      "strength_requirement": 145,
+      "dexterity_requirement": 45,
+      "level_requirement": "72",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "220",
+        "max": "270"
+      },
+      "sockets": {
+        "min": "3",
+        "max": "5"
+      }
+    },
+    "char_mods": {
+      "max_cold_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Deathcleaver",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_properties": {
+      "item_base": "Berserker Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 24,
+        "max": 71
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 138,
+      "dexterity_requirement": 59,
+      "level_requirement": "70",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "230",
+        "max": "280"
+      },
+      "reduce_target_ar": {
+        "min": "33",
+        "max": "33"
+      },
+      "life_after_kill": {
+        "min": "6",
+        "max": "9"
+      }
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "66",
+        "max": "66"
+      },
+      "increased_attack_speed": {
+        "min": "40",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "Executioner's Justice",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gix.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Glorious Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 60,
+        "max": 124
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 50,
+      "strength_requirement": 164,
+      "dexterity_requirement": 55,
+      "level_requirement": "75",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "240",
+        "max": "290"
+      },
+      "reduce_target_ar": {
+        "min": "33",
+        "max": "33"
+      },
+      "cast_on_kill": {
+        "chance_to_cast": "50",
+        "skill_level": "6",
+        "skill": "Decrepify"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Ethereal Edge",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/brx.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Silver-edged Axe",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 62,
+        "max": 110
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 35,
+      "strength_requirement": 166,
+      "dexterity_requirement": 65,
+      "level_requirement": "74",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "180"
+      },
+      "increased_damage_demon": {
+        "min": "150",
+        "max": "200"
+      },
+      "ethereal": {
+        "min": "1",
+        "max": "1"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "25",
+        "max": "25"
+      },
+      "fire_absorb": {
+        "min": "10",
+        "max": "12"
+      },
+      "life_after_demon_kill": {
+        "min": "5",
+        "max": "10"
+      },
+      "attack_rating": {
+        "min": "270",
+        "max": "350"
+      }
+    }
+  },
+  {
+    "item_name": "Cranebeak",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/mpi.png",
+    "item_properties": {
+      "item_base": "War Spike",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 30,
+        "max": 48
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 26,
+      "strength_requirement": 133,
+      "dexterity_requirement": 54,
+      "level_requirement": "63",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "240",
+        "max": "300"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "305"
+      },
+      "reduce_target_ar": {
+        "min": "25",
+        "max": "25"
+      },
+      "charged_skill": {
+        "min": "15",
+        "max": "8"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "40",
+        "max": "40"
+      },
+      "magic_find": {
+        "min": "20",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Razoredge",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_properties": {
+      "item_base": "Tomahawk",
+      "sub_type": "axe",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 125,
+      "dexterity_requirement": 67,
+      "level_requirement": "67",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "175",
+        "max": "225"
+      },
+      "reduce_target_ar": {
+        "min": "33",
+        "max": "33"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "40",
+        "max": "40"
+      },
+      "deadly_strike": {
+        "min": "50",
+        "max": "50"
+      },
+      "open_wounds": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  }
+]

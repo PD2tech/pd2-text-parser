@@ -1,0 +1,542 @@
+[
+  {
+    "item_name": "Eagle Orb",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob1.png",
+    "item_properties": {
+      "item_base": "Eagle Orb",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 2,
+        "max": 5
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Sacred Globe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_properties": {
+      "item_base": "Sacred Globe",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 3,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Smoked Sphere",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob3.png",
+    "item_properties": {
+      "item_base": "Smoked Sphere",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 4,
+        "max": 10
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 35,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Clasped Orb",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob4.png",
+    "item_properties": {
+      "item_base": "Clasped Orb",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 5,
+        "max": 12
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Jared's Stone",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_properties": {
+      "item_base": "Jared's Stone",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 8,
+        "max": 18
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Glowing Orb",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob1.png",
+    "item_properties": {
+      "item_base": "Glowing Orb",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 8,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 24,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Crystalline Globe",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_properties": {
+      "item_base": "Crystalline Globe",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 10,
+        "max": 26
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 27,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Cloudy Sphere",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob3.png",
+    "item_properties": {
+      "item_base": "Cloudy Sphere",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 11,
+        "max": 29
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 35,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 30,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Sparkling Ball",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob4.png",
+    "item_properties": {
+      "item_base": "Sparkling Ball",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 13,
+        "max": 32
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 34,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Swirling Crystal",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_properties": {
+      "item_base": "Swirling Crystal",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 18,
+        "max": 42
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 37,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Heavenly Stone",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob1.png",
+    "item_properties": {
+      "item_base": "Heavenly Stone",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 21,
+        "max": 46
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 44,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Eldritch Orb",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_properties": {
+      "item_base": "Eldritch Orb",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 18,
+        "max": 50
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 50,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Demon Heart",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob3.png",
+    "item_properties": {
+      "item_base": "Demon Heart",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 23,
+        "max": 55
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 35,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 56,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Vortex Orb",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob4.png",
+    "item_properties": {
+      "item_base": "Vortex Orb",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 25,
+        "max": 64
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 63,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Dimensional Shard",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_properties": {
+      "item_base": "Dimensional Shard",
+      "sub_type": "orb",
+      "class_specific": "Sorceress",
+      "damage": {
+        "min": 30,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 66,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

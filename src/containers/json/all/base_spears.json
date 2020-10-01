@@ -1,0 +1,557 @@
+[
+  {
+    "item_name": "Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spr.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Spear",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 20,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Trident",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/tri.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Trident",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 9,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 35,
+      "strength_requirement": 38,
+      "dexterity_requirement": 24,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Brandistock",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/brn.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Brandistock",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 28,
+      "strength_requirement": 40,
+      "dexterity_requirement": 50,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Spetum",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spt.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Spetum",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 28,
+      "strength_requirement": 54,
+      "dexterity_requirement": 35,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Pike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/pik.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Pike",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 63
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 25,
+      "strength_requirement": 60,
+      "dexterity_requirement": 45,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spr.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "War Spear",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 37
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 25,
+      "dexterity_requirement": 25,
+      "level_requirement": 21,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Fuscina",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/tri.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Fuscina",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 19,
+        "max": 37
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 35,
+      "strength_requirement": 77,
+      "dexterity_requirement": 25,
+      "level_requirement": 24,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Fork",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/brn.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "War Fork",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 40
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 28,
+      "strength_requirement": 80,
+      "dexterity_requirement": 95,
+      "level_requirement": 26,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Yari",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spt.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Yari",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 29,
+        "max": 46
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 28,
+      "strength_requirement": 101,
+      "dexterity_requirement": 0,
+      "level_requirement": 26,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Lance",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/pik.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Lance",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 27,
+        "max": 114
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 25,
+      "strength_requirement": 110,
+      "dexterity_requirement": 88,
+      "level_requirement": 26,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hyperion Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spr.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Hyperion Spear",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 35,
+        "max": 119
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 155,
+      "dexterity_requirement": 120,
+      "level_requirement": 43,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Stygian Pike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/tri.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Stygian Pike",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 29,
+        "max": 144
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 35,
+      "strength_requirement": 168,
+      "dexterity_requirement": 97,
+      "level_requirement": 54,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Mancatcher",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/brn.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Mancatcher",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 42,
+        "max": 92
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 28,
+      "strength_requirement": 132,
+      "dexterity_requirement": 134,
+      "level_requirement": 58,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ghost Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spt.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ghost Spear",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 155
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 28,
+      "strength_requirement": 122,
+      "dexterity_requirement": 163,
+      "level_requirement": 60,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Pike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/pik.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "War Pike",
+      "sub_type": "spear",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 178
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 25,
+      "strength_requirement": 165,
+      "dexterity_requirement": 106,
+      "level_requirement": 62,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "item_name": "Templar's Might",
+    "item_base": "Sacred Armor",
+    "item_level": "82",
+    "level_requirement": "74",
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "170",
+        "max": "220"
+      },
+      "defense_vs_missles": {
+        "min": "250",
+        "max": "300"
+      }
+    },
+    "char_mods": {
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "max_stamina": {
+        "min": "40",
+        "max": "50"
+      },
+      "strength": {
+        "min": "10",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "15"
+      },
+      "defensive_auras": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  }
+]

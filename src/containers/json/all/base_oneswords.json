@@ -1,0 +1,866 @@
+[
+  {
+    "item_name": "Short Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/ssd.png",
+    "item_properties": {
+      "item_base": "Short Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 2,
+        "max": 7
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Scimitar",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/scm.png",
+    "item_properties": {
+      "item_base": "Scimitar",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 2,
+        "max": 6
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 22,
+      "strength_requirement": 0,
+      "dexterity_requirement": 21,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Sabre",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/sbr.png",
+    "item_properties": {
+      "item_base": "Sabre",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 25,
+      "dexterity_requirement": 25,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Falchion",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/flc.png",
+    "item_properties": {
+      "item_base": "Falchion",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 9,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 33,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Crystal Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/crs.png",
+    "item_properties": {
+      "item_base": "Crystal Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 5,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 20,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Broad Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/bsd.png",
+    "item_properties": {
+      "item_base": "Broad Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 14
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 32,
+      "strength_requirement": 48,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Long Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/lsd.png",
+    "item_properties": {
+      "item_base": "Long Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 19
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 44,
+      "strength_requirement": 55,
+      "dexterity_requirement": 39,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/wsd.png",
+    "item_properties": {
+      "item_base": "War Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 20
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 44,
+      "strength_requirement": 71,
+      "dexterity_requirement": 45,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Gladius",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/ssd.png",
+    "item_properties": {
+      "item_base": "Gladius",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 22
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 18,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Cutlass",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/scm.png",
+    "item_properties": {
+      "item_base": "Cutlass",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -30,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 22,
+      "strength_requirement": 25,
+      "dexterity_requirement": 52,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Shamshir",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/sbr.png",
+    "item_properties": {
+      "item_base": "Shamshir",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 58,
+      "dexterity_requirement": 58,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Tulwar",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/flc.png",
+    "item_properties": {
+      "item_base": "Tulwar",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 70,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Dimensional Blade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/crs.png",
+    "item_properties": {
+      "item_base": "Dimensional Blade",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 20,
+      "strength_requirement": 85,
+      "dexterity_requirement": 60,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Battle Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/bsd.png",
+    "item_properties": {
+      "item_base": "Battle Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 34
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 32,
+      "strength_requirement": 93,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Rune Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/lsd.png",
+    "item_properties": {
+      "item_base": "Rune Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 42
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 44,
+      "strength_requirement": 103,
+      "dexterity_requirement": 79,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ancient Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/wsd.png",
+    "item_properties": {
+      "item_base": "Ancient Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 43
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 44,
+      "strength_requirement": 127,
+      "dexterity_requirement": 88,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Falcata",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/ssd.png",
+    "item_properties": {
+      "item_base": "Falcata",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 31,
+        "max": 59
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 150,
+      "dexterity_requirement": 88,
+      "level_requirement": 50,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ataghan",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/scm.png",
+    "item_properties": {
+      "item_base": "Ataghan",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 26,
+        "max": 46
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 22,
+      "strength_requirement": 135,
+      "dexterity_requirement": 95,
+      "level_requirement": 42,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Elegant Blade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/sbr.png",
+    "item_properties": {
+      "item_base": "Elegant Blade",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 109,
+      "dexterity_requirement": 122,
+      "level_requirement": 47,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hydra Edge",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/flc.png",
+    "item_properties": {
+      "item_base": "Hydra Edge",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 28,
+        "max": 68
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 142,
+      "dexterity_requirement": 105,
+      "level_requirement": 51,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Phase Blade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/crs.png",
+    "item_properties": {
+      "item_base": "Phase Blade",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 31,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -30,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 0,
+      "strength_requirement": 25,
+      "dexterity_requirement": 136,
+      "level_requirement": 54,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Conquest Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/bsd.png",
+    "item_properties": {
+      "item_base": "Conquest Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 37,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 32,
+      "strength_requirement": 142,
+      "dexterity_requirement": 112,
+      "level_requirement": 57,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Cryptic Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/lsd.png",
+    "item_properties": {
+      "item_base": "Cryptic Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 5,
+        "max": 77
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 44,
+      "strength_requirement": 99,
+      "dexterity_requirement": 109,
+      "level_requirement": 60,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Mythical Sword",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/wsd.png",
+    "item_properties": {
+      "item_base": "Mythical Sword",
+      "sub_type": "sword",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 50
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 44,
+      "strength_requirement": 147,
+      "dexterity_requirement": 124,
+      "level_requirement": 64,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

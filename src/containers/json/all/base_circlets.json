@@ -1,0 +1,94 @@
+[
+  {
+    "item_name": "Circlet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci0.png",
+    "item_properties": {
+      "item_base": "Circlet",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 35,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 16,
+      "item_tier": null,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Coronet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci1.png",
+    "item_properties": {
+      "item_base": "Coronet",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 30,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 39,
+      "item_tier": null,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Tiara",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci2.png",
+    "item_properties": {
+      "item_base": "Tiara",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 25,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 52,
+      "item_tier": null,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Diadem",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci3.png",
+    "item_properties": {
+      "item_base": "Diadem",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 20,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 64,
+      "item_tier": null,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

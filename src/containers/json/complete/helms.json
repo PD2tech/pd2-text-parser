@@ -1,0 +1,1915 @@
+[
+  {
+    "item_name": "War Bonnet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "Cap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 3,
+        "max": 5
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "3",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "30",
+        "max": "30"
+      },
+      "defense": {
+        "min": "14",
+        "max": "14"
+      }
+    },
+    "char_mods": {
+      "life": {
+        "min": "15",
+        "max": "15"
+      },
+      "attack_rating": {
+        "min": "30",
+        "max": "30"
+      },
+      "mana": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Tarnhelm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Skull Cap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 11
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 15,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {
+      "gold_find": {
+        "min": "75",
+        "max": "75"
+      },
+      "magic_find": {
+        "min": "25",
+        "max": "50"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Coif of Glory",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 15,
+        "max": 18
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 26,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "attacker_takes_lightning": {
+        "min": "7",
+        "max": "7"
+      },
+      "blind_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "defense_vs_missles": {
+        "min": "100",
+        "max": "100"
+      },
+      "defense": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {
+      "lightning_resist": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Duskdeep",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Full Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 23,
+        "max": 26
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 41,
+      "dexterity_requirement": 0,
+      "level_requirement": "17",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "max_damage": {
+        "min": "8",
+        "max": "8"
+      },
+      "defense": {
+        "min": "10",
+        "max": "20"
+      },
+      "enhanced_defense": {
+        "min": "30",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "all_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "normal_damage_reduction": {
+        "min": "7",
+        "max": "7"
+      }
+    }
+  },
+  {
+    "item_name": "Wormskull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Bone Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 33,
+        "max": 36
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "21",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "102",
+        "max": "102"
+      }
+    },
+    "char_mods": {
+      "necromancer_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "mana": {
+        "min": "10",
+        "max": "10"
+      },
+      "poison_resist": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Howltusk",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Great Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 30,
+        "max": 35
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 63,
+      "dexterity_requirement": 0,
+      "level_requirement": "25",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "80",
+        "max": "80"
+      },
+      "damagetomana": {
+        "min": "35",
+        "max": "35"
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "causes_monster_flee": {
+        "min": "33",
+        "max": "33"
+      }
+    },
+    "char_mods": {
+      "magic_damage_reduction": {
+        "min": "2",
+        "max": "2"
+      },
+      "thorns": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Undead Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Crown",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 25,
+        "max": 45
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "40",
+        "max": "40"
+      },
+      "enhanced_defense": {
+        "min": "30",
+        "max": "60"
+      },
+      "increased_damage_undead": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_rating_undead": {
+        "min": "50",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "poison_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      },
+      "skeleton_mastery": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "The Face of Horror",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Mask",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 9,
+        "max": 27
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 23,
+      "dexterity_requirement": 0,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "causes_monster_flee": {
+        "min": "64",
+        "max": "64"
+      },
+      "increased_damage_undead": {
+        "min": "50",
+        "max": "50"
+      },
+      "defense": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Peasent Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "War Hat",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 45,
+        "max": 53
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "vitality": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "faster_run_walk": {
+        "min": "15",
+        "max": "15"
+      },
+      "life_replenish": {
+        "min": "6",
+        "max": "12"
+      }
+    }
+  },
+  {
+    "item_name": "Rockstopper",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Sallet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 52,
+        "max": 62
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": "31",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "160",
+        "max": "220"
+      }
+    },
+    "char_mods": {
+      "lightning_resist": {
+        "min": "20",
+        "max": "40"
+      },
+      "damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "fire_resist": {
+        "min": "20",
+        "max": "50"
+      },
+      "cold_resist": {
+        "min": "20",
+        "max": "40"
+      },
+      "vitality": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Stealskull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Casque",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 63,
+        "max": 72
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 59,
+      "dexterity_requirement": 0,
+      "level_requirement": "35",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "200",
+        "max": "240"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "faster_hit_recovery": {
+        "min": "10",
+        "max": "10"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "magic_find": {
+        "min": "30",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Darksight Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Basinet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 75,
+        "max": 84
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 82,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_per_level": {
+        "min": "2",
+        "max": "2"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "6",
+        "skill_level": "3",
+        "skill": "Dim Vision"
+      },
+      "charged_skill": {
+        "min": "30",
+        "max": "5"
+      }
+    },
+    "char_mods": {
+      "light_radius": {
+        "min": "-4",
+        "max": "-4"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "5"
+      },
+      "fire_resist": {
+        "min": "20",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "Valkiry Wing",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Winged Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 85,
+        "max": 98
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 115,
+      "dexterity_requirement": 0,
+      "level_requirement": "44",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "faster_run_walk": {
+        "min": "20",
+        "max": "20"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "amazon_skills": {
+        "min": "1",
+        "max": "2"
+      },
+      "mana_after_kill": {
+        "min": "2",
+        "max": "4"
+      }
+    }
+  },
+  {
+    "item_name": "Crown of Thieves",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Grand Crown",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 78,
+        "max": 113
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": "49",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "160",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "25",
+        "max": "25"
+      },
+      "life_stolen_per_hit": {
+        "min": "9",
+        "max": "12"
+      },
+      "life": {
+        "min": "50",
+        "max": "50"
+      },
+      "mana": {
+        "min": "35",
+        "max": "35"
+      },
+      "fire_resist": {
+        "min": "33",
+        "max": "33"
+      },
+      "gold_find": {
+        "min": "80",
+        "max": "100"
+      }
+    }
+  },
+  {
+    "item_name": "Blackhorn's Face",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Death Mask",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 54,
+        "max": 86
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "attacker_takes_lightning": {
+        "min": "25",
+        "max": "25"
+      },
+      "slow_target": {
+        "min": "20",
+        "max": "20"
+      },
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_defense": {
+        "min": "180",
+        "max": "220"
+      }
+    },
+    "char_mods": {
+      "lightning_absorb": {
+        "min": "20",
+        "max": "20"
+      },
+      "lightning_resist": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Vampiregaze",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Grim Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 60,
+        "max": 125
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "staminadrainpct": {
+        "min": "15",
+        "max": "15"
+      },
+      "enhanced_defense": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "6",
+        "max": "8"
+      },
+      "life_stolen_per_hit": {
+        "min": "6",
+        "max": "8"
+      },
+      "damage_reduction": {
+        "min": "15",
+        "max": "20"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Harlequin Crest",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "Shako",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 98,
+        "max": 141
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "62",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {
+      "all_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "life_per_level": {
+        "min": "1.5",
+        "max": "1.5"
+      },
+      "mana_per_level": {
+        "min": "1.5",
+        "max": "1.5"
+      },
+      "magic_find": {
+        "min": "50",
+        "max": "50"
+      },
+      "damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "2",
+        "max": "2"
+      },
+      "dexterity": {
+        "min": "2",
+        "max": "2"
+      },
+      "vitality": {
+        "min": "2",
+        "max": "2"
+      },
+      "energy": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Veil of Steel",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Spired Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 192,
+      "dexterity_requirement": 0,
+      "level_requirement": "73",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "60",
+        "max": "60"
+      },
+      "max_durability": {
+        "min": "20",
+        "max": "20"
+      },
+      "defense": {
+        "min": "140",
+        "max": "140"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "15",
+        "max": "15"
+      },
+      "light_radius": {
+        "min": "-4",
+        "max": "-4"
+      }
+    }
+  },
+  {
+    "item_name": "Arreat's Face",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba5.png",
+    "item_properties": {
+      "item_base": "Slayer Guard",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 93,
+        "max": 120
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 55,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "barbarian_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "combat_skills_barb": {
+        "min": "2",
+        "max": "2"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "attack_rating_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "life_stolen_per_hit": {
+        "min": "3",
+        "max": "6"
+      },
+      "all_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Jalal's Mane",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr5.png",
+    "item_properties": {
+      "item_base": "Dream Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 109,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "150",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "druid_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "shape_shifting": {
+        "min": "2",
+        "max": "2"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "attack_rating_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_after_kill": {
+        "min": "5",
+        "max": "5"
+      },
+      "all_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Steelshade",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Armet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 105,
+        "max": 149
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 109,
+      "dexterity_requirement": 0,
+      "level_requirement": "62",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "100",
+        "max": "130"
+      }
+    },
+    "char_mods": {
+      "fire_absorb": {
+        "min": "5",
+        "max": "11"
+      },
+      "mana_stolen_per_hit": {
+        "min": "4",
+        "max": "8"
+      },
+      "life_replenish": {
+        "min": "10",
+        "max": "18"
+      }
+    }
+  },
+  {
+    "item_name": "Cerebus",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr1.png",
+    "item_properties": {
+      "item_base": "Blood Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 101,
+        "max": 145
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 86,
+      "dexterity_requirement": 0,
+      "level_requirement": "63",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "130",
+        "max": "140"
+      }
+    },
+    "char_mods": {
+      "shape_shifting": {
+        "min": "2",
+        "max": "4"
+      },
+      "life_stolen_per_hit": {
+        "min": "7",
+        "max": "10"
+      },
+      "attack_rating_percent": {
+        "min": "60",
+        "max": "120"
+      },
+      "open_wounds": {
+        "min": "33",
+        "max": "33"
+      },
+      "feral_rage": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Demonhorn's Edge",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba3.png",
+    "item_properties": {
+      "item_base": "Destroyer Helm",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 111,
+        "max": 156
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 45,
+      "strength_requirement": 151,
+      "dexterity_requirement": 0,
+      "level_requirement": "61",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "120",
+        "max": "160"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "life_stolen_per_hit": {
+        "min": "3",
+        "max": "6"
+      },
+      "thorns": {
+        "min": "55",
+        "max": "77"
+      },
+      "combat_skills_barb": {
+        "min": "1",
+        "max": "3"
+      },
+      "combat_masteries": {
+        "min": "1",
+        "max": "3"
+      },
+      "warcries": {
+        "min": "1",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Spiritkeeper",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr3.png",
+    "item_properties": {
+      "item_base": "Earth Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 67,
+        "max": 81
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 104,
+      "dexterity_requirement": 0,
+      "level_requirement": "67",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "170",
+        "max": "190"
+      }
+    },
+    "char_mods": {
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "lightning_absorb": {
+        "min": "9",
+        "max": "14"
+      },
+      "fire_resist": {
+        "min": "30",
+        "max": "40"
+      },
+      "cold_absorb_percent": {
+        "min": "15",
+        "max": "25"
+      },
+      "max_poison_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "druid_skills": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Griffon's Eye",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci3.png",
+    "item_properties": {
+      "item_base": "Diadem",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 20,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "76",
+      "item_tier": null,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "100",
+        "max": "200"
+      }
+    },
+    "char_mods": {
+      "faster_cast_rate": {
+        "min": "25",
+        "max": "25"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "increased_lightning_damage": {
+        "min": "10",
+        "max": "15"
+      },
+      "enemy_lightning_resistance": {
+        "min": "15",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Crown of Ages",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Corona",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 111,
+        "max": 165
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": "82",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "100",
+        "max": "150"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_defense": {
+        "min": "50",
+        "max": "50"
+      },
+      "sockets": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "char_mods": {
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "30"
+      },
+      "all_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "damage_reduction": {
+        "min": "10",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Andariel's Visage",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Demonhead",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 101,
+        "max": 154
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 102,
+      "dexterity_requirement": 0,
+      "level_requirement": "83",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "100",
+        "max": "150"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "15",
+        "skill_level": "15",
+        "skill": "Poison Nova"
+      },
+      "charged_skill": {
+        "min": "20",
+        "max": "3"
+      }
+    },
+    "char_mods": {
+      "poison_resist": {
+        "min": "70",
+        "max": "70"
+      },
+      "all_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "max_poison_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "25",
+        "max": "30"
+      },
+      "life_stolen_per_hit": {
+        "min": "8",
+        "max": "10"
+      },
+      "fire_resist": {
+        "min": "-30",
+        "max": "-30"
+      }
+    }
+  },
+  {
+    "item_name": "Ravenlore",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr4.png",
+    "item_properties": {
+      "item_base": "Sky Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 103,
+        "max": 155
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 113,
+      "dexterity_requirement": 0,
+      "level_requirement": "74",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "15",
+        "max": "25"
+      },
+      "elemental_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "energy": {
+        "min": "20",
+        "max": "30"
+      },
+      "enemy_fire_resistance": {
+        "min": "10",
+        "max": "20"
+      },
+      "raven": {
+        "min": "7",
+        "max": "7"
+      }
+    }
+  },
+  {
+    "item_name": "Wolfhowl",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba2.png",
+    "item_properties": {
+      "item_base": "Fury Visor",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 105,
+        "max": 140
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 35,
+      "strength_requirement": 129,
+      "dexterity_requirement": 0,
+      "level_requirement": "79",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "120",
+        "max": "150"
+      },
+      "charged_skill": {
+        "min": "18",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "warcries": {
+        "min": "2",
+        "max": "3"
+      },
+      "strength": {
+        "min": "8",
+        "max": "15"
+      },
+      "dexterity": {
+        "min": "8",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "8",
+        "max": "15"
+      },
+      "werewolf": {
+        "min": "3",
+        "max": "6"
+      }
+    }
+  },
+  {
+    "item_name": "Kira's Guardian",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci2.png",
+    "item_properties": {
+      "item_base": "Tiara",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 25,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "77",
+      "item_tier": null,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "50",
+        "max": "120"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "50",
+        "max": "70"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Halaberd's Reign",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba4.png",
+    "item_properties": {
+      "item_base": "Conqueror Crown",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": "77",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "140",
+        "max": "170"
+      }
+    },
+    "char_mods": {
+      "combat_masteries": {
+        "min": "1",
+        "max": "1"
+      },
+      "barbarian_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "faster_hit_recovery": {
+        "min": "20",
+        "max": "20"
+      },
+      "life_replenish": {
+        "min": "15",
+        "max": "23"
+      },
+      "battle_orders": {
+        "min": "1",
+        "max": "2"
+      },
+      "battle_command": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Giantskull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Bone Visage",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 100,
+        "max": 157
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 106,
+      "dexterity_requirement": 0,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "250",
+        "max": "320"
+      },
+      "sockets": {
+        "min": "1",
+        "max": "2"
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "25",
+        "max": "35"
+      },
+      "crushing_blow": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Nightwing's Veil",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Spired Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 192,
+      "dexterity_requirement": 0,
+      "level_requirement": "67",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_defense": {
+        "min": "90",
+        "max": "120"
+      },
+      "reduced_requirements": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "char_mods": {
+      "all_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "20"
+      },
+      "cold_absorb": {
+        "min": "5",
+        "max": "9"
+      },
+      "half_freeze_duration": {
+        "min": "1",
+        "max": "1"
+      },
+      "increased_cold_damage": {
+        "min": "8",
+        "max": "15"
+      }
+    }
+  }
+]

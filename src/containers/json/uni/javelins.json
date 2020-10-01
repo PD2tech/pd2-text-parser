@@ -1,0 +1,173 @@
+[
+  {
+    "item_name": "Titan's Revenge",
+    "item_base": "Ceremonial Javelin",
+    "item_level": "50",
+    "level_requirement": "42",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "replenish_quantity": {},
+      "added_damage": {
+        "min": "25",
+        "max": "50"
+      },
+      "increased_stack_size": {
+        "min": "60",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "amazon_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "javelin_and_spear": {
+        "min": "2",
+        "max": "2"
+      },
+      "faster_run_walk": {
+        "min": "30",
+        "max": "30"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "9"
+      }
+    }
+  },
+  {
+    "item_name": "Gargoyle's Bite",
+    "item_base": "Winged Harpoon",
+    "item_level": "78",
+    "level_requirement": "70",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "180",
+        "max": "230"
+      },
+      "replenish_quantity": {},
+      "added_poison_damage": {
+        "min": "300",
+        "max": "300"
+      },
+      "charged_skill": {
+        "min": "60",
+        "max": "11"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "9",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Thunderstroke",
+    "item_base": "Matriarchal Javelin",
+    "item_level": "77",
+    "level_requirement": "69",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "511"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "20",
+        "skill_level": "14",
+        "skill": "Lightning"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "15",
+        "max": "15"
+      },
+      "enemy_lightning_resistance": {
+        "min": "15",
+        "max": "15"
+      },
+      "lightning_bolt": {
+        "min": "3",
+        "max": "3"
+      },
+      "javelin_and_spear": {
+        "min": "2",
+        "max": "4"
+      }
+    }
+  },
+  {
+    "item_name": "Demon's Arch",
+    "item_base": "Balrog Spear",
+    "item_level": "76",
+    "level_requirement": "68",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "160",
+        "max": "210"
+      },
+      "added_fire_damage": {
+        "min": "232",
+        "max": "323"
+      },
+      "replenish_quantity": {},
+      "added_lightning_damage": {
+        "min": "23",
+        "max": "333"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "6",
+        "max": "12"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      }
+    }
+  },
+  {
+    "item_name": "Wraithflight",
+    "item_base": "Ghost Glaive",
+    "item_level": "84",
+    "level_requirement": "76",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "190"
+      },
+      "replenish_quantity": {},
+      "ethereal": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "9",
+        "max": "13"
+      },
+      "mana_after_kill": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  }
+]

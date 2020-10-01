@@ -1,0 +1,557 @@
+[
+  {
+    "item_name": "Pilum",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/pil.png",
+    "item_properties": {
+      "item_base": "Pilum",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 20
+      },
+      "melee_damage": {
+        "min": 4,
+        "max": 9
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "max_quantity": 50,
+      "strength_requirement": 0,
+      "dexterity_requirement": 45,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Short Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_properties": {
+      "item_base": "Short Spear",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 22
+      },
+      "melee_damage": {
+        "min": 2,
+        "max": 13
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "max_quantity": 40,
+      "strength_requirement": 40,
+      "dexterity_requirement": 40,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Glaive",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_properties": {
+      "item_base": "Glaive",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 22
+      },
+      "melee_damage": {
+        "min": 5,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "max_quantity": 40,
+      "strength_requirement": 52,
+      "dexterity_requirement": 35,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Throwing Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_properties": {
+      "item_base": "Throwing Spear",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 30
+      },
+      "melee_damage": {
+        "min": 5,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 0,
+      "dexterity_requirement": 65,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Great Pilum",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/pil.png",
+    "item_properties": {
+      "item_base": "Great Pilum",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 42
+      },
+      "melee_damage": {
+        "min": 11,
+        "max": 26
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "max_quantity": 50,
+      "strength_requirement": 25,
+      "dexterity_requirement": 88,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Simbilan",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_properties": {
+      "item_base": "Simbilan",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 27,
+        "max": 50
+      },
+      "melee_damage": {
+        "min": 8,
+        "max": 32
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "max_quantity": 40,
+      "strength_requirement": 80,
+      "dexterity_requirement": 80,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Spiculumn",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_properties": {
+      "item_base": "Spiculumn",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 38
+      },
+      "melee_damage": {
+        "min": 13,
+        "max": 38
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "max_quantity": 20,
+      "strength_requirement": 98,
+      "dexterity_requirement": 73,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Harpoon",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_properties": {
+      "item_base": "Harpoon",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 54
+      },
+      "melee_damage": {
+        "min": 13,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 25,
+      "dexterity_requirement": 118,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Stygian Pilum",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/pil.png",
+    "item_properties": {
+      "item_base": "Stygian Pilum",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 21,
+        "max": 75
+      },
+      "melee_damage": {
+        "min": 14,
+        "max": 64
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "max_quantity": 50,
+      "strength_requirement": 118,
+      "dexterity_requirement": 112,
+      "level_requirement": 46,
+      "item_tier": "elite",
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Balrog Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_properties": {
+      "item_base": "Balrog Spear",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 62
+      },
+      "melee_damage": {
+        "min": 33,
+        "max": 63
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "max_quantity": 40,
+      "strength_requirement": 127,
+      "dexterity_requirement": 95,
+      "level_requirement": 57,
+      "item_tier": "elite",
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ghost Glaive",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_properties": {
+      "item_base": "Ghost Glaive",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 30,
+        "max": 85
+      },
+      "melee_damage": {
+        "min": 19,
+        "max": 60
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "max_quantity": 20,
+      "strength_requirement": 89,
+      "dexterity_requirement": 137,
+      "level_requirement": 62,
+      "item_tier": "elite",
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Winged Harpoon",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_properties": {
+      "item_base": "Winged Harpoon",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 11,
+        "max": 77
+      },
+      "melee_damage": {
+        "min": 27,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 76,
+      "dexterity_requirement": 145,
+      "level_requirement": 65,
+      "item_tier": "elite",
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Javelin",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/jav.png",
+    "item_properties": {
+      "item_base": "Javelin",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 14
+      },
+      "melee_damage": {
+        "min": 1,
+        "max": 5
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 60,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "War Javelin",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/jav.png",
+    "item_properties": {
+      "item_base": "War Javelin",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 32
+      },
+      "melee_damage": {
+        "min": 6,
+        "max": 19
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 60,
+      "strength_requirement": 25,
+      "dexterity_requirement": 25,
+      "level_requirement": 18,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hyperion Javelin",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/jav.png",
+    "item_properties": {
+      "item_base": "Hyperion Javelin",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 28,
+        "max": 55
+      },
+      "melee_damage": {
+        "min": 21,
+        "max": 57
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 60,
+      "strength_requirement": 98,
+      "dexterity_requirement": 123,
+      "level_requirement": 40,
+      "item_tier": "elite",
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

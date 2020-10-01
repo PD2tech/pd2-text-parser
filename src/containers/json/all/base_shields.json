@@ -1,0 +1,1106 @@
+[
+  {
+    "item_name": "Scutum",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/lrg.png",
+    "item_properties": {
+      "item_base": "Scutum",
+      "armor_type": "medium",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 53,
+        "max": 61
+      },
+      "smite_damage": {
+        "min": 11,
+        "max": 15
+      },
+      "block_by_class": {
+        "Druid": 34,
+        "Necromancer": 34,
+        "Sorceress": 34,
+        "Amazon": 39,
+        "Assassin": 39,
+        "Barbarian": 39,
+        "Paladin": 44
+      },
+      "block_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 64,
+      "strength_requirement": 71,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Dragon Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/kit.png",
+    "item_properties": {
+      "item_base": "Dragon Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 59,
+        "max": 67
+      },
+      "smite_damage": {
+        "min": 15,
+        "max": 24
+      },
+      "block_by_class": {
+        "Druid": 38,
+        "Necromancer": 38,
+        "Sorceress": 38,
+        "Amazon": 43,
+        "Assassin": 43,
+        "Barbarian": 43,
+        "Paladin": 48
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 76,
+      "strength_requirement": 91,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Large Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/lrg.png",
+    "item_properties": {
+      "item_base": "Large Shield",
+      "armor_type": "medium",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 12,
+        "max": 14
+      },
+      "smite_damage": {
+        "min": 2,
+        "max": 4
+      },
+      "block_by_class": {
+        "Druid": 25,
+        "Necromancer": 25,
+        "Sorceress": 25,
+        "Amazon": 30,
+        "Assassin": 30,
+        "Barbarian": 30,
+        "Paladin": 35
+      },
+      "block_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 24,
+      "strength_requirement": 34,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Hyperion",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/lrg.png",
+    "item_properties": {
+      "item_base": "Hyperion",
+      "armor_type": "medium",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 119,
+        "max": 135
+      },
+      "smite_damage": {
+        "min": 14,
+        "max": 32
+      },
+      "block_by_class": {
+        "Druid": 44,
+        "Necromancer": 44,
+        "Sorceress": 44,
+        "Amazon": 49,
+        "Assassin": 49,
+        "Barbarian": 49,
+        "Paladin": 54
+      },
+      "block_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 82,
+      "strength_requirement": 127,
+      "dexterity_requirement": 0,
+      "level_requirement": 48,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ward",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/gts.png",
+    "item_properties": {
+      "item_base": "Ward",
+      "armor_type": "medium",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 153,
+        "max": 170
+      },
+      "smite_damage": {
+        "min": 11,
+        "max": 35
+      },
+      "block_by_class": {
+        "Druid": 44,
+        "Necromancer": 44,
+        "Sorceress": 44,
+        "Amazon": 49,
+        "Assassin": 49,
+        "Barbarian": 49,
+        "Paladin": 54
+      },
+      "block_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 100,
+      "strength_requirement": 185,
+      "dexterity_requirement": 0,
+      "level_requirement": 63,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Aegis",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/tow.png",
+    "item_properties": {
+      "item_base": "Aegis",
+      "armor_type": "heavy",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 145,
+        "max": 161
+      },
+      "smite_damage": {
+        "min": 18,
+        "max": 28
+      },
+      "block_by_class": {
+        "Druid": 44,
+        "Necromancer": 44,
+        "Sorceress": 44,
+        "Amazon": 49,
+        "Assassin": 49,
+        "Barbarian": 49,
+        "Paladin": 54
+      },
+      "block_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 92,
+      "strength_requirement": 219,
+      "dexterity_requirement": 0,
+      "level_requirement": 59,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Pavise",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/tow.png",
+    "item_properties": {
+      "item_base": "Pavise",
+      "armor_type": "heavy",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 68,
+        "max": 78
+      },
+      "smite_damage": {
+        "min": 10,
+        "max": 17
+      },
+      "block_by_class": {
+        "Druid": 40,
+        "Necromancer": 40,
+        "Sorceress": 40,
+        "Amazon": 45,
+        "Assassin": 45,
+        "Barbarian": 45,
+        "Paladin": 50
+      },
+      "block_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 133,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Gothic Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/gts.png",
+    "item_properties": {
+      "item_base": "Gothic Shield",
+      "armor_type": "medium",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 30,
+        "max": 35
+      },
+      "smite_damage": {
+        "min": 2,
+        "max": 6
+      },
+      "block_by_class": {
+        "Druid": 36,
+        "Necromancer": 36,
+        "Sorceress": 36,
+        "Amazon": 41,
+        "Assassin": 41,
+        "Barbarian": 41,
+        "Paladin": 46
+      },
+      "block_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 60,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Troll Nest",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/bsh.png",
+    "item_properties": {
+      "item_base": "Troll Nest",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 158,
+        "max": 173
+      },
+      "smite_damage": {
+        "min": 24,
+        "max": 38
+      },
+      "block_by_class": {
+        "Druid": 40,
+        "Necromancer": 40,
+        "Sorceress": 40,
+        "Amazon": 45,
+        "Assassin": 45,
+        "Barbarian": 45,
+        "Paladin": 50
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 74,
+      "strength_requirement": 106,
+      "dexterity_requirement": 0,
+      "level_requirement": 57,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Barbed Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/spk.png",
+    "item_properties": {
+      "item_base": "Barbed Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 68,
+        "max": 78
+      },
+      "smite_damage": {
+        "min": 18,
+        "max": 35
+      },
+      "block_by_class": {
+        "Druid": 37,
+        "Necromancer": 37,
+        "Sorceress": 37,
+        "Amazon": 42,
+        "Assassin": 42,
+        "Barbarian": 42,
+        "Paladin": 47
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 55,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Kite Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/kit.png",
+    "item_properties": {
+      "item_base": "Kite Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 16,
+        "max": 18
+      },
+      "smite_damage": {
+        "min": 2,
+        "max": 5
+      },
+      "block_by_class": {
+        "Druid": 28,
+        "Necromancer": 28,
+        "Sorceress": 28,
+        "Amazon": 33,
+        "Assassin": 33,
+        "Barbarian": 33,
+        "Paladin": 38
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 47,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Round Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/sml.png",
+    "item_properties": {
+      "item_base": "Round Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 47,
+        "max": 55
+      },
+      "smite_damage": {
+        "min": 7,
+        "max": 14
+      },
+      "block_by_class": {
+        "Druid": 32,
+        "Necromancer": 32,
+        "Sorceress": 32,
+        "Amazon": 37,
+        "Assassin": 37,
+        "Barbarian": 37,
+        "Paladin": 42
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 62,
+      "strength_requirement": 53,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Luna",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/sml.png",
+    "item_properties": {
+      "item_base": "Luna",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 108,
+        "max": 123
+      },
+      "smite_damage": {
+        "min": 17,
+        "max": 29
+      },
+      "block_by_class": {
+        "Druid": 40,
+        "Necromancer": 40,
+        "Sorceress": 40,
+        "Amazon": 45,
+        "Assassin": 45,
+        "Barbarian": 45,
+        "Paladin": 50
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 84,
+      "strength_requirement": 100,
+      "dexterity_requirement": 0,
+      "level_requirement": 45,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Buckler",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/buc.png",
+    "item_properties": {
+      "item_base": "Buckler",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 4,
+        "max": 6
+      },
+      "smite_damage": {
+        "min": 1,
+        "max": 3
+      },
+      "block_by_class": {
+        "Druid": 20,
+        "Necromancer": 20,
+        "Sorceress": 20,
+        "Amazon": 25,
+        "Assassin": 25,
+        "Barbarian": 25,
+        "Paladin": 30
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 1
+      },
+      "durability": 12,
+      "strength_requirement": 12,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Defender",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/buc.png",
+    "item_properties": {
+      "item_base": "Defender",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 41,
+        "max": 49
+      },
+      "smite_damage": {
+        "min": 8,
+        "max": 12
+      },
+      "block_by_class": {
+        "Druid": 30,
+        "Necromancer": 30,
+        "Sorceress": 30,
+        "Amazon": 35,
+        "Assassin": 35,
+        "Barbarian": 35,
+        "Paladin": 40
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 1
+      },
+      "durability": 68,
+      "strength_requirement": 38,
+      "dexterity_requirement": 0,
+      "level_requirement": 22,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Small Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/sml.png",
+    "item_properties": {
+      "item_base": "Small Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 10
+      },
+      "smite_damage": {
+        "min": 2,
+        "max": 3
+      },
+      "block_by_class": {
+        "Druid": 25,
+        "Necromancer": 25,
+        "Sorceress": 25,
+        "Amazon": 30,
+        "Assassin": 30,
+        "Barbarian": 30,
+        "Paladin": 35
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 16,
+      "strength_requirement": 22,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Monarch",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/kit.png",
+    "item_properties": {
+      "item_base": "Monarch",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 133,
+        "max": 148
+      },
+      "smite_damage": {
+        "min": 12,
+        "max": 34
+      },
+      "block_by_class": {
+        "Druid": 42,
+        "Necromancer": 42,
+        "Sorceress": 42,
+        "Amazon": 47,
+        "Assassin": 47,
+        "Barbarian": 47,
+        "Paladin": 52
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 86,
+      "strength_requirement": 156,
+      "dexterity_requirement": 0,
+      "level_requirement": 54,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Spiked Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/spk.png",
+    "item_properties": {
+      "item_base": "Spiked Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 15,
+        "max": 25
+      },
+      "smite_damage": {
+        "min": 5,
+        "max": 9
+      },
+      "block_by_class": {
+        "Druid": 30,
+        "Necromancer": 30,
+        "Sorceress": 30,
+        "Amazon": 35,
+        "Assassin": 35,
+        "Barbarian": 35,
+        "Paladin": 40
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 30,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Grim Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/bsh.png",
+    "item_properties": {
+      "item_base": "Grim Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 50,
+        "max": 150
+      },
+      "smite_damage": {
+        "min": 14,
+        "max": 20
+      },
+      "block_by_class": {
+        "Druid": 44,
+        "Necromancer": 44,
+        "Sorceress": 44,
+        "Amazon": 49,
+        "Assassin": 49,
+        "Barbarian": 49,
+        "Paladin": 54
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 70,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Heater",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/buc.png",
+    "item_properties": {
+      "item_base": "Heater",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 95,
+        "max": 110
+      },
+      "smite_damage": {
+        "min": 16,
+        "max": 30
+      },
+      "block_by_class": {
+        "Druid": 42,
+        "Necromancer": 42,
+        "Sorceress": 42,
+        "Amazon": 47,
+        "Assassin": 47,
+        "Barbarian": 47,
+        "Paladin": 52
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 88,
+      "strength_requirement": 77,
+      "dexterity_requirement": 0,
+      "level_requirement": 43,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Tower Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/tow.png",
+    "item_properties": {
+      "item_base": "Tower Shield",
+      "armor_type": "heavy",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 22,
+        "max": 24
+      },
+      "smite_damage": {
+        "min": 1,
+        "max": 5
+      },
+      "block_by_class": {
+        "Druid": 44,
+        "Necromancer": 44,
+        "Sorceress": 44,
+        "Amazon": 49,
+        "Assassin": 49,
+        "Barbarian": 49,
+        "Paladin": 54
+      },
+      "block_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 75,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Blade Barrier",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/spk.png",
+    "item_properties": {
+      "item_base": "Blade Barrier",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 147,
+        "max": 163
+      },
+      "smite_damage": {
+        "min": 26,
+        "max": 40
+      },
+      "block_by_class": {
+        "Druid": 40,
+        "Necromancer": 40,
+        "Sorceress": 40,
+        "Amazon": 45,
+        "Assassin": 45,
+        "Barbarian": 45,
+        "Paladin": 50
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 83,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": 51,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Bone Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/bsh.png",
+    "item_properties": {
+      "item_base": "Bone Shield",
+      "armor_type": "light",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 10,
+        "max": 30
+      },
+      "smite_damage": {
+        "min": 3,
+        "max": 6
+      },
+      "block_by_class": {
+        "Druid": 40,
+        "Necromancer": 40,
+        "Sorceress": 40,
+        "Amazon": 45,
+        "Assassin": 45,
+        "Barbarian": 45,
+        "Paladin": 50
+      },
+      "block_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": 0,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ancient Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/gts.png",
+    "item_properties": {
+      "item_base": "Ancient Shield",
+      "armor_type": "medium",
+      "sub_type": "shield",
+      "class_specific": null,
+      "defense": {
+        "min": 80,
+        "max": 93
+      },
+      "smite_damage": {
+        "min": 12,
+        "max": 16
+      },
+      "block_by_class": {
+        "Druid": 36,
+        "Necromancer": 36,
+        "Sorceress": 36,
+        "Amazon": 41,
+        "Assassin": 41,
+        "Barbarian": 41,
+        "Paladin": 46
+      },
+      "block_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 80,
+      "strength_requirement": 110,
+      "dexterity_requirement": 0,
+      "level_requirement": 25,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]

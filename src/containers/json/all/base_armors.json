@@ -1,0 +1,1470 @@
+[{
+  "item_name": "Quilted Armor",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+  "item_properties": { 
+    "item_base": "Quilted Armor",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 8,
+      "max": 11
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 20,
+    "strength_requirement": 12,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Leather Armor",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+  "item_properties": { 
+    "item_base": "Leather Armor",
+    "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 14,
+      "max": 17
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 24,
+    "strength_requirement": 14,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Hard Leather Armor",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+  "item_properties": { 
+    "item_base": "Hard Leather Armor",
+    "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 21,
+      "max": 24
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 28,
+    "strength_requirement": 20,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Studded Leather",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+  "item_properties": { 
+    "item_base": "Studded Leather",
+    "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 32,
+      "max": 35
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 32,
+    "strength_requirement": 27,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Ring Mail",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+  "item_properties": { 
+    "item_base": "Ring Mail",
+    "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 45,
+      "max": 48
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 26,
+    "strength_requirement": 36,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Scale Mail",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+  "item_properties": { 
+    "item_base": "Scale Mail",
+    "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 57,
+      "max": 60
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 36,
+    "strength_requirement": 44,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Breast Plate",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+  "item_properties": { 
+    "item_base": "Breast Plate",
+    "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 65,
+      "max": 68
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 50,
+    "strength_requirement": 30,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Chain Mail",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+  "item_properties": { 
+    "item_base": "Chain Mail",
+    "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 72,
+      "max": 75
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 45,
+    "strength_requirement": 48,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Splint Mail",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+  "item_properties": { 
+    "item_base": "Splint Mail",
+    "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 90,
+      "max": 95
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 30,
+    "strength_requirement": 51,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Light Plate",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+  "item_properties": { 
+    "item_base": "Light Plate",
+    "armor_type": "light",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 90,
+      "max": 107
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 60,
+    "strength_requirement": 41,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Field Plate",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+  "item_properties": { 
+    "item_base": "Field Plate",
+    "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 101,
+      "max": 105
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 48,
+    "strength_requirement": 55,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Plate Mail",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+  "item_properties": { 
+    "item_base": "Plate Mail",
+    "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 108,
+      "max": 116
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 60,
+    "strength_requirement": 65,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Gothic Plate",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+  "item_properties": { 
+    "item_base": "Gothic Plate",
+    "armor_type": "medium",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 128,
+      "max": 135
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 55,
+    "strength_requirement": 70,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Full Plate Mail",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+  "item_properties": { 
+    "item_base": "Full Plate Mail",
+    "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 150,
+      "max": 161
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 70,
+    "strength_requirement": 80,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Ancient Armor",
+  "item_type": "armor",
+  "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+  "item_properties": { 
+    "item_base": "Ancient Armor",
+    "armor_type": "heavy",
+      "sub_type": null,
+      "class_specific": null,
+    "defense": {
+      "min": 218,
+      "max": 223
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 60,
+    "strength_requirement": 100,
+    "dexterity_requirement": 0,
+    "level_requirement": 0,
+    "item_tier": 1,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {
+  },
+  "char_mods": {
+  }
+},
+{
+  "item_name": "Ghost Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+  "item_properties": {
+    "item_base": "Ghost Armor",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 102,
+      "max": 117
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 20,
+    "strength_requirement": 38,
+    "dexterity_requirement": 0,
+    "level_requirement": 20,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Serpentskin Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+  "item_properties": {
+    "item_base": "Serpentskin Armor",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 111,
+      "max": 126
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 24,
+    "strength_requirement": 43,
+    "dexterity_requirement": 0,
+    "level_requirement": 24,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Demonhide Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+  "item_properties": {
+    "item_base": "Demonhide Armor",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 122,
+      "max": 136
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 28,
+    "strength_requirement": 50,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Trellised Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+  "item_properties": {
+    "item_base": "Trellised Armor",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 138,
+      "max": 153
+    },
+    "sockets": {
+      "min": 0,
+      "max": 2
+    },
+    "durability": 32,
+    "strength_requirement": 61,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Linked Mail",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+  "item_properties": {
+    "item_base": "Linked Mail",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 158,
+      "max": 172
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 26,
+    "strength_requirement": 74,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Tigulated Mail",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+  "item_properties": {
+    "item_base": "Tigulated Mail",
+    "armor_type": "heavy",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 176,
+      "max": 190
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 36,
+    "strength_requirement": 86,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Cuirass",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+  "item_properties": {
+    "item_base": "Cuirass",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 188,
+      "max": 202
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 50,
+    "strength_requirement": 65,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Mesh Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+  "item_properties": {
+    "item_base": "Mesh Armor",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 198,
+      "max": 213
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 45,
+    "strength_requirement": 92,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Russet Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+  "item_properties": {
+    "item_base": "Russet Armor",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 225,
+      "max": 243
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 30,
+    "strength_requirement": 97,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Mage Plate",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+  "item_properties": {
+    "item_base": "Mage Plate",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 225,
+      "max": 261
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 60,
+    "strength_requirement": 55,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Sharktooth Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+  "item_properties": {
+    "item_base": "Sharktooth Armor",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 242,
+      "max": 258
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 48,
+    "strength_requirement": 103,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Templar Coat",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+  "item_properties": {
+    "item_base": "Templar Coat",
+    "armor_type": "heavy",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 252,
+      "max": 274
+    },
+    "sockets": {
+      "min": 0,
+      "max": 3
+    },
+    "durability": 60,
+    "strength_requirement": 118,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Embossed Plate",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+  "item_properties": {
+    "item_base": "Embossed Plate",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 282,
+      "max": 303
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 55,
+    "strength_requirement": 125,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Chaos Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+  "item_properties": {
+    "item_base": "Chaos Armor",
+    "armor_type": "heavy",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 315,
+      "max": 342
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 70,
+    "strength_requirement": 140,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Ornate Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+  "item_properties": {
+    "item_base": "Ornate Armor",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 417,
+      "max": 450
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 60,
+    "strength_requirement": 170,
+    "dexterity_requirement": 0,
+    "level_requirement": 25,
+    "item_tier": 2,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Dusk Shroud",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+  "item_properties": {
+    "item_base": "Dusk Shroud",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 361,
+      "max": 467
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 20,
+    "strength_requirement": 77,
+    "dexterity_requirement": 0,
+    "level_requirement": 49,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Wyrmhide",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+  "item_properties": {
+    "item_base": "Wyrmhide",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 364,
+      "max": 470
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 24,
+    "strength_requirement": 84,
+    "dexterity_requirement": 0,
+    "level_requirement": 50,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Scarab Husk",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+  "item_properties": {
+    "item_base": "Scarab Husk",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 369,
+      "max": 474
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 28,
+    "strength_requirement": 95,
+    "dexterity_requirement": 0,
+    "level_requirement": 51,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Wire Fleece",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+  "item_properties": {
+    "item_base": "Wire Fleece",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 375,
+      "max": 481
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 32,
+    "strength_requirement": 111,
+    "dexterity_requirement": 0,
+    "level_requirement": 53,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Diamond Mail",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+  "item_properties": {
+    "item_base": "Diamond Mail",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 383,
+      "max": 489
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 26,
+    "strength_requirement": 131,
+    "dexterity_requirement": 0,
+    "level_requirement": 54,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Loricated Mail",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+  "item_properties": {
+    "item_base": "Loricated Mail",
+    "armor_type": "heavy",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 390,
+      "max": 496
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 36,
+    "strength_requirement": 149,
+    "dexterity_requirement": 0,
+    "level_requirement": 55,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Great Hauberk",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+  "item_properties": {
+    "item_base": "Great Hauberk",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 395,
+      "max": 501
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 50,
+    "strength_requirement": 118,
+    "dexterity_requirement": 0,
+    "level_requirement": 56,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Boneweave",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+  "item_properties": {
+    "item_base": "Boneweave",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 399,
+      "max": 505
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 45,
+    "strength_requirement": 158,
+    "dexterity_requirement": 0,
+    "level_requirement": 47,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Balrog Skin",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+  "item_properties": {
+    "item_base": "Balrog Skin",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 410,
+      "max": 517
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 30,
+    "strength_requirement": 165,
+    "dexterity_requirement": 0,
+    "level_requirement": 57,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Archon Plate",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+  "item_properties": {
+    "item_base": "Archon Plate",
+    "armor_type": "light",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 410,
+      "max": 524
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 60,
+    "strength_requirement": 103,
+    "dexterity_requirement": 0,
+    "level_requirement": 63,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Kraken Shell",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+  "item_properties": {
+    "item_base": "Kraken Shell",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 417,
+      "max": 523
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 48,
+    "strength_requirement": 174,
+    "dexterity_requirement": 0,
+    "level_requirement": 61,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Hellforge Plate",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+  "item_properties": {
+    "item_base": "Hellforge Plate",
+    "armor_type": "heavy",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 421,
+      "max": 530
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 60,
+    "strength_requirement": 196,
+    "dexterity_requirement": 0,
+    "level_requirement": 59,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Lacquered Plate",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+  "item_properties": {
+    "item_base": "Lacquered Plate",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 433,
+      "max": 541
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 55,
+    "strength_requirement": 208,
+    "dexterity_requirement": 0,
+    "level_requirement": 62,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Shadow Plate",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+  "item_properties": {
+    "item_base": "Shadow Plate",
+    "armor_type": "heavy",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 446,
+      "max": 557
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 70,
+    "strength_requirement": 230,
+    "dexterity_requirement": 0,
+    "level_requirement": 64,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+},
+{
+  "item_name": "Sacred Armor",
+  "item_type": "armor",
+  "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+  "item_properties": {
+    "item_base": "Sacred Armor",
+    "armor_type": "medium",
+    "sub_type": null,
+    "class_specific": null,
+    "defense": {
+      "min": 487,
+      "max": 600
+    },
+    "sockets": {
+      "min": 0,
+      "max": 4
+    },
+    "durability": 60,
+    "strength_requirement": 232,
+    "dexterity_requirement": 0,
+    "level_requirement": 66,
+    "item_tier": 3,
+    "rarity_type": 1,
+    "quality_modifier": {
+      "low_quality": false,
+      "superior": false,
+      "ethereal": false
+    }
+  },
+  "item_mods": {},
+  "char_mods": {}
+}]

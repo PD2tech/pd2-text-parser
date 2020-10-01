@@ -1,0 +1,236 @@
+[
+  {
+    "item_name": "Maiden Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am3.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Maiden Spear",
+      "sub_type": "spear",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 18,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 28,
+      "strength_requirement": 54,
+      "dexterity_requirement": 40,
+      "level_requirement": 14,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Maiden Pike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am4.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Maiden Pike",
+      "sub_type": "spear",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 23,
+        "max": 55
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": 10,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 25,
+      "strength_requirement": 63,
+      "dexterity_requirement": 53,
+      "level_requirement": 20,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ceremonial Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am3.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ceremonial Spear",
+      "sub_type": "spear",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 34,
+        "max": 51
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 28,
+      "strength_requirement": 101,
+      "dexterity_requirement": 80,
+      "level_requirement": 32,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ceremonial Pike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am4.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ceremonial Pike",
+      "sub_type": "spear",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 42,
+        "max": 101
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": 20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 25,
+      "strength_requirement": 115,
+      "dexterity_requirement": 98,
+      "level_requirement": 38,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Matriarchal Spear",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am3.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Matriarchal Spear",
+      "sub_type": "spear",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 65,
+        "max": 95
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 28,
+      "strength_requirement": 114,
+      "dexterity_requirement": 142,
+      "level_requirement": 45,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+    },
+    "char_mods": {}
+  },
+  {
+    "item_name": "Matriarchal Pike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am4.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Matriarchal Pike",
+      "sub_type": "spear",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 37,
+        "max": 153
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": 20,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 25,
+      "strength_requirement": 132,
+      "dexterity_requirement": 149,
+      "level_requirement": 60,
+      "item_tier": 3,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+    },
+    "char_mods": {}
+  }
+]

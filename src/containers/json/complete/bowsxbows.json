@@ -1,0 +1,1954 @@
+[
+  {
+    "item_name": "Pluckeye",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Short Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 1,
+        "max": 4
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "strength_requirement": 0,
+      "dexterity_requirement": 15,
+      "level_requirement": "7",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "28",
+        "max": "28"
+      },
+      "life": {
+        "min": "10",
+        "max": "10"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      },
+      "mana_stolen_per_hit": {
+        "min": "3",
+        "max": "3"
+      },
+      "mana_after_kill": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Witherstring",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/hbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Hunter's Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 2,
+        "max": 6
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "strength_requirement": 0,
+      "dexterity_requirement": 28,
+      "level_requirement": "13",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "min_damage": {
+        "min": "1",
+        "max": "1"
+      },
+      "max_damage": {
+        "min": "3",
+        "max": "3"
+      },
+      "magicarrow": {
+        "min": "3",
+        "max": "3"
+      },
+      "enhanced_damage": {
+        "min": "40",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "attack_rating": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Rimeraven",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Long Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 10
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 22,
+      "dexterity_requirement": 19,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "explosivearrow": {
+        "min": "3",
+        "max": "3"
+      },
+      "enhanced_damage": {
+        "min": "60",
+        "max": "70"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "50",
+        "max": "50"
+      },
+      "dexterity": {
+        "min": "3",
+        "max": "3"
+      },
+      "strength": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Piercerib",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/cbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Composite Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 4,
+        "max": 8
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "strength_requirement": 25,
+      "dexterity_requirement": 35,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "increased_damage_undead": {
+        "min": "100",
+        "max": "100"
+      },
+      "enhanced_damage": {
+        "min": "40",
+        "max": "60"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "deadly_strike": {
+        "min": "30",
+        "max": "30"
+      },
+      "attack_rating": {
+        "min": "60",
+        "max": "60"
+      },
+      "increased_attack_speed": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Pullspite",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Short Battle Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 5,
+        "max": 11
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 30,
+      "dexterity_requirement": 40,
+      "level_requirement": "25",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "30"
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "90"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "8",
+        "max": "8"
+      },
+      "attack_rating": {
+        "min": "28",
+        "max": "28"
+      },
+      "chance_to_pierce": {
+        "min": "25",
+        "max": "25"
+      },
+      "lightning_resist": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Wizendraw",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Long Battle Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 18
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 40,
+      "dexterity_requirement": 50,
+      "level_requirement": "26",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "magicarrow": {
+        "min": "5",
+        "max": "5"
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "char_mods": {
+      "mana": {
+        "min": "30",
+        "max": "30"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "cold_resist": {
+        "min": "26",
+        "max": "26"
+      },
+      "attack_rating": {
+        "min": "50",
+        "max": "100"
+      },
+      "energy": {
+        "min": "15",
+        "max": "15"
+      },
+      "enemy_cold_resistance": {
+        "min": "20",
+        "max": "35"
+      }
+    }
+  },
+  {
+    "item_name": "Hellclap",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/swb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Short War Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 14
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 35,
+      "dexterity_requirement": 55,
+      "level_requirement": "27",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "min_fire_damage": {
+        "min": "15",
+        "max": "15"
+      },
+      "max_fire_damage": {
+        "min": "30",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "90"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "attack_rating": {
+        "min": "50",
+        "max": "75"
+      },
+      "fire_resist": {
+        "min": "40",
+        "max": "40"
+      },
+      "dexterity": {
+        "min": "12",
+        "max": "12"
+      },
+      "fire_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Blastbark",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lwb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Long War Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 23
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 50,
+      "dexterity_requirement": 65,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "70",
+        "max": "130"
+      }
+    },
+    "char_mods": {
+      "strength": {
+        "min": "5",
+        "max": "5"
+      },
+      "amazon_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "mana_stolen_per_hit": {
+        "min": "3",
+        "max": "3"
+      },
+      "exploding_arrow": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Leadcrow",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/lxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Light Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 9
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "strength_requirement": 21,
+      "dexterity_requirement": 27,
+      "level_requirement": "9",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "70",
+        "max": "70"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "life": {
+        "min": "10",
+        "max": "10"
+      },
+      "poison_resist": {
+        "min": "30",
+        "max": "30"
+      },
+      "deadly_strike": {
+        "min": "25",
+        "max": "25"
+      },
+      "attack_rating": {
+        "min": "40",
+        "max": "40"
+      }
+    }
+  },
+  {
+    "item_name": "Ichorsting",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/mxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 9,
+        "max": 16
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "strength_requirement": 40,
+      "dexterity_requirement": 33,
+      "level_requirement": "18",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "102",
+        "max": "102"
+      },
+      "enhanced_damage": {
+        "min": "50",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "chance_to_pierce": {
+        "min": "50",
+        "max": "50"
+      },
+      "attack_rating": {
+        "min": "50",
+        "max": "50"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Hellcast",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/hxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Heavy Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 20
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 60,
+      "dexterity_requirement": 40,
+      "level_requirement": "27",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "explosivearrow": {
+        "min": "5",
+        "max": "5"
+      },
+      "enhanced_damage": {
+        "min": "70",
+        "max": "80"
+      },
+      "added_fire_damage": {
+        "min": "15",
+        "max": "35"
+      }
+    },
+    "char_mods": {
+      "max_fire_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "fire_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "attack_rating": {
+        "min": "70",
+        "max": "70"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Doomspittle",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/rxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Repeating Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 12
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -40,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 50,
+      "dexterity_requirement": 50,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "60",
+        "max": "100"
+      }
+    },
+    "char_mods": {
+      "amazon_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "chance_to_pierce": {
+        "min": "35",
+        "max": "35"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "life": {
+        "min": "15",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Skystrike",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Edge Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 19
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 5,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "strength_requirement": 25,
+      "dexterity_requirement": 43,
+      "level_requirement": "28",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "250"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "2",
+        "skill_level": "6",
+        "skill": "Meteor"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "100",
+        "max": "100"
+      },
+      "energy": {
+        "min": "10",
+        "max": "10"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "amazon_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Riphook",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/hbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Razor Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 22
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "strength_requirement": 25,
+      "dexterity_requirement": 62,
+      "level_requirement": "31",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "180",
+        "max": "220"
+      },
+      "slow_target": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "open_wounds": {
+        "min": "30",
+        "max": "30"
+      },
+      "mana": {
+        "min": "35",
+        "max": "35"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "life_stolen_per_hit": {
+        "min": "7",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Kuko Shakaku",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Cedar Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 29
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 53,
+      "dexterity_requirement": 49,
+      "level_requirement": "33",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "explosivearrow": {
+        "min": "7",
+        "max": "7"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "180"
+      },
+      "added_fire_damage": {
+        "min": "40",
+        "max": "180"
+      }
+    },
+    "char_mods": {
+      "immolation_arrow": {
+        "min": "3",
+        "max": "3"
+      },
+      "chance_to_pierce": {
+        "min": "50",
+        "max": "50"
+      },
+      "bow_and_crossbow": {
+        "min": "3",
+        "max": "3"
+      }
+    }
+  },
+  {
+    "item_name": "Endless Hail",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/cbw.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Double Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 11,
+        "max": 26
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "strength_requirement": 58,
+      "dexterity_requirement": 73,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense_vs_missles": {
+        "min": "50",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "180",
+        "max": "220"
+      }
+    },
+    "char_mods": {
+      "cold_resist": {
+        "min": "35",
+        "max": "35"
+      },
+      "mana": {
+        "min": "40",
+        "max": "40"
+      },
+      "strafe": {
+        "min": "3",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Whichwild String",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Short Siege Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 30
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 65,
+      "dexterity_requirement": 80,
+      "level_requirement": "39",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "cast_on_hit": {
+        "chance_to_cast": "2",
+        "skill_level": "5",
+        "skill": "Amplify Damage"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "170"
+      },
+      "magicarrow": {
+        "min": "20",
+        "max": "20"
+      },
+      "sockets": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "char_mods": {
+      "all_resist": {
+        "min": "40",
+        "max": "40"
+      },
+      "deadly_strike_perlevel": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Cliffkiller",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Large Siege Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 42
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 85,
+      "dexterity_requirement": 95,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "190",
+        "max": "230"
+      },
+      "defense_vs_missles": {
+        "min": "80",
+        "max": "80"
+      },
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "min_damage": {
+        "min": "5",
+        "max": "10"
+      },
+      "max_damage": {
+        "min": "20",
+        "max": "30"
+      }
+    },
+    "char_mods": {
+      "amazon_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "life": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Magewrath",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/swb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Rune Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 35
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 73,
+      "dexterity_requirement": 103,
+      "level_requirement": "43",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "blind_target": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "25",
+        "max": "50"
+      },
+      "enhanced_damage": {
+        "min": "120",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "15",
+        "max": "15"
+      },
+      "magic_damage_reduction": {
+        "min": "9",
+        "max": "13"
+      },
+      "guided_arrow": {
+        "min": "3",
+        "max": "3"
+      },
+      "attack_rating": {
+        "min": "200",
+        "max": "250"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "amazon_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Godstrike Arch",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lwb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Gothic Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 50
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 95,
+      "dexterity_requirement": 118,
+      "level_requirement": "46",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "200",
+        "max": "250"
+      },
+      "increased_damage_undead": {
+        "min": "100",
+        "max": "200"
+      },
+      "increased_damage_demon": {
+        "min": "100",
+        "max": "200"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "5",
+        "skill_level": "7",
+        "skill": "Fist of the Heavens"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "100",
+        "max": "150"
+      },
+      "increased_attack_speed": {
+        "min": "50",
+        "max": "50"
+      },
+      "life_replenish": {
+        "min": "12",
+        "max": "12"
+      }
+    }
+  },
+  {
+    "item_name": "Langer Briser",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/lxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Arbalest",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 27
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "strength_requirement": 52,
+      "dexterity_requirement": 61,
+      "level_requirement": "32",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "170",
+        "max": "200"
+      },
+      "max_damage": {
+        "min": "10",
+        "max": "30"
+      },
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "212"
+      }
+    },
+    "char_mods": {
+      "magic_find": {
+        "min": "30",
+        "max": "60"
+      },
+      "life": {
+        "min": "30",
+        "max": "30"
+      },
+      "open_wounds": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Pus Spiter",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/mxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Siege Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 20,
+        "max": 42
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "strength_requirement": 80,
+      "dexterity_requirement": 70,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "192",
+        "max": "192"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "4",
+        "skill_level": "1",
+        "skill": "Lower Resist"
+      },
+      "reduced_requirements": {
+        "min": "-60",
+        "max": "-60"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "9",
+        "skill_level": "6",
+        "skill": "Poison Nova"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "220"
+      }
+    },
+    "char_mods": {
+      "necromancer_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "increased_attack_speed": {
+        "min": "10",
+        "max": "10"
+      },
+      "attack_rating_per_level": {
+        "min": "5",
+        "max": "5"
+      }
+    }
+  },
+  {
+    "item_name": "Buriza-Do Kyanon",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/hxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ballista",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 35,
+        "max": 55
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 110,
+      "dexterity_requirement": 80,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "75",
+        "max": "150"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "freeze_target": {
+        "min": "3",
+        "max": "3"
+      },
+      "max_damage_per_level": {
+        "min": "2.5",
+        "max": "2.5"
+      }
+    },
+    "char_mods": {
+      "chance_to_pierce": {
+        "min": "100",
+        "max": "100"
+      },
+      "dexterity": {
+        "min": "35",
+        "max": "35"
+      },
+      "increased_attack_speed": {
+        "min": "80",
+        "max": "80"
+      }
+    }
+  },
+  {
+    "item_name": "Demon Machine",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/rxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Chu-Ko-Nu",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 32
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -60,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 80,
+      "dexterity_requirement": 95,
+      "level_requirement": "49",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "defense": {
+        "min": "321",
+        "max": "321"
+      },
+      "explosivearrow": {
+        "min": "6",
+        "max": "6"
+      },
+      "max_damage": {
+        "min": "66",
+        "max": "66"
+      },
+      "enhanced_damage": {
+        "min": "123",
+        "max": "123"
+      }
+    },
+    "char_mods": {
+      "mana": {
+        "min": "36",
+        "max": "36"
+      },
+      "chance_to_pierce": {
+        "min": "66",
+        "max": "66"
+      },
+      "attack_rating": {
+        "min": "632",
+        "max": "632"
+      }
+    }
+  },
+  {
+    "item_name": "Eaglehorn",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Crusader Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 63
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 97,
+      "dexterity_requirement": 121,
+      "level_requirement": "69",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "200"
+      },
+      "max_damage_per_level_percent": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "char_mods": {
+      "attack_rating_per_level": {
+        "min": "6",
+        "max": "6"
+      },
+      "amazon_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "dexterity": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "Windforce",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lwb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Hydra Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 68
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 134,
+      "dexterity_requirement": 167,
+      "level_requirement": "73",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "250",
+        "max": "250"
+      },
+      "max_damage_per_level": {
+        "min": "3.125",
+        "max": "3.125"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "5",
+        "max": "5"
+      },
+      "stamina_regen": {
+        "min": "30",
+        "max": "30"
+      },
+      "mana_stolen_per_hit": {
+        "min": "6",
+        "max": "8"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Lycander's Aim",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am2.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ceremonial Bow",
+      "sub_type": "bow",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 19,
+        "max": 41
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 73,
+      "dexterity_requirement": 110,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "enhanced_defense": {
+        "min": "20",
+        "max": "20"
+      },
+      "added_damage": {
+        "min": "25",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "amazon_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "bow_and_crossbow": {
+        "min": "2",
+        "max": "2"
+      },
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "mana_stolen_per_hit": {
+        "min": "5",
+        "max": "8"
+      }
+    }
+  },
+  {
+    "item_name": "Gutsiphon",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/rxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Demon Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 26,
+        "max": 40
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -60,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 141,
+      "dexterity_requirement": 98,
+      "level_requirement": "71",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "160",
+        "max": "220"
+      },
+      "slow_target": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "char_mods": {
+      "chance_to_pierce": {
+        "min": "33",
+        "max": "33"
+      },
+      "life_stolen_per_hit": {
+        "min": "12",
+        "max": "18"
+      },
+      "open_wounds": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Hellrack",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/hxb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Colossus Crossbow",
+      "sub_type": "crossbow",
+      "class_specific": null,
+      "damage": {
+        "min": 32,
+        "max": 91
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 10,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "strength_requirement": 163,
+      "dexterity_requirement": 77,
+      "level_requirement": "76",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "180",
+        "max": "230"
+      },
+      "sockets": {
+        "min": "2",
+        "max": "2"
+      },
+      "charged_skill": {
+        "min": "150",
+        "max": "18"
+      },
+      "added_ele_damage": {
+        "min": "63",
+        "max": "324"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "20",
+        "max": "20"
+      },
+      "attack_rating_percent": {
+        "min": "100",
+        "max": "150"
+      }
+    }
+  },
+  {
+    "item_name": "Widowmaker",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/swb.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ward Bow",
+      "sub_type": "bow",
+      "class_specific": null,
+      "damage": {
+        "min": 20,
+        "max": 53
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": 0,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 72,
+      "dexterity_requirement": 146,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "magicarrow": {
+        "min": "11",
+        "max": "11"
+      },
+      "non_class_skill": {
+        "min": "3",
+        "max": "5"
+      }
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Bloodraven's Charge",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am1.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Matriarchal Bow",
+      "sub_type": "bow",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 20,
+        "max": 47
+      },
+      "damage_bonus": {
+        "dexterity_bonus": 1
+      },
+      "weapon_speed": -10,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "strength_requirement": 87,
+      "dexterity_requirement": 187,
+      "level_requirement": "71",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "180",
+        "max": "230"
+      },
+      "explosivearrow": {
+        "min": "13",
+        "max": "13"
+      },
+      "charged_skill": {
+        "min": "30",
+        "max": "5"
+      }
+    },
+    "char_mods": {
+      "attack_rating_percent": {
+        "min": "200",
+        "max": "300"
+      },
+      "bow_and_crossbow": {
+        "min": "2",
+        "max": "4"
+      }
+    }
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "item_name": "Gull",
+    "item_base": "Dagger",
+    "item_level": "6",
+    "level_requirement": "4",
+    "item_mods": {
+      "min_damage": {
+        "min": "1",
+        "max": "1"
+      },
+      "max_damage": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "char_mods": {
+      "magic_find": {
+        "min": "100",
+        "max": "100"
+      },
+      "mana": {
+        "min": "-5",
+        "max": "-5"
+      }
+    }
+  },
+  {
+    "item_name": "The Diggler",
+    "item_base": "Dirk",
+    "item_level": "15",
+    "level_requirement": "11",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "50",
+        "max": "50"
+      },
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "cold_resist": {
+        "min": "25",
+        "max": "25"
+      },
+      "fire_resist": {
+        "min": "25",
+        "max": "25"
+      }
+    }
+  },
+  {
+    "item_name": "The Jade Tan Do",
+    "item_base": "Kris",
+    "item_level": "26",
+    "level_requirement": "19",
+    "item_mods": {
+      "added_poison_damage": {
+        "min": "460",
+        "max": "460"
+      }
+    },
+    "char_mods": {
+      "attack_rating": {
+        "min": "100",
+        "max": "150"
+      },
+      "cannot_be_frozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "poison_resist": {
+        "min": "95",
+        "max": "95"
+      },
+      "max_poison_resist": {
+        "min": "20",
+        "max": "20"
+      }
+    }
+  },
+  {
+    "item_name": "Irices Shard",
+    "item_base": "Blade",
+    "item_level": "34",
+    "level_requirement": "25",
+    "item_mods": {},
+    "char_mods": {
+      "faster_cast_rate": {
+        "min": "50",
+        "max": "50"
+      },
+      "mana": {
+        "min": "50",
+        "max": "50"
+      },
+      "attack_rating": {
+        "min": "55",
+        "max": "55"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      }
+    }
+  },
+  {
+    "item_name": "Spineripper",
+    "item_base": "Poignard",
+    "item_level": "40",
+    "level_requirement": "32",
+    "item_mods": {
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "enhanced_damage": {
+        "min": "200",
+        "max": "240"
+      },
+      "added_damage": {
+        "min": "15",
+        "max": "27"
+      }
+    },
+    "char_mods": {
+      "life_stolen_per_hit": {
+        "min": "8",
+        "max": "8"
+      },
+      "increased_attack_speed": {
+        "min": "15",
+        "max": "15"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "necromancer_skills": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Heart Carver",
+    "item_base": "Rondel",
+    "item_level": "44",
+    "level_requirement": "36",
+    "item_mods": {
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_damage": {
+        "min": "15",
+        "max": "35"
+      },
+      "enhanced_damage": {
+        "min": "190",
+        "max": "240"
+      }
+    },
+    "char_mods": {
+      "deadly_strike": {
+        "min": "35",
+        "max": "35"
+      },
+      "find_potion": {
+        "min": "4",
+        "max": "4"
+      },
+      "find_item": {
+        "min": "4",
+        "max": "4"
+      },
+      "grim_ward": {
+        "min": "4",
+        "max": "4"
+      }
+    }
+  },
+  {
+    "item_name": "Blackbog's Sharp",
+    "item_base": "Cinquedeas",
+    "item_level": "46",
+    "level_requirement": "38",
+    "item_mods": {
+      "slow_target": {
+        "min": "50",
+        "max": "50"
+      },
+      "defense": {
+        "min": "50",
+        "max": "50"
+      },
+      "added_damage": {
+        "min": "15",
+        "max": "45"
+      },
+      "added_poison_damage": {
+        "min": "500",
+        "max": "500"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "30",
+        "max": "30"
+      },
+      "poison_dagger": {
+        "min": "5",
+        "max": "5"
+      },
+      "poison_explosion": {
+        "min": "4",
+        "max": "4"
+      },
+      "poison_nova": {
+        "min": "4",
+        "max": "4"
+      }
+    }
+  },
+  {
+    "item_name": "Stormspike",
+    "item_base": "Stiletto",
+    "item_level": "49",
+    "level_requirement": "41",
+    "item_mods": {
+      "added_lightning_damage": {
+        "min": "1",
+        "max": "120"
+      },
+      "attacker_takes_lightning": {
+        "min": "20",
+        "max": "20"
+      },
+      "cast_when_struck": {
+        "chance_to_cast": "25",
+        "skill_level": "3",
+        "skill": "Charged Bolt"
+      },
+      "enhanced_damage": {
+        "min": "150",
+        "max": "150"
+      }
+    },
+    "char_mods": {
+      "resist_lightning_per_level": {
+        "min": "1",
+        "max": "1"
+      }
+    }
+  },
+  {
+    "item_name": "Wizardspike",
+    "item_base": "Bone Knife",
+    "item_level": "69",
+    "level_requirement": "61",
+    "item_mods": {
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "mana_per_level": {
+        "min": "2",
+        "max": "2"
+      },
+      "mana_regen": {
+        "min": "15",
+        "max": "15"
+      },
+      "mana_percent": {
+        "min": "15",
+        "max": "15"
+      },
+      "all_resist": {
+        "min": "75",
+        "max": "75"
+      },
+      "faster_cast_rate": {
+        "min": "50",
+        "max": "50"
+      }
+    }
+  },
+  {
+    "item_name": "Fleshripper",
+    "item_base": "Fanged Knife",
+    "item_level": "76",
+    "level_requirement": "68",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "200",
+        "max": "300"
+      },
+      "reduce_target_ar": {
+        "min": "50",
+        "max": "50"
+      },
+      "prevent_monster_heal": {
+        "min": "1",
+        "max": "1"
+      },
+      "slow_target": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {
+      "crushing_blow": {
+        "min": "25",
+        "max": "25"
+      },
+      "open_wounds": {
+        "min": "50",
+        "max": "50"
+      },
+      "deadly_strike": {
+        "min": "33",
+        "max": "33"
+      }
+    }
+  },
+  {
+    "item_name": "Ghostflame",
+    "item_base": "Legend Spike",
+    "item_level": "70",
+    "level_requirement": "62",
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "190",
+        "max": "240"
+      },
+      "ignore_target_defense": {
+        "min": "1",
+        "max": "1"
+      },
+      "added_magic_damage": {
+        "min": "108",
+        "max": "108"
+      },
+      "ethereal": {
+        "min": "1",
+        "max": "1"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "10",
+        "max": "15"
+      },
+      "light_radius": {
+        "min": "2",
+        "max": "2"
+      }
+    }
+  }
+]

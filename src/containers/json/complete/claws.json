@@ -1,0 +1,275 @@
+[
+  {
+    "item_name": "Bartuc's Cut Throat",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Runic Talons",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 24,
+        "max": 44
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -30,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 69,
+      "strength_requirement": 115,
+      "dexterity_requirement": 115,
+      "level_requirement": "42",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "150",
+        "max": "200"
+      },
+      "added_damage": {
+        "min": "25",
+        "max": "50"
+      }
+    },
+    "char_mods": {
+      "assassin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "martial_arts": {
+        "min": "1",
+        "max": "1"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "attack_rating_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "life_stolen_per_hit": {
+        "min": "5",
+        "max": "9"
+      }
+    }
+  },
+  {
+    "item_name": "Jadetalon",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_properties": {
+      "item_base": "Wrist Sword",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 34,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 56,
+      "strength_requirement": 105,
+      "dexterity_requirement": 105,
+      "level_requirement": "66",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "190",
+        "max": "240"
+      }
+    },
+    "char_mods": {
+      "mana_stolen_per_hit": {
+        "min": "10",
+        "max": "15"
+      },
+      "all_resist": {
+        "min": "40",
+        "max": "50"
+      },
+      "faster_hit_recovery": {
+        "min": "30",
+        "max": "30"
+      },
+      "shadow_disciplines": {
+        "min": "1",
+        "max": "2"
+      },
+      "martial_arts": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  },
+  {
+    "item_name": "Shadowkiller",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_properties": {
+      "item_base": "Battle Cestus",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 36,
+        "max": 42
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 72,
+      "strength_requirement": 110,
+      "dexterity_requirement": 110,
+      "level_requirement": "78",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "170",
+        "max": "220"
+      },
+      "reduce_target_ar": {
+        "min": "25",
+        "max": "25"
+      },
+      "freeze_target": {
+        "min": "2",
+        "max": "2"
+      },
+      "cast_on_hit": {
+        "chance_to_cast": "33",
+        "skill_level": "8",
+        "skill": "Frost Nova"
+      },
+      "ethereal": {
+        "min": "1",
+        "max": "1"
+      },
+      "indestructible": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "char_mods": {
+      "mana_after_kill": {
+        "min": "10",
+        "max": "15"
+      }
+    }
+  },
+  {
+    "item_name": "Firelizard's Talons",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_properties": {
+      "item_base": "Feral Claws",
+      "sub_type": "claw",
+      "class_specific": "Assassin",
+      "damage": {
+        "min": 22,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -20,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 52,
+      "strength_requirement": 113,
+      "dexterity_requirement": 113,
+      "level_requirement": "67",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "enhanced_damage": {
+        "min": "200",
+        "max": "270"
+      },
+      "added_fire_damage": {
+        "min": "236",
+        "max": "480"
+      }
+    },
+    "char_mods": {
+      "increased_attack_speed": {
+        "min": "15",
+        "max": "15"
+      },
+      "martial_arts": {
+        "min": "1",
+        "max": "3"
+      },
+      "fire_resist": {
+        "min": "40",
+        "max": "70"
+      },
+      "wake_of_fire_sentry": {
+        "min": "1",
+        "max": "2"
+      },
+      "inferno_sentry": {
+        "min": "1",
+        "max": "2"
+      }
+    }
+  }
+]

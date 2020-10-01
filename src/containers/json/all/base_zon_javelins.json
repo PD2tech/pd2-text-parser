@@ -1,0 +1,113 @@
+[
+  {
+    "item_name": "Maiden Javelin",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_properties": {
+      "item_base": "Maiden Javelin",
+      "sub_type": "javelin",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 6,
+        "max": 22
+      },
+      "melee_damage": {
+        "min": 8,
+        "max": 14
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 33,
+      "dexterity_requirement": 47,
+      "level_requirement": 17,
+      "item_tier": 1,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Ceremonial Javelin",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_properties": {
+      "item_base": "Ceremonial Javelin",
+      "sub_type": "javelin",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 18,
+        "max": 54
+      },
+      "melee_damage": {
+        "min": 18,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 25,
+      "dexterity_requirement": 109,
+      "level_requirement": 26,
+      "item_tier": 2,
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  },
+  {
+    "item_name": "Matriarchal Javelin",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_properties": {
+      "item_base": "Matriarchal Javelin",
+      "sub_type": "javelin",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 35,
+        "max": 66
+      },
+      "melee_damage": {
+        "min": 30,
+        "max": 54
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 107,
+      "dexterity_requirement": 151,
+      "level_requirement": 48,
+      "item_tier": "elite",
+      "rarity_type": 1,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {},
+    "char_mods": {}
+  }
+]
