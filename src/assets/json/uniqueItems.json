@@ -8004,9 +8004,6 @@
     "max5": "50"
   },
   {
-    "index": "Gore Ripper"
-  },
-  {
     "index": "Demonlimb",
     "lvl": "71",
     "lvl req": "63",
@@ -8204,9 +8201,6 @@
     "max7": "2"
   },
   {
-    "index": "Zakarum's Salvation"
-  },
-  {
     "index": "Fleshripper",
     "lvl": "76",
     "lvl req": "68",
@@ -8234,9 +8228,6 @@
     "prop7": "slow",
     "min7": "20",
     "max7": "20"
-  },
-  {
-    "index": "Odium"
   },
   {
     "index": "Horizon's Tornado",
@@ -8532,10 +8523,6 @@
     "prop5": "indestruct",
     "min5": "1",
     "max5": "1"
-  },
-  {
-    "index": "Larzuk's Champion",
-    "invfile": "invhfh"
   },
   {
     "index": "Wisp",
@@ -9082,9 +9069,6 @@
     "max7": "4"
   },
   {
-    "index": "Giantmaimer"
-  },
-  {
     "index": "Demon's Arch",
     "lvl": "76",
     "lvl req": "68",
@@ -9255,12 +9239,6 @@
     "max10": "-30"
   },
   {
-    "index": "Darkfear",
-    "code": "ulm",
-    "*type": "armet",
-    "invfile": "invhlmu"
-  },
-  {
     "index": "Dragonscale",
     "lvl": "84",
     "lvl req": "80",
@@ -9405,9 +9383,6 @@
     "par7": "Bone Wall",
     "min7": "2",
     "max7": "3"
-  },
-  {
-    "index": "Nethercrow"
   },
   {
     "index": "Flamebellow",
@@ -9658,9 +9633,6 @@
     "par7": "Battle Command",
     "min7": "1",
     "max7": "2"
-  },
-  {
-    "index": "Warriv's Warder"
   },
   {
     "index": "Spike Thorn",
@@ -9931,9 +9903,6 @@
     "max8": "3"
   },
   {
-    "index": "Merman's Speed"
-  },
-  {
     "index": "Arachnid Mesh",
     "lvl": "87",
     "lvl req": "80",
@@ -10032,9 +10001,6 @@
     "prop6": "regen",
     "min6": "10",
     "max6": "13"
-  },
-  {
-    "index": "Sigurd's Staunch"
   },
   {
     "index": "Carrion Wind",

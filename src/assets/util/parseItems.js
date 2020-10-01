@@ -3,6 +3,7 @@ import skills from "../json/skillIds.json";
 import uniqueItems from "../json/uniqueItems.json";
 import properties from "../json/properties.json";
 import itemstat from "../json/itemstat.json";
+import { descfuncStr1, descfuncStr2, descfuncCustom } from "./descfuncs";
 
 // import { itemstat } from "../text/itemstat";
 
@@ -190,7 +191,7 @@ export const parseItems = () => {
             val === "levelup-skill"
           ) {
             const found = skills.find(
-              (skill) => skill.id === item[`par${propNum}`]
+              (skill) => skill.Id === item[`par${propNum}`]
             );
             let type_string = "";
             if (val === "hit-skill") {
@@ -202,9 +203,9 @@ export const parseItems = () => {
             } else if (val === "kill-skill") {
               type_string = "When You Kill An Enemy";
             } else if (val === "death-skill") {
-              type_string = "When You Level Up";
-            } else if (val === "levleup-skill") {
               type_string = "When You Die";
+            } else if (val === "levelup-skill") {
+              type_string = "When You Level Up";
             }
             if (found === undefined) {
               newPropName = val.toLowerCase().replace(/-/g, "_");
@@ -276,33 +277,125 @@ export const parseItems = () => {
             newPropName = newPropName.stat1;
             const min = item[`min${propNum}`];
             const max = item[`max${propNum}`];
-            acc[newPropName] = {
-              min: min,
-              max: max,
-            };
+            let val = 0;
+            if (min === undefined && max === undefined) {
+              if (
+                newPropName === "item_tohit_perlevel" ||
+                newPropName === "item_tohit_undead_perlevel" ||
+                newPropName === "item_tohit_demon_perlevel"
+              ) {
+                val = val = parseInt(item[`par${propNum}`]) / 2;
+              } else {
+                val = parseInt(item[`par${propNum}`]) / 8;
+              }
+            }
+
+            if (newPropName === "item_numsockets") {
+              if (min === undefined && max === undefined) {
+                acc[newPropName] = {
+                  min: item[`par${propNum}`],
+                  max: item[`par${propNum}`],
+                };
+              } else {
+                acc[newPropName] = {
+                  min: min,
+                  max: max,
+                };
+              }
+            } else if (
+              newPropName === "item_find_gold_perlevel" ||
+              newPropName === "item_find_magic_perlevel" ||
+              newPropName === "item_strength_perlevel" ||
+              newPropName === "item_dexterity_perlevel" ||
+              newPropName === "item_energy_perlevel" ||
+              newPropName === "item_vitality_perlevel" ||
+              newPropName === "item_armor_perlevel" ||
+              newPropName === "item_hp_perlevel" ||
+              newPropName === "item_mana_perlevel" ||
+              newPropName === "item_maxdamage_perlevel" ||
+              newPropName === "item_maxdamage_percent_perlevel" ||
+              newPropName === "item_tohit_perlevel" ||
+              newPropName === "item_tohit_undead_perlevel" ||
+              newPropName === "item_damage_undead_perlevel" ||
+              newPropName === "item_tohit_demon_perlevel" ||
+              newPropName === "item_deadlystrike_perlevel" ||
+              newPropName === "item_resist_ltng_perlevel" ||
+              newPropName === "item_damage_demon_perlevel" ||
+              newPropName === "item_stamina_perlevel" ||
+              newPropName === "item_thorns_perlevel" ||
+              newPropName === "item_absorb_fire_perlevel" ||
+              newPropName === "item_absorb_cold_perlevel"
+            ) {
+              acc[newPropName] = {
+                min: val,
+                max: val,
+              };
+            }
+            // skill charges
+            else if (newPropName === "item_charged_skill") {
+              const found = skills.find(
+                (skill) => skill.Id === item[`par${propNum}`]
+              );
+              if (found === undefined) {
+                acc[newPropName] = {
+                  skill: item[`par${propNum}`],
+                  charges: min,
+                  skill_level: max,
+                };
+                const string = `Level ${max} ${
+                  item[`par${propNum}`]
+                } (${min} Charges)`;
+                property_strings.push(string);
+              } else {
+                acc[newPropName] = {
+                  skill: found.skill,
+                  charges: min,
+                  skill_level: max,
+                };
+                const string = `Level ${max} ${found.skill} (${min} Charges)`;
+                property_strings.push(string);
+              }
+            } else {
+              acc[newPropName] = {
+                min: min,
+                max: max,
+              };
+            }
 
             const itemstatObj = itemstat.find(
               (obj) => obj.Stat === newPropName
             );
-            if (itemstatObj !== undefined) {
+            if (newPropName === "item_numsockets") {
+              const string =
+                min !== max
+                  ? `Sockets (${min}-${max})`
+                  : `Sockets (${item[`par${propNum}`]})`;
+              property_strings.push(string);
+            } else if (itemstatObj !== undefined) {
               const foundString = allStrings.find(
                 (str) => str.id === itemstatObj.descstrpos
               );
               if (foundString !== undefined) {
-                // need to redo this and add proper descfunc + descval stuff
+                //
                 if (itemstatObj.descval === "0") {
                   property_strings.push(foundString.str);
                 } else if (itemstatObj.descval === "1") {
-                  const string =
-                    min !== max
-                      ? `+${min}-${max} ${foundString.str}`
-                      : `+${min} ${foundString.str}`;
+                  const string = descfuncStr1(
+                    itemstatObj.descfunc,
+                    min,
+                    max,
+                    foundString.str,
+                    val
+                  );
                   property_strings.push(string);
                 } else if (itemstatObj.descval === "2") {
-                  const string =
-                    min !== max
-                      ? `${min}-${max}% ${foundString.str}`
-                      : `${min}% ${foundString.str}`;
+                  const string = descfuncStr2(
+                    itemstatObj.descfunc,
+                    min,
+                    max,
+                    foundString.str,
+                    val
+                  );
                   property_strings.push(string);
                 } else {
                   // only skill charges left here
@@ -311,92 +404,8 @@ export const parseItems = () => {
               }
             } else {
               // custom added property naming handling
-              if (newPropName === "item_damage_percent") {
-                const string =
-                  min !== max
-                    ? `+${min}-${max} Enhanced Damage`
-                    : `+${min} Enhanced Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "all_attributes") {
-                const string =
-                  min !== max
-                    ? `+${min}-${max} To All Attributes`
-                    : `+${min} To All Attributes`;
-                property_strings.push(string);
-              } else if (newPropName === "all_resist") {
-                const string =
-                  min !== max
-                    ? `All Resistances +${min}-${max}`
-                    : `All Resistances +${min}`;
-                property_strings.push(string);
-              } else if (newPropName === "all_resist_max") {
-                const string = `+${min} To Maximum Poison Resist\n
-                +${min} To Maximum Cold Resist\n
-                +${min} To Maximum Lightning Resist\n
-                +${min} To Maximum Fire Resist`;
-
-                property_strings.push(string);
-              } else if (newPropName === "firedmg_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Fire Damage`
-                    : `Adds ${min} Fire Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "lightdmg_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Lightning Damage`
-                    : `Adds ${min} Lightning Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "colddmg_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Cold Damage`
-                    : `Adds ${min} Cold Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "poisondmg_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Poison Damage`
-                    : `Adds ${min} Poison Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "damage_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Damage`
-                    : `Adds ${min} Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "damage_min") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Minimum Damage`
-                    : `Adds ${min} Minimum Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "damage_max") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Maximum Damage`
-                    : `Adds ${min} Maximum Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "magicdmg_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Magic Damage`
-                    : `Adds ${min} Magic Damage`;
-                property_strings.push(string);
-              } else if (newPropName === "eledmg_flat") {
-                const string =
-                  min !== max
-                    ? `Adds ${min}-${max} Fire Damage\n
-                    Adds ${min}-${max} Lightning Damage\n
-                    Adds ${min}-${max} Cold Damage`
-                    : `Adds ${min} Fire Damage\n
-                    Adds ${min} Lightning Damage\n
-                    Adds ${min} Cold Damage`;
-                property_strings.push(string);
-              } else {
-                console.log(newPropName);
-              }
+              const string = descfuncCustom(newPropName, min, max);
+              property_strings.push(string);
             }
           } else {
             newPropName = val;
@@ -411,38 +420,13 @@ export const parseItems = () => {
               property_strings.push("Indestructible");
             } else if (val === "ethereal") {
               property_strings.push("Ethereal");
+            } else if (val === "item_numsockets") {
+              const string =
+                min !== max ? `Sockets (${min}-${max})` : `Sockets (${min})`;
+              property_strings.push(string);
             } else {
               console.log(val);
             }
-
-            // const itemstatObj = itemstat.find(
-            //   (obj) => obj.Stat === newPropName
-            // );
-            // if (itemstatObj !== undefined) {
-            //   const foundString = allStrings.find(
-            //     (str) => str.id === itemstatObj.descstrpos
-            //   );
-            //   if (foundString !== undefined) {
-            //     if (itemstatObj.descval === "0") {
-            //       property_strings.push(foundString.str);
-            //     } else if (itemstatObj.descval === "1") {
-            //       const string =
-            //         min !== max
-            //           ? `+${min}-${max} ${foundString.str}`
-            //           : `+${min} ${foundString.str}`;
-            //       property_strings.push(string);
-            //     } else if (itemstatObj.descval === "2") {
-            //       const string =
-            //         min !== max
-            //           ? `${min}-${max}% ${foundString.str}`
-            //           : `${min}% ${foundString.str}`;
-            //       property_strings.push(string);
-            //     } else {
-            //       console.log(foundString.str);
-            //     }
-            //   }
-            // }
-            //
           }
         }
       }
