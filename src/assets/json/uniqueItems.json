@@ -3280,9 +3280,6 @@
     "max7": "0"
   },
   {
-    "index": "Expansion"
-  },
-  {
     "index": "Coldkill",
     "lvl": "44",
     "lvl req": "36",
@@ -5405,9 +5402,6 @@
     "max7": "632"
   },
   {
-    "index": "Armor"
-  },
-  {
     "index": "Peasent Crown",
     "lvl": "36",
     "lvl req": "28",
@@ -6687,9 +6681,6 @@
     "max9": "3"
   },
   {
-    "index": "Elite Uniques"
-  },
-  {
     "index": "Harlequin Crest",
     "lvl": "69",
     "lvl req": "62",
@@ -7262,9 +7253,6 @@
     "max8": "10"
   },
   {
-    "index": "Rings"
-  },
-  {
     "index": "Bul Katho's Wedding Band",
     "lvl": "66",
     "lvl req": "58",
@@ -7506,9 +7494,6 @@
     "prop6": "vit",
     "min6": "12",
     "max6": "12"
-  },
-  {
-    "index": "Class Specific"
   },
   {
     "index": "Arreat's Face",

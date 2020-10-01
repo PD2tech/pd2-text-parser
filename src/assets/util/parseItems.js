@@ -4,6 +4,7 @@ import uniqueItems from "../json/uniqueItems.json";
 import properties from "../json/properties.json";
 import itemstat from "../json/itemstat.json";
 import { descfuncStr1, descfuncStr2, descfuncCustom } from "./descfuncs";
+import { classDescfunc } from "./classdescfuncs";
 
 // import { itemstat } from "../text/itemstat";
 
@@ -59,13 +60,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Amazon Skill Levels`
-                : `+${item[`min${propNum}`]} to Amazon Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // Assassin
           else if (val === "ass") {
@@ -75,13 +71,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Assassin Skill Levels`
-                : `+${item[`min${propNum}`]} to Assassin Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // Barbarian
           else if (val === "bar") {
@@ -91,13 +82,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Barbarian Skill Levels`
-                : `+${item[`min${propNum}`]} to Barbarian Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // Druid
           else if (val === "dru") {
@@ -107,13 +93,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Druid Skill Levels`
-                : `+${item[`min${propNum}`]} to Druid Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // Necromancer
           else if (val === "nec") {
@@ -123,13 +104,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Necromancer Skill Levels`
-                : `+${item[`min${propNum}`]} to Necromancer Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // Paladin
           else if (val === "pal") {
@@ -139,13 +115,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Paladin Skill Levels`
-                : `+${item[`min${propNum}`]} to Paladin Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // Sorceress
           else if (val === "sor") {
@@ -155,13 +126,8 @@ export const parseItems = () => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } to Sorceress Skill Levels`
-                : `+${item[`min${propNum}`]} to Sorceress Skill Levels`;
-            property_strings.push(string);
+            const string = classDescfunc(val, min, max);
+            property_strings.push({ order: "150", string: string });
           }
           // aura on item
           else if (val === "aura") {
@@ -175,10 +141,8 @@ export const parseItems = () => {
             };
             const string =
               min !== max
-                ? `+${item[`min${propNum}`]}-${
-                    item[`max${propNum}`]
-                  } ${skill} When Equipped`
-                : `+${item[`min${propNum}`]} ${skill} When Equipped`;
+                ? `+${min}-${max} ${skill} When Equipped`
+                : `+${min} ${skill} When Equipped`;
             property_strings.push(string);
           }
           // chance to cast
@@ -222,7 +186,7 @@ export const parseItems = () => {
               const string = `${ctc}% Chance To Cast Level ${lvl} ${
                 item[`par${propNum}`]
               } ${type_string}`;
-              property_strings.push(string);
+              property_strings.push({ order: "160", string: string });
             } else {
               newPropName = val.toLowerCase().replace(/-/g, "_");
               const skill = found.skill.toLowerCase().replace(/ /g, "_");
@@ -234,7 +198,7 @@ export const parseItems = () => {
                 skill: skill,
               };
               const string = `${ctc}% Chance To Cast Level ${lvl} ${found.skill} ${type_string}`;
-              property_strings.push(string);
+              property_strings.push({ order: "160", string: string });
             }
           }
           // individual skills or skill trees
@@ -256,7 +220,7 @@ export const parseItems = () => {
                 min !== max
                   ? `+${min}-${max} To ${item[`par${propNum}`]}`
                   : `+${min} To ${item[`par${propNum}`]}`;
-              property_strings.push(string);
+              property_strings.push({ order: "81", string: string });
             } else {
               newPropName = found.skill.toLowerCase().replace(/ /g, "_");
               const min = item[`min${propNum}`];
@@ -269,7 +233,7 @@ export const parseItems = () => {
                 min !== max
                   ? `+${min}-${max} To ${found.skill}`
                   : `+${min} To ${found.skill}`;
-              property_strings.push(string);
+              property_strings.push({ order: "81", string: string });
             }
           }
           // individual properties
@@ -345,7 +309,7 @@ export const parseItems = () => {
                 const string = `Level ${max} ${
                   item[`par${propNum}`]
                 } (${min} Charges)`;
-                property_strings.push(string);
+                property_strings.push({ order: "1", string: string });
               } else {
                 acc[newPropName] = {
                   skill: found.skill,
@@ -353,7 +317,7 @@ export const parseItems = () => {
                   skill_level: max,
                 };
                 const string = `Level ${max} ${found.skill} (${min} Charges)`;
-                property_strings.push(string);
+                property_strings.push({ order: "1", string: string });
               }
             } else {
               acc[newPropName] = {
@@ -361,24 +325,32 @@ export const parseItems = () => {
                 max: max,
               };
             }
-
+            // has descstr, descfun, descpriority
             const itemstatObj = itemstat.find(
               (obj) => obj.Stat === newPropName
             );
+
             if (newPropName === "item_numsockets") {
               const string =
                 min !== max
                   ? `Sockets (${min}-${max})`
                   : `Sockets (${item[`par${propNum}`]})`;
-              property_strings.push(string);
+              property_strings.push({ order: "0", string: string });
             } else if (itemstatObj !== undefined) {
               const foundString = allStrings.find(
                 (str) => str.id === itemstatObj.descstrpos
               );
+              let itemStrOrder = itemstatObj.descpriority;
+              if (itemStrOrder === undefined) {
+                itemStrOrder = 0;
+              }
               if (foundString !== undefined) {
                 //
                 if (itemstatObj.descval === "0") {
-                  property_strings.push(foundString.str);
+                  property_strings.push({
+                    order: itemStrOrder,
+                    string: foundString.str,
+                  });
                 } else if (itemstatObj.descval === "1") {
                   const string = descfuncStr1(
                     itemstatObj.descfunc,
@@ -387,7 +359,10 @@ export const parseItems = () => {
                     foundString.str,
                     val
                   );
-                  property_strings.push(string);
+                  property_strings.push({
+                    order: itemStrOrder,
+                    string: string,
+                  });
                 } else if (itemstatObj.descval === "2") {
                   const string = descfuncStr2(
                     itemstatObj.descfunc,
@@ -396,7 +371,10 @@ export const parseItems = () => {
                     foundString.str,
                     val
                   );
-                  property_strings.push(string);
+                  property_strings.push({
+                    order: itemStrOrder,
+                    string: string,
+                  });
                 } else {
                   // only skill charges left here
                   console.log(foundString.str);
@@ -405,7 +383,7 @@ export const parseItems = () => {
             } else {
               // custom added property naming handling
               const string = descfuncCustom(newPropName, min, max);
-              property_strings.push(string);
+              property_strings.push({ order: "159", string: string });
             }
           } else {
             newPropName = val;
@@ -417,13 +395,13 @@ export const parseItems = () => {
             };
 
             if (val === "indestruct") {
-              property_strings.push("Indestructible");
+              property_strings.push({ order: "160", string: "Indestructible" });
             } else if (val === "ethereal") {
-              property_strings.push("Ethereal");
+              property_strings.push({ order: "160", string: "Ethereal" });
             } else if (val === "item_numsockets") {
               const string =
                 min !== max ? `Sockets (${min}-${max})` : `Sockets (${min})`;
-              property_strings.push(string);
+              property_strings.push({ order: "160", string: string });
             } else {
               console.log(val);
             }
@@ -432,6 +410,7 @@ export const parseItems = () => {
       }
       return acc;
     }, {});
+    property_strings.sort((a, b) => b.order - a.order);
     return { item_name, item_base, ...reduced, property_strings };
   });
 };
