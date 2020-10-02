@@ -41,6 +41,7 @@ export const parseItems = () => {
       str_obj_name !== undefined ? str_obj_name.str : item.index;
     const str_obj_base = allStrings.find((str) => str.id === item.code);
     const item_base = str_obj_base !== undefined ? str_obj_base.str : item.code;
+    const level_requirement = item["lvl req"];
 
     const property_strings = [];
     const entries = Object.entries(item);
@@ -143,7 +144,7 @@ export const parseItems = () => {
               min !== max
                 ? `+${min}-${max} ${skill} When Equipped`
                 : `+${min} ${skill} When Equipped`;
-            property_strings.push(string);
+            property_strings.push({ order: "159", string: string });
           }
           // chance to cast
           else if (
@@ -352,17 +353,20 @@ export const parseItems = () => {
                     string: foundString.str,
                   });
                 } else if (itemstatObj.descval === "1") {
-                  const string = descfuncStr1(
-                    itemstatObj.descfunc,
-                    min,
-                    max,
-                    foundString.str,
-                    val
-                  );
-                  property_strings.push({
-                    order: itemStrOrder,
-                    string: string,
-                  });
+                  // have to remove undead and add string/value in with combined bases because of modifer on blunt weapons
+                  if (newPropName !== "item_undeaddamage_percent") {
+                    const string = descfuncStr1(
+                      itemstatObj.descfunc,
+                      min,
+                      max,
+                      foundString.str,
+                      val
+                    );
+                    property_strings.push({
+                      order: itemStrOrder,
+                      string: string,
+                    });
+                  }
                 } else if (itemstatObj.descval === "2") {
                   const string = descfuncStr2(
                     itemstatObj.descfunc,
@@ -376,7 +380,6 @@ export const parseItems = () => {
                     string: string,
                   });
                 } else {
-                  // only skill charges left here
                   console.log(foundString.str);
                 }
               }
@@ -411,6 +414,12 @@ export const parseItems = () => {
       return acc;
     }, {});
     property_strings.sort((a, b) => b.order - a.order);
-    return { item_name, item_base, ...reduced, property_strings };
+    return {
+      item_name,
+      item_base,
+      level_requirement,
+      item_mods: { ...reduced },
+      property_strings,
+    };
   });
 };

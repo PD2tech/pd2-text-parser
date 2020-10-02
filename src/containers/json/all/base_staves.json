@@ -34,7 +34,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -76,7 +76,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -118,7 +118,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -160,7 +160,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -202,7 +202,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -244,7 +244,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -286,7 +286,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -328,7 +328,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -370,7 +370,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -412,7 +412,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -454,7 +454,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -496,7 +496,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -538,7 +538,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -580,7 +580,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
@@ -622,7 +622,7 @@
       }
     },
     "item_mods": {
-      "increased_damage_undead": {
+      "item_undeaddamage_percent": {
         "min": 50,
         "max": 50
       }
