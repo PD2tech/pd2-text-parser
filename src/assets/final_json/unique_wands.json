@@ -1,0 +1,1032 @@
+[
+  {
+    "item_name": "Torch of Iro",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/wnd.png",
+    "item_properties": {
+      "item_base": "Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 2,
+        "max": 4
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 1
+      },
+      "durability": 15,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "necromancer_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "lifedrainmindam": {
+        "min": "6",
+        "max": "6"
+      },
+      "firedmg_flat": {
+        "min": "5",
+        "max": "9"
+      },
+      "item_lightradius": {
+        "min": "3",
+        "max": "3"
+      },
+      "energy": {
+        "min": "10",
+        "max": "10"
+      },
+      "manarecoverybonus": {
+        "min": "5",
+        "max": "5"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 5-9 Fire Damage"
+      },
+      {
+        "order": "150",
+        "string": "+1 to Necromancer Skill Levels"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "88",
+        "string": "6% Life stolen per hit"
+      },
+      {
+        "order": "61",
+        "string": "+10 to Energy"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 5%"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Maelstrom",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/ywn.png",
+    "item_properties": {
+      "item_base": "Yew Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 2,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 1
+      },
+      "durability": 15,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "lightmindam": {
+        "min": "1",
+        "max": "1"
+      },
+      "lightmaxdam": {
+        "min": "9",
+        "max": "9"
+      },
+      "lightresist": {
+        "min": "40",
+        "max": "40"
+      },
+      "maxmana": {
+        "min": "13",
+        "max": "13"
+      },
+      "item_fastercastrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "corpse_explosion": {
+        "min": "1",
+        "max": "3"
+      },
+      "terror": {
+        "min": "1",
+        "max": "3"
+      },
+      "amplify_damage": {
+        "min": "1",
+        "max": "3"
+      },
+      "iron_maiden": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "142",
+        "string": "+30% Faster Cast Rate"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "99",
+        "string": "+1 to Minimum Lightning Damage"
+      },
+      {
+        "order": "98",
+        "string": "+9 to Maximum Lightning Damage"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Corpse Explosion"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Terror"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Amplify Damage"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Iron Maiden"
+      },
+      {
+        "order": "55",
+        "string": "+13 to Mana"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +40%"
+      }
+    ]
+  },
+  {
+    "item_name": "Gravenspine",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/bwn.png",
+    "item_properties": {
+      "item_base": "Bone Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 7
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 15,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "coldmindam": {
+        "min": "4",
+        "max": "4"
+      },
+      "coldmaxdam": {
+        "min": "8",
+        "max": "8"
+      },
+      "coldlength": {
+        "min": "75",
+        "max": "75"
+      },
+      "manadrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "necromancer_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "maxmana": {
+        "min": "25",
+        "max": "50"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+2 to Necromancer Skill Levels"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "96",
+        "string": "+4 to Minimum Cold Damage"
+      },
+      {
+        "order": "95",
+        "string": "+8 to Maximum Cold Damage"
+      },
+      {
+        "order": "89",
+        "string": "5% Mana stolen per hit"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+10 to Dexterity"
+      },
+      {
+        "order": "55",
+        "string": "+25-50 to Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Ume's Lament",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/gwn.png",
+    "item_properties": {
+      "item_base": "Grim Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 5,
+        "max": 11
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 15,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "necromancer_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "maxmana": {
+        "min": "40",
+        "max": "40"
+      },
+      "item_fastercastrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_howl": {
+        "min": "64",
+        "max": "64"
+      },
+      "terror": {
+        "min": "3",
+        "max": "3"
+      },
+      "decrepify": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+2 to Necromancer Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+20% Faster Cast Rate"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Terror"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Decrepify"
+      },
+      {
+        "order": "79",
+        "string": "Hit Causes Monster To Flee 64%"
+      },
+      {
+        "order": "55",
+        "string": "+40 to Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Suicide Branch",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/wnd.png",
+    "item_properties": {
+      "item_base": "Burnt Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 18
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 1
+      },
+      "durability": 15,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "33",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_attackertakesdamage": {
+        "min": "25",
+        "max": "25"
+      },
+      "item_fastercastrate": {
+        "min": "50",
+        "max": "50"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_maxmana_percent": {
+        "min": "10",
+        "max": "10"
+      },
+      "maxhp": {
+        "min": "40",
+        "max": "40"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +10"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+50% Faster Cast Rate"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "59",
+        "string": "+40 to Life"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 10%"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 25"
+      }
+    ]
+  },
+  {
+    "item_name": "Carin Shard",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/ywn.png",
+    "item_properties": {
+      "item_base": "Petrified Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 1
+      },
+      "durability": 15,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "35",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_hp_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "item_fastercastrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_mana_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "hpregen": {
+        "min": "5",
+        "max": "5"
+      },
+      "necromancer_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "summoning_necro": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+1 to Necromancer Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+10% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Summoning Necro"
+      },
+      {
+        "order": "57",
+        "string": "+1.25-124 to Life (Based On Character level)"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +5"
+      },
+      {
+        "order": "53",
+        "string": "+1.25-124 to Mana (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Arm of King Leoric",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/bwn.png",
+    "item_properties": {
+      "item_base": "Tomb Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 22
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 15,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "summoning_necro": {
+        "min": "2",
+        "max": "2"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "10",
+        "skill_level": "2",
+        "skill": "bone_prison"
+      },
+      "item_mana_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "item_fastercastrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "poison_and_bone": {
+        "min": "2",
+        "max": "2"
+      },
+      "terror": {
+        "min": "2",
+        "max": "2"
+      },
+      "raise_skeletal_mage": {
+        "min": "2",
+        "max": "2"
+      },
+      "skeleton_mastery": {
+        "min": "3",
+        "max": "3"
+      },
+      "raise_skeleton": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 10 Bone Spirit When Struck"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 2 Bone Prison When Struck"
+      },
+      {
+        "order": "142",
+        "string": "+10% Faster Cast Rate"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Summoning Necro"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Poison and Bone"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Terror"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Raise Skeletal Mage"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Skeleton Mastery"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Raise Skeleton"
+      },
+      {
+        "order": "53",
+        "string": "+1.25-124 to Mana (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Blackhand Key",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/gwn.png",
+    "item_properties": {
+      "item_base": "Grave Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 29
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 15,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "curses": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_damagetomana": {
+        "min": "20",
+        "max": "20"
+      },
+      "maxhp": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_lightradius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "item_fastercastrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "fireresist": {
+        "min": "37",
+        "max": "37"
+      },
+      "necromancer_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_charged_skill": {
+        "skill": "Grim Ward",
+        "charges": "30",
+        "skill_level": "13"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+2 to Necromancer Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+30% Faster Cast Rate"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+1 To Curses"
+      },
+      {
+        "order": "59",
+        "string": "+50 to Life"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +37%"
+      },
+      {
+        "order": "11",
+        "string": "20% Damage Taken Goes To Mana"
+      },
+      {
+        "order": "6",
+        "string": "+-2 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Grim Ward (30 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Death's Web",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/gwn.png",
+    "item_properties": {
+      "item_base": "Unearthed Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 22,
+        "max": 28
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "66",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_allskills": {
+        "min": "2",
+        "max": "2"
+      },
+      "passive_pois_pierce": {
+        "min": "40",
+        "max": "50"
+      },
+      "item_healafterkill": {
+        "min": "7",
+        "max": "12"
+      },
+      "item_manaafterkill": {
+        "min": "7",
+        "max": "12"
+      },
+      "poison_and_bone": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "88",
+        "string": "-40-50% to Enemy Poison Resistance"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Poison and Bone"
+      },
+      {
+        "order": "16",
+        "string": "+7-12 Life after each Kill"
+      },
+      {
+        "order": "16",
+        "string": "+7-12 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Boneshade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/bwn.png",
+    "item_properties": {
+      "item_base": "Lich Wand",
+      "sub_type": "wand",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 31
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -20,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 17,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "79",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "necromancer_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_fastercastrate": {
+        "min": "25",
+        "max": "25"
+      },
+      "teeth": {
+        "min": "4",
+        "max": "5"
+      },
+      "bone_armor": {
+        "min": "4",
+        "max": "5"
+      },
+      "bone_spear": {
+        "min": "2",
+        "max": "3"
+      },
+      "bone_spirit": {
+        "min": "1",
+        "max": "2"
+      },
+      "bone_wall": {
+        "min": "2",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+2 to Necromancer Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+25% Faster Cast Rate"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+4-5 To Teeth"
+      },
+      {
+        "order": "81",
+        "string": "+4-5 To Bone Armor"
+      },
+      {
+        "order": "81",
+        "string": "+2-3 To Bone Spear"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Bone Spirit"
+      },
+      {
+        "order": "81",
+        "string": "+2-3 To Bone Wall"
+      }
+    ]
+  }
+]

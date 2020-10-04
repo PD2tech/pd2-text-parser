@@ -31,28 +31,32 @@ import { classDescfunc } from "./classdescfuncs";
 //   return firstResult;
 // };
 
-// code === str-id get str value
-// if key contains prop and key's value === skill, find skill name by par === skill id
-
 export const parseItems = () => {
   return uniqueItems.map((item) => {
+    // finds an object from allStrings.json where the string object id matches the item index from uniqueItems (for item name like Mara's).
     const str_obj_name = allStrings.find((str) => str.id === item.index);
+    // if no object is found, just sets the name as the item index
     const item_name =
       str_obj_name !== undefined ? str_obj_name.str : item.index;
+    // finds object in allStrings.json where the string object id matches the item code (for item base like Berseker Axe)
     const str_obj_base = allStrings.find((str) => str.id === item.code);
+    // if no object is found, just sets the base as the item code
     const item_base = str_obj_base !== undefined ? str_obj_base.str : item.code;
+    // level requirement for unique item
     const level_requirement = item["lvl req"];
-
+    // start of property strings array for descriptions of mods
     const property_strings = [];
     const entries = Object.entries(item);
+
     const reduced = entries.reduce((acc, [key, val]) => {
       if (key.includes("prop")) {
+        // matches prop columns from uniques with the property code from properties.json
+        // and finds the property object
         let newPropName = properties.find((prop) => prop.code === val);
+        // cuts off "prop" to get the number to use for maching other columns from uniques
         const propNum = key.slice(4);
-
+        // some property names have to be added themselves like class skill trees
         if (newPropName !== undefined) {
-          // property naming for class skills
-
           // Amazon
           if (val === "ama") {
             const min = item[`min${propNum}`];
@@ -207,6 +211,7 @@ export const parseItems = () => {
             const found = skills.find(
               (skill) => skill.Id === item[`par${propNum}`]
             );
+            // if undefined because some columns have the skill name for the parameter
             if (found === undefined) {
               newPropName = item[`par${propNum}`]
                 .toLowerCase()
@@ -222,7 +227,9 @@ export const parseItems = () => {
                   ? `+${min}-${max} To ${item[`par${propNum}`]}`
                   : `+${min} To ${item[`par${propNum}`]}`;
               property_strings.push({ order: "81", string: string });
-            } else {
+            }
+            // if it isn't undefined, finds the skill with the id from parameter
+            else {
               newPropName = found.skill.toLowerCase().replace(/ /g, "_");
               const min = item[`min${propNum}`];
               const max = item[`max${propNum}`];
@@ -238,34 +245,26 @@ export const parseItems = () => {
             }
           }
           // individual properties
+          // if the property object does have a stat1 value
           else if (newPropName.stat1 !== undefined) {
             newPropName = newPropName.stat1;
             const min = item[`min${propNum}`];
             const max = item[`max${propNum}`];
+            // have to do some math for the per level mods
             let val = 0;
+            // per level properties don't have the min and max values
             if (min === undefined && max === undefined) {
+              // attack rating per level mods parameters have to be divided by 2
               if (
                 newPropName === "item_tohit_perlevel" ||
                 newPropName === "item_tohit_undead_perlevel" ||
                 newPropName === "item_tohit_demon_perlevel"
               ) {
                 val = val = parseInt(item[`par${propNum}`]) / 2;
-              } else {
-                val = parseInt(item[`par${propNum}`]) / 8;
               }
-            }
-
-            if (newPropName === "item_numsockets") {
-              if (min === undefined && max === undefined) {
-                acc[newPropName] = {
-                  min: item[`par${propNum}`],
-                  max: item[`par${propNum}`],
-                };
-              } else {
-                acc[newPropName] = {
-                  min: min,
-                  max: max,
-                };
+              // the other per level mod parameters are divided by 8
+              else {
+                val = parseInt(item[`par${propNum}`]) / 8;
               }
             } else if (
               newPropName === "item_find_gold_perlevel" ||
@@ -296,11 +295,36 @@ export const parseItems = () => {
                 max: val,
               };
             }
+            // ************ need to revisit the sockets ************
+            else if (newPropName === "item_numsockets") {
+              if (min === undefined && max === undefined) {
+                const min = item[`par${propNum}`];
+                const max = item[`par${propNum}`];
+                acc[newPropName] = {
+                  min: min,
+                  max: max,
+                };
+                const string =
+                  min !== max
+                    ? `Sockets (${min}-${max})`
+                    : `Sockets (${item[`par${propNum}`]})`;
+                property_strings.push({ order: "0", string: string });
+              } else {
+                acc[newPropName] = {
+                  min: min,
+                  max: max,
+                };
+                const string =
+                  min !== max ? `Sockets (${min}-${max})` : `Sockets (${min})`;
+                property_strings.push({ order: "0", string: string });
+              }
+            }
             // skill charges
             else if (newPropName === "item_charged_skill") {
               const found = skills.find(
                 (skill) => skill.Id === item[`par${propNum}`]
               );
+              // if the skill isn't found by id then the skill name is the parameter
               if (found === undefined) {
                 acc[newPropName] = {
                   skill: item[`par${propNum}`],
@@ -311,7 +335,9 @@ export const parseItems = () => {
                   item[`par${propNum}`]
                 } (${min} Charges)`;
                 property_strings.push({ order: "1", string: string });
-              } else {
+              }
+              // otherwise, use the found skill name by the id
+              else {
                 acc[newPropName] = {
                   skill: found.skill,
                   charges: min,
@@ -331,13 +357,7 @@ export const parseItems = () => {
               (obj) => obj.Stat === newPropName
             );
 
-            if (newPropName === "item_numsockets") {
-              const string =
-                min !== max
-                  ? `Sockets (${min}-${max})`
-                  : `Sockets (${item[`par${propNum}`]})`;
-              property_strings.push({ order: "0", string: string });
-            } else if (itemstatObj !== undefined) {
+            if (itemstatObj !== undefined) {
               const foundString = allStrings.find(
                 (str) => str.id === itemstatObj.descstrpos
               );
@@ -401,10 +421,6 @@ export const parseItems = () => {
               property_strings.push({ order: "160", string: "Indestructible" });
             } else if (val === "ethereal") {
               property_strings.push({ order: "160", string: "Ethereal" });
-            } else if (val === "item_numsockets") {
-              const string =
-                min !== max ? `Sockets (${min}-${max})` : `Sockets (${min})`;
-              property_strings.push({ order: "160", string: string });
             } else {
               console.log(val);
             }

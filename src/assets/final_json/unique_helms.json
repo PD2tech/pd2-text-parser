@@ -1,0 +1,2638 @@
+[
+  {
+    "item_name": "Biggin's Bonnet",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "Cap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 3,
+        "max": 5
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "3",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "maxhp": {
+        "min": "15",
+        "max": "15"
+      },
+      "tohit": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_damage_percent": {
+        "min": "30",
+        "max": "30"
+      },
+      "maxmana": {
+        "min": "15",
+        "max": "15"
+      },
+      "armorclass": {
+        "min": "14",
+        "max": "14"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+30% Enhanced Damage"
+      },
+      {
+        "order": "115",
+        "string": "+30 to Attack Rating"
+      },
+      {
+        "order": "71",
+        "string": "+14 Defense"
+      },
+      {
+        "order": "59",
+        "string": "+15 to Life"
+      },
+      {
+        "order": "55",
+        "string": "+15 to Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Tarnhelm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Skull Cap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 11
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 15,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_goldbonus": {
+        "min": "75",
+        "max": "75"
+      },
+      "item_magicbonus": {
+        "min": "25",
+        "max": "50"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "10",
+        "string": "75% extra gold from monsters"
+      },
+      {
+        "order": "8",
+        "string": "25-50% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Coif of Glory",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 15,
+        "max": 18
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 26,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_attackertakeslightdamage": {
+        "min": "7",
+        "max": "7"
+      },
+      "item_stupidity": {
+        "min": "1",
+        "max": "1"
+      },
+      "lightresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "armorclass_vs_missile": {
+        "min": "100",
+        "max": "100"
+      },
+      "armorclass": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "80",
+        "string": "Hit blinds target +1"
+      },
+      {
+        "order": "71",
+        "string": "+10 Defense"
+      },
+      {
+        "order": "69",
+        "string": "+100 Defense vs. Missile"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +15%"
+      },
+      {
+        "order": "14",
+        "string": "Attacker Takes Lightning Damage of 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Duskdeep",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Full Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 23,
+        "max": 26
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 41,
+      "dexterity_requirement": 0,
+      "level_requirement": "17",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_lightradius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "all_resist": {
+        "min": "15",
+        "max": "15"
+      },
+      "normal_damage_reduction": {
+        "min": "7",
+        "max": "7"
+      },
+      "damage_max": {
+        "min": "8",
+        "max": "8"
+      },
+      "armorclass": {
+        "min": "10",
+        "max": "20"
+      },
+      "item_armor_percent": {
+        "min": "30",
+        "max": "50"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +15"
+      },
+      {
+        "order": "159",
+        "string": "Adds 8 Maximum Damage"
+      },
+      {
+        "order": "74",
+        "string": "+30-50% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+10-20 Defense"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 7"
+      },
+      {
+        "order": "6",
+        "string": "+-2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Wormskull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Bone Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 33,
+        "max": 36
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "21",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "necromancer_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "maxmana": {
+        "min": "10",
+        "max": "10"
+      },
+      "poisonresist": {
+        "min": "25",
+        "max": "25"
+      },
+      "poisondmg_flat": {
+        "min": "102",
+        "max": "102"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 102 Poison Damage"
+      },
+      {
+        "order": "150",
+        "string": "+1 to Necromancer Skill Levels"
+      },
+      {
+        "order": "88",
+        "string": "5% Life stolen per hit"
+      },
+      {
+        "order": "55",
+        "string": "+10 to Mana"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +25%"
+      }
+    ]
+  },
+  {
+    "item_name": "Howltusk",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Great Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 30,
+        "max": 35
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 63,
+      "dexterity_requirement": 0,
+      "level_requirement": "25",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "magic_damage_reduction": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_attackertakesdamage": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_armor_percent": {
+        "min": "80",
+        "max": "80"
+      },
+      "item_damagetomana": {
+        "min": "35",
+        "max": "35"
+      },
+      "item_knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_howl": {
+        "min": "33",
+        "max": "33"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "79",
+        "string": "Hit Causes Monster To Flee 33%"
+      },
+      {
+        "order": "76",
+        "string": "Knockback"
+      },
+      {
+        "order": "74",
+        "string": "+80% Enhanced Defense"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 2"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 3"
+      },
+      {
+        "order": "11",
+        "string": "35% Damage Taken Goes To Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Undead Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Crown",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 25,
+        "max": 45
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "armorclass": {
+        "min": "40",
+        "max": "40"
+      },
+      "poisonresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_halffreezeduration": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_armor_percent": {
+        "min": "30",
+        "max": "60"
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_undead_tohit": {
+        "min": "50",
+        "max": "100"
+      },
+      "skeleton_mastery": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "106",
+        "string": "+50-100 to Attack Rating against Undead"
+      },
+      {
+        "order": "88",
+        "string": "5% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Skeleton Mastery"
+      },
+      {
+        "order": "74",
+        "string": "+30-60% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+40 Defense"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +50%"
+      },
+      {
+        "order": "19",
+        "string": "Half Freeze Duration"
+      }
+    ]
+  },
+  {
+    "item_name": "The Face of Horror",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Mask",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 9,
+        "max": 27
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 23,
+      "dexterity_requirement": 0,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_howl": {
+        "min": "64",
+        "max": "64"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "armorclass": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +10"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "79",
+        "string": "Hit Causes Monster To Flee 64%"
+      },
+      {
+        "order": "71",
+        "string": "+25 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      }
+    ]
+  },
+  {
+    "item_name": "Peasant Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "War Hat",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 45,
+        "max": 53
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "vitality": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_fastermovevelocity": {
+        "min": "15",
+        "max": "15"
+      },
+      "hpregen": {
+        "min": "6",
+        "max": "12"
+      },
+      "item_armor_percent": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "148",
+        "string": "+15% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+100% Enhanced Defense"
+      },
+      {
+        "order": "63",
+        "string": "+20 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+20 to Energy"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +6-12"
+      }
+    ]
+  },
+  {
+    "item_name": "Rockstopper",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_properties": {
+      "item_base": "Sallet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 52,
+        "max": 62
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 18,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": "31",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "lightresist": {
+        "min": "20",
+        "max": "40"
+      },
+      "damageresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_armor_percent": {
+        "min": "160",
+        "max": "220"
+      },
+      "fireresist": {
+        "min": "20",
+        "max": "50"
+      },
+      "coldresist": {
+        "min": "20",
+        "max": "40"
+      },
+      "vitality": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+160-220% Enhanced Defense"
+      },
+      {
+        "order": "63",
+        "string": "+15 to Vitality"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +20-40%"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +20-40%"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +20-50%"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 10%"
+      }
+    ]
+  },
+  {
+    "item_name": "Stealskull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Casque",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 63,
+        "max": 72
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 59,
+      "dexterity_requirement": 0,
+      "level_requirement": "35",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "manadrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_fastergethitrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_fasterattackrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_armor_percent": {
+        "min": "200",
+        "max": "240"
+      },
+      "item_magicbonus": {
+        "min": "30",
+        "max": "50"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "145",
+        "string": "+10% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "+10% Faster Hit Recovery"
+      },
+      {
+        "order": "89",
+        "string": "5% Mana stolen per hit"
+      },
+      {
+        "order": "88",
+        "string": "5% Life stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+200-240% Enhanced Defense"
+      },
+      {
+        "order": "8",
+        "string": "30-50% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Darksight Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_properties": {
+      "item_base": "Basinet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 75,
+        "max": 84
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 82,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_lightradius": {
+        "min": "-4",
+        "max": "-4"
+      },
+      "item_armor_perlevel": {
+        "min": 2,
+        "max": 2
+      },
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "manadrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "6",
+        "skill_level": "3",
+        "skill": "dim_vision"
+      },
+      "item_charged_skill": {
+        "skill": "Cloak of Shadows",
+        "charges": "30",
+        "skill_level": "5"
+      },
+      "fireresist": {
+        "min": "20",
+        "max": "40"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "6% Chance To Cast Level 3 Dim Vision When Struck"
+      },
+      {
+        "order": "89",
+        "string": "5% Mana stolen per hit"
+      },
+      {
+        "order": "72",
+        "string": "+2-198 Defense (Based On Character level)"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +20-40%"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "6",
+        "string": "+-4 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 5 Cloak of Shadows (30 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Crown of Thieves",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Grand Crown",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 78,
+        "max": 113
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": "49",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "dexterity": {
+        "min": "25",
+        "max": "25"
+      },
+      "lifedrainmindam": {
+        "min": "9",
+        "max": "12"
+      },
+      "maxhp": {
+        "min": "50",
+        "max": "50"
+      },
+      "maxmana": {
+        "min": "35",
+        "max": "35"
+      },
+      "fireresist": {
+        "min": "33",
+        "max": "33"
+      },
+      "item_armor_percent": {
+        "min": "160",
+        "max": "200"
+      },
+      "item_goldbonus": {
+        "min": "80",
+        "max": "100"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "88",
+        "string": "9-12% Life stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+160-200% Enhanced Defense"
+      },
+      {
+        "order": "65",
+        "string": "+25 to Dexterity"
+      },
+      {
+        "order": "59",
+        "string": "+50 to Life"
+      },
+      {
+        "order": "55",
+        "string": "+35 to Mana"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +33%"
+      },
+      {
+        "order": "10",
+        "string": "80-100% extra gold from monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "Blackhorn's Face",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Death Mask",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 54,
+        "max": 86
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_attackertakeslightdamage": {
+        "min": "25",
+        "max": "25"
+      },
+      "item_slow": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_preventheal": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_absorblight": {
+        "min": "20",
+        "max": "20"
+      },
+      "lightresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_armor_percent": {
+        "min": "180",
+        "max": "220"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "77",
+        "string": "Slows target by 20%"
+      },
+      {
+        "order": "74",
+        "string": "+180-220% Enhanced Defense"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +15%"
+      },
+      {
+        "order": "29",
+        "string": "+20 Lightning Absorb"
+      },
+      {
+        "order": "14",
+        "string": "Attacker Takes Lightning Damage of 25"
+      }
+    ]
+  },
+  {
+    "item_name": "Vampire Gaze",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Grim Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 60,
+        "max": 125
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 40,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "manadrainmindam": {
+        "min": "6",
+        "max": "8"
+      },
+      "lifedrainmindam": {
+        "min": "6",
+        "max": "8"
+      },
+      "item_staminadrainpct": {
+        "min": "15",
+        "max": "15"
+      },
+      "damageresist": {
+        "min": "15",
+        "max": "20"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "15"
+      },
+      "item_armor_percent": {
+        "min": "100",
+        "max": "100"
+      },
+      "colddmg_flat": {
+        "min": "6",
+        "max": "22"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 6-22 Cold Damage"
+      },
+      {
+        "order": "89",
+        "string": "6-8% Mana stolen per hit"
+      },
+      {
+        "order": "88",
+        "string": "6-8% Life stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+100% Enhanced Defense"
+      },
+      {
+        "order": "49",
+        "string": "15% Stamina Drain"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 15-20%"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 10-15"
+      }
+    ]
+  },
+  {
+    "item_name": "Harlequin Crest",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_properties": {
+      "item_base": "Shako",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 98,
+        "max": 141
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 12,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "62",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_allskills": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_hp_perlevel": {
+        "min": 1.5,
+        "max": 1.5
+      },
+      "item_mana_perlevel": {
+        "min": 1.5,
+        "max": 1.5
+      },
+      "item_magicbonus": {
+        "min": "50",
+        "max": "50"
+      },
+      "damageresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "2",
+        "max": "2"
+      },
+      "dexterity": {
+        "min": "2",
+        "max": "2"
+      },
+      "vitality": {
+        "min": "2",
+        "max": "2"
+      },
+      "energy": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "67",
+        "string": "+2 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+2 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+2 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+2 to Energy"
+      },
+      {
+        "order": "57",
+        "string": "+1.5-149 to Life (Based On Character level)"
+      },
+      {
+        "order": "53",
+        "string": "+1.5-149 to Mana (Based On Character level)"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 10%"
+      },
+      {
+        "order": "8",
+        "string": "50% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Veil of Steel",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Spired Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 192,
+      "dexterity_requirement": 0,
+      "level_requirement": "73",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "all_resist": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_armor_percent": {
+        "min": "60",
+        "max": "60"
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_lightradius": {
+        "min": "-4",
+        "max": "-4"
+      },
+      "maxdurability": {
+        "min": "20",
+        "max": "20"
+      },
+      "armorclass": {
+        "min": "140",
+        "max": "140"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +50"
+      },
+      {
+        "order": "74",
+        "string": "+60% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+140 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+15 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+15 to Vitality"
+      },
+      {
+        "order": "6",
+        "string": "+-4 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Arreat's Face",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba5.png",
+    "item_properties": {
+      "item_base": "Slayer Guard",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 93,
+        "max": 120
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 55,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "barbarian_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "combat_skills_barb": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_tohit_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "lifedrainmindam": {
+        "min": "3",
+        "max": "6"
+      },
+      "all_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +30"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Barbarian Skill Levels"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "117",
+        "string": "20% bonus to Attack Rating"
+      },
+      {
+        "order": "88",
+        "string": "3-6% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Combat Skills Barb"
+      },
+      {
+        "order": "74",
+        "string": "+150-200% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+20 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Jalal's Mane",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr5.png",
+    "item_properties": {
+      "item_base": "Totemic Mask",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 73,
+        "max": 98
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "druid_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "shape_shifting": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_tohit_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "energy": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_manaafterkill": {
+        "min": "5",
+        "max": "5"
+      },
+      "all_resist": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +30"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Druid Skill Levels"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "117",
+        "string": "20% bonus to Attack Rating"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Shape Shifting"
+      },
+      {
+        "order": "74",
+        "string": "+150-200% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      },
+      {
+        "order": "61",
+        "string": "+20 to Energy"
+      },
+      {
+        "order": "16",
+        "string": "+5 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Steel Shade",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_properties": {
+      "item_base": "Armet",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 105,
+        "max": 149
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 109,
+      "dexterity_requirement": 0,
+      "level_requirement": "62",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "100",
+        "max": "130"
+      },
+      "item_absorbfire": {
+        "min": "5",
+        "max": "11"
+      },
+      "manadrainmindam": {
+        "min": "4",
+        "max": "8"
+      },
+      "hpregen": {
+        "min": "10",
+        "max": "18"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "89",
+        "string": "4-8% Mana stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+100-130% Enhanced Defense"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10-18"
+      },
+      {
+        "order": "27",
+        "string": "+5-11 Fire Absorb"
+      }
+    ]
+  },
+  {
+    "item_name": "Cerebus' Bite",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr1.png",
+    "item_properties": {
+      "item_base": "Blood Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 101,
+        "max": 145
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 86,
+      "dexterity_requirement": 0,
+      "level_requirement": "63",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "130",
+        "max": "140"
+      },
+      "shape_shifting": {
+        "min": "2",
+        "max": "4"
+      },
+      "lifedrainmindam": {
+        "min": "7",
+        "max": "10"
+      },
+      "item_tohit_percent": {
+        "min": "60",
+        "max": "120"
+      },
+      "item_openwounds": {
+        "min": "33",
+        "max": "33"
+      },
+      "feral_rage": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "117",
+        "string": "60-120% bonus to Attack Rating"
+      },
+      {
+        "order": "88",
+        "string": "7-10% Life stolen per hit"
+      },
+      {
+        "order": "83",
+        "string": "33% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "+2-4 To Shape Shifting"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To feral rage"
+      },
+      {
+        "order": "74",
+        "string": "+130-140% Enhanced Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Demonhorn's Edge",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba3.png",
+    "item_properties": {
+      "item_base": "Destroyer Helm",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 111,
+        "max": 156
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 45,
+      "strength_requirement": 151,
+      "dexterity_requirement": 0,
+      "level_requirement": "61",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "120",
+        "max": "160"
+      },
+      "item_fasterattackrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "lifedrainmindam": {
+        "min": "3",
+        "max": "6"
+      },
+      "item_attackertakesdamage": {
+        "min": "55",
+        "max": "77"
+      },
+      "combat_skills_barb": {
+        "min": "1",
+        "max": "3"
+      },
+      "combat_masteries": {
+        "min": "1",
+        "max": "3"
+      },
+      "warcries": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "145",
+        "string": "+10% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "3-6% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Combat Skills Barb"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Combat Masteries"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Warcries"
+      },
+      {
+        "order": "74",
+        "string": "+120-160% Enhanced Defense"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 55-77"
+      }
+    ]
+  },
+  {
+    "item_name": "Spirit Keeper",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr3.png",
+    "item_properties": {
+      "item_base": "Earth Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 67,
+        "max": 81
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 104,
+      "dexterity_requirement": 0,
+      "level_requirement": "67",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "170",
+        "max": "190"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_absorblight": {
+        "min": "9",
+        "max": "14"
+      },
+      "fireresist": {
+        "min": "30",
+        "max": "40"
+      },
+      "item_absorbcold_percent": {
+        "min": "15",
+        "max": "25"
+      },
+      "maxpoisonresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "druid_skills": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+1-2 to Druid Skill Levels"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+170-190% Enhanced Defense"
+      },
+      {
+        "order": "45",
+        "string": "+10% to Maximum Poison Resist"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +30-40%"
+      },
+      {
+        "order": "29",
+        "string": "+9-14 Lightning Absorb"
+      },
+      {
+        "order": "25",
+        "string": "Cold Absorb 15-25%"
+      }
+    ]
+  },
+  {
+    "item_name": "Crown of Ages",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_properties": {
+      "item_base": "Corona",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 111,
+        "max": 165
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": "82",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "30"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "armorclass": {
+        "min": "100",
+        "max": "150"
+      },
+      "indestruct": {
+        "min": "1",
+        "max": "1"
+      },
+      "damageresist": {
+        "min": "10",
+        "max": "15"
+      },
+      "item_armor_percent": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_numsockets": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+100-150 Defense"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 10-15%"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (1-2)"
+      }
+    ]
+  },
+  {
+    "item_name": "Andariel's Visage",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_properties": {
+      "item_base": "Demonhead",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 101,
+        "max": 154
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 102,
+      "dexterity_requirement": 0,
+      "level_requirement": "83",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "100",
+        "max": "150"
+      },
+      "poisonresist": {
+        "min": "70",
+        "max": "70"
+      },
+      "item_allskills": {
+        "min": "2",
+        "max": "2"
+      },
+      "maxpoisonresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "strength": {
+        "min": "25",
+        "max": "30"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "15",
+        "skill_level": "15",
+        "skill": "poison_nova"
+      },
+      "item_charged_skill": {
+        "skill": "Venom",
+        "charges": "20",
+        "skill_level": "3"
+      },
+      "lifedrainmindam": {
+        "min": "8",
+        "max": "10"
+      },
+      "fireresist": {
+        "min": "-30",
+        "max": "-30"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 15 Poison Nova When Struck"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "8-10% Life stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+100-150% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+25-30 to Strength"
+      },
+      {
+        "order": "45",
+        "string": "+10% to Maximum Poison Resist"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +-30%"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +70%"
+      },
+      {
+        "order": "1",
+        "string": "Level 3 Venom (20 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Ravenlore",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr4.png",
+    "item_properties": {
+      "item_base": "Sky Spirit",
+      "sub_type": "helm",
+      "class_specific": "Druid",
+      "defense": {
+        "min": 103,
+        "max": 155
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 20,
+      "strength_requirement": 113,
+      "dexterity_requirement": 0,
+      "level_requirement": "74",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "120",
+        "max": "150"
+      },
+      "all_resist": {
+        "min": "15",
+        "max": "25"
+      },
+      "elemental_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "energy": {
+        "min": "20",
+        "max": "30"
+      },
+      "passive_fire_pierce": {
+        "min": "10",
+        "max": "20"
+      },
+      "raven": {
+        "min": "7",
+        "max": "7"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +15-25"
+      },
+      {
+        "order": "88",
+        "string": "-10-20% to Enemy Fire Resistance"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Elemental Skills"
+      },
+      {
+        "order": "81",
+        "string": "+7 To Raven"
+      },
+      {
+        "order": "74",
+        "string": "+120-150% Enhanced Defense"
+      },
+      {
+        "order": "61",
+        "string": "+20-30 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Wolfhowl",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba2.png",
+    "item_properties": {
+      "item_base": "Fury Visor",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 105,
+        "max": 140
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 35,
+      "strength_requirement": 129,
+      "dexterity_requirement": 0,
+      "level_requirement": "79",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "120",
+        "max": "150"
+      },
+      "warcries": {
+        "min": "2",
+        "max": "3"
+      },
+      "strength": {
+        "min": "8",
+        "max": "15"
+      },
+      "dexterity": {
+        "min": "8",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "8",
+        "max": "15"
+      },
+      "item_nonclassskill": {
+        "min": "3",
+        "max": "6"
+      },
+      "item_charged_skill": {
+        "skill": "Summon Fenris",
+        "charges": "18",
+        "skill_level": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "81",
+        "string": "+2-3 To Warcries"
+      },
+      {
+        "order": "74",
+        "string": "+120-150% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+8-15 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+8-15 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+8-15 to Vitality"
+      },
+      {
+        "order": "1",
+        "string": "Level 15 Summon Fenris (18 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Halaberd's Reign",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba4.png",
+    "item_properties": {
+      "item_base": "Conqueror Crown",
+      "sub_type": "helm",
+      "class_specific": "Barbarian",
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": "77",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "140",
+        "max": "170"
+      },
+      "combat_masteries": {
+        "min": "1",
+        "max": "1"
+      },
+      "barbarian_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "hpregen": {
+        "min": "15",
+        "max": "23"
+      },
+      "battle_orders": {
+        "min": "1",
+        "max": "2"
+      },
+      "battle_command": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+2 to Barbarian Skill Levels"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "81",
+        "string": "+1 To Combat Masteries"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Battle Orders"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Battle Command"
+      },
+      {
+        "order": "74",
+        "string": "+140-170% Enhanced Defense"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +15-23"
+      }
+    ]
+  },
+  {
+    "item_name": "Giant Skull",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_properties": {
+      "item_base": "Bone Visage",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 100,
+        "max": 157
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 106,
+      "dexterity_requirement": 0,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass": {
+        "min": "250",
+        "max": "320"
+      },
+      "strength": {
+        "min": "25",
+        "max": "35"
+      },
+      "item_crushingblow": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_numsockets": {
+        "min": "1",
+        "max": "2"
+      },
+      "item_knockback": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "87",
+        "string": "10% Chance of Crushing Blow"
+      },
+      {
+        "order": "76",
+        "string": "Knockback"
+      },
+      {
+        "order": "71",
+        "string": "+250-320 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+25-35 to Strength"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (1-2)"
+      }
+    ]
+  },
+  {
+    "item_name": "Nightwing's Veil",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Spired Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 114,
+        "max": 159
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 192,
+      "dexterity_requirement": 0,
+      "level_requirement": "67",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "90",
+        "max": "120"
+      },
+      "item_allskills": {
+        "min": "2",
+        "max": "2"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "20"
+      },
+      "item_absorbcold": {
+        "min": "5",
+        "max": "9"
+      },
+      "item_halffreezeduration": {
+        "min": "1",
+        "max": "1"
+      },
+      "passive_cold_mastery": {
+        "min": "8",
+        "max": "15"
+      },
+      "item_req_percent": {
+        "min": "-50",
+        "max": "-50"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "88",
+        "string": "+8-15% to Cold Skill Damage"
+      },
+      {
+        "order": "74",
+        "string": "+90-120% Enhanced Defense"
+      },
+      {
+        "order": "65",
+        "string": "+10-20 to Dexterity"
+      },
+      {
+        "order": "31",
+        "string": "+5-9 Cold Absorb"
+      },
+      {
+        "order": "19",
+        "string": "Half Freeze Duration"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-50%"
+      }
+    ]
+  },
+  {
+    "item_name": "Valkyrie Wing",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_properties": {
+      "item_base": "Winged Helm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "defense": {
+        "min": 85,
+        "max": 98
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 40,
+      "strength_requirement": 115,
+      "dexterity_requirement": 0,
+      "level_requirement": "44",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "amazon_skills": {
+        "min": "1",
+        "max": "2"
+      },
+      "item_manaafterkill": {
+        "min": "2",
+        "max": "4"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+1-2 to Amazon Skill Levels"
+      },
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+150-200% Enhanced Defense"
+      },
+      {
+        "order": "16",
+        "string": "+2-4 to Mana after each Kill"
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "item_name": "Gheed's Fortune",
+    "item_base": "Grand Charm",
+    "level_requirement": "62",
+    "item_mods": {
+      "item_magicbonus": {
+        "min": "20",
+        "max": "40"
+      },
+      "item_goldbonus": {
+        "min": "80",
+        "max": "160"
+      },
+      "item_reducedprices": {
+        "min": "10",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "10",
+        "string": "80-160% extra gold from monsters"
+      },
+      {
+        "order": "8",
+        "string": "20-40% better chance of getting magic item"
+      },
+      {
+        "order": "8",
+        "string": "Reduces all Vendor Prices 10-15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Annihilus",
+    "item_base": "Small Charm",
+    "level_requirement": "70",
+    "item_mods": {
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "all_attributes": {
+        "min": "10",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "20"
+      },
+      "item_addexperience": {
+        "min": "5",
+        "max": "10"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+10-20 To All Attributes"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +10-20"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "11",
+        "string": "+5-10% to Experience Gained"
+      }
+    ]
+  },
+  {
+    "item_name": "Hellfire Torch",
+    "item_base": "Large Charm",
+    "level_requirement": "75",
+    "item_mods": {
+      "item_addclassskills": {
+        "min": "0",
+        "max": "6"
+      },
+      "all_attributes": {
+        "min": "10",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "20"
+      },
+      "item_lightradius": {
+        "min": "8",
+        "max": "8"
+      },
+      "hit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "10",
+        "skill": "diabwall"
+      },
+      "item_charged_skill": {
+        "skill": "Hydra",
+        "charges": "10",
+        "skill_level": "30"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 10 DiabWall On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+10-20 To All Attributes"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +10-20"
+      },
+      {
+        "order": "150"
+      },
+      {
+        "order": "6",
+        "string": "+8 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 30 Hydra (10 Charges)"
+      }
+    ]
+  }
+]

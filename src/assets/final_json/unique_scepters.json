@@ -1,0 +1,991 @@
+[
+  {
+    "item_name": "Knell Striker",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 11
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 25,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_crushingblow": {
+        "min": "25",
+        "max": "25"
+      },
+      "fireresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "poisonresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "maxmana": {
+        "min": "15",
+        "max": "15"
+      },
+      "tohit": {
+        "min": "35",
+        "max": "35"
+      },
+      "item_damage_percent": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+70-80% Enhanced Damage"
+      },
+      {
+        "order": "115",
+        "string": "+35 to Attack Rating"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "87",
+        "string": "25% Chance of Crushing Blow"
+      },
+      {
+        "order": "55",
+        "string": "+15 to Mana"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +20%"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Rusthandle",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_properties": {
+      "item_base": "Grand Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 18
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 37,
+      "dexterity_requirement": 0,
+      "level_requirement": "17",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": "100",
+        "max": "110"
+      },
+      "paladin_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "damage_flat": {
+        "min": "3",
+        "max": "7"
+      },
+      "magic_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "lifedrainmindam": {
+        "min": "8",
+        "max": "8"
+      },
+      "item_damage_percent": {
+        "min": "50",
+        "max": "60"
+      },
+      "vengeance": {
+        "min": "1",
+        "max": "3"
+      },
+      "thorns": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 3-7 Damage"
+      },
+      {
+        "order": "159",
+        "string": "+50-60% Enhanced Damage"
+      },
+      {
+        "order": "150",
+        "string": "+1 to Paladin Skill Levels"
+      },
+      {
+        "order": "108",
+        "string": "+100-110% Damage To Undead"
+      },
+      {
+        "order": "88",
+        "string": "8% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 To Vengeance"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Thorns"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 1"
+      }
+    ]
+  },
+  {
+    "item_name": "Stormeye",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_properties": {
+      "item_base": "War Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 10,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 70,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "23",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "6"
+      },
+      "colddmg_flat": {
+        "min": "3",
+        "max": "5"
+      },
+      "hpregen": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_damage_percent": {
+        "min": "80",
+        "max": "120"
+      },
+      "resist_lightning": {
+        "min": "3",
+        "max": "5"
+      },
+      "holy_shock": {
+        "min": "3",
+        "max": "3"
+      },
+      "fist_of_the_heavens": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 1-6 Lightning Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 3-5 Cold Damage"
+      },
+      {
+        "order": "159",
+        "string": "+80-120% Enhanced Damage"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+3-5 To Resist Lightning"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Holy Shock"
+      },
+      {
+        "order": "81",
+        "string": "+1 To Fist of the Heavens"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      }
+    ]
+  },
+  {
+    "item_name": "Zakarum's Hand",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Rune Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 58,
+      "dexterity_requirement": 0,
+      "level_requirement": "37",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "manadrainmindam": {
+        "min": "8",
+        "max": "8"
+      },
+      "item_ignoretargetac": {
+        "min": "1",
+        "max": "1"
+      },
+      "manarecoverybonus": {
+        "min": "10",
+        "max": "10"
+      },
+      "staminarecoverybonus": {
+        "min": "15",
+        "max": "15"
+      },
+      "hit_skill": {
+        "chance_to_cast": "6",
+        "skill_level": "5",
+        "skill": "blizzard"
+      },
+      "item_damage_percent": {
+        "min": "180",
+        "max": "220"
+      },
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "holy_freeze": {
+        "min": "2",
+        "max": "2"
+      },
+      "holy_shock": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "6% Chance To Cast Level 5 Blizzard On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+180-220% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "89",
+        "string": "8% Mana stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Holy Freeze"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Holy Shock"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 10%"
+      },
+      {
+        "order": "48",
+        "string": "Heal Stamina Plus 15%"
+      }
+    ]
+  },
+  {
+    "item_name": "The Fetid Sprinkler",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_properties": {
+      "item_base": "Holy Water Sprinkler",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 36
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 76,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "hit_skill": {
+        "chance_to_cast": "10",
+        "skill_level": "1",
+        "skill": "confuse"
+      },
+      "poisondmg_flat": {
+        "min": "409",
+        "max": "409"
+      },
+      "item_damage_percent": {
+        "min": "160",
+        "max": "190"
+      },
+      "tohit": {
+        "min": "150",
+        "max": "200"
+      },
+      "damage_flat": {
+        "min": "15",
+        "max": "25"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 1 Decrepify On Striking"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 1 Confuse On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 409 Poison Damage"
+      },
+      {
+        "order": "159",
+        "string": "+160-190% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 15-25 Damage"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Paladin Skill Levels"
+      },
+      {
+        "order": "115",
+        "string": "+150-200 to Attack Rating"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      }
+    ]
+  },
+  {
+    "item_name": "Hand of Blessed Light",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_properties": {
+      "item_base": "Divine Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 16,
+        "max": 38
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 70,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_damage_percent": {
+        "min": "130",
+        "max": "160"
+      },
+      "item_tohit_percent": {
+        "min": "100",
+        "max": "100"
+      },
+      "armorclass": {
+        "min": "50",
+        "max": "50"
+      },
+      "manarecoverybonus": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_lightradius": {
+        "min": "4",
+        "max": "4"
+      },
+      "damage_flat": {
+        "min": "20",
+        "max": "45"
+      },
+      "holy_bolt": {
+        "min": "4",
+        "max": "4"
+      },
+      "fist_of_the_heavens": {
+        "min": "2",
+        "max": "2"
+      },
+      "hit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "4",
+        "skill": "fist_of_the_heavens"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 4 Fist of the Heavens On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+130-160% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 20-45 Damage"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Paladin Skill Levels"
+      },
+      {
+        "order": "117",
+        "string": "100% bonus to Attack Rating"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+4 To Holy Bolt"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Fist of the Heavens"
+      },
+      {
+        "order": "71",
+        "string": "+50 Defense"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 15%"
+      },
+      {
+        "order": "6",
+        "string": "+4 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Heaven's Light",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Mighty Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 52
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 125,
+      "dexterity_requirement": 65,
+      "level_requirement": "61",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": "250",
+        "max": "300"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_fractionaltargetac": {
+        "min": "33",
+        "max": "33"
+      },
+      "item_lightradius": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_healafterdemonkill": {
+        "min": "15",
+        "max": "20"
+      },
+      "item_crushingblow": {
+        "min": "33",
+        "max": "33"
+      },
+      "item_numsockets": {
+        "min": "1",
+        "max": "3"
+      },
+      "paladin_skills": {
+        "min": "2",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+250-300% Enhanced Damage"
+      },
+      {
+        "order": "150",
+        "string": "+2-3 to Paladin Skill Levels"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "118",
+        "string": "-33% Target Defense"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "87",
+        "string": "33% Chance of Crushing Blow"
+      },
+      {
+        "order": "15",
+        "string": "+15-20 Life after each Demon Kill"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (1-3)"
+      }
+    ]
+  },
+  {
+    "item_name": "Astreon's Iron Ward",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_properties": {
+      "item_base": "Caduceus",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 37,
+        "max": 43
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 70,
+      "strength_requirement": 97,
+      "dexterity_requirement": 70,
+      "level_requirement": "60",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": "240",
+        "max": "290"
+      },
+      "item_slow": {
+        "min": "25",
+        "max": "25"
+      },
+      "item_tohit_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "item_fasterattackrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "magicdmg_flat": {
+        "min": "80",
+        "max": "240"
+      },
+      "normal_damage_reduction": {
+        "min": "4",
+        "max": "7"
+      },
+      "item_normaldamage": {
+        "min": "40",
+        "max": "85"
+      },
+      "combat_skills_pally": {
+        "min": "2",
+        "max": "4"
+      },
+      "item_crushingblow": {
+        "min": "33",
+        "max": "33"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+240-290% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 80-240 Magic Damage"
+      },
+      {
+        "order": "145",
+        "string": "+10% Increased Attack Speed"
+      },
+      {
+        "order": "122",
+        "string": "Damage +40-85"
+      },
+      {
+        "order": "117",
+        "string": "150-200% bonus to Attack Rating"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "87",
+        "string": "33% Chance of Crushing Blow"
+      },
+      {
+        "order": "81",
+        "string": "+2-4 To Combat Skills Pally"
+      },
+      {
+        "order": "77",
+        "string": "Slows target by 25%"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 4-7"
+      }
+    ]
+  },
+  {
+    "item_name": "The Redeemer",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_properties": {
+      "item_base": "Mighty Scepter",
+      "sub_type": "scepter",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 52
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 50,
+      "strength_requirement": 125,
+      "dexterity_requirement": 65,
+      "level_requirement": "72",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": "250",
+        "max": "300"
+      },
+      "item_demondamage_percent": {
+        "min": "200",
+        "max": "250"
+      },
+      "paladin_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_req_percent": {
+        "min": "-60",
+        "max": "-60"
+      },
+      "redemption": {
+        "min": "2",
+        "max": "4"
+      },
+      "holy_bolt": {
+        "min": "2",
+        "max": "4"
+      },
+      "item_lightradius": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_fractionaltargetac": {
+        "min": "33",
+        "max": "33"
+      },
+      "item_normaldamage": {
+        "min": "60",
+        "max": "120"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+250-300% Enhanced Damage"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Paladin Skill Levels"
+      },
+      {
+        "order": "122",
+        "string": "Damage +60-120"
+      },
+      {
+        "order": "118",
+        "string": "-33% Target Defense"
+      },
+      {
+        "order": "112",
+        "string": "+200-250% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "81",
+        "string": "+2-4 To Redemption"
+      },
+      {
+        "order": "81",
+        "string": "+2-4 To Holy Bolt"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-60%"
+      }
+    ]
+  }
+]

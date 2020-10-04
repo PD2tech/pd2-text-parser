@@ -1,0 +1,686 @@
+[
+  {
+    "item_name": "Nokozan Relic",
+    "item_base": "Amulet",
+    "level_requirement": "10",
+    "item_mods": {
+      "firedmg_flat": {
+        "min": "3",
+        "max": "6"
+      },
+      "maxfireresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "fireresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_lightradius": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 3-6 Fire Damage"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "42",
+        "string": "+10% to Maximum Fire Resist"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +50%"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "The Eye of Etlich",
+    "item_base": "Amulet",
+    "level_requirement": "15",
+    "item_mods": {
+      "armorclass_vs_missile": {
+        "min": "10",
+        "max": "40"
+      },
+      "item_lightradius": {
+        "min": "1",
+        "max": "5"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "lifedrainmindam": {
+        "min": "3",
+        "max": "7"
+      },
+      "coldmindam": {
+        "min": "1",
+        "max": "2"
+      },
+      "coldmaxdam": {
+        "min": "3",
+        "max": "5"
+      },
+      "coldlength": {
+        "min": "50",
+        "max": "250"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "96",
+        "string": "+1-2 to Minimum Cold Damage"
+      },
+      {
+        "order": "95",
+        "string": "+3-5 to Maximum Cold Damage"
+      },
+      {
+        "order": "88",
+        "string": "3-7% Life stolen per hit"
+      },
+      {
+        "order": "69",
+        "string": "+10-40 Defense vs. Missile"
+      },
+      {
+        "order": "6",
+        "string": "+1-5 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "The Mahim-Oak Curio",
+    "item_base": "Amulet",
+    "level_requirement": "25",
+    "item_mods": {
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "energy": {
+        "min": "10",
+        "max": "10"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "armorclass": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_tohit_percent": {
+        "min": "10",
+        "max": "10"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_armor_percent": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +10"
+      },
+      {
+        "order": "117",
+        "string": "10% bonus to Attack Rating"
+      },
+      {
+        "order": "74",
+        "string": "+10% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+10 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+10 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+10 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "The Cat's Eye",
+    "item_base": "Amulet",
+    "level_requirement": "50",
+    "item_mods": {
+      "item_fastermovevelocity": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "armorclass": {
+        "min": "100",
+        "max": "100"
+      },
+      "armorclass_vs_missile": {
+        "min": "100",
+        "max": "100"
+      },
+      "dexterity": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+30% Faster Run/Walk"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "71",
+        "string": "+100 Defense"
+      },
+      {
+        "order": "69",
+        "string": "+100 Defense vs. Missile"
+      },
+      {
+        "order": "65",
+        "string": "+25 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "The Rising Sun",
+    "item_base": "Amulet",
+    "level_requirement": "65",
+    "item_mods": {
+      "item_absorb_fire_perlevel": {
+        "min": 0.75,
+        "max": 0.75
+      },
+      "item_lightradius": {
+        "min": "4",
+        "max": "4"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "2",
+        "skill_level": "0",
+        "skill": "meteor"
+      },
+      "firedmg_flat": {
+        "min": "24",
+        "max": "48"
+      },
+      "item_elemskill": {
+        "min": "2",
+        "max": "2"
+      },
+      "hpregen": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "2% Chance To Cast Level 0 Meteor When Struck"
+      },
+      {
+        "order": "159",
+        "string": "Adds 24-48 Fire Damage"
+      },
+      {
+        "order": "157",
+        "string": "+2 to Fire Skills"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      },
+      {
+        "order": "28",
+        "string": "+0.75-74 Absorbs Fire Damage (Based On Character level)"
+      },
+      {
+        "order": "6",
+        "string": "+4 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Crescent Moon",
+    "item_base": "Amulet",
+    "level_requirement": "50",
+    "item_mods": {
+      "manadrainmindam": {
+        "min": "11",
+        "max": "15"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_damagetomana": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_lightradius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "maxmana": {
+        "min": "45",
+        "max": "45"
+      },
+      "lifedrainmindam": {
+        "min": "3",
+        "max": "6"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "89",
+        "string": "11-15% Mana stolen per hit"
+      },
+      {
+        "order": "88",
+        "string": "3-6% Life stolen per hit"
+      },
+      {
+        "order": "55",
+        "string": "+45 to Mana"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 10"
+      },
+      {
+        "order": "11",
+        "string": "10% Damage Taken Goes To Mana"
+      },
+      {
+        "order": "6",
+        "string": "+-2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Mara's Kaleidoscope",
+    "item_base": "Amulet",
+    "level_requirement": "67",
+    "item_mods": {
+      "item_allskills": {
+        "min": "2",
+        "max": "2"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "30"
+      },
+      "strength": {
+        "min": "5",
+        "max": "5"
+      },
+      "dexterity": {
+        "min": "5",
+        "max": "5"
+      },
+      "vitality": {
+        "min": "5",
+        "max": "5"
+      },
+      "energy": {
+        "min": "5",
+        "max": "5"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "67",
+        "string": "+5 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+5 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+5 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+5 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Atma's Scarab",
+    "item_base": "Amulet",
+    "level_requirement": "60",
+    "item_mods": {
+      "poisondmg_flat": {
+        "min": "102",
+        "max": "102"
+      },
+      "poisonresist": {
+        "min": "75",
+        "max": "75"
+      },
+      "item_lightradius": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_attackertakesdamage": {
+        "min": "5",
+        "max": "5"
+      },
+      "hit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "2",
+        "skill": "amplify_damage"
+      },
+      "item_tohit_percent": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 2 Amplify Damage On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 102 Poison Damage"
+      },
+      {
+        "order": "117",
+        "string": "20% bonus to Attack Rating"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +75%"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 5"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Highlord's Wrath",
+    "item_base": "Amulet",
+    "level_requirement": "65",
+    "item_mods": {
+      "lightresist": {
+        "min": "35",
+        "max": "35"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "30"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_deadlystrike_perlevel": {
+        "min": 0.375,
+        "max": 0.375
+      },
+      "item_attackertakeslightdamage": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 1-30 Lightning Damage"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "84",
+        "string": "0.375-37% Deadly Strike (Based On Character level)"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +35%"
+      },
+      {
+        "order": "14",
+        "string": "Attacker Takes Lightning Damage of 15"
+      }
+    ]
+  },
+  {
+    "item_name": "Saracen's Chance",
+    "item_base": "Amulet",
+    "level_requirement": "47",
+    "item_mods": {
+      "all_resist": {
+        "min": "15",
+        "max": "25"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "10",
+        "skill_level": "2",
+        "skill": "iron_maiden"
+      },
+      "strength": {
+        "min": "12",
+        "max": "12"
+      },
+      "dexterity": {
+        "min": "12",
+        "max": "12"
+      },
+      "energy": {
+        "min": "12",
+        "max": "12"
+      },
+      "vitality": {
+        "min": "12",
+        "max": "12"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 2 Iron Maiden When Struck"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +15-25"
+      },
+      {
+        "order": "67",
+        "string": "+12 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+12 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+12 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+12 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Seraph's Hymn",
+    "item_base": "Amulet",
+    "level_requirement": "65",
+    "item_mods": {
+      "item_allskills": {
+        "min": "2",
+        "max": "2"
+      },
+      "offensive_auras": {
+        "min": "1",
+        "max": "2"
+      },
+      "item_demondamage_percent": {
+        "min": "25",
+        "max": "50"
+      },
+      "item_undeaddamage_percent": {
+        "min": "25",
+        "max": "50"
+      },
+      "item_demon_tohit": {
+        "min": "150",
+        "max": "250"
+      },
+      "item_undead_tohit": {
+        "min": "150",
+        "max": "250"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "112",
+        "string": "+25-50% Damage to Demons"
+      },
+      {
+        "order": "110",
+        "string": "+150-250 to Attack Rating against Demons"
+      },
+      {
+        "order": "106",
+        "string": "+150-250 to Attack Rating against Undead"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Offensive Auras"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Metalgrid",
+    "item_base": "Amulet",
+    "level_requirement": "81",
+    "item_mods": {
+      "armorclass": {
+        "min": "300",
+        "max": "350"
+      },
+      "all_resist": {
+        "min": "25",
+        "max": "35"
+      },
+      "tohit": {
+        "min": "400",
+        "max": "450"
+      },
+      "item_charged_skill": {
+        "skill": "Iron Maiden",
+        "charges": "20",
+        "skill_level": "12"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +25-35"
+      },
+      {
+        "order": "115",
+        "string": "+400-450 to Attack Rating"
+      },
+      {
+        "order": "71",
+        "string": "+300-350 Defense"
+      },
+      {
+        "order": "1",
+        "string": "Level 22 IronGolem (11 Charges)"
+      },
+      {
+        "order": "1",
+        "string": "Level 12 Iron Maiden (20 Charges)"
+      }
+    ]
+  }
+]

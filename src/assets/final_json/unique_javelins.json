@@ -1,0 +1,451 @@
+[
+  {
+    "item_name": "Titan's Revenge",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_properties": {
+      "item_base": "Ceremonial Javelin",
+      "sub_type": "javelin",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 18,
+        "max": 54
+      },
+      "melee_damage": {
+        "min": 18,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 25,
+      "dexterity_requirement": 109,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "amazon_skills": {
+        "min": "2",
+        "max": "2"
+      },
+      "javelin_and_spear": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_damage_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "item_fastermovevelocity": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_replenish_quantity": {},
+      "strength": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "20",
+        "max": "20"
+      },
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "9"
+      },
+      "damage_flat": {
+        "min": "25",
+        "max": "50"
+      },
+      "item_extra_stack": {
+        "min": "60",
+        "max": "60"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+150-200% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 25-50 Damage"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Amazon Skill Levels"
+      },
+      {
+        "order": "148",
+        "string": "+30% Faster Run/Walk"
+      },
+      {
+        "order": "88",
+        "string": "5-9% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Javelin and Spear"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+20 to Dexterity"
+      },
+      {
+        "order": "4",
+        "string": "Increased Stack Size"
+      },
+      {
+        "order": "2",
+        "string": "Replenishes quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Gargoyle's Bite",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_properties": {
+      "item_base": "Winged Harpoon",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 11,
+        "max": 77
+      },
+      "melee_damage": {
+        "min": 27,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 76,
+      "dexterity_requirement": 145,
+      "level_requirement": "70",
+      "item_tier": "elite",
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "180",
+        "max": "230"
+      },
+      "item_replenish_quantity": {},
+      "poisondmg_flat": {
+        "min": "300",
+        "max": "300"
+      },
+      "lifedrainmindam": {
+        "min": "9",
+        "max": "15"
+      },
+      "item_charged_skill": {
+        "skill": "Plague Javelin",
+        "charges": "60",
+        "skill_level": "11"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+180-230% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 300 Poison Damage"
+      },
+      {
+        "order": "88",
+        "string": "9-15% Life stolen per hit"
+      },
+      {
+        "order": "2",
+        "string": "Replenishes quantity"
+      },
+      {
+        "order": "1",
+        "string": "Level 11 Plague Javelin (60 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Thunderstroke",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_properties": {
+      "item_base": "Matriarchal Javelin",
+      "sub_type": "javelin",
+      "class_specific": "Amazon",
+      "damage": {
+        "min": 35,
+        "max": 66
+      },
+      "melee_damage": {
+        "min": 30,
+        "max": 54
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.8,
+        "dexterity_bonus": 0.5
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "max_quantity": 80,
+      "strength_requirement": 107,
+      "dexterity_requirement": 151,
+      "level_requirement": "69",
+      "item_tier": "elite",
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "511"
+      },
+      "hit_skill": {
+        "chance_to_cast": "20",
+        "skill_level": "14",
+        "skill": "lightning"
+      },
+      "item_fasterattackrate": {
+        "min": "15",
+        "max": "15"
+      },
+      "passive_ltng_pierce": {
+        "min": "15",
+        "max": "15"
+      },
+      "lightning_bolt": {
+        "min": "3",
+        "max": "3"
+      },
+      "javelin_and_spear": {
+        "min": "2",
+        "max": "4"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 14 Lightning On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+150-200% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-511 Lightning Damage"
+      },
+      {
+        "order": "145",
+        "string": "+15% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "-15% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Lightning Bolt"
+      },
+      {
+        "order": "81",
+        "string": "+2-4 To Javelin and Spear"
+      }
+    ]
+  },
+  {
+    "item_name": "Demon's Arch",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_properties": {
+      "item_base": "Balrog Spear",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 62
+      },
+      "melee_damage": {
+        "min": 33,
+        "max": 63
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "max_quantity": 40,
+      "strength_requirement": 127,
+      "dexterity_requirement": 95,
+      "level_requirement": "68",
+      "item_tier": "elite",
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "160",
+        "max": "210"
+      },
+      "firedmg_flat": {
+        "min": "232",
+        "max": "323"
+      },
+      "lifedrainmindam": {
+        "min": "6",
+        "max": "12"
+      },
+      "item_replenish_quantity": {},
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "lightdmg_flat": {
+        "min": "23",
+        "max": "333"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+160-210% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 232-323 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 23-333 Lightning Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "6-12% Life stolen per hit"
+      },
+      {
+        "order": "2",
+        "string": "Replenishes quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Wraith Flight",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_properties": {
+      "item_base": "Ghost Glaive",
+      "sub_type": "javelin",
+      "class_specific": null,
+      "damage": {
+        "min": 30,
+        "max": 85
+      },
+      "melee_damage": {
+        "min": 19,
+        "max": 60
+      },
+      "damage_bonus": {
+        "strength_bonus": 0.75,
+        "dexterity_bonus": 0.75
+      },
+      "weapon_speed": 20,
+      "melee_range": 3,
+      "max_quantity": 20,
+      "strength_requirement": 89,
+      "dexterity_requirement": 137,
+      "level_requirement": "76",
+      "item_tier": "elite",
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "150",
+        "max": "190"
+      },
+      "item_replenish_quantity": {},
+      "lifedrainmindam": {
+        "min": "9",
+        "max": "13"
+      },
+      "item_manaafterkill": {
+        "min": "15",
+        "max": "15"
+      },
+      "ethereal": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Ethereal"
+      },
+      {
+        "order": "159",
+        "string": "+150-190% Enhanced Damage"
+      },
+      {
+        "order": "88",
+        "string": "9-13% Life stolen per hit"
+      },
+      {
+        "order": "16",
+        "string": "+15 to Mana after each Kill"
+      },
+      {
+        "order": "2",
+        "string": "Replenishes quantity"
+      }
+    ]
+  }
+]

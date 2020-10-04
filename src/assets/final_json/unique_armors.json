@@ -1,0 +1,3029 @@
+[
+  {
+    "item_name": "Greyform",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_properties": {
+      "item_base": "Quilted Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 11
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 12,
+      "dexterity_requirement": 0,
+      "level_requirement": "7",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "magic_damage_reduction": {
+        "min": "3",
+        "max": "3"
+      },
+      "coldresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "fireresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "armorclass": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "88",
+        "string": "5% Life stolen per hit"
+      },
+      {
+        "order": "71",
+        "string": "+20 Defense"
+      },
+      {
+        "order": "65",
+        "string": "+10 to Dexterity"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +20%"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +20%"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 3"
+      }
+    ]
+  },
+  {
+    "item_name": "Blinkbat's Form",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_properties": {
+      "item_base": "Leather Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 14,
+        "max": 17
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 14,
+      "dexterity_requirement": 0,
+      "level_requirement": "12",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass_vs_missile": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_fastermovevelocity": {
+        "min": "10",
+        "max": "10"
+      },
+      "armorclass": {
+        "min": "25",
+        "max": "25"
+      },
+      "firemindam": {
+        "min": "3",
+        "max": "3"
+      },
+      "firemaxdam": {
+        "min": "6",
+        "max": "6"
+      },
+      "item_fastergethitrate": {
+        "min": "40",
+        "max": "40"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+10% Faster Run/Walk"
+      },
+      {
+        "order": "139",
+        "string": "+40% Faster Hit Recovery"
+      },
+      {
+        "order": "102",
+        "string": "+3 to Minimum Fire Damage"
+      },
+      {
+        "order": "101",
+        "string": "+6 to Maximum Fire Damage"
+      },
+      {
+        "order": "71",
+        "string": "+25 Defense"
+      },
+      {
+        "order": "69",
+        "string": "+50 Defense vs. Missile"
+      }
+    ]
+  },
+  {
+    "item_name": "The Centurion",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_properties": {
+      "item_base": "Hard Leather Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 21,
+        "max": 24
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass": {
+        "min": "30",
+        "max": "30"
+      },
+      "tohit": {
+        "min": "50",
+        "max": "50"
+      },
+      "normal_damage_reduction": {
+        "min": "2",
+        "max": "2"
+      },
+      "maxhp": {
+        "min": "15",
+        "max": "15"
+      },
+      "maxmana": {
+        "min": "15",
+        "max": "15"
+      },
+      "maxstamina": {
+        "min": "15",
+        "max": "15"
+      },
+      "hpregen": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_staminadrainpct": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "115",
+        "string": "+50 to Attack Rating"
+      },
+      {
+        "order": "71",
+        "string": "+30 Defense"
+      },
+      {
+        "order": "59",
+        "string": "+15 to Life"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +5"
+      },
+      {
+        "order": "55",
+        "string": "+15 to Mana"
+      },
+      {
+        "order": "51",
+        "string": "+15 Maximum Stamina"
+      },
+      {
+        "order": "49",
+        "string": "25% Stamina Drain"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 2"
+      }
+    ]
+  },
+  {
+    "item_name": "Twitchthroe",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_properties": {
+      "item_base": "Studded Leather",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 32,
+        "max": 35
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 27,
+      "dexterity_requirement": 0,
+      "level_requirement": "16",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "toblock": {
+        "min": "25",
+        "max": "25"
+      },
+      "armorclass": {
+        "min": "25",
+        "max": "25"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "134",
+        "string": "25% Increased Chance of Blocking"
+      },
+      {
+        "order": "71",
+        "string": "+25 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+10 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Darkglow",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_properties": {
+      "item_base": "Ring Mail",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 45,
+        "max": 48
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 26,
+      "strength_requirement": 36,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "tohit": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist_max": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_lightradius": {
+        "min": "3",
+        "max": "3"
+      },
+      "armorclass_vs_hth": {
+        "min": "50",
+        "max": "50"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_armor_percent": {
+        "min": "70",
+        "max": "100"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+5 To Maximum Poison Resist\n+5 To Maximum Cold Resist\n\n    +5 To Maximum Lightning Resist\n\n    +5 To Maximum Fire Resist"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +10"
+      },
+      {
+        "order": "115",
+        "string": "+20 to Attack Rating"
+      },
+      {
+        "order": "74",
+        "string": "+70-100% Enhanced Defense"
+      },
+      {
+        "order": "70",
+        "string": "+50 Defense vs. Melee"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Hawkmail",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_properties": {
+      "item_base": "Scale Mail",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 57,
+        "max": 60
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 36,
+      "strength_requirement": 44,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "80",
+        "max": "100"
+      },
+      "maxcoldresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "coldresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_fastermovevelocity": {
+        "min": "10",
+        "max": "10"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+10% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+80-100% Enhanced Defense"
+      },
+      {
+        "order": "44",
+        "string": "+15% to Maximum Cold Resist"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +15%"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      }
+    ]
+  },
+  {
+    "item_name": "Sparking Mail",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_properties": {
+      "item_base": "Chain Mail",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 72,
+        "max": 75
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 45,
+      "strength_requirement": 48,
+      "dexterity_requirement": 0,
+      "level_requirement": "17",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "75",
+        "max": "85"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "20"
+      },
+      "item_attackertakeslightdamage": {
+        "min": "10",
+        "max": "14"
+      },
+      "lightresist": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 1-20 Lightning Damage"
+      },
+      {
+        "order": "74",
+        "string": "+75-85% Enhanced Defense"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +30%"
+      },
+      {
+        "order": "14",
+        "string": "Attacker Takes Lightning Damage of 10-14"
+      }
+    ]
+  },
+  {
+    "item_name": "Venom Ward",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_properties": {
+      "item_base": "Breast Plate",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 65,
+        "max": 68
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 30,
+      "dexterity_requirement": 0,
+      "level_requirement": "20",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "maxpoisonresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_poisonlengthresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "poisonresist": {
+        "min": "90",
+        "max": "90"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_armor_percent": {
+        "min": "60",
+        "max": "100"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+60-100% Enhanced Defense"
+      },
+      {
+        "order": "45",
+        "string": "+15% to Maximum Poison Resist"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +90%"
+      },
+      {
+        "order": "18",
+        "string": "Poison Length Reduced by 50%"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Iceblink",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_properties": {
+      "item_base": "Splint Mail",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 90,
+        "max": 95
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 30,
+      "strength_requirement": 51,
+      "dexterity_requirement": 0,
+      "level_requirement": "22",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_freeze": {
+        "min": "1",
+        "max": "1"
+      },
+      "coldresist": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_lightradius": {
+        "min": "4",
+        "max": "4"
+      },
+      "magic_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_armor_percent": {
+        "min": "70",
+        "max": "80"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "78",
+        "string": "Freezes target +1"
+      },
+      {
+        "order": "74",
+        "string": "+70-80% Enhanced Defense"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +30%"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 1"
+      },
+      {
+        "order": "6",
+        "string": "+4 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Boneflesh",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_properties": {
+      "item_base": "Plate Mail",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 108,
+        "max": 116
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": "26",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_armor_percent": {
+        "min": "100",
+        "max": "120"
+      },
+      "tohit": {
+        "min": "35",
+        "max": "35"
+      },
+      "item_openwounds": {
+        "min": "25",
+        "max": "25"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "115",
+        "string": "+35 to Attack Rating"
+      },
+      {
+        "order": "88",
+        "string": "5% Life stolen per hit"
+      },
+      {
+        "order": "83",
+        "string": "25% Chance of Open Wounds"
+      },
+      {
+        "order": "74",
+        "string": "+100-120% Enhanced Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Rockfleece",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_properties": {
+      "item_base": "Field Plate",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 101,
+        "max": 105
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 48,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_req_percent": {
+        "min": "-10",
+        "max": "-10"
+      },
+      "item_armor_percent": {
+        "min": "100",
+        "max": "130"
+      },
+      "damageresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "normal_damage_reduction": {
+        "min": "5",
+        "max": "5"
+      },
+      "strength": {
+        "min": "5",
+        "max": "5"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+100-130% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+5 to Strength"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 10%"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 5"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-10%"
+      }
+    ]
+  },
+  {
+    "item_name": "Rattlecage",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_properties": {
+      "item_base": "Gothic Plate",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 128,
+        "max": 135
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 55,
+      "strength_requirement": 70,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_howl": {
+        "min": "52",
+        "max": "52"
+      },
+      "tohit": {
+        "min": "45",
+        "max": "45"
+      },
+      "item_crushingblow": {
+        "min": "25",
+        "max": "25"
+      },
+      "armorclass": {
+        "min": "200",
+        "max": "200"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "115",
+        "string": "+45 to Attack Rating"
+      },
+      {
+        "order": "87",
+        "string": "25% Chance of Crushing Blow"
+      },
+      {
+        "order": "79",
+        "string": "Hit Causes Monster To Flee 52%"
+      },
+      {
+        "order": "71",
+        "string": "+200 Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Goldskin",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_properties": {
+      "item_base": "Full Plate Mail",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 150,
+        "max": 161
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 70,
+      "strength_requirement": 80,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "120",
+        "max": "150"
+      },
+      "all_resist": {
+        "min": "35",
+        "max": "35"
+      },
+      "item_attackertakesdamage": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_goldbonus": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +35"
+      },
+      {
+        "order": "74",
+        "string": "+120-150% Enhanced Defense"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 10"
+      },
+      {
+        "order": "10",
+        "string": "100% extra gold from monsters"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Silks of the Victor",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Ancient Armor",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 218,
+        "max": 223
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 100,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "manadrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_armor_percent": {
+        "min": "100",
+        "max": "120"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "89",
+        "string": "5% Mana stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+100-120% Enhanced Defense"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Heavenly Garb",
+    "item_type": "armor",
+    "itemImage": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_properties": {
+      "item_base": "Light Plate",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 90,
+        "max": 107
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 41,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "100",
+        "max": "100"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "manarecoverybonus": {
+        "min": "25",
+        "max": "25"
+      },
+      "energy": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_undead_tohit": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +10"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "106",
+        "string": "+100 to Attack Rating against Undead"
+      },
+      {
+        "order": "74",
+        "string": "+100% Enhanced Defense"
+      },
+      {
+        "order": "61",
+        "string": "+15 to Energy"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 25%"
+      }
+    ]
+  },
+  {
+    "item_name": "The Spirit Shroud",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_properties": {
+      "item_base": "Ghost Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 102,
+        "max": 117
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 20,
+      "strength_requirement": 38,
+      "dexterity_requirement": 0,
+      "level_requirement": "28",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "magic_damage_reduction": {
+        "min": "7",
+        "max": "11"
+      },
+      "hpregen": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "150"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "74",
+        "string": "+150% Enhanced Defense"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 7-11"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      }
+    ]
+  },
+  {
+    "item_name": "Skin of the Vipermagi",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_properties": {
+      "item_base": "Serpentskin Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 111,
+        "max": 126
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 24,
+      "strength_requirement": 43,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "120",
+        "max": "120"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "35"
+      },
+      "item_fastercastrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "magic_damage_reduction": {
+        "min": "9",
+        "max": "13"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +20-35"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+30% Faster Cast Rate"
+      },
+      {
+        "order": "74",
+        "string": "+120% Enhanced Defense"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 9-13"
+      }
+    ]
+  },
+  {
+    "item_name": "Skin of the Flayed One",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_properties": {
+      "item_base": "Demonhide Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 122,
+        "max": 136
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 28,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "31",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_replenish_durability": {},
+      "hpregen": {
+        "min": "15",
+        "max": "25"
+      },
+      "maxdurability": {
+        "min": "30",
+        "max": "30"
+      },
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "7"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "190"
+      },
+      "item_attackertakesdamage": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "88",
+        "string": "5-7% Life stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+150-190% Enhanced Defense"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +15-25"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 15"
+      },
+      {
+        "order": "1",
+        "string": "Repairs %d durability per second"
+      }
+    ]
+  },
+  {
+    "item_name": "Iron Pelt",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_properties": {
+      "item_base": "Trellised Armor",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 138,
+        "max": 153
+      },
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 32,
+      "strength_requirement": 61,
+      "dexterity_requirement": 0,
+      "level_requirement": "33",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "maxdurability": {
+        "min": "125",
+        "max": "125"
+      },
+      "maxhp": {
+        "min": "25",
+        "max": "25"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "16"
+      },
+      "normal_damage_reduction": {
+        "min": "15",
+        "max": "20"
+      },
+      "item_armor_perlevel": {
+        "min": 3,
+        "max": 3
+      },
+      "item_armor_percent": {
+        "min": "50",
+        "max": "100"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+50-100% Enhanced Defense"
+      },
+      {
+        "order": "72",
+        "string": "+3-297 Defense (Based On Character level)"
+      },
+      {
+        "order": "59",
+        "string": "+25 to Life"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 15-20"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 10-16"
+      }
+    ]
+  },
+  {
+    "item_name": "Spirit Forge",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_properties": {
+      "item_base": "Linked Mail",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 158,
+        "max": 172
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 26,
+      "strength_requirement": 74,
+      "dexterity_requirement": 0,
+      "level_requirement": "35",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_lightradius": {
+        "min": "4",
+        "max": "4"
+      },
+      "item_hp_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "firedmg_flat": {
+        "min": "20",
+        "max": "65"
+      },
+      "fireresist": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_armor_percent": {
+        "min": "120",
+        "max": "160"
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_numsockets": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 20-65 Fire Damage"
+      },
+      {
+        "order": "74",
+        "string": "+120-160% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+15 to Strength"
+      },
+      {
+        "order": "57",
+        "string": "+1.25-124 to Life (Based On Character level)"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +5%"
+      },
+      {
+        "order": "6",
+        "string": "+4 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (2)"
+      }
+    ]
+  },
+  {
+    "item_name": "Crow Caw",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_properties": {
+      "item_base": "Tigulated Mail",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 176,
+        "max": 190
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 36,
+      "strength_requirement": 86,
+      "dexterity_requirement": 0,
+      "level_requirement": "37",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_openwounds": {
+        "min": "35",
+        "max": "35"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "180"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fastergethitrate": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fasterattackrate": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "145",
+        "string": "+15% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "+15% Faster Hit Recovery"
+      },
+      {
+        "order": "83",
+        "string": "35% Chance of Open Wounds"
+      },
+      {
+        "order": "74",
+        "string": "+150-180% Enhanced Defense"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Shaftstop",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_properties": {
+      "item_base": "Mesh Armor",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 198,
+        "max": 213
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 45,
+      "strength_requirement": 92,
+      "dexterity_requirement": 0,
+      "level_requirement": "38",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass_vs_missile": {
+        "min": "250",
+        "max": "250"
+      },
+      "damageresist": {
+        "min": "30",
+        "max": "30"
+      },
+      "maxhp": {
+        "min": "60",
+        "max": "60"
+      },
+      "item_armor_percent": {
+        "min": "180",
+        "max": "220"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+180-220% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+250 Defense vs. Missile"
+      },
+      {
+        "order": "59",
+        "string": "+60 to Life"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 30%"
+      }
+    ]
+  },
+  {
+    "item_name": "Duriel's Shell",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_properties": {
+      "item_base": "Cuirass",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 188,
+        "max": 202
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_armor_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "item_hp_perlevel": {
+        "min": 1,
+        "max": 1
+      },
+      "item_armor_percent": {
+        "min": "160",
+        "max": "200"
+      },
+      "fireresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "lightresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "poisonresist": {
+        "min": "20",
+        "max": "20"
+      },
+      "coldresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "maxdurability": {
+        "min": "100",
+        "max": "100"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+160-200% Enhanced Defense"
+      },
+      {
+        "order": "72",
+        "string": "+1.25-124 Defense (Based On Character level)"
+      },
+      {
+        "order": "67",
+        "string": "+15 to Strength"
+      },
+      {
+        "order": "57",
+        "string": "+1-99 to Life (Based On Character level)"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +50%"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +20%"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +20%"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +20%"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      }
+    ]
+  },
+  {
+    "item_name": "Skullder's Ire",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_properties": {
+      "item_base": "Russet Armor",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 225,
+        "max": 243
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 30,
+      "strength_requirement": 97,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_find_magic_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "item_armor_percent": {
+        "min": "160",
+        "max": "200"
+      },
+      "maxdurability": {
+        "min": "60",
+        "max": "60"
+      },
+      "magic_damage_reduction": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_replenish_durability": {}
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "74",
+        "string": "+160-200% Enhanced Defense"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 10"
+      },
+      {
+        "order": "7",
+        "string": "1.25-124% better chance of getting magic item (Based On Character level)"
+      },
+      {
+        "order": "1",
+        "string": "Repairs %d durability per second"
+      }
+    ]
+  },
+  {
+    "item_name": "Guardian Angel",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_properties": {
+      "item_base": "Templar Coat",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 252,
+        "max": 274
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_lightradius": {
+        "min": "4",
+        "max": "4"
+      },
+      "paladin_skills": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_armor_percent": {
+        "min": "180",
+        "max": "200"
+      },
+      "item_fasterblockrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_resist_max": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_tohit_demon_perlevel": {
+        "min": 2.5,
+        "max": 2.5
+      },
+      "toblock": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+15 To Maximum Poison Resist\n+15 To Maximum Cold Resist\n\n    +15 To Maximum Lightning Resist\n\n    +15 To Maximum Fire Resist"
+      },
+      {
+        "order": "150",
+        "string": "+1 to Paladin Skill Levels"
+      },
+      {
+        "order": "136",
+        "string": "+30% Faster Block Rate"
+      },
+      {
+        "order": "134",
+        "string": "20% Increased Chance of Blocking"
+      },
+      {
+        "order": "109",
+        "string": "+2.5-248 to Attack Rating against Demons (Based On Character level)"
+      },
+      {
+        "order": "74",
+        "string": "+180-200% Enhanced Defense"
+      },
+      {
+        "order": "6",
+        "string": "+4 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Toothrow",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_properties": {
+      "item_base": "Sharktooth Armor",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 242,
+        "max": 258
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 48,
+      "strength_requirement": 103,
+      "dexterity_requirement": 0,
+      "level_requirement": "48",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_attackertakesdamage": {
+        "min": "20",
+        "max": "40"
+      },
+      "armorclass": {
+        "min": "40",
+        "max": "60"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_openwounds": {
+        "min": "40",
+        "max": "40"
+      },
+      "fireresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_armor_percent": {
+        "min": "160",
+        "max": "220"
+      },
+      "maxdurability": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "83",
+        "string": "40% Chance of Open Wounds"
+      },
+      {
+        "order": "74",
+        "string": "+160-220% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+40-60 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +15%"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 20-40"
+      }
+    ]
+  },
+  {
+    "item_name": "Atma's Wail",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_properties": {
+      "item_base": "Embossed Plate",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 282,
+        "max": 303
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 55,
+      "strength_requirement": 125,
+      "dexterity_requirement": 0,
+      "level_requirement": "51",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "hpregen": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_maxmana_percent": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_armor_perlevel": {
+        "min": 2,
+        "max": 2
+      },
+      "maxdurability": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_armor_percent": {
+        "min": "120",
+        "max": "160"
+      },
+      "item_magicbonus": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+120-160% Enhanced Defense"
+      },
+      {
+        "order": "72",
+        "string": "+2-198 Defense (Based On Character level)"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 15%"
+      },
+      {
+        "order": "8",
+        "string": "20% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Black Hades",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_properties": {
+      "item_base": "Chaos Armor",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 315,
+        "max": 342
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 70,
+      "strength_requirement": 140,
+      "dexterity_requirement": 0,
+      "level_requirement": "53",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_lightradius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "item_demon_tohit": {
+        "min": "200",
+        "max": "250"
+      },
+      "item_halffreezeduration": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_numsockets": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_armor_percent": {
+        "min": "140",
+        "max": "200"
+      },
+      "item_demondamage_percent": {
+        "min": "30",
+        "max": "60"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "112",
+        "string": "+30-60% Damage to Demons"
+      },
+      {
+        "order": "110",
+        "string": "+200-250 to Attack Rating against Demons"
+      },
+      {
+        "order": "74",
+        "string": "+140-200% Enhanced Defense"
+      },
+      {
+        "order": "19",
+        "string": "Half Freeze Duration"
+      },
+      {
+        "order": "6",
+        "string": "+-2 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (3)"
+      }
+    ]
+  },
+  {
+    "item_name": "Corpsemourn",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Ornate Plate",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 417,
+        "max": 450
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 170,
+      "dexterity_requirement": 0,
+      "level_requirement": "55",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "strength": {
+        "min": "8",
+        "max": "8"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "coldresist": {
+        "min": "35",
+        "max": "35"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "6",
+        "skill_level": "2",
+        "skill": "iron_maiden"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "180"
+      },
+      "firedmg_flat": {
+        "min": "12",
+        "max": "36"
+      },
+      "item_charged_skill": {
+        "skill": "Corpse Explosion",
+        "charges": "40",
+        "skill_level": "5"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "6% Chance To Cast Level 2 Iron Maiden When Struck"
+      },
+      {
+        "order": "159",
+        "string": "Adds 12-36 Fire Damage"
+      },
+      {
+        "order": "74",
+        "string": "+150-180% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+8 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +35%"
+      },
+      {
+        "order": "1",
+        "string": "Level 5 Corpse Explosion (40 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Que-Hegan's Wisdom",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_properties": {
+      "item_base": "Mage Plate",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 225,
+        "max": 261
+      },
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 60,
+      "strength_requirement": 55,
+      "dexterity_requirement": 0,
+      "level_requirement": "51",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_fastercastrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_manaafterkill": {
+        "min": "3",
+        "max": "3"
+      },
+      "magic_damage_reduction": {
+        "min": "6",
+        "max": "10"
+      },
+      "energy": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_armor_percent": {
+        "min": "140",
+        "max": "160"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+20% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+140-160% Enhanced Defense"
+      },
+      {
+        "order": "61",
+        "string": "+15 to Energy"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 6-10"
+      },
+      {
+        "order": "16",
+        "string": "+3 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "The Gladiator's Bane",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_properties": {
+      "item_base": "Wire Fleece",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 375,
+        "max": 481
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 32,
+      "strength_requirement": 111,
+      "dexterity_requirement": 0,
+      "level_requirement": "85",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "magic_damage_reduction": {
+        "min": "15",
+        "max": "20"
+      },
+      "normal_damage_reduction": {
+        "min": "15",
+        "max": "20"
+      },
+      "item_attackertakesdamage": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_poisonlengthresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "maxdurability": {
+        "min": "103",
+        "max": "103"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "armorclass": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+150-200% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+50 Defense"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 15-20"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 15-20"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "18",
+        "string": "Poison Length Reduced by 50%"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 20"
+      }
+    ]
+  },
+  {
+    "item_name": "Arkaine's Valor",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_properties": {
+      "item_base": "Balrog Skin",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 410,
+        "max": 517
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 30,
+      "strength_requirement": 165,
+      "dexterity_requirement": 0,
+      "level_requirement": "85",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "150",
+        "max": "180"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_allskills": {
+        "min": "1",
+        "max": "2"
+      },
+      "normal_damage_reduction": {
+        "min": "10",
+        "max": "15"
+      },
+      "item_vitality_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1-2 to All Skills"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+150-180% Enhanced Defense"
+      },
+      {
+        "order": "62",
+        "string": "+0.5-50 to Vitality (Based On Character level)"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 10-15"
+      }
+    ]
+  },
+  {
+    "item_name": "Tyrael's Might",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Sacred Armor",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 487,
+        "max": 600
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 232,
+      "dexterity_requirement": 0,
+      "level_requirement": "84",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_req_percent": {
+        "min": "-100",
+        "max": "-100"
+      },
+      "indestruct": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_armor_percent": {
+        "min": "120",
+        "max": "150"
+      },
+      "item_restinpeace": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_demondamage_percent": {
+        "min": "50",
+        "max": "100"
+      },
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "30"
+      },
+      "strength": {
+        "min": "20",
+        "max": "30"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "112",
+        "string": "+50-100% Damage to Demons"
+      },
+      {
+        "order": "81",
+        "string": "Slain Monsters Rest in Peace"
+      },
+      {
+        "order": "74",
+        "string": "+120-150% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+20-30 to Strength"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-100%"
+      }
+    ]
+  },
+  {
+    "item_name": "Leviathan",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_properties": {
+      "item_base": "Kraken Shell",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 417,
+        "max": 523
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 48,
+      "strength_requirement": 174,
+      "dexterity_requirement": 0,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "170",
+        "max": "200"
+      },
+      "armorclass": {
+        "min": "100",
+        "max": "150"
+      },
+      "damageresist": {
+        "min": "15",
+        "max": "25"
+      },
+      "strength": {
+        "min": "40",
+        "max": "50"
+      },
+      "indestruct": {
+        "min": "1",
+        "max": "1"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "74",
+        "string": "+170-200% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+100-150 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+40-50 to Strength"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 15-25%"
+      }
+    ]
+  },
+  {
+    "item_name": "Steel Carapace",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_properties": {
+      "item_base": "Shadow Plate",
+      "armor_type": "heavy",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 446,
+        "max": 557
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 70,
+      "strength_requirement": 230,
+      "dexterity_requirement": 0,
+      "level_requirement": "66",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "190",
+        "max": "220"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "normal_damage_reduction": {
+        "min": "9",
+        "max": "14"
+      },
+      "coldresist": {
+        "min": "40",
+        "max": "60"
+      },
+      "manarecoverybonus": {
+        "min": "10",
+        "max": "15"
+      },
+      "item_replenish_durability": {},
+      "gethit_skill": {
+        "chance_to_cast": "8",
+        "skill_level": "6",
+        "skill": "iron_maiden"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "8% Chance To Cast Level 6 Iron Maiden When Struck"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+190-220% Enhanced Defense"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 10-15%"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +40-60%"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 9-14"
+      },
+      {
+        "order": "1",
+        "string": "Repairs %d durability per second"
+      }
+    ]
+  },
+  {
+    "item_name": "Ormus' Robes",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_properties": {
+      "item_base": "Dusk Shroud",
+      "armor_type": "light",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 361,
+        "max": 467
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 20,
+      "strength_requirement": 77,
+      "dexterity_requirement": 0,
+      "level_requirement": "75",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass": {
+        "min": "10",
+        "max": "20"
+      },
+      "item_fastercastrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "passive_fire_mastery": {
+        "min": "10",
+        "max": "15"
+      },
+      "passive_cold_mastery": {
+        "min": "10",
+        "max": "15"
+      },
+      "passive_ltng_mastery": {
+        "min": "10",
+        "max": "15"
+      },
+      "manarecoverybonus": {
+        "min": "10",
+        "max": "15"
+      },
+      "item_singleskill": {
+        "min": "36",
+        "max": "60"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "142",
+        "string": "+20% Faster Cast Rate"
+      },
+      {
+        "order": "88",
+        "string": "+10-15% to Fire Skill Damage"
+      },
+      {
+        "order": "88",
+        "string": "+10-15% to Cold Skill Damage"
+      },
+      {
+        "order": "88",
+        "string": "+10-15% to Lightning Skill Damage"
+      },
+      {
+        "order": "71",
+        "string": "+10-20 Defense"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 10-15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Templar's Might",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_properties": {
+      "item_base": "Sacred Armor",
+      "armor_type": "medium",
+      "sub_type": "bodyarmor",
+      "class_specific": null,
+      "defense": {
+        "min": 487,
+        "max": 600
+      },
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 60,
+      "strength_requirement": 232,
+      "dexterity_requirement": 0,
+      "level_requirement": "74",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "170",
+        "max": "220"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "armorclass_vs_missile": {
+        "min": "250",
+        "max": "300"
+      },
+      "maxstamina": {
+        "min": "40",
+        "max": "50"
+      },
+      "strength": {
+        "min": "10",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "15"
+      },
+      "defensive_auras": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Defensive Auras"
+      },
+      {
+        "order": "74",
+        "string": "+170-220% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+250-300 Defense vs. Missile"
+      },
+      {
+        "order": "67",
+        "string": "+10-15 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10-15 to Vitality"
+      },
+      {
+        "order": "51",
+        "string": "+40-50 Maximum Stamina"
+      }
+    ]
+  }
+]

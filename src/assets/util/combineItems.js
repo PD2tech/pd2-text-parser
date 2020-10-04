@@ -1,5 +1,5 @@
 import allBases from "../json/allBases.json";
-import uni from "../json/uniquesBeforeSecond.json";
+import uni from "../json/uniquesAfterBase.json";
 
 export const combineAll = () => {
   let result = [];
@@ -14,6 +14,9 @@ export const combineAll = () => {
       base.item_properties.rarity_type = 3;
       let allPropertyStrings = [...uni[i].property_strings];
 
+      // have to do custom handleing for undead damage because some bases have the inherit 50%
+      // from being blunt weapons, so it needs to be added with the mod on a unique and combined
+      // for the value and string display
       let combineUndeadOnBlunt;
       if (
         base.item_mods &&

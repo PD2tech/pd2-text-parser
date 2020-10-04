@@ -1,0 +1,911 @@
+[
+  {
+    "item_name": "Crushflange",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_properties": {
+      "item_base": "Mace",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 10
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 27,
+      "dexterity_requirement": 0,
+      "level_requirement": "9",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_knockback": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "fireresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_damage_percent": {
+        "min": "50",
+        "max": "60"
+      },
+      "item_crushingblow": {
+        "min": "33",
+        "max": "33"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+50-60% Enhanced Damage"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "87",
+        "string": "33% Chance of Crushing Blow"
+      },
+      {
+        "order": "76",
+        "string": "Knockback"
+      },
+      {
+        "order": "67",
+        "string": "+15 to Strength"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +50%"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Bloodrise",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_properties": {
+      "item_base": "Morning Star",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 7,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 36,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": "120",
+        "max": "120"
+      },
+      "item_tohit_percent": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_openwounds": {
+        "min": "25",
+        "max": "25"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_fasterattackrate": {
+        "min": "10",
+        "max": "10"
+      },
+      "sacrifice": {
+        "min": "3",
+        "max": "3"
+      },
+      "lifedrainmindam": {
+        "min": "5",
+        "max": "5"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+120% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+10% Increased Attack Speed"
+      },
+      {
+        "order": "117",
+        "string": "50% bonus to Attack Rating"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "88",
+        "string": "5% Life stolen per hit"
+      },
+      {
+        "order": "83",
+        "string": "25% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Sacrifice"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "The General's Tan Do Li Ga",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Flail",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 1,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 30,
+      "strength_requirement": 41,
+      "dexterity_requirement": 35,
+      "level_requirement": "21",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "damage_min": {
+        "min": "1",
+        "max": "1"
+      },
+      "damage_max": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_slow": {
+        "min": "50",
+        "max": "50"
+      },
+      "armorclass": {
+        "min": "25",
+        "max": "25"
+      },
+      "manadrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_damage_percent": {
+        "min": "50",
+        "max": "60"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 1 Minimum Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 20 Maximum Damage"
+      },
+      {
+        "order": "159",
+        "string": "+50-60% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "89",
+        "string": "5% Mana stolen per hit"
+      },
+      {
+        "order": "77",
+        "string": "Slows target by 50%"
+      },
+      {
+        "order": "71",
+        "string": "+25 Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Sureshrill Frost",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_properties": {
+      "item_base": "Flanged Mace",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 23
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 1,
+      "sockets": {
+        "min": 0,
+        "max": 2
+      },
+      "durability": 60,
+      "strength_requirement": 61,
+      "dexterity_requirement": 0,
+      "level_requirement": "39",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "colddmg_flat": {
+        "min": "63",
+        "max": "112"
+      },
+      "item_cannotbefrozen": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_damage_percent": {
+        "min": "150",
+        "max": "180"
+      },
+      "damage_flat": {
+        "min": "5",
+        "max": "10"
+      },
+      "item_freeze": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_charged_skill": {
+        "skill": "Frozen Orb",
+        "charges": "50",
+        "skill_level": "9"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 63-112 Cold Damage"
+      },
+      {
+        "order": "159",
+        "string": "+150-180% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 5-10 Damage"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "78",
+        "string": "Freezes target +3"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "1",
+        "string": "Level 9 Frozen Orb (50 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Moonfall",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_properties": {
+      "item_base": "Jagged Star",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 20,
+        "max": 31
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 74,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "hit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "6",
+        "skill": "meteor"
+      },
+      "firedmg_flat": {
+        "min": "55",
+        "max": "115"
+      },
+      "magic_damage_reduction": {
+        "min": "9",
+        "max": "12"
+      },
+      "item_damage_percent": {
+        "min": "120",
+        "max": "150"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_charged_skill": {
+        "skill": "Meteor",
+        "charges": "60",
+        "skill_level": "11"
+      },
+      "damage_flat": {
+        "min": "10",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 6 Meteor On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 55-115 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "+120-150% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 10-15 Damage"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 9-12"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 11 Meteor (60 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Baezil's Vortex",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Knout",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 30,
+      "strength_requirement": 82,
+      "dexterity_requirement": 73,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "hit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "8",
+        "skill": "nova"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "150"
+      },
+      "maxmana": {
+        "min": "100",
+        "max": "100"
+      },
+      "lightresist": {
+        "min": "25",
+        "max": "25"
+      },
+      "item_damage_percent": {
+        "min": "160",
+        "max": "200"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_charged_skill": {
+        "skill": "Nova",
+        "charges": "80",
+        "skill_level": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 8 Nova On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-150 Lightning Damage"
+      },
+      {
+        "order": "159",
+        "string": "+160-200% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "55",
+        "string": "+100 to Mana"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +25%"
+      },
+      {
+        "order": "1",
+        "string": "Level 15 Nova (80 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Baranar's Star",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_properties": {
+      "item_base": "Devil Star",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 41,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 72,
+      "strength_requirement": 153,
+      "dexterity_requirement": 44,
+      "level_requirement": "65",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_tohit_percent": {
+        "min": "200",
+        "max": "200"
+      },
+      "item_damage_percent": {
+        "min": "200",
+        "max": "200"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "strength": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fasterattackrate": {
+        "min": "50",
+        "max": "50"
+      },
+      "maxdurability": {
+        "min": "100",
+        "max": "100"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "200"
+      },
+      "firedmg_flat": {
+        "min": "1",
+        "max": "200"
+      },
+      "colddmg_flat": {
+        "min": "1",
+        "max": "200"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+200% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-200 Lightning Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-200 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-200 Cold Damage"
+      },
+      {
+        "order": "145",
+        "string": "+50% Increased Attack Speed"
+      },
+      {
+        "order": "117",
+        "string": "200% bonus to Attack Rating"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "67",
+        "string": "+15 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Horizon's Tornado",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Scourge",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 80
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 125,
+      "dexterity_requirement": 77,
+      "level_requirement": "64",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": "230",
+        "max": "280"
+      },
+      "item_fasterattackrate": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_slow": {
+        "min": "20",
+        "max": "20"
+      },
+      "hit_skill": {
+        "chance_to_cast": "20",
+        "skill_level": "15",
+        "skill": "tornado"
+      },
+      "item_req_percent": {
+        "min": "-20",
+        "max": "-20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 15 Tornado On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+230-280% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+50% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "77",
+        "string": "Slows target by 20%"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Stormlash",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_properties": {
+      "item_base": "Scourge",
+      "sub_type": "mace",
+      "class_specific": null,
+      "damage": {
+        "min": 3,
+        "max": 80
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 125,
+      "dexterity_requirement": 77,
+      "level_requirement": "82",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": "240",
+        "max": "300"
+      },
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "hit_skill": {
+        "chance_to_cast": "20",
+        "skill_level": "18",
+        "skill": "tornado"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "473"
+      },
+      "item_attackertakeslightdamage": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_crushingblow": {
+        "min": "33",
+        "max": "33"
+      },
+      "item_absorblight": {
+        "min": "3",
+        "max": "9"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 10 Static Field On Striking"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 18 Tornado On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+240-300% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-473 Lightning Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage To Undead"
+      },
+      {
+        "order": "87",
+        "string": "33% Chance of Crushing Blow"
+      },
+      {
+        "order": "29",
+        "string": "+3-9 Lightning Absorb"
+      },
+      {
+        "order": "14",
+        "string": "Attacker Takes Lightning Damage of 30"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1470 @@
+[
+  {
+    "item_name": "Dimoak's Hew",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/bar.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Bardiche",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 1,
+        "max": 27
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 40,
+      "dexterity_requirement": 0,
+      "level_requirement": "8",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_damage_percent": {
+        "min": "100",
+        "max": "100"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "armorclass": {
+        "min": "-8",
+        "max": "-8"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+100% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "71",
+        "string": "+-8 Defense"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Steelgoad",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/vou.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Voulge",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 21
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 50,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "14",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_howl": {
+        "min": "96",
+        "max": "96"
+      },
+      "item_deadlystrike": {
+        "min": "30",
+        "max": "30"
+      },
+      "tohit": {
+        "min": "30",
+        "max": "30"
+      },
+      "all_resist": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_damage_percent": {
+        "min": "60",
+        "max": "80"
+      },
+      "maxdurability": {
+        "min": "20",
+        "max": "40"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +5"
+      },
+      {
+        "order": "159",
+        "string": "+60-80% Enhanced Damage"
+      },
+      {
+        "order": "115",
+        "string": "+30 to Attack Rating"
+      },
+      {
+        "order": "85",
+        "string": "30% Deadly Strike"
+      },
+      {
+        "order": "79",
+        "string": "Hit Causes Monster To Flee 96%"
+      }
+    ]
+  },
+  {
+    "item_name": "Soul Harvest",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/scy.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Scythe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 8,
+        "max": 20
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 41,
+      "dexterity_requirement": 41,
+      "level_requirement": "19",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_openwounds": {
+        "min": "30",
+        "max": "30"
+      },
+      "tohit": {
+        "min": "45",
+        "max": "45"
+      },
+      "all_resist": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_damage_percent": {
+        "min": "50",
+        "max": "90"
+      },
+      "manadrainmindam": {
+        "min": "10",
+        "max": "10"
+      },
+      "energy": {
+        "min": "5",
+        "max": "5"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +20"
+      },
+      {
+        "order": "159",
+        "string": "+50-90% Enhanced Damage"
+      },
+      {
+        "order": "115",
+        "string": "+45 to Attack Rating"
+      },
+      {
+        "order": "89",
+        "string": "10% Mana stolen per hit"
+      },
+      {
+        "order": "83",
+        "string": "30% Chance of Open Wounds"
+      },
+      {
+        "order": "61",
+        "string": "+5 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "The Battlebranch",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/pax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Poleaxe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 39
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 62,
+      "dexterity_requirement": 0,
+      "level_requirement": "25",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "dexterity": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_damage_percent": {
+        "min": "50",
+        "max": "70"
+      },
+      "tohit": {
+        "min": "50",
+        "max": "100"
+      },
+      "lifedrainmindam": {
+        "min": "7",
+        "max": "7"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+50-70% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "115",
+        "string": "+50-100 to Attack Rating"
+      },
+      {
+        "order": "88",
+        "string": "7% Life stolen per hit"
+      },
+      {
+        "order": "65",
+        "string": "+10 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Woestave",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/hal.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Halberd",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 55,
+      "strength_requirement": 75,
+      "dexterity_requirement": 47,
+      "level_requirement": "28",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_slow": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_openwounds": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_stupidity": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_damagetargetac": {
+        "min": "-50",
+        "max": "-50"
+      },
+      "item_freeze": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_lightradius": {
+        "min": "-3",
+        "max": "-3"
+      },
+      "item_preventheal": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_damage_percent": {
+        "min": "20",
+        "max": "40"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+20-40% Enhanced Damage"
+      },
+      {
+        "order": "83",
+        "string": "50% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "80",
+        "string": "Hit blinds target +3"
+      },
+      {
+        "order": "78",
+        "string": "Freezes target +1"
+      },
+      {
+        "order": "77",
+        "string": "Slows target by 50%"
+      },
+      {
+        "order": "75",
+        "string": "+-50 to Monster Defense Per Hit"
+      },
+      {
+        "order": "6",
+        "string": "+-3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "The Grim Reaper",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/wsc.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "War Scythe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 15,
+        "max": 36
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 55,
+      "strength_requirement": 80,
+      "dexterity_requirement": 80,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_deadlystrike": {
+        "min": "100",
+        "max": "100"
+      },
+      "item_preventheal": {
+        "min": "1",
+        "max": "1"
+      },
+      "manadrainmindam": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_damage_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "damage_min": {
+        "min": "15",
+        "max": "15"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+20% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 15 Minimum Damage"
+      },
+      {
+        "order": "89",
+        "string": "5% Mana stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "100% Deadly Strike"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      }
+    ]
+  },
+  {
+    "item_name": "The Meat Scraper",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/bar.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Lochaber Axe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 6,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 80,
+      "dexterity_requirement": 0,
+      "level_requirement": "41",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "150",
+        "max": "200"
+      },
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "lifedrainmindam": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_openwounds": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_magicbonus": {
+        "min": "25",
+        "max": "25"
+      },
+      "combat_masteries": {
+        "min": "3",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+150-200% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "10% Life stolen per hit"
+      },
+      {
+        "order": "83",
+        "string": "50% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Combat Masteries"
+      },
+      {
+        "order": "8",
+        "string": "25% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Blackleach Blade",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/vou.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Bill",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 14,
+        "max": 53
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 4
+      },
+      "durability": 50,
+      "strength_requirement": 95,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_req_percent": {
+        "min": "-25",
+        "max": "-25"
+      },
+      "hit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "5",
+        "skill": "weaken"
+      },
+      "item_lightradius": {
+        "min": "-2",
+        "max": "-2"
+      },
+      "lifedrainmindam": {
+        "min": "8",
+        "max": "8"
+      },
+      "item_maxdamage_perlevel": {
+        "min": 1.25,
+        "max": 1.25
+      },
+      "item_damage_percent": {
+        "min": "100",
+        "max": "140"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 5 Weaken On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+100-140% Enhanced Damage"
+      },
+      {
+        "order": "125",
+        "string": "+1.25-124 to Maximum Damage (Based On Character level)"
+      },
+      {
+        "order": "88",
+        "string": "8% Life stolen per hit"
+      },
+      {
+        "order": "6",
+        "string": "+-2 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-25%"
+      }
+    ]
+  },
+  {
+    "item_name": "Athena's Wrath",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/scy.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Battle Scythe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 18,
+        "max": 45
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 82,
+      "dexterity_requirement": 82,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "druid_skills": {
+        "min": "1",
+        "max": "3"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_hp_perlevel": {
+        "min": 1,
+        "max": 1
+      },
+      "item_maxdamage_perlevel": {
+        "min": 1,
+        "max": 1
+      },
+      "item_damage_percent": {
+        "min": "150",
+        "max": "180"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+150-180% Enhanced Damage"
+      },
+      {
+        "order": "150",
+        "string": "+1-3 to Druid Skill Levels"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "125",
+        "string": "+1-99 to Maximum Damage (Based On Character level)"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      },
+      {
+        "order": "57",
+        "string": "+1-99 to Life (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Pierre Tombale Couant",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/pax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Partizan",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 34,
+        "max": 75
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 113,
+      "dexterity_requirement": 67,
+      "level_requirement": "43",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_deadlystrike": {
+        "min": "55",
+        "max": "55"
+      },
+      "barbarian_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "manadrainmindam": {
+        "min": "6",
+        "max": "6"
+      },
+      "damage_flat": {
+        "min": "12",
+        "max": "20"
+      },
+      "item_damage_percent": {
+        "min": "160",
+        "max": "220"
+      },
+      "tohit": {
+        "min": "100",
+        "max": "200"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 12-20 Damage"
+      },
+      {
+        "order": "159",
+        "string": "+160-220% Enhanced Damage"
+      },
+      {
+        "order": "150",
+        "string": "+3 to Barbarian Skill Levels"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "115",
+        "string": "+100-200 to Attack Rating"
+      },
+      {
+        "order": "89",
+        "string": "6% Mana stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "55% Deadly Strike"
+      }
+    ]
+  },
+  {
+    "item_name": "Husoldal Evo",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/hal.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Bec-de-Corbin",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 13,
+        "max": 85
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 0,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 55,
+      "strength_requirement": 133,
+      "dexterity_requirement": 91,
+      "level_requirement": "44",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "hpregen": {
+        "min": "20",
+        "max": "20"
+      },
+      "tohit": {
+        "min": "200",
+        "max": "250"
+      },
+      "item_preventheal": {
+        "min": "1",
+        "max": "1"
+      },
+      "damage_flat": {
+        "min": "20",
+        "max": "32"
+      },
+      "item_damage_percent": {
+        "min": "160",
+        "max": "200"
+      },
+      "item_fasterattackrate": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 20-32 Damage"
+      },
+      {
+        "order": "159",
+        "string": "+160-200% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "115",
+        "string": "+200-250 to Attack Rating"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +20"
+      }
+    ]
+  },
+  {
+    "item_name": "Grim's Burning Dead",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/wsc.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Grim Scythe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 30,
+        "max": 70
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 55,
+      "strength_requirement": 140,
+      "dexterity_requirement": 140,
+      "level_requirement": "45",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "firedmg_flat": {
+        "min": "131",
+        "max": "232"
+      },
+      "fireresist": {
+        "min": "45",
+        "max": "45"
+      },
+      "item_damage_percent": {
+        "min": "140",
+        "max": "180"
+      },
+      "item_attackertakesdamage": {
+        "min": "8",
+        "max": "8"
+      },
+      "item_req_percent": {
+        "min": "-50",
+        "max": "-50"
+      },
+      "necromancer_skills": {
+        "min": "3",
+        "max": "3"
+      },
+      "item_fractionaltargetac": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_armor_percent": {
+        "min": "20",
+        "max": "20"
+      },
+      "tohit": {
+        "min": "200",
+        "max": "250"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 131-232 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "+140-180% Enhanced Damage"
+      },
+      {
+        "order": "150",
+        "string": "+3 to Necromancer Skill Levels"
+      },
+      {
+        "order": "118",
+        "string": "-50% Target Defense"
+      },
+      {
+        "order": "115",
+        "string": "+200-250 to Attack Rating"
+      },
+      {
+        "order": "74",
+        "string": "+20% Enhanced Defense"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +45%"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 8"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-50%"
+      }
+    ]
+  },
+  {
+    "item_name": "Stormspire",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/wsc.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Giant Thresher",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 40,
+        "max": 114
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 5,
+      "sockets": {
+        "min": 0,
+        "max": 6
+      },
+      "durability": 55,
+      "strength_requirement": 188,
+      "dexterity_requirement": 140,
+      "level_requirement": "70",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "lightresist": {
+        "min": "50",
+        "max": "50"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "2",
+        "skill_level": "0",
+        "skill": "charged_bolt"
+      },
+      "item_damage_percent": {
+        "min": "150",
+        "max": "250"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "indestruct": {
+        "min": "1",
+        "max": "1"
+      },
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "237"
+      },
+      "item_attackertakeslightdamage": {
+        "min": "27",
+        "max": "27"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 5 Chain Lightning When Struck"
+      },
+      {
+        "order": "160",
+        "string": "2% Chance To Cast Level 0 Charged Bolt When Struck"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "159",
+        "string": "+150-250% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-237 Lightning Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +50%"
+      },
+      {
+        "order": "14",
+        "string": "Attacker Takes Lightning Damage of 27"
+      }
+    ]
+  },
+  {
+    "item_name": "Tomb Reaver",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/pax.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Cryptic Axe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 33,
+        "max": 150
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 4,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 165,
+      "dexterity_requirement": 103,
+      "level_requirement": "84",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": "60",
+        "max": "60"
+      },
+      "item_lightradius": {
+        "min": "4",
+        "max": "4"
+      },
+      "item_damage_percent": {
+        "min": "200",
+        "max": "280"
+      },
+      "item_undeaddamage_percent": {
+        "min": 150,
+        "max": 230
+      },
+      "item_magicbonus": {
+        "min": "50",
+        "max": "80"
+      },
+      "all_resist": {
+        "min": "30",
+        "max": "50"
+      },
+      "item_undead_tohit": {
+        "min": "250",
+        "max": "350"
+      },
+      "item_reanimate": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_healafterkill": {
+        "min": "10",
+        "max": "14"
+      },
+      "item_numsockets": {
+        "min": "1",
+        "max": "3"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+200-280% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +30-50"
+      },
+      {
+        "order": "145",
+        "string": "+60% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+150-230% Damage To Undead"
+      },
+      {
+        "order": "106",
+        "string": "+250-350 to Attack Rating against Undead"
+      },
+      {
+        "order": "17"
+      },
+      {
+        "order": "16",
+        "string": "+10-14 Life after each Kill"
+      },
+      {
+        "order": "8",
+        "string": "50-80% better chance of getting magic item"
+      },
+      {
+        "order": "6",
+        "string": "+4 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (1-3)"
+      }
+    ]
+  },
+  {
+    "item_name": "The Reaper's Toll",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/scy.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Thresher",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 12,
+        "max": 141
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": -10,
+      "melee_range": 2,
+      "sockets": {
+        "min": 0,
+        "max": 5
+      },
+      "durability": 65,
+      "strength_requirement": 152,
+      "dexterity_requirement": 118,
+      "level_requirement": "75",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "190",
+        "max": "240"
+      },
+      "hit_skill": {
+        "chance_to_cast": "33",
+        "skill_level": "1",
+        "skill": "decrepify"
+      },
+      "item_ignoretargetac": {
+        "min": "1",
+        "max": "1"
+      },
+      "lifedrainmindam": {
+        "min": "11",
+        "max": "15"
+      },
+      "item_req_percent": {
+        "min": "-25",
+        "max": "-25"
+      },
+      "item_deadlystrike": {
+        "min": "33",
+        "max": "33"
+      },
+      "colddmg_flat": {
+        "min": "4",
+        "max": "44"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "33% Chance To Cast Level 1 Decrepify On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+190-240% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 4-44 Cold Damage"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "88",
+        "string": "11-15% Life stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "33% Deadly Strike"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-25%"
+      }
+    ]
+  },
+  {
+    "item_name": "Bonehew",
+    "item_type": "weapon",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/bar.png",
+    "two_hand": true,
+    "item_properties": {
+      "item_base": "Ogre Axe",
+      "sub_type": "polearm",
+      "class_specific": null,
+      "damage": {
+        "min": 28,
+        "max": 145
+      },
+      "damage_bonus": {
+        "strength_bonus": 1
+      },
+      "weapon_speed": 10,
+      "melee_range": 3,
+      "sockets": {
+        "min": 0,
+        "max": 3
+      },
+      "durability": 50,
+      "strength_requirement": 195,
+      "dexterity_requirement": 75,
+      "level_requirement": "64",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_damage_percent": {
+        "min": "270",
+        "max": "320"
+      },
+      "item_fasterattackrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_charged_skill": {
+        "skill": "Corpse Explosion",
+        "charges": "30",
+        "skill_level": "14"
+      },
+      "hit_skill": {
+        "chance_to_cast": "50",
+        "skill_level": "16",
+        "skill": "bone_spear"
+      },
+      "item_preventheal": {
+        "min": "1",
+        "max": "1"
+      },
+      "item_numsockets": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "50% Chance To Cast Level 16 Bone Spear On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+270-320% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "1",
+        "string": "Level 14 Corpse Explosion (30 Charges)"
+      },
+      {
+        "order": "0",
+        "string": "Sockets (2)"
+      }
+    ]
+  }
+]

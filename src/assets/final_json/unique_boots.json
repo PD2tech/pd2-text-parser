@@ -1,0 +1,1195 @@
+[
+  {
+    "item_name": "Hotspur",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/lbt.png",
+    "item_properties": {
+      "item_base": "Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 2,
+        "max": 3
+      },
+      "kick_damage": {
+        "min": 3,
+        "max": 8
+      },
+      "durability": 12,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "5",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "maxfireresist": {
+        "min": "15",
+        "max": "15"
+      },
+      "maxhp": {
+        "min": "15",
+        "max": "15"
+      },
+      "firedmg_flat": {
+        "min": "3",
+        "max": "6"
+      },
+      "armorclass": {
+        "min": "6",
+        "max": "6"
+      },
+      "fireresist": {
+        "min": "45",
+        "max": "45"
+      },
+      "item_armor_percent": {
+        "min": "10",
+        "max": "20"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 3-6 Fire Damage"
+      },
+      {
+        "order": "74",
+        "string": "+10-20% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+6 Defense"
+      },
+      {
+        "order": "59",
+        "string": "+15 to Life"
+      },
+      {
+        "order": "42",
+        "string": "+15% to Maximum Fire Resist"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +45%"
+      }
+    ]
+  },
+  {
+    "item_name": "Gorefoot",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/vbt.png",
+    "item_properties": {
+      "item_base": "Heavy Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 5,
+        "max": 6
+      },
+      "kick_damage": {
+        "min": 4,
+        "max": 10
+      },
+      "durability": 14,
+      "strength_requirement": 0,
+      "dexterity_requirement": 0,
+      "level_requirement": "9",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_extrablood": {
+        "min": "3",
+        "max": "5"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "manadrainmindam": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_attackertakesdamage": {
+        "min": "2",
+        "max": "2"
+      },
+      "armorclass": {
+        "min": "12",
+        "max": "12"
+      },
+      "item_armor_percent": {
+        "min": "20",
+        "max": "30"
+      },
+      "leap": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "89",
+        "string": "2% Mana stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Leap"
+      },
+      {
+        "order": "74",
+        "string": "+20-30% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+12 Defense"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 2"
+      }
+    ]
+  },
+  {
+    "item_name": "Treads of Cthon",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/mbt.png",
+    "item_properties": {
+      "item_base": "Chain Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 8,
+        "max": 9
+      },
+      "kick_damage": {
+        "min": 6,
+        "max": 12
+      },
+      "durability": 16,
+      "strength_requirement": 30,
+      "dexterity_requirement": 0,
+      "level_requirement": "15",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_fastermovevelocity": {
+        "min": "30",
+        "max": "30"
+      },
+      "armorclass_vs_missile": {
+        "min": "50",
+        "max": "50"
+      },
+      "item_staminadrainpct": {
+        "min": "50",
+        "max": "50"
+      },
+      "maxhp": {
+        "min": "10",
+        "max": "10"
+      },
+      "armorclass": {
+        "min": "12",
+        "max": "12"
+      },
+      "item_armor_percent": {
+        "min": "30",
+        "max": "40"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+30% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+30-40% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+12 Defense"
+      },
+      {
+        "order": "69",
+        "string": "+50 Defense vs. Missile"
+      },
+      {
+        "order": "59",
+        "string": "+10 to Life"
+      },
+      {
+        "order": "49",
+        "string": "50% Stamina Drain"
+      }
+    ]
+  },
+  {
+    "item_name": "Goblin Toe",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/tbt.png",
+    "item_properties": {
+      "item_base": "Light Plated Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 9,
+        "max": 11
+      },
+      "kick_damage": {
+        "min": 8,
+        "max": 16
+      },
+      "durability": 18,
+      "strength_requirement": 50,
+      "dexterity_requirement": 0,
+      "level_requirement": "22",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_crushingblow": {
+        "min": "25",
+        "max": "25"
+      },
+      "normal_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "magic_damage_reduction": {
+        "min": "1",
+        "max": "1"
+      },
+      "armorclass": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_lightradius": {
+        "min": "-1",
+        "max": "-1"
+      },
+      "item_armor_percent": {
+        "min": "50",
+        "max": "60"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "87",
+        "string": "25% Chance of Crushing Blow"
+      },
+      {
+        "order": "74",
+        "string": "+50-60% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+15 Defense"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 1"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 1"
+      },
+      {
+        "order": "6",
+        "string": "+-1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Tearhaunch",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/hbt.png",
+    "item_properties": {
+      "item_base": "Greaves",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 12,
+        "max": 15
+      },
+      "kick_damage": {
+        "min": 10,
+        "max": 20
+      },
+      "durability": 24,
+      "strength_requirement": 70,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 1,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass": {
+        "min": "35",
+        "max": "35"
+      },
+      "strength": {
+        "min": "5",
+        "max": "5"
+      },
+      "dexterity": {
+        "min": "5",
+        "max": "5"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "all_resist": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_armor_percent": {
+        "min": "60",
+        "max": "80"
+      },
+      "vigor": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +10"
+      },
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Vigor"
+      },
+      {
+        "order": "74",
+        "string": "+60-80% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+35 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+5 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+5 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Infernostride",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/lbt.png",
+    "item_properties": {
+      "item_base": "Demonhide Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 28,
+        "max": 35
+      },
+      "kick_damage": {
+        "min": 26,
+        "max": 46
+      },
+      "durability": 12,
+      "strength_requirement": 20,
+      "dexterity_requirement": 0,
+      "level_requirement": "29",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "firedmg_flat": {
+        "min": "12",
+        "max": "33"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "maxfireresist": {
+        "min": "10",
+        "max": "10"
+      },
+      "fireresist": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_lightradius": {
+        "min": "2",
+        "max": "2"
+      },
+      "item_armor_percent": {
+        "min": "120",
+        "max": "150"
+      },
+      "item_goldbonus": {
+        "min": "40",
+        "max": "70"
+      },
+      "armorclass": {
+        "min": "15",
+        "max": "15"
+      },
+      "gethit_skill": {
+        "chance_to_cast": "5",
+        "skill_level": "8",
+        "skill": "blaze"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 8 Blaze When Struck"
+      },
+      {
+        "order": "159",
+        "string": "Adds 12-33 Fire Damage"
+      },
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+120-150% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+15 Defense"
+      },
+      {
+        "order": "42",
+        "string": "+10% to Maximum Fire Resist"
+      },
+      {
+        "order": "36",
+        "string": "Fire Resist +30%"
+      },
+      {
+        "order": "10",
+        "string": "40-70% extra gold from monsters"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Waterwalk",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/vbt.png",
+    "item_properties": {
+      "item_base": "Sharkskin Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 33,
+        "max": 39
+      },
+      "kick_damage": {
+        "min": 28,
+        "max": 40
+      },
+      "durability": 14,
+      "strength_requirement": 47,
+      "dexterity_requirement": 0,
+      "level_requirement": "32",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "armorclass_vs_missile": {
+        "min": "100",
+        "max": "100"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_armor_percent": {
+        "min": "180",
+        "max": "210"
+      },
+      "maxhp": {
+        "min": "45",
+        "max": "65"
+      },
+      "maxstamina": {
+        "min": "40",
+        "max": "40"
+      },
+      "maxfireresist": {
+        "min": "5",
+        "max": "5"
+      },
+      "staminarecoverybonus": {
+        "min": "50",
+        "max": "50"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+180-210% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+100 Defense vs. Missile"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      },
+      {
+        "order": "59",
+        "string": "+45-65 to Life"
+      },
+      {
+        "order": "51",
+        "string": "+40 Maximum Stamina"
+      },
+      {
+        "order": "48",
+        "string": "Heal Stamina Plus 50%"
+      },
+      {
+        "order": "42",
+        "string": "+5% to Maximum Fire Resist"
+      }
+    ]
+  },
+  {
+    "item_name": "Silkweave",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/mbt.png",
+    "item_properties": {
+      "item_base": "Mesh Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 37,
+        "max": 44
+      },
+      "kick_damage": {
+        "min": 23,
+        "max": 52
+      },
+      "durability": 16,
+      "strength_requirement": 65,
+      "dexterity_requirement": 0,
+      "level_requirement": "36",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "150",
+        "max": "190"
+      },
+      "item_manaafterkill": {
+        "min": "5",
+        "max": "5"
+      },
+      "armorclass_vs_missile": {
+        "min": "200",
+        "max": "200"
+      },
+      "item_maxmana_percent": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_fastermovevelocity": {
+        "min": "30",
+        "max": "30"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+30% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+150-190% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+200 Defense vs. Missile"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 10%"
+      },
+      {
+        "order": "16",
+        "string": "+5 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "War Traveler",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/tbt.png",
+    "item_properties": {
+      "item_base": "Battle Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 39,
+        "max": 47
+      },
+      "kick_damage": {
+        "min": 37,
+        "max": 64
+      },
+      "durability": 18,
+      "strength_requirement": 95,
+      "dexterity_requirement": 0,
+      "level_requirement": "42",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "vitality": {
+        "min": "10",
+        "max": "10"
+      },
+      "strength": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_magicbonus": {
+        "min": "30",
+        "max": "50"
+      },
+      "maxdurability": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_fastermovevelocity": {
+        "min": "25",
+        "max": "25"
+      },
+      "item_armor_percent": {
+        "min": "150",
+        "max": "190"
+      },
+      "damage_flat": {
+        "min": "15",
+        "max": "25"
+      },
+      "item_attackertakesdamage": {
+        "min": "5",
+        "max": "10"
+      },
+      "item_staminadrainpct": {
+        "min": "40",
+        "max": "40"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 15-25 Damage"
+      },
+      {
+        "order": "148",
+        "string": "+25% Faster Run/Walk"
+      },
+      {
+        "order": "74",
+        "string": "+150-190% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      },
+      {
+        "order": "49",
+        "string": "40% Stamina Drain"
+      },
+      {
+        "order": "13",
+        "string": "Attacker Takes Damage of 5-10"
+      },
+      {
+        "order": "8",
+        "string": "30-50% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Gore Rider",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/hbt.png",
+    "item_properties": {
+      "item_base": "War Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 45,
+        "max": 53
+      },
+      "kick_damage": {
+        "min": 39,
+        "max": 80
+      },
+      "durability": 24,
+      "strength_requirement": 125,
+      "dexterity_requirement": 0,
+      "level_requirement": "47",
+      "item_tier": 2,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_req_percent": {
+        "min": "-25",
+        "max": "-25"
+      },
+      "item_deadlystrike": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_fastermovevelocity": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_crushingblow": {
+        "min": "15",
+        "max": "15"
+      },
+      "item_openwounds": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_armor_percent": {
+        "min": "160",
+        "max": "200"
+      },
+      "maxdurability": {
+        "min": "10",
+        "max": "10"
+      },
+      "maxstamina": {
+        "min": "20",
+        "max": "20"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+30% Faster Run/Walk"
+      },
+      {
+        "order": "87",
+        "string": "15% Chance of Crushing Blow"
+      },
+      {
+        "order": "85",
+        "string": "15% Deadly Strike"
+      },
+      {
+        "order": "83",
+        "string": "10% Chance of Open Wounds"
+      },
+      {
+        "order": "74",
+        "string": "+160-200% Enhanced Defense"
+      },
+      {
+        "order": "51",
+        "string": "+20 Maximum Stamina"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-25%"
+      }
+    ]
+  },
+  {
+    "item_name": "Shadow Dancer",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/hbt.png",
+    "item_properties": {
+      "item_base": "Mirrored Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 62,
+        "max": 71
+      },
+      "kick_damage": {
+        "min": 83,
+        "max": 149
+      },
+      "durability": 24,
+      "strength_requirement": 208,
+      "dexterity_requirement": 0,
+      "level_requirement": "71",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "70",
+        "max": "100"
+      },
+      "item_fastermovevelocity": {
+        "min": "30",
+        "max": "30"
+      },
+      "item_fastergethitrate": {
+        "min": "30",
+        "max": "30"
+      },
+      "dexterity": {
+        "min": "15",
+        "max": "25"
+      },
+      "shadow_disciplines": {
+        "min": "1",
+        "max": "2"
+      },
+      "item_req_percent": {
+        "min": "-20",
+        "max": "-20"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+30% Faster Run/Walk"
+      },
+      {
+        "order": "139",
+        "string": "+30% Faster Hit Recovery"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Shadow Disciplines"
+      },
+      {
+        "order": "74",
+        "string": "+70-100% Enhanced Defense"
+      },
+      {
+        "order": "65",
+        "string": "+15-25 to Dexterity"
+      },
+      {
+        "order": "0",
+        "string": "Requirements +-20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Sandstorm Trek",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/vbt.png",
+    "item_properties": {
+      "item_base": "Scarabshell Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 56,
+        "max": 65
+      },
+      "kick_damage": {
+        "min": 60,
+        "max": 110
+      },
+      "durability": 14,
+      "strength_requirement": 91,
+      "dexterity_requirement": 0,
+      "level_requirement": "64",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "140",
+        "max": "170"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_fastergethitrate": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_stamina_perlevel": {
+        "min": 1,
+        "max": 1
+      },
+      "item_staminadrainpct": {
+        "min": "50",
+        "max": "50"
+      },
+      "poisonresist": {
+        "min": "40",
+        "max": "70"
+      },
+      "item_replenish_durability": {},
+      "strength": {
+        "min": "10",
+        "max": "15"
+      },
+      "vitality": {
+        "min": "10",
+        "max": "15"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+140-170% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10-15 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10-15 to Vitality"
+      },
+      {
+        "order": "50",
+        "string": "+1-99 Maximum Stamina (Based On Character level)"
+      },
+      {
+        "order": "49",
+        "string": "50% Stamina Drain"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +40-70%"
+      },
+      {
+        "order": "1",
+        "string": "Repairs %d durability per second"
+      }
+    ]
+  },
+  {
+    "item_name": "Marrowwalk",
+    "item_type": "armor",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/mbt.png",
+    "item_properties": {
+      "item_base": "Boneweave Boots",
+      "sub_type": "boots",
+      "class_specific": null,
+      "defense": {
+        "min": 59,
+        "max": 67
+      },
+      "kick_damage": {
+        "min": 69,
+        "max": 118
+      },
+      "durability": 16,
+      "strength_requirement": 118,
+      "dexterity_requirement": 0,
+      "level_requirement": "66",
+      "item_tier": 3,
+      "rarity_type": 3,
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "item_mods": {
+      "item_armor_percent": {
+        "min": "170",
+        "max": "200"
+      },
+      "item_fastermovevelocity": {
+        "min": "20",
+        "max": "20"
+      },
+      "item_charged_skill": {
+        "skill": "Life Tap",
+        "charges": "10",
+        "skill_level": "12"
+      },
+      "staminarecoverybonus": {
+        "min": "10",
+        "max": "10"
+      },
+      "manarecoverybonus": {
+        "min": "10",
+        "max": "10"
+      },
+      "item_halffreezeduration": {
+        "min": "1",
+        "max": "1"
+      },
+      "strength": {
+        "min": "10",
+        "max": "20"
+      },
+      "dexterity": {
+        "min": "17",
+        "max": "17"
+      },
+      "skeleton_mastery": {
+        "min": "1",
+        "max": "2"
+      }
+    },
+    "char_mods": {},
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "81",
+        "string": "+1-2 To Skeleton Mastery"
+      },
+      {
+        "order": "74",
+        "string": "+170-200% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10-20 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+17 to Dexterity"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 10%"
+      },
+      {
+        "order": "48",
+        "string": "Heal Stamina Plus 10%"
+      },
+      {
+        "order": "19",
+        "string": "Half Freeze Duration"
+      },
+      {
+        "order": "1",
+        "string": "Level 33 Bone Prison (13 Charges)"
+      },
+      {
+        "order": "1",
+        "string": "Level 12 Life Tap (10 Charges)"
+      }
+    ]
+  }
+]

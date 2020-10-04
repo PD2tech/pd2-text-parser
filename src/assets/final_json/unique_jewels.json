@@ -1,0 +1,338 @@
+[
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "74"
+      },
+      "passive_ltng_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_ltng_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "death_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "47",
+        "skill": "chain_lightning"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 47 Chain Lightning When You Die"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-74 Lightning Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Lightning Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "colddmg_flat": {
+        "min": "24",
+        "max": "38"
+      },
+      "passive_cold_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_cold_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "death_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "37",
+        "skill": "blizzard"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 37 Blizzard When You Die"
+      },
+      {
+        "order": "159",
+        "string": "Adds 24-38 Cold Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Cold Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Cold Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "firedmg_flat": {
+        "min": "17",
+        "max": "45"
+      },
+      "passive_fire_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_fire_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "death_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "31",
+        "skill": "meteor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 31 Meteor When You Die"
+      },
+      {
+        "order": "159",
+        "string": "Adds 17-45 Fire Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Fire Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Fire Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "poisondmg_flat": {
+        "min": "187",
+        "max": "187"
+      },
+      "passive_pois_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_pois_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "death_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "51",
+        "skill": "poison_nova"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 51 Poison Nova When You Die"
+      },
+      {
+        "order": "159",
+        "string": "Adds 187 Poison Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Poison Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Poison Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "lightdmg_flat": {
+        "min": "1",
+        "max": "74"
+      },
+      "passive_ltng_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_ltng_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "levelup_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "41",
+        "skill": "nova"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 41 Nova When You Level Up"
+      },
+      {
+        "order": "159",
+        "string": "Adds 1-74 Lightning Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Lightning Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "colddmg_flat": {
+        "min": "24",
+        "max": "38"
+      },
+      "passive_cold_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_cold_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "levelup_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "43",
+        "skill": "frost_nova"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 43 Frost Nova When You Level Up"
+      },
+      {
+        "order": "159",
+        "string": "Adds 24-38 Cold Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Cold Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Cold Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "firedmg_flat": {
+        "min": "17",
+        "max": "45"
+      },
+      "passive_fire_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_fire_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "levelup_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "29",
+        "skill": "blaze"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 29 Blaze When You Level Up"
+      },
+      {
+        "order": "159",
+        "string": "Adds 17-45 Fire Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Fire Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Fire Skill Damage"
+      }
+    ]
+  },
+  {
+    "item_name": "Rainbow Facet",
+    "item_base": "Jewel",
+    "level_requirement": "49",
+    "item_mods": {
+      "poisondmg_flat": {
+        "min": "187",
+        "max": "187"
+      },
+      "passive_pois_pierce": {
+        "min": "3",
+        "max": "5"
+      },
+      "passive_pois_mastery": {
+        "min": "3",
+        "max": "5"
+      },
+      "levelup_skill": {
+        "chance_to_cast": "100",
+        "skill_level": "23",
+        "skill": "venom"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 23 Venom When You Level Up"
+      },
+      {
+        "order": "159",
+        "string": "Adds 187 Poison Damage"
+      },
+      {
+        "order": "88",
+        "string": "-3-5% to Enemy Poison Resistance"
+      },
+      {
+        "order": "88",
+        "string": "+3-5% to Poison Skill Damage"
+      }
+    ]
+  }
+]
