@@ -210,7 +210,7 @@
     "item_properties": { 
       "item_base": "Quilted Armor",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 8,
@@ -233,8 +233,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -244,7 +242,7 @@
     "item_properties": { 
       "item_base": "Leather Armor",
       "armor_type": "light",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 14,
@@ -267,8 +265,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -278,7 +274,7 @@
     "item_properties": { 
       "item_base": "Hard Leather Armor",
       "armor_type": "light",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 21,
@@ -301,8 +297,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -312,7 +306,7 @@
     "item_properties": { 
       "item_base": "Studded Leather",
       "armor_type": "light",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 32,
@@ -335,8 +329,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -346,7 +338,7 @@
     "item_properties": { 
       "item_base": "Ring Mail",
       "armor_type": "medium",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 45,
@@ -369,8 +361,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -380,7 +370,7 @@
     "item_properties": { 
       "item_base": "Scale Mail",
       "armor_type": "heavy",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 57,
@@ -403,8 +393,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -414,7 +402,7 @@
     "item_properties": { 
       "item_base": "Breast Plate",
       "armor_type": "light",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 65,
@@ -437,8 +425,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -448,7 +434,7 @@
     "item_properties": { 
       "item_base": "Chain Mail",
       "armor_type": "medium",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 72,
@@ -471,8 +457,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -482,7 +466,7 @@
     "item_properties": { 
       "item_base": "Splint Mail",
       "armor_type": "medium",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 90,
@@ -505,8 +489,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -516,7 +498,7 @@
     "item_properties": { 
       "item_base": "Light Plate",
       "armor_type": "light",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 90,
@@ -539,8 +521,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -550,7 +530,7 @@
     "item_properties": { 
       "item_base": "Field Plate",
       "armor_type": "medium",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 101,
@@ -573,8 +553,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -584,7 +562,7 @@
     "item_properties": { 
       "item_base": "Plate Mail",
       "armor_type": "heavy",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 108,
@@ -607,8 +585,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -618,7 +594,7 @@
     "item_properties": { 
       "item_base": "Gothic Plate",
       "armor_type": "medium",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 128,
@@ -641,8 +617,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -652,7 +626,7 @@
     "item_properties": { 
       "item_base": "Full Plate Mail",
       "armor_type": "heavy",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 150,
@@ -675,8 +649,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -686,7 +658,7 @@
     "item_properties": { 
       "item_base": "Ancient Armor",
       "armor_type": "heavy",
-        "sub_type": null,
+        "sub_type": "body armor",
         "class_specific": null,
       "defense": {
         "min": 218,
@@ -709,8 +681,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {
@@ -720,7 +690,7 @@
     "item_properties": {
       "item_base": "Ghost Armor",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 102,
@@ -751,7 +721,7 @@
     "item_properties": {
       "item_base": "Serpentskin Armor",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 111,
@@ -782,7 +752,7 @@
     "item_properties": {
       "item_base": "Demonhide Armor",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 122,
@@ -813,7 +783,7 @@
     "item_properties": {
       "item_base": "Trellised Armor",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 138,
@@ -844,7 +814,7 @@
     "item_properties": {
       "item_base": "Linked Mail",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 158,
@@ -875,7 +845,7 @@
     "item_properties": {
       "item_base": "Tigulated Mail",
       "armor_type": "heavy",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 176,
@@ -906,7 +876,7 @@
     "item_properties": {
       "item_base": "Cuirass",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 188,
@@ -937,7 +907,7 @@
     "item_properties": {
       "item_base": "Mesh Armor",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 198,
@@ -968,7 +938,7 @@
     "item_properties": {
       "item_base": "Russet Armor",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 225,
@@ -999,7 +969,7 @@
     "item_properties": {
       "item_base": "Mage Plate",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 225,
@@ -1030,7 +1000,7 @@
     "item_properties": {
       "item_base": "Sharktooth Armor",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 242,
@@ -1061,7 +1031,7 @@
     "item_properties": {
       "item_base": "Templar Coat",
       "armor_type": "heavy",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 252,
@@ -1092,7 +1062,7 @@
     "item_properties": {
       "item_base": "Embossed Plate",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 282,
@@ -1123,7 +1093,7 @@
     "item_properties": {
       "item_base": "Chaos Armor",
       "armor_type": "heavy",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 315,
@@ -1154,7 +1124,7 @@
     "item_properties": {
       "item_base": "Ornate Plate",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 417,
@@ -1185,7 +1155,7 @@
     "item_properties": {
       "item_base": "Dusk Shroud",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 361,
@@ -1216,7 +1186,7 @@
     "item_properties": {
       "item_base": "Wyrmhide",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 364,
@@ -1247,7 +1217,7 @@
     "item_properties": {
       "item_base": "Scarab Husk",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 369,
@@ -1278,7 +1248,7 @@
     "item_properties": {
       "item_base": "Wire Fleece",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 375,
@@ -1309,7 +1279,7 @@
     "item_properties": {
       "item_base": "Diamond Mail",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 383,
@@ -1340,7 +1310,7 @@
     "item_properties": {
       "item_base": "Loricated Mail",
       "armor_type": "heavy",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 390,
@@ -1371,7 +1341,7 @@
     "item_properties": {
       "item_base": "Great Hauberk",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 395,
@@ -1402,7 +1372,7 @@
     "item_properties": {
       "item_base": "Boneweave",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 399,
@@ -1433,7 +1403,7 @@
     "item_properties": {
       "item_base": "Balrog Skin",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 410,
@@ -1464,7 +1434,7 @@
     "item_properties": {
       "item_base": "Archon Plate",
       "armor_type": "light",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 410,
@@ -1495,7 +1465,7 @@
     "item_properties": {
       "item_base": "Kraken Shell",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 417,
@@ -1526,7 +1496,7 @@
     "item_properties": {
       "item_base": "Hellforge Plate",
       "armor_type": "heavy",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 421,
@@ -1557,7 +1527,7 @@
     "item_properties": {
       "item_base": "Lacquered Plate",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 433,
@@ -1588,7 +1558,7 @@
     "item_properties": {
       "item_base": "Shadow Plate",
       "armor_type": "heavy",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 446,
@@ -1619,7 +1589,7 @@
     "item_properties": {
       "item_base": "Sacred Armor",
       "armor_type": "medium",
-      "sub_type": null,
+      "sub_type": "body armor",
       "class_specific": null,
       "defense": {
         "min": 487,
@@ -2118,8 +2088,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Light Belt",
@@ -2146,8 +2114,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Belt",
@@ -2174,8 +2140,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Heavy Belt",
@@ -2202,8 +2166,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Plated Belt",
@@ -2230,8 +2192,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Demonhide Sash",
@@ -2258,8 +2218,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Sharkskin Belt",
@@ -2286,8 +2244,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Mesh Belt",
@@ -2314,8 +2270,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Battle Belt",
@@ -2342,8 +2296,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "War Belt",
@@ -2370,8 +2322,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Spiderweb Sash",
@@ -2523,8 +2473,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Heavy Boots",
@@ -2555,8 +2503,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Chain Boots",
@@ -2587,8 +2533,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Light Plated Boots",
@@ -2619,8 +2563,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Greaves",
@@ -2651,8 +2593,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Demonhide Boots",
@@ -2683,8 +2623,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Sharkskin Boots",
@@ -2715,8 +2653,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Mesh Boots",
@@ -2747,8 +2683,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Battle Boots",
@@ -2779,8 +2713,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "War Boots",
@@ -2811,8 +2743,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Wyrmhide Boots",
@@ -2843,8 +2773,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Scarabshell Boots",
@@ -2875,8 +2803,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Boneweave Boots",
@@ -2907,8 +2833,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Mirrored Boots",
@@ -2939,8 +2863,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },{
     "item_name": "Myrmidon Greaves",
@@ -2971,8 +2893,6 @@
       }
     },
     "item_mods": {
-    },
-    "char_mods": {
     }
   },
   {

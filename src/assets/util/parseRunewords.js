@@ -1,30 +1,115 @@
 import allStrings from "../json/allStrings.json";
 import skills from "../json/skillIds.json";
-import uniqueItems from "../json/uniqueItems.json";
+import runewords from "../json/runewords.json";
+import runes from "../json/runes.json";
 import properties from "../json/properties.json";
 import itemstat from "../json/itemstat.json";
 import { descfuncStr1, descfuncStr2, descfuncCustom } from "./descfuncs";
 import { classDescfunc } from "./classdescfuncs";
 
-export const parseItems = () => {
-  return uniqueItems.map((item) => {
+const defineItemTypes = (item) => {
+  let result = [];
+  if (item.hasOwnProperty("itype1")) {
+    result.push(item["itype1"]);
+  }
+  if (item.hasOwnProperty("itype2")) {
+    result.push(item["itype2"]);
+  }
+  if (item.hasOwnProperty("itype3")) {
+    result.push(item["itype3"]);
+  }
+  let result2 = [];
+  for (let i = 0; i < result.length; i++) {
+    if (result[i] === "weap") {
+      result2.push("weapon");
+    } else if (result[i] === "tors") {
+      result2.push("body armor");
+    } else if (result[i] === "miss") {
+      result2.push("bow");
+      result.push("crossbow");
+    } else if (result[i] === "mele") {
+      result2.push("melee");
+    } else if (result[i] === "pala") {
+      result2.push("pally shield");
+    } else if (result[i] === "staf") {
+      result2.push("staff");
+    } else if (result[i] === "h2h") {
+      result2.push("claw");
+    } else if (result[i] === "pole") {
+      result2.push("polearm");
+    } else if (result[i] === "scep") {
+      result2.push("scepter");
+    } else if (result[i] === "hamm") {
+      result2.push("hammer");
+    } else if (result[i] === "shld") {
+      result2.push("shield");
+    } else if (result[i] === "swor") {
+      result2.push("sword");
+    } else {
+      result2.push(result[i]);
+    }
+  }
+  return result2;
+};
+
+const getLevelReq = (item) => {
+  let result = [];
+  if (item.hasOwnProperty("Rune1")) {
+    const runeCode = item["Rune1"];
+    const foundRune = runes.find((obj) => obj.code === runeCode);
+    result.push(parseInt(foundRune.levelreq));
+  }
+  if (item.hasOwnProperty("Rune2")) {
+    const runeCode = item["Rune2"];
+    const foundRune = runes.find((obj) => obj.code === runeCode);
+    result.push(parseInt(foundRune.levelreq));
+  }
+  if (item.hasOwnProperty("Rune3")) {
+    const runeCode = item["Rune3"];
+    const foundRune = runes.find((obj) => obj.code === runeCode);
+    result.push(parseInt(foundRune.levelreq));
+  }
+  if (item.hasOwnProperty("Rune4")) {
+    const runeCode = item["Rune4"];
+    const foundRune = runes.find((obj) => obj.code === runeCode);
+    result.push(parseInt(foundRune.levelreq));
+  }
+  if (item.hasOwnProperty("Rune5")) {
+    const runeCode = item["Rune5"];
+    const foundRune = runes.find((obj) => obj.code === runeCode);
+    result.push(parseInt(foundRune.levelreq));
+  }
+  if (item.hasOwnProperty("Rune6")) {
+    const runeCode = item["Rune6"];
+    const foundRune = runes.find((obj) => obj.code === runeCode);
+    result.push(parseInt(foundRune.levelreq));
+  }
+  result.sort((a, b) => b - a);
+  return {
+    level_requirement: result[0],
+    required_sockets: result.length,
+  };
+};
+
+export const parseRunewords = () => {
+  return runewords.map((item) => {
     // finds an object from allStrings.json where the string object id matches the item index from uniqueItems (for item name like Mara's).
-    const str_obj_name = allStrings.find((str) => str.id === item.index);
+    const str_obj_name = allStrings.find((str) => str.id === item.name);
     // if no object is found, just sets the name as the item index
     const item_name =
-      str_obj_name !== undefined ? str_obj_name.str : item.index;
-    // finds object in allStrings.json where the string object id matches the item code (for item base like Berseker Axe)
-    const str_obj_base = allStrings.find((str) => str.id === item.code);
-    // if no object is found, just sets the base as the item code
-    const item_base = str_obj_base !== undefined ? str_obj_base.str : item.code;
+      str_obj_name !== undefined ? str_obj_name.str : item.Rune_Name;
+    const base_types = defineItemTypes(item);
+    const rune_string = item.runes;
     // level requirement for unique item
-    const level_requirement = parseInt(item["lvl req"]);
+    const lvlAndSockets = getLevelReq(item);
+    const level_requirement = lvlAndSockets.level_requirement;
+    const socket_requirement = lvlAndSockets.required_sockets;
     // start of property strings array for descriptions of mods
     const property_strings = [];
     const entries = Object.entries(item);
 
     const reduced = entries.reduce((acc, [key, val]) => {
-      if (key.includes("prop")) {
+      if (key.includes("Code")) {
         // matches prop columns from uniques with the property code from properties.json
         // and finds the property object
         let newPropName = properties.find((prop) => prop.code === val);
@@ -111,6 +196,7 @@ export const parseItems = () => {
           }
           // aura on item
           else if (val === "aura") {
+            debugger;
             const min = item[`min${propNum}`];
             const max = item[`max${propNum}`];
             const skill = item[`par${propNum}`];
@@ -350,19 +436,18 @@ export const parseItems = () => {
                   });
                 } else if (itemstatObj.descval === "1") {
                   // have to remove undead and add string/value in with combined bases because of modifer on blunt weapons
-                  if (newPropName !== "item_undeaddamage_percent") {
-                    const string = descfuncStr1(
-                      itemstatObj.descfunc,
-                      min,
-                      max,
-                      foundString.str,
-                      val
-                    );
-                    property_strings.push({
-                      order: itemStrOrder,
-                      string: string,
-                    });
-                  }
+
+                  const string = descfuncStr1(
+                    itemstatObj.descfunc,
+                    min,
+                    max,
+                    foundString.str,
+                    val
+                  );
+                  property_strings.push({
+                    order: itemStrOrder,
+                    string: string,
+                  });
                 } else if (itemstatObj.descval === "2") {
                   const string = descfuncStr2(
                     itemstatObj.descfunc,
@@ -408,8 +493,10 @@ export const parseItems = () => {
     property_strings.sort((a, b) => b.order - a.order);
     return {
       item_name,
-      item_base,
+      base_types,
+      rune_string,
       level_requirement,
+      socket_requirement,
       item_mods: { ...reduced },
       property_strings,
     };

@@ -1,2483 +1,1596 @@
-[
-  {
-    "item_name": "Nokozan Relic",
-    "item_base": "Amulet",
-    "level_requirement": "10",
-    "item_mods": {
-      "firedmg_flat": {
-        "min": "3",
-        "max": "6"
-      },
-      "maxfireresist": {
-        "min": "10",
-        "max": "10"
-      },
-      "fireresist": {
-        "min": "50",
-        "max": "50"
-      },
-      "item_lightradius": {
-        "min": "3",
-        "max": "3"
-      },
-      "item_fastergethitrate": {
-        "min": "20",
-        "max": "20"
-      }
+[{
+  "item_name": "Nokozan Relic",
+  "item_base": "Amulet",
+  "level_requirement": 10,
+  "item_mods": {
+    "firedmg_flat": {
+      "min": 3,
+      "max": 6
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "Adds 3-6 Fire Damage"
-      },
-      {
-        "order": "139",
-        "string": "+20% Faster Hit Recovery"
-      },
-      {
-        "order": "42",
-        "string": "+10% to Maximum Fire Resist"
-      },
-      {
-        "order": "36",
-        "string": "Fire Resist +50%"
-      },
-      {
-        "order": "6",
-        "string": "+3 to Light Radius"
-      }
-    ]
+    "maxfireresist": {
+      "min": 10,
+      "max": 10
+    },
+    "fireresist": {
+      "min": 50,
+      "max": 50
+    },
+    "item_lightradius": {
+      "min": 3,
+      "max": 3
+    },
+    "item_fastergethitrate": {
+      "min": 20,
+      "max": 20
+    }
   },
-  {
-    "item_name": "The Eye of Etlich",
-    "item_base": "Amulet",
-    "level_requirement": "15",
-    "item_mods": {
-      "armorclass_vs_missile": {
-        "min": "10",
-        "max": "40"
-      },
-      "item_lightradius": {
-        "min": "1",
-        "max": "5"
-      },
-      "item_allskills": {
-        "min": "1",
-        "max": "1"
-      },
-      "lifedrainmindam": {
-        "min": "3",
-        "max": "7"
-      },
-      "coldmindam": {
-        "min": "1",
-        "max": "2"
-      },
-      "coldmaxdam": {
-        "min": "3",
-        "max": "5"
-      },
-      "coldlength": {
-        "min": "50",
-        "max": "250"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "Adds 3-6 Fire Damage"
     },
-    "property_strings": [
-      {
-        "order": "158",
-        "string": "+1 to All Skills"
-      },
-      {
-        "order": "96",
-        "string": "+1-2 to Minimum Cold Damage"
-      },
-      {
-        "order": "95",
-        "string": "+3-5 to Maximum Cold Damage"
-      },
-      {
-        "order": "88",
-        "string": "3-7% Life stolen per hit"
-      },
-      {
-        "order": "69",
-        "string": "+10-40 Defense vs. Missile"
-      },
-      {
-        "order": "6",
-        "string": "+1-5 to Light Radius"
-      }
-    ]
+    {
+      "order": "139",
+      "string": "+20% Faster Hit Recovery"
+    },
+    {
+      "order": "42",
+      "string": "+10% to Maximum Fire Resist"
+    },
+    {
+      "order": "36",
+      "string": "Fire Resist +50%"
+    },
+    {
+      "order": "6",
+      "string": "+3 to Light Radius"
+    }
+  ]
+},
+{
+  "item_name": "The Eye of Etlich",
+  "item_base": "Amulet",
+  "level_requirement": 15,
+  "item_mods": {
+    "armorclass_vs_missile": {
+      "min": 10,
+      "max": 40
+    },
+    "item_lightradius": {
+      "min": 1,
+      "max": 5
+    },
+    "item_allskills": {
+      "min": 1,
+      "max": 1
+    },
+    "lifedrainmindam": {
+      "min": 3,
+      "max": 7
+    },
+    "coldmindam": {
+      "min": 1,
+      "max": 2
+    },
+    "coldmaxdam": {
+      "min": 3,
+      "max": 5
+    },
+    "coldlength": {
+      "min": 50,
+      "max": 250
+    }
   },
-  {
-    "item_name": "The Mahim-Oak Curio",
-    "item_base": "Amulet",
-    "level_requirement": "25",
-    "item_mods": {
-      "dexterity": {
-        "min": "10",
-        "max": "10"
-      },
-      "strength": {
-        "min": "10",
-        "max": "10"
-      },
-      "energy": {
-        "min": "10",
-        "max": "10"
-      },
-      "vitality": {
-        "min": "10",
-        "max": "10"
-      },
-      "armorclass": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_tohit_percent": {
-        "min": "10",
-        "max": "10"
-      },
-      "all_resist": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_armor_percent": {
-        "min": "10",
-        "max": "10"
-      }
+  "property_strings": [
+    {
+      "order": "158",
+      "string": "+1 to All Skills"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "All Resistances +10"
-      },
-      {
-        "order": "117",
-        "string": "10% bonus to Attack Rating"
-      },
-      {
-        "order": "74",
-        "string": "+10% Enhanced Defense"
-      },
-      {
-        "order": "71",
-        "string": "+10 Defense"
-      },
-      {
-        "order": "67",
-        "string": "+10 to Strength"
-      },
-      {
-        "order": "65",
-        "string": "+10 to Dexterity"
-      },
-      {
-        "order": "63",
-        "string": "+10 to Vitality"
-      },
-      {
-        "order": "61",
-        "string": "+10 to Energy"
-      }
-    ]
+    {
+      "order": "96",
+      "string": "+1-2 to Minimum Cold Damage"
+    },
+    {
+      "order": "95",
+      "string": "+3-5 to Maximum Cold Damage"
+    },
+    {
+      "order": "88",
+      "string": "3-7% Life stolen per hit"
+    },
+    {
+      "order": "69",
+      "string": "+10-40 Defense vs. Missile"
+    },
+    {
+      "order": "6",
+      "string": "+1-5 to Light Radius"
+    }
+  ]
+},
+{
+  "item_name": "The Mahim-Oak Curio",
+  "item_base": "Amulet",
+  "level_requirement": 25,
+  "item_mods": {
+    "dexterity": {
+      "min": 10,
+      "max": 10
+    },
+    "strength": {
+      "min": 10,
+      "max": 10
+    },
+    "energy": {
+      "min": 10,
+      "max": 10
+    },
+    "vitality": {
+      "min": 10,
+      "max": 10
+    },
+    "armorclass": {
+      "min": 10,
+      "max": 10
+    },
+    "item_tohit_percent": {
+      "min": 10,
+      "max": 10
+    },
+    "all_resist": {
+      "min": 10,
+      "max": 10
+    },
+    "item_armor_percent": {
+      "min": 10,
+      "max": 10
+    }
   },
-  {
-    "item_name": "Nagelring",
-    "item_base": "Ring",
-    "level_requirement": "7",
-    "item_mods": {
-      "magic_damage_reduction": {
-        "min": "3",
-        "max": "3"
-      },
-      "item_attackertakesdamage": {
-        "min": "3",
-        "max": "3"
-      },
-      "tohit": {
-        "min": "50",
-        "max": "75"
-      },
-      "item_magicbonus": {
-        "min": "15",
-        "max": "30"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "All Resistances +10"
     },
-    "property_strings": [
-      {
-        "order": "115",
-        "string": "+50-75 to Attack Rating"
-      },
-      {
-        "order": "21",
-        "string": "Magic Damage Reduced by 3"
-      },
-      {
-        "order": "13",
-        "string": "Attacker Takes Damage of 3"
-      },
-      {
-        "order": "8",
-        "string": "15-30% better chance of getting magic item"
-      }
-    ]
+    {
+      "order": "117",
+      "string": "10% bonus to Attack Rating"
+    },
+    {
+      "order": "74",
+      "string": "+10% Enhanced Defense"
+    },
+    {
+      "order": "71",
+      "string": "+10 Defense"
+    },
+    {
+      "order": "67",
+      "string": "+10 to Strength"
+    },
+    {
+      "order": "65",
+      "string": "+10 to Dexterity"
+    },
+    {
+      "order": "63",
+      "string": "+10 to Vitality"
+    },
+    {
+      "order": "61",
+      "string": "+10 to Energy"
+    }
+  ]
+},
+{
+  "item_name": "Nagelring",
+  "item_base": "Ring",
+  "level_requirement": 7,
+  "item_mods": {
+    "magic_damage_reduction": {
+      "min": 3,
+      "max": 3
+    },
+    "item_attackertakesdamage": {
+      "min": 3,
+      "max": 3
+    },
+    "tohit": {
+      "min": 50,
+      "max": 75
+    },
+    "item_magicbonus": {
+      "min": 15,
+      "max": 30
+    }
   },
-  {
-    "item_name": "Manald Heal",
-    "item_base": "Ring",
-    "level_requirement": "15",
-    "item_mods": {
-      "manadrainmindam": {
-        "min": "4",
-        "max": "7"
-      },
-      "hpregen": {
-        "min": "5",
-        "max": "8"
-      },
-      "maxhp": {
-        "min": "20",
-        "max": "20"
-      },
-      "manarecoverybonus": {
-        "min": "20",
-        "max": "20"
-      }
+  "property_strings": [
+    {
+      "order": "115",
+      "string": "+50-75 to Attack Rating"
     },
-    "property_strings": [
-      {
-        "order": "89",
-        "string": "4-7% Mana stolen per hit"
-      },
-      {
-        "order": "59",
-        "string": "+20 to Life"
-      },
-      {
-        "order": "56",
-        "string": "Replenish Life +5-8"
-      },
-      {
-        "order": "52",
-        "string": "Regenerate Mana 20%"
-      }
-    ]
+    {
+      "order": "21",
+      "string": "Magic Damage Reduced by 3"
+    },
+    {
+      "order": "13",
+      "string": "Attacker Takes Damage of 3"
+    },
+    {
+      "order": "8",
+      "string": "15-30% better chance of getting magic item"
+    }
+  ]
+},
+{
+  "item_name": "Manald Heal",
+  "item_base": "Ring",
+  "level_requirement": 15,
+  "item_mods": {
+    "manadrainmindam": {
+      "min": 4,
+      "max": 7
+    },
+    "hpregen": {
+      "min": 5,
+      "max": 8
+    },
+    "maxhp": {
+      "min": 20,
+      "max": 20
+    },
+    "manarecoverybonus": {
+      "min": 20,
+      "max": 20
+    }
   },
-  {
-    "item_name": "The Stone of Jordan",
-    "item_base": "Ring",
-    "level_requirement": "29",
-    "item_mods": {
-      "maxmana": {
-        "min": "20",
-        "max": "20"
-      },
-      "item_maxmana_percent": {
-        "min": "25",
-        "max": "25"
-      },
-      "lightmindam": {
-        "min": "1",
-        "max": "1"
-      },
-      "item_allskills": {
-        "min": "1",
-        "max": "1"
-      },
-      "lightmaxdam": {
-        "min": "12",
-        "max": "12"
-      }
+  "property_strings": [
+    {
+      "order": "89",
+      "string": "4-7% Mana stolen per hit"
     },
-    "property_strings": [
-      {
-        "order": "158",
-        "string": "+1 to All Skills"
-      },
-      {
-        "order": "99",
-        "string": "+1 to Minimum Lightning Damage"
-      },
-      {
-        "order": "98",
-        "string": "+12 to Maximum Lightning Damage"
-      },
-      {
-        "order": "55",
-        "string": "+20 to Mana"
-      },
-      {
-        "order": "54",
-        "string": "Increase Maximum Mana 25%"
-      }
-    ]
+    {
+      "order": "59",
+      "string": "+20 to Life"
+    },
+    {
+      "order": "56",
+      "string": "Replenish Life +5-8"
+    },
+    {
+      "order": "52",
+      "string": "Regenerate Mana 20%"
+    }
+  ]
+},
+{
+  "item_name": "The Stone of Jordan",
+  "item_base": "Ring",
+  "level_requirement": 29,
+  "item_mods": {
+    "maxmana": {
+      "min": 20,
+      "max": 20
+    },
+    "item_maxmana_percent": {
+      "min": 25,
+      "max": 25
+    },
+    "lightmindam": {
+      "min": 1,
+      "max": 1
+    },
+    "item_allskills": {
+      "min": 1,
+      "max": 1
+    },
+    "lightmaxdam": {
+      "min": 12,
+      "max": 12
+    }
   },
-  {
-    "item_name": "Amulet of the Viper",
-    "item_base": "Top of the Horadric Staff",
-    "level_requirement": "0",
-    "item_mods": {
-      "maxmana": {
-        "min": "10",
-        "max": "10"
-      },
-      "poisonresist": {
-        "min": "25",
-        "max": "25"
-      },
-      "maxhp": {
-        "min": "10",
-        "max": "10"
-      }
+  "property_strings": [
+    {
+      "order": "158",
+      "string": "+1 to All Skills"
     },
-    "property_strings": [
-      {
-        "order": "59",
-        "string": "+10 to Life"
-      },
-      {
-        "order": "55",
-        "string": "+10 to Mana"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +25%"
-      }
-    ]
+    {
+      "order": "99",
+      "string": "+1 to Minimum Lightning Damage"
+    },
+    {
+      "order": "98",
+      "string": "+12 to Maximum Lightning Damage"
+    },
+    {
+      "order": "55",
+      "string": "+20 to Mana"
+    },
+    {
+      "order": "54",
+      "string": "Increase Maximum Mana 25%"
+    }
+  ]
+},
+{
+  "item_name": "Bul-Kathos' Wedding Band",
+  "item_base": "Ring",
+  "level_requirement": 58,
+  "item_mods": {
+    "item_allskills": {
+      "min": 1,
+      "max": 1
+    },
+    "lifedrainmindam": {
+      "min": 3,
+      "max": 5
+    },
+    "maxstamina": {
+      "min": 50,
+      "max": 50
+    }
   },
-  {
-    "item_name": "Staff of Kings",
-    "item_base": "Shaft of the Horadric Staff",
-    "level_requirement": "0",
-    "item_mods": {
-      "all_resist": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_fasterattackrate": {
-        "min": "50",
-        "max": "50"
-      }
+  "property_strings": [
+    {
+      "order": "158",
+      "string": "+1 to All Skills"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "All Resistances +10"
-      },
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      }
-    ]
+    {
+      "order": "88",
+      "string": "3-5% Life stolen per hit"
+    },
+    {
+      "order": "57",
+      "string": "+0.5-50 to Life (Based On Character level)"
+    },
+    {
+      "order": "51",
+      "string": "+50 Maximum Stamina"
+    }
+  ]
+},
+{
+  "item_name": "The Cat's Eye",
+  "item_base": "Amulet",
+  "level_requirement": 50,
+  "item_mods": {
+    "item_fastermovevelocity": {
+      "min": 30,
+      "max": 30
+    },
+    "item_fasterattackrate": {
+      "min": 20,
+      "max": 20
+    },
+    "armorclass": {
+      "min": 100,
+      "max": 100
+    },
+    "armorclass_vs_missile": {
+      "min": 100,
+      "max": 100
+    },
+    "dexterity": {
+      "min": 25,
+      "max": 25
+    }
   },
-  {
-    "item_name": "Horadric Staff",
-    "item_base": "Horadric Staff",
-    "level_requirement": "0",
-    "item_mods": {
-      "maxmana": {
-        "min": "10",
-        "max": "10"
-      },
-      "poisonresist": {
-        "min": "25",
-        "max": "25"
-      },
-      "maxhp": {
-        "min": "10",
-        "max": "10"
-      },
-      "all_resist": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_fasterattackrate": {
-        "min": "50",
-        "max": "50"
-      }
+  "property_strings": [
+    {
+      "order": "148",
+      "string": "+30% Faster Run/Walk"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "All Resistances +10"
-      },
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      },
-      {
-        "order": "59",
-        "string": "+10 to Life"
-      },
-      {
-        "order": "55",
-        "string": "+10 to Mana"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +25%"
-      }
-    ]
+    {
+      "order": "145",
+      "string": "+20% Increased Attack Speed"
+    },
+    {
+      "order": "71",
+      "string": "+100 Defense"
+    },
+    {
+      "order": "69",
+      "string": "+100 Defense vs. Missile"
+    },
+    {
+      "order": "65",
+      "string": "+25 to Dexterity"
+    }
+  ]
+},
+{
+  "item_name": "The Rising Sun",
+  "item_base": "Amulet",
+  "level_requirement": 65,
+  "item_mods": {
+    "item_lightradius": {
+      "min": 4,
+      "max": 4
+    },
+    "gethit_skill": {
+      "chance_to_cast": 2,
+      "skill_level": 0,
+      "skill": "meteor"
+    },
+    "firedmg_flat": {
+      "min": 24,
+      "max": 48
+    },
+    "item_elemskill": {
+      "min": 2,
+      "max": 2
+    },
+    "hpregen": {
+      "min": 10,
+      "max": 10
+    }
   },
-  {
-    "item_name": "Hell Forge Hammer",
-    "item_base": "Hell Forge Hammer",
-    "level_requirement": "0",
-    "item_mods": {
-      "firemindam": {
-        "min": "5",
-        "max": "5"
-      },
-      "firemaxdam": {
-        "min": "20",
-        "max": "20"
-      },
-      "fireresist": {
-        "min": "40",
-        "max": "40"
-      },
-      "armorclass": {
-        "min": "35",
-        "max": "35"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "2% Chance To Cast Level 0 Meteor When Struck"
     },
-    "property_strings": [
-      {
-        "order": "102",
-        "string": "+5 to Minimum Fire Damage"
-      },
-      {
-        "order": "101",
-        "string": "+20 to Maximum Fire Damage"
-      },
-      {
-        "order": "71",
-        "string": "+35 Defense"
-      },
-      {
-        "order": "36",
-        "string": "Fire Resist +40%"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 24-48 Fire Damage"
+    },
+    {
+      "order": "157",
+      "string": "+2 to Fire Skills"
+    },
+    {
+      "order": "56",
+      "string": "Replenish Life +10"
+    },
+    {
+      "order": "28",
+      "string": "+0.75-74 Absorbs Fire Damage (Based On Character level)"
+    },
+    {
+      "order": "6",
+      "string": "+4 to Light Radius"
+    }
+  ]
+},
+{
+  "item_name": "Crescent Moon",
+  "item_base": "Amulet",
+  "level_requirement": 50,
+  "item_mods": {
+    "manadrainmindam": {
+      "min": 11,
+      "max": 15
+    },
+    "magic_damage_reduction": {
+      "min": 10,
+      "max": 10
+    },
+    "item_damagetomana": {
+      "min": 10,
+      "max": 10
+    },
+    "item_lightradius": {
+      "min": -2,
+      "max": -2
+    },
+    "maxmana": {
+      "min": 45,
+      "max": 45
+    },
+    "lifedrainmindam": {
+      "min": 3,
+      "max": 6
+    }
   },
-  {
-    "item_name": "Khalim's Flail",
-    "item_base": "Khalim's Flail",
-    "level_requirement": "0",
-    "item_mods": {
-      "lightmindam": {
-        "min": "1",
-        "max": "1"
-      },
-      "lightmaxdam": {
-        "min": "20",
-        "max": "20"
-      },
-      "item_fasterattackrate": {
-        "min": "50",
-        "max": "50"
-      },
-      "tohit": {
-        "min": "40",
-        "max": "40"
-      }
+  "property_strings": [
+    {
+      "order": "89",
+      "string": "11-15% Mana stolen per hit"
     },
-    "property_strings": [
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      },
-      {
-        "order": "115",
-        "string": "+40 to Attack Rating"
-      },
-      {
-        "order": "99",
-        "string": "+1 to Minimum Lightning Damage"
-      },
-      {
-        "order": "98",
-        "string": "+20 to Maximum Lightning Damage"
-      }
-    ]
+    {
+      "order": "88",
+      "string": "3-6% Life stolen per hit"
+    },
+    {
+      "order": "55",
+      "string": "+45 to Mana"
+    },
+    {
+      "order": "21",
+      "string": "Magic Damage Reduced by 10"
+    },
+    {
+      "order": "11",
+      "string": "10% Damage Taken Goes To Mana"
+    },
+    {
+      "order": "6",
+      "string": "+-2 to Light Radius"
+    }
+  ]
+},
+{
+  "item_name": "Mara's Kaleidoscope",
+  "item_base": "Amulet",
+  "level_requirement": 67,
+  "item_mods": {
+    "item_allskills": {
+      "min": 2,
+      "max": 2
+    },
+    "all_resist": {
+      "min": 20,
+      "max": 30
+    },
+    "strength": {
+      "min": 5,
+      "max": 5
+    },
+    "dexterity": {
+      "min": 5,
+      "max": 5
+    },
+    "vitality": {
+      "min": 5,
+      "max": 5
+    },
+    "energy": {
+      "min": 5,
+      "max": 5
+    }
   },
-  {
-    "item_name": "Khalim's Will",
-    "item_base": "Khalim's Will",
-    "level_requirement": "0",
-    "item_mods": {
-      "lightmindam": {
-        "min": "1",
-        "max": "1"
-      },
-      "lightmaxdam": {
-        "min": "40",
-        "max": "40"
-      },
-      "item_fasterattackrate": {
-        "min": "50",
-        "max": "50"
-      },
-      "tohit": {
-        "min": "40",
-        "max": "40"
-      },
-      "manadrainmindam": {
-        "min": "6",
-        "max": "6"
-      },
-      "lifedrainmindam": {
-        "min": "6",
-        "max": "6"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "All Resistances +20-30"
     },
-    "property_strings": [
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      },
-      {
-        "order": "115",
-        "string": "+40 to Attack Rating"
-      },
-      {
-        "order": "99",
-        "string": "+1 to Minimum Lightning Damage"
-      },
-      {
-        "order": "98",
-        "string": "+40 to Maximum Lightning Damage"
-      },
-      {
-        "order": "89",
-        "string": "6% Mana stolen per hit"
-      },
-      {
-        "order": "88",
-        "string": "6% Life stolen per hit"
-      }
-    ]
+    {
+      "order": "158",
+      "string": "+2 to All Skills"
+    },
+    {
+      "order": "67",
+      "string": "+5 to Strength"
+    },
+    {
+      "order": "65",
+      "string": "+5 to Dexterity"
+    },
+    {
+      "order": "63",
+      "string": "+5 to Vitality"
+    },
+    {
+      "order": "61",
+      "string": "+5 to Energy"
+    }
+  ]
+},
+{
+  "item_name": "Atma's Scarab",
+  "item_base": "Amulet",
+  "level_requirement": 60,
+  "item_mods": {
+    "poisondmg_flat": {
+      "min": 102,
+      "max": 102
+    },
+    "poisonresist": {
+      "min": 75,
+      "max": 75
+    },
+    "item_lightradius": {
+      "min": 3,
+      "max": 3
+    },
+    "item_attackertakesdamage": {
+      "min": 5,
+      "max": 5
+    },
+    "hit_skill": {
+      "chance_to_cast": 5,
+      "skill_level": 2,
+      "skill": "amplify_damage"
+    },
+    "item_tohit_percent": {
+      "min": 20,
+      "max": 20
+    }
   },
-  {
-    "item_name": "Stormspike",
-    "item_base": "Stilleto",
-    "level_requirement": "41",
-    "item_mods": {
-      "lightdmg_flat": {
-        "min": "1",
-        "max": "120"
-      },
-      "item_attackertakeslightdamage": {
-        "min": "20",
-        "max": "20"
-      },
-      "gethit_skill": {
-        "chance_to_cast": "25",
-        "skill_level": "3",
-        "skill": "charged_bolt"
-      },
-      "item_damage_percent": {
-        "min": "150",
-        "max": "150"
-      },
-      "item_resist_ltng_perlevel": {
-        "min": 1,
-        "max": 1
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "5% Chance To Cast Level 2 Amplify Damage On Striking"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "25% Chance To Cast Level 3 Charged Bolt When Struck"
-      },
-      {
-        "order": "159",
-        "string": "Adds 1-120 Lightning Damage"
-      },
-      {
-        "order": "159",
-        "string": "+150% Enhanced Damage"
-      },
-      {
-        "order": "37",
-        "string": "Lightning Resist 1-99% (Based On Character level)"
-      },
-      {
-        "order": "14",
-        "string": "Attacker Takes Lightning Damage of 20"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 102 Poison Damage"
+    },
+    {
+      "order": "117",
+      "string": "20% bonus to Attack Rating"
+    },
+    {
+      "order": "34",
+      "string": "Poison Resist +75%"
+    },
+    {
+      "order": "13",
+      "string": "Attacker Takes Damage of 5"
+    },
+    {
+      "order": "6",
+      "string": "+3 to Light Radius"
+    }
+  ]
+},
+{
+  "item_name": "Dwarf Star",
+  "item_base": "Ring",
+  "level_requirement": 45,
+  "item_mods": {
+    "item_goldbonus": {
+      "min": 100,
+      "max": 100
+    },
+    "maxstamina": {
+      "min": 40,
+      "max": 40
+    },
+    "staminarecoverybonus": {
+      "min": 15,
+      "max": 15
+    },
+    "maxhp": {
+      "min": 40,
+      "max": 40
+    },
+    "magic_damage_reduction": {
+      "min": 12,
+      "max": 15
+    },
+    "item_absorbfire_percent": {
+      "min": 15,
+      "max": 15
+    }
   },
-  {
-    "item_name": "Valkyrie Wing",
-    "item_base": "Winged helm",
-    "level_requirement": "44",
-    "item_mods": {
-      "item_armor_percent": {
-        "min": "150",
-        "max": "200"
-      },
-      "item_fastermovevelocity": {
-        "min": "20",
-        "max": "20"
-      },
-      "item_fastergethitrate": {
-        "min": "20",
-        "max": "20"
-      },
-      "amazon_skills": {
-        "min": "1",
-        "max": "2"
-      },
-      "item_manaafterkill": {
-        "min": "2",
-        "max": "4"
-      }
+  "property_strings": [
+    {
+      "order": "59",
+      "string": "+40 to Life"
     },
-    "property_strings": [
-      {
-        "order": "150",
-        "string": "+1-2 to Amazon Skill Levels"
-      },
-      {
-        "order": "148",
-        "string": "+20% Faster Run/Walk"
-      },
-      {
-        "order": "139",
-        "string": "+20% Faster Hit Recovery"
-      },
-      {
-        "order": "74",
-        "string": "+150-200% Enhanced Defense"
-      },
-      {
-        "order": "16",
-        "string": "+2-4 to Mana after each Kill"
-      }
-    ]
+    {
+      "order": "51",
+      "string": "+40 Maximum Stamina"
+    },
+    {
+      "order": "48",
+      "string": "Heal Stamina Plus 15%"
+    },
+    {
+      "order": "23",
+      "string": "Fire Absorb 15%"
+    },
+    {
+      "order": "21",
+      "string": "Magic Damage Reduced by 12-15"
+    },
+    {
+      "order": "10",
+      "string": "100% extra gold from monsters"
+    }
+  ]
+},
+{
+  "item_name": "Raven Frost",
+  "item_base": "Ring",
+  "level_requirement": 45,
+  "item_mods": {
+    "item_cannotbefrozen": {
+      "min": 1,
+      "max": 1
+    },
+    "colddmg_flat": {
+      "min": 15,
+      "max": 45
+    },
+    "item_absorbcold_percent": {
+      "min": 20,
+      "max": 20
+    },
+    "maxmana": {
+      "min": 40,
+      "max": 40
+    },
+    "dexterity": {
+      "min": 15,
+      "max": 20
+    },
+    "tohit": {
+      "min": 150,
+      "max": 250
+    }
   },
-  {
-    "item_name": "Hellmouth",
-    "item_base": "War Gaunlets",
-    "level_requirement": "47",
-    "item_mods": {
-      "firedmg_flat": {
-        "min": "15",
-        "max": "72"
-      },
-      "item_absorbfire": {
-        "min": "15",
-        "max": "15"
-      },
-      "item_armor_percent": {
-        "min": "150",
-        "max": "200"
-      },
-      "maxdurability": {
-        "min": "15",
-        "max": "15"
-      },
-      "hit_skill": {
-        "chance_to_cast": "4",
-        "skill_level": "12",
-        "skill": "firestorm"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "Adds 15-45 Cold Damage"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "2% Chance To Cast Level 4 Meteor On Striking"
-      },
-      {
-        "order": "160",
-        "string": "4% Chance To Cast Level 12 Firestorm On Striking"
-      },
-      {
-        "order": "159",
-        "string": "Adds 15-72 Fire Damage"
-      },
-      {
-        "order": "74",
-        "string": "+150-200% Enhanced Defense"
-      },
-      {
-        "order": "27",
-        "string": "+15 Fire Absorb"
-      }
-    ]
+    {
+      "order": "115",
+      "string": "+150-250 to Attack Rating"
+    },
+    {
+      "order": "65",
+      "string": "+15-20 to Dexterity"
+    },
+    {
+      "order": "55",
+      "string": "+40 to Mana"
+    },
+    {
+      "order": "25",
+      "string": "Cold Absorb 20%"
+    },
+    {
+      "order": "20",
+      "string": "Cannot Be Frozen"
+    }
+  ]
+},
+{
+  "item_name": "Highlord's Wrath",
+  "item_base": "Amulet",
+  "level_requirement": 65,
+  "item_mods": {
+    "lightresist": {
+      "min": 35,
+      "max": 35
+    },
+    "lightdmg_flat": {
+      "min": 1,
+      "max": 30
+    },
+    "item_fasterattackrate": {
+      "min": 20,
+      "max": 20
+    },
+    "item_allskills": {
+      "min": 1,
+      "max": 1
+    },
+    "item_attackertakeslightdamage": {
+      "min": 15,
+      "max": 15
+    }
   },
-  {
-    "item_name": "Bul-Kathos' Wedding Band",
-    "item_base": "Ring",
-    "level_requirement": "58",
-    "item_mods": {
-      "item_hp_perlevel": {
-        "min": 0.5,
-        "max": 0.5
-      },
-      "item_allskills": {
-        "min": "1",
-        "max": "1"
-      },
-      "lifedrainmindam": {
-        "min": "3",
-        "max": "5"
-      },
-      "maxstamina": {
-        "min": "50",
-        "max": "50"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "Adds 1-30 Lightning Damage"
     },
-    "property_strings": [
-      {
-        "order": "158",
-        "string": "+1 to All Skills"
-      },
-      {
-        "order": "88",
-        "string": "3-5% Life stolen per hit"
-      },
-      {
-        "order": "57",
-        "string": "+0.5-50 to Life (Based On Character level)"
-      },
-      {
-        "order": "51",
-        "string": "+50 Maximum Stamina"
-      }
-    ]
+    {
+      "order": "158",
+      "string": "+1 to All Skills"
+    },
+    {
+      "order": "145",
+      "string": "+20% Increased Attack Speed"
+    },
+    {
+      "order": "84",
+      "string": "0.375-37% Deadly Strike (Based On Character level)"
+    },
+    {
+      "order": "38",
+      "string": "Lightning Resist +35%"
+    },
+    {
+      "order": "14",
+      "string": "Attacker Takes Lightning Damage of 15"
+    }
+  ]
+},
+{
+  "item_name": "Saracen's Chance",
+  "item_base": "Amulet",
+  "level_requirement": 47,
+  "item_mods": {
+    "all_resist": {
+      "min": 15,
+      "max": 25
+    },
+    "gethit_skill": {
+      "chance_to_cast": 10,
+      "skill_level": 2,
+      "skill": "iron_maiden"
+    },
+    "strength": {
+      "min": 12,
+      "max": 12
+    },
+    "dexterity": {
+      "min": 12,
+      "max": 12
+    },
+    "energy": {
+      "min": 12,
+      "max": 12
+    },
+    "vitality": {
+      "min": 12,
+      "max": 12
+    }
   },
-  {
-    "item_name": "The Cat's Eye",
-    "item_base": "Amulet",
-    "level_requirement": "50",
-    "item_mods": {
-      "item_fastermovevelocity": {
-        "min": "30",
-        "max": "30"
-      },
-      "item_fasterattackrate": {
-        "min": "20",
-        "max": "20"
-      },
-      "armorclass": {
-        "min": "100",
-        "max": "100"
-      },
-      "armorclass_vs_missile": {
-        "min": "100",
-        "max": "100"
-      },
-      "dexterity": {
-        "min": "25",
-        "max": "25"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "10% Chance To Cast Level 2 Iron Maiden When Struck"
     },
-    "property_strings": [
-      {
-        "order": "148",
-        "string": "+30% Faster Run/Walk"
-      },
-      {
-        "order": "145",
-        "string": "+20% Increased Attack Speed"
-      },
-      {
-        "order": "71",
-        "string": "+100 Defense"
-      },
-      {
-        "order": "69",
-        "string": "+100 Defense vs. Missile"
-      },
-      {
-        "order": "65",
-        "string": "+25 to Dexterity"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "All Resistances +15-25"
+    },
+    {
+      "order": "67",
+      "string": "+12 to Strength"
+    },
+    {
+      "order": "65",
+      "string": "+12 to Dexterity"
+    },
+    {
+      "order": "63",
+      "string": "+12 to Vitality"
+    },
+    {
+      "order": "61",
+      "string": "+12 to Energy"
+    }
+  ]
+},
+{
+  "item_name": "Nature's Peace",
+  "item_base": "Ring",
+  "level_requirement": 69,
+  "item_mods": {
+    "item_preventheal": {
+      "min": 1,
+      "max": 1
+    },
+    "item_restinpeace": {
+      "min": 1,
+      "max": 1
+    },
+    "normal_damage_reduction": {
+      "min": 7,
+      "max": 11
+    },
+    "poisonresist": {
+      "min": 20,
+      "max": 30
+    },
+    "item_charged_skill": {
+      "skill": "Oak Sage",
+      "charges": 27,
+      "skill_level": 5
+    }
   },
-  {
-    "item_name": "The Rising Sun",
-    "item_base": "Amulet",
-    "level_requirement": "65",
-    "item_mods": {
-      "item_absorb_fire_perlevel": {
-        "min": 0.75,
-        "max": 0.75
-      },
-      "item_lightradius": {
-        "min": "4",
-        "max": "4"
-      },
-      "gethit_skill": {
-        "chance_to_cast": "2",
-        "skill_level": "0",
-        "skill": "meteor"
-      },
-      "firedmg_flat": {
-        "min": "24",
-        "max": "48"
-      },
-      "item_elemskill": {
-        "min": "2",
-        "max": "2"
-      },
-      "hpregen": {
-        "min": "10",
-        "max": "10"
-      }
+  "property_strings": [
+    {
+      "order": "81",
+      "string": "Prevent Monster Heal"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "2% Chance To Cast Level 0 Meteor When Struck"
-      },
-      {
-        "order": "159",
-        "string": "Adds 24-48 Fire Damage"
-      },
-      {
-        "order": "157",
-        "string": "+2 to Fire Skills"
-      },
-      {
-        "order": "56",
-        "string": "Replenish Life +10"
-      },
-      {
-        "order": "28",
-        "string": "+0.75-74 Absorbs Fire Damage (Based On Character level)"
-      },
-      {
-        "order": "6",
-        "string": "+4 to Light Radius"
-      }
-    ]
+    {
+      "order": "81",
+      "string": "Slain Monsters Rest in Peace"
+    },
+    {
+      "order": "34",
+      "string": "Poison Resist +20-30%"
+    },
+    {
+      "order": "22",
+      "string": "Damage Reduced by 7-11"
+    },
+    {
+      "order": "1",
+      "string": "Level 5 Oak Sage (27 Charges)"
+    }
+  ]
+},
+{
+  "item_name": "Seraph's Hymn",
+  "item_base": "Amulet",
+  "level_requirement": 65,
+  "item_mods": {
+    "item_allskills": {
+      "min": 2,
+      "max": 2
+    },
+    "offensive_auras": {
+      "min": 1,
+      "max": 2
+    },
+    "item_demondamage_percent": {
+      "min": 25,
+      "max": 50
+    },
+    "item_undeaddamage_percent": {
+      "min": 25,
+      "max": 50
+    },
+    "item_demon_tohit": {
+      "min": 150,
+      "max": 250
+    },
+    "item_undead_tohit": {
+      "min": 150,
+      "max": 250
+    },
+    "item_lightradius": {
+      "min": 2,
+      "max": 2
+    }
   },
-  {
-    "item_name": "Crescent Moon",
-    "item_base": "Amulet",
-    "level_requirement": "50",
-    "item_mods": {
-      "manadrainmindam": {
-        "min": "11",
-        "max": "15"
-      },
-      "magic_damage_reduction": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_damagetomana": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_lightradius": {
-        "min": "-2",
-        "max": "-2"
-      },
-      "maxmana": {
-        "min": "45",
-        "max": "45"
-      },
-      "lifedrainmindam": {
-        "min": "3",
-        "max": "6"
-      }
+  "property_strings": [
+    {
+      "order": "158",
+      "string": "+2 to All Skills"
     },
-    "property_strings": [
-      {
-        "order": "89",
-        "string": "11-15% Mana stolen per hit"
-      },
-      {
-        "order": "88",
-        "string": "3-6% Life stolen per hit"
-      },
-      {
-        "order": "55",
-        "string": "+45 to Mana"
-      },
-      {
-        "order": "21",
-        "string": "Magic Damage Reduced by 10"
-      },
-      {
-        "order": "11",
-        "string": "10% Damage Taken Goes To Mana"
-      },
-      {
-        "order": "6",
-        "string": "+-2 to Light Radius"
-      }
-    ]
+    {
+      "order": "112",
+      "string": "+25-50% Damage to Demons"
+    },
+    {
+      "order": "110",
+      "string": "+150-250 to Attack Rating against Demons"
+    },
+    {
+      "order": "106",
+      "string": "+150-250 to Attack Rating against Undead"
+    },
+    {
+      "order": "81",
+      "string": "+1-2 To Offensive Auras"
+    },
+    {
+      "order": "6",
+      "string": "+2 to Light Radius"
+    }
+  ]
+},
+{
+  "item_name": "Wisp Projector",
+  "item_base": "Ring",
+  "level_requirement": 76,
+  "item_mods": {
+    "item_absorblight_percent": {
+      "min": 10,
+      "max": 20
+    },
+    "hit_skill": {
+      "chance_to_cast": 10,
+      "skill_level": 16,
+      "skill": "lightning"
+    },
+    "item_magicbonus": {
+      "min": 10,
+      "max": 20
+    },
+    "item_charged_skill": {
+      "skill": "Spirit of Barbs",
+      "charges": 11,
+      "skill_level": 7
+    }
   },
-  {
-    "item_name": "Mara's Kaleidoscope",
-    "item_base": "Amulet",
-    "level_requirement": "67",
-    "item_mods": {
-      "item_allskills": {
-        "min": "2",
-        "max": "2"
-      },
-      "all_resist": {
-        "min": "20",
-        "max": "30"
-      },
-      "strength": {
-        "min": "5",
-        "max": "5"
-      },
-      "dexterity": {
-        "min": "5",
-        "max": "5"
-      },
-      "vitality": {
-        "min": "5",
-        "max": "5"
-      },
-      "energy": {
-        "min": "5",
-        "max": "5"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "10% Chance To Cast Level 16 Lightning On Striking"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "All Resistances +20-30"
-      },
-      {
-        "order": "158",
-        "string": "+2 to All Skills"
-      },
-      {
-        "order": "67",
-        "string": "+5 to Strength"
-      },
-      {
-        "order": "65",
-        "string": "+5 to Dexterity"
-      },
-      {
-        "order": "63",
-        "string": "+5 to Vitality"
-      },
-      {
-        "order": "61",
-        "string": "+5 to Energy"
-      }
-    ]
+    {
+      "order": "24",
+      "string": "Lightning Absorb 10-20%"
+    },
+    {
+      "order": "8",
+      "string": "10-20% better chance of getting magic item"
+    },
+    {
+      "order": "1",
+      "string": "Level 2 Oak Sage (15 Charges)"
+    },
+    {
+      "order": "1",
+      "string": "Level 5 Heart of Wolverine (13 Charges)"
+    },
+    {
+      "order": "1",
+      "string": "Level 7 Spirit of Barbs (11 Charges)"
+    }
+  ]
+},
+{
+  "item_name": "Gheed's Fortune",
+  "item_base": "Grand Charm",
+  "level_requirement": 62,
+  "item_mods": {
+    "item_magicbonus": {
+      "min": 20,
+      "max": 40
+    },
+    "item_goldbonus": {
+      "min": 80,
+      "max": 160
+    },
+    "item_reducedprices": {
+      "min": 10,
+      "max": 15
+    }
   },
-  {
-    "item_name": "Atma's Scarab",
-    "item_base": "Amulet",
-    "level_requirement": "60",
-    "item_mods": {
-      "poisondmg_flat": {
-        "min": "102",
-        "max": "102"
-      },
-      "poisonresist": {
-        "min": "75",
-        "max": "75"
-      },
-      "item_lightradius": {
-        "min": "3",
-        "max": "3"
-      },
-      "item_attackertakesdamage": {
-        "min": "5",
-        "max": "5"
-      },
-      "hit_skill": {
-        "chance_to_cast": "5",
-        "skill_level": "2",
-        "skill": "amplify_damage"
-      },
-      "item_tohit_percent": {
-        "min": "20",
-        "max": "20"
-      }
+  "property_strings": [
+    {
+      "order": "10",
+      "string": "80-160% extra gold from monsters"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "5% Chance To Cast Level 2 Amplify Damage On Striking"
-      },
-      {
-        "order": "159",
-        "string": "Adds 102 Poison Damage"
-      },
-      {
-        "order": "117",
-        "string": "20% bonus to Attack Rating"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +75%"
-      },
-      {
-        "order": "13",
-        "string": "Attacker Takes Damage of 5"
-      },
-      {
-        "order": "6",
-        "string": "+3 to Light Radius"
-      }
-    ]
+    {
+      "order": "8",
+      "string": "20-40% better chance of getting magic item"
+    },
+    {
+      "order": "8",
+      "string": "Reduces all Vendor Prices 10-15%"
+    }
+  ]
+},
+{
+  "item_name": "Metalgrid",
+  "item_base": "Amulet",
+  "level_requirement": 81,
+  "item_mods": {
+    "armorclass": {
+      "min": 300,
+      "max": 350
+    },
+    "all_resist": {
+      "min": 25,
+      "max": 35
+    },
+    "tohit": {
+      "min": 400,
+      "max": 450
+    },
+    "item_charged_skill": {
+      "skill": "Iron Maiden",
+      "charges": 20,
+      "skill_level": 12
+    }
   },
-  {
-    "item_name": "Dwarf Star",
-    "item_base": "Ring",
-    "level_requirement": "45",
-    "item_mods": {
-      "item_goldbonus": {
-        "min": "100",
-        "max": "100"
-      },
-      "maxstamina": {
-        "min": "40",
-        "max": "40"
-      },
-      "staminarecoverybonus": {
-        "min": "15",
-        "max": "15"
-      },
-      "maxhp": {
-        "min": "40",
-        "max": "40"
-      },
-      "magic_damage_reduction": {
-        "min": "12",
-        "max": "15"
-      },
-      "item_absorbfire_percent": {
-        "min": "15",
-        "max": "15"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "All Resistances +25-35"
     },
-    "property_strings": [
-      {
-        "order": "59",
-        "string": "+40 to Life"
-      },
-      {
-        "order": "51",
-        "string": "+40 Maximum Stamina"
-      },
-      {
-        "order": "48",
-        "string": "Heal Stamina Plus 15%"
-      },
-      {
-        "order": "23",
-        "string": "Fire Absorb 15%"
-      },
-      {
-        "order": "21",
-        "string": "Magic Damage Reduced by 12-15"
-      },
-      {
-        "order": "10",
-        "string": "100% extra gold from monsters"
-      }
-    ]
+    {
+      "order": "115",
+      "string": "+400-450 to Attack Rating"
+    },
+    {
+      "order": "71",
+      "string": "+300-350 Defense"
+    },
+    {
+      "order": "1",
+      "string": "Level 22 IronGolem (11 Charges)"
+    },
+    {
+      "order": "1",
+      "string": "Level 12 Iron Maiden (20 Charges)"
+    }
+  ]
+},
+{
+  "item_name": "Carrion Wind",
+  "item_base": "Ring",
+  "level_requirement": 60,
+  "item_mods": {
+    "armorclass_vs_missile": {
+      "min": 100,
+      "max": 160
+    },
+    "lifedrainmindam": {
+      "min": 6,
+      "max": 9
+    },
+    "poisonresist": {
+      "min": 55,
+      "max": 55
+    },
+    "gethit_skill": {
+      "chance_to_cast": 10,
+      "skill_level": 10,
+      "skill": "poison_nova"
+    },
+    "item_charged_skill": {
+      "skill": "Plague Poppy",
+      "charges": 15,
+      "skill_level": 21
+    },
+    "hit_skill": {
+      "chance_to_cast": 8,
+      "skill_level": 13,
+      "skill": "twister"
+    },
+    "item_damagetomana": {
+      "min": 10,
+      "max": 10
+    }
   },
-  {
-    "item_name": "Raven Frost",
-    "item_base": "Ring",
-    "level_requirement": "45",
-    "item_mods": {
-      "item_cannotbefrozen": {
-        "min": "1",
-        "max": "1"
-      },
-      "colddmg_flat": {
-        "min": "15",
-        "max": "45"
-      },
-      "item_absorbcold_percent": {
-        "min": "20",
-        "max": "20"
-      },
-      "maxmana": {
-        "min": "40",
-        "max": "40"
-      },
-      "dexterity": {
-        "min": "15",
-        "max": "20"
-      },
-      "tohit": {
-        "min": "150",
-        "max": "250"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "10% Chance To Cast Level 10 Poison Nova When Struck"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "Adds 15-45 Cold Damage"
-      },
-      {
-        "order": "115",
-        "string": "+150-250 to Attack Rating"
-      },
-      {
-        "order": "65",
-        "string": "+15-20 to Dexterity"
-      },
-      {
-        "order": "55",
-        "string": "+40 to Mana"
-      },
-      {
-        "order": "25",
-        "string": "Cold Absorb 20%"
-      },
-      {
-        "order": "20",
-        "string": "Cannot Be Frozen"
-      }
-    ]
+    {
+      "order": "160",
+      "string": "8% Chance To Cast Level 13 Twister On Striking"
+    },
+    {
+      "order": "88",
+      "string": "6-9% Life stolen per hit"
+    },
+    {
+      "order": "69",
+      "string": "+100-160 Defense vs. Missile"
+    },
+    {
+      "order": "34",
+      "string": "Poison Resist +55%"
+    },
+    {
+      "order": "11",
+      "string": "10% Damage Taken Goes To Mana"
+    },
+    {
+      "order": "1",
+      "string": "Level 21 Plague Poppy (15 Charges)"
+    }
+  ]
+},
+{
+  "item_name": "Annihilus",
+  "item_base": "Small Charm",
+  "level_requirement": 70,
+  "item_mods": {
+    "item_allskills": {
+      "min": 1,
+      "max": 1
+    },
+    "all_attributes": {
+      "min": 10,
+      "max": 20
+    },
+    "all_resist": {
+      "min": 10,
+      "max": 20
+    },
+    "item_addexperience": {
+      "min": 5,
+      "max": 10
+    }
   },
-  {
-    "item_name": "Highlord's Wrath",
-    "item_base": "Amulet",
-    "level_requirement": "65",
-    "item_mods": {
-      "lightresist": {
-        "min": "35",
-        "max": "35"
-      },
-      "lightdmg_flat": {
-        "min": "1",
-        "max": "30"
-      },
-      "item_fasterattackrate": {
-        "min": "20",
-        "max": "20"
-      },
-      "item_allskills": {
-        "min": "1",
-        "max": "1"
-      },
-      "item_deadlystrike_perlevel": {
-        "min": 0.375,
-        "max": 0.375
-      },
-      "item_attackertakeslightdamage": {
-        "min": "15",
-        "max": "15"
-      }
+  "property_strings": [
+    {
+      "order": "159",
+      "string": "+10-20 To All Attributes"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "Adds 1-30 Lightning Damage"
-      },
-      {
-        "order": "158",
-        "string": "+1 to All Skills"
-      },
-      {
-        "order": "145",
-        "string": "+20% Increased Attack Speed"
-      },
-      {
-        "order": "84",
-        "string": "0.375-37% Deadly Strike (Based On Character level)"
-      },
-      {
-        "order": "38",
-        "string": "Lightning Resist +35%"
-      },
-      {
-        "order": "14",
-        "string": "Attacker Takes Lightning Damage of 15"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "All Resistances +10-20"
+    },
+    {
+      "order": "158",
+      "string": "+1 to All Skills"
+    },
+    {
+      "order": "11",
+      "string": "+5-10% to Experience Gained"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "lightdmg_flat": {
+      "min": 1,
+      "max": 74
+    },
+    "passive_ltng_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_ltng_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "death_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 47,
+      "skill": "chain_lightning"
+    }
   },
-  {
-    "item_name": "Saracen's Chance",
-    "item_base": "Amulet",
-    "level_requirement": "47",
-    "item_mods": {
-      "all_resist": {
-        "min": "15",
-        "max": "25"
-      },
-      "gethit_skill": {
-        "chance_to_cast": "10",
-        "skill_level": "2",
-        "skill": "iron_maiden"
-      },
-      "strength": {
-        "min": "12",
-        "max": "12"
-      },
-      "dexterity": {
-        "min": "12",
-        "max": "12"
-      },
-      "energy": {
-        "min": "12",
-        "max": "12"
-      },
-      "vitality": {
-        "min": "12",
-        "max": "12"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 47 Chain Lightning When You Die"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "10% Chance To Cast Level 2 Iron Maiden When Struck"
-      },
-      {
-        "order": "159",
-        "string": "All Resistances +15-25"
-      },
-      {
-        "order": "67",
-        "string": "+12 to Strength"
-      },
-      {
-        "order": "65",
-        "string": "+12 to Dexterity"
-      },
-      {
-        "order": "63",
-        "string": "+12 to Vitality"
-      },
-      {
-        "order": "61",
-        "string": "+12 to Energy"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 1-74 Lightning Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Lightning Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Lightning Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "colddmg_flat": {
+      "min": 24,
+      "max": 38
+    },
+    "passive_cold_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_cold_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "death_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 37,
+      "skill": "blizzard"
+    }
   },
-  {
-    "item_name": "Nature's Peace",
-    "item_base": "Ring",
-    "level_requirement": "69",
-    "item_mods": {
-      "item_preventheal": {
-        "min": "1",
-        "max": "1"
-      },
-      "item_restinpeace": {
-        "min": "1",
-        "max": "1"
-      },
-      "normal_damage_reduction": {
-        "min": "7",
-        "max": "11"
-      },
-      "poisonresist": {
-        "min": "20",
-        "max": "30"
-      },
-      "item_charged_skill": {
-        "skill": "Oak Sage",
-        "charges": "27",
-        "skill_level": "5"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 37 Blizzard When You Die"
     },
-    "property_strings": [
-      {
-        "order": "81",
-        "string": "Prevent Monster Heal"
-      },
-      {
-        "order": "81",
-        "string": "Slain Monsters Rest in Peace"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +20-30%"
-      },
-      {
-        "order": "22",
-        "string": "Damage Reduced by 7-11"
-      },
-      {
-        "order": "1",
-        "string": "Level 5 Oak Sage (27 Charges)"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 24-38 Cold Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Cold Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Cold Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "firedmg_flat": {
+      "min": 17,
+      "max": 45
+    },
+    "passive_fire_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_fire_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "death_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 31,
+      "skill": "meteor"
+    }
   },
-  {
-    "item_name": "Azurewrath",
-    "item_base": "Phase Blade",
-    "level_requirement": "85",
-    "item_mods": {
-      "magicdmg_flat": {
-        "min": "250",
-        "max": "500"
-      },
-      "item_damage_percent": {
-        "min": "230",
-        "max": "270"
-      },
-      "aura": {
-        "min": "10",
-        "max": "13",
-        "skill": "sanctuary"
-      },
-      "colddmg_flat": {
-        "min": "250",
-        "max": "500"
-      },
-      "item_fasterattackrate": {
-        "min": "30",
-        "max": "30"
-      },
-      "all_attributes": {
-        "min": "5",
-        "max": "10"
-      },
-      "item_lightradius": {
-        "min": "3",
-        "max": "3"
-      },
-      "item_allskills": {
-        "min": "1",
-        "max": "1"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 31 Meteor When You Die"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "Adds 250-500 Magic Damage"
-      },
-      {
-        "order": "159",
-        "string": "+230-270% Enhanced Damage"
-      },
-      {
-        "order": "159",
-        "string": "+10-13 Sanctuary When Equipped"
-      },
-      {
-        "order": "159",
-        "string": "Adds 250-500 Cold Damage"
-      },
-      {
-        "order": "159",
-        "string": "+5-10 To All Attributes"
-      },
-      {
-        "order": "158",
-        "string": "+1 to All Skills"
-      },
-      {
-        "order": "145",
-        "string": "+30% Increased Attack Speed"
-      },
-      {
-        "order": "6",
-        "string": "+3 to Light Radius"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 17-45 Fire Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Fire Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Fire Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "poisondmg_flat": {
+      "min": 187,
+      "max": 187
+    },
+    "passive_pois_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_pois_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "death_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 51,
+      "skill": "poison_nova"
+    }
   },
-  {
-    "item_name": "Seraph's Hymn",
-    "item_base": "Amulet",
-    "level_requirement": "65",
-    "item_mods": {
-      "item_allskills": {
-        "min": "2",
-        "max": "2"
-      },
-      "offensive_auras": {
-        "min": "1",
-        "max": "2"
-      },
-      "item_demondamage_percent": {
-        "min": "25",
-        "max": "50"
-      },
-      "item_undeaddamage_percent": {
-        "min": "25",
-        "max": "50"
-      },
-      "item_demon_tohit": {
-        "min": "150",
-        "max": "250"
-      },
-      "item_undead_tohit": {
-        "min": "150",
-        "max": "250"
-      },
-      "item_lightradius": {
-        "min": "2",
-        "max": "2"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 51 Poison Nova When You Die"
     },
-    "property_strings": [
-      {
-        "order": "158",
-        "string": "+2 to All Skills"
-      },
-      {
-        "order": "112",
-        "string": "+25-50% Damage to Demons"
-      },
-      {
-        "order": "110",
-        "string": "+150-250 to Attack Rating against Demons"
-      },
-      {
-        "order": "106",
-        "string": "+150-250 to Attack Rating against Undead"
-      },
-      {
-        "order": "81",
-        "string": "+1-2 To Offensive Auras"
-      },
-      {
-        "order": "6",
-        "string": "+2 to Light Radius"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 187 Poison Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Poison Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Poison Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "lightdmg_flat": {
+      "min": 1,
+      "max": 74
+    },
+    "passive_ltng_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_ltng_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "levelup_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 41,
+      "skill": "nova"
+    }
   },
-  {
-    "item_name": "Stone Crusher",
-    "item_base": "Legendary Mallet",
-    "level_requirement": "68",
-    "item_mods": {
-      "item_damage_percent": {
-        "min": "280",
-        "max": "320"
-      },
-      "strength": {
-        "min": "20",
-        "max": "30"
-      },
-      "item_crushingblow": {
-        "min": "40",
-        "max": "40"
-      },
-      "item_fractionaltargetac": {
-        "min": "25",
-        "max": "25"
-      },
-      "item_damagetargetac": {
-        "min": "-100",
-        "max": "-100"
-      },
-      "item_normaldamage": {
-        "min": "10",
-        "max": "30"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 41 Nova When You Level Up"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "+280-320% Enhanced Damage"
-      },
-      {
-        "order": "122",
-        "string": "Damage +10-30"
-      },
-      {
-        "order": "118",
-        "string": "-25% Target Defense"
-      },
-      {
-        "order": "87",
-        "string": "40% Chance of Crushing Blow"
-      },
-      {
-        "order": "75",
-        "string": "+-100 to Monster Defense Per Hit"
-      },
-      {
-        "order": "67",
-        "string": "+20-30 to Strength"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 1-74 Lightning Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Lightning Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Lightning Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "colddmg_flat": {
+      "min": 24,
+      "max": 38
+    },
+    "passive_cold_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_cold_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "levelup_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 43,
+      "skill": "frost_nova"
+    }
   },
-  {
-    "item_name": "Wisp Projector",
-    "item_base": "Ring",
-    "level_requirement": "76",
-    "item_mods": {
-      "item_absorblight_percent": {
-        "min": "10",
-        "max": "20"
-      },
-      "hit_skill": {
-        "chance_to_cast": "10",
-        "skill_level": "16",
-        "skill": "lightning"
-      },
-      "item_magicbonus": {
-        "min": "10",
-        "max": "20"
-      },
-      "item_charged_skill": {
-        "skill": "Spirit of Barbs",
-        "charges": "11",
-        "skill_level": "7"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 43 Frost Nova When You Level Up"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "10% Chance To Cast Level 16 Lightning On Striking"
-      },
-      {
-        "order": "24",
-        "string": "Lightning Absorb 10-20%"
-      },
-      {
-        "order": "8",
-        "string": "10-20% better chance of getting magic item"
-      },
-      {
-        "order": "1",
-        "string": "Level 2 Oak Sage (15 Charges)"
-      },
-      {
-        "order": "1",
-        "string": "Level 5 Heart of Wolverine (13 Charges)"
-      },
-      {
-        "order": "1",
-        "string": "Level 7 Spirit of Barbs (11 Charges)"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 24-38 Cold Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Cold Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Cold Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "firedmg_flat": {
+      "min": 17,
+      "max": 45
+    },
+    "passive_fire_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_fire_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "levelup_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 29,
+      "skill": "blaze"
+    }
   },
-  {
-    "item_name": "Nightwing's Veil",
-    "item_base": "Spired Helm",
-    "level_requirement": "67",
-    "item_mods": {
-      "item_armor_percent": {
-        "min": "90",
-        "max": "120"
-      },
-      "item_allskills": {
-        "min": "2",
-        "max": "2"
-      },
-      "dexterity": {
-        "min": "10",
-        "max": "20"
-      },
-      "item_absorbcold": {
-        "min": "5",
-        "max": "9"
-      },
-      "item_halffreezeduration": {
-        "min": "1",
-        "max": "1"
-      },
-      "passive_cold_mastery": {
-        "min": "8",
-        "max": "15"
-      },
-      "item_req_percent": {
-        "min": "-50",
-        "max": "-50"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 29 Blaze When You Level Up"
     },
-    "property_strings": [
-      {
-        "order": "158",
-        "string": "+2 to All Skills"
-      },
-      {
-        "order": "88",
-        "string": "+8-15% to Cold Skill Damage"
-      },
-      {
-        "order": "74",
-        "string": "+90-120% Enhanced Defense"
-      },
-      {
-        "order": "65",
-        "string": "+10-20 to Dexterity"
-      },
-      {
-        "order": "31",
-        "string": "+5-9 Cold Absorb"
-      },
-      {
-        "order": "19",
-        "string": "Half Freeze Duration"
-      },
-      {
-        "order": "0",
-        "string": "Requirements +-50%"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 17-45 Fire Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Fire Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Fire Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Rainbow Facet",
+  "item_base": "Jewel",
+  "level_requirement": 49,
+  "item_mods": {
+    "poisondmg_flat": {
+      "min": 187,
+      "max": 187
+    },
+    "passive_pois_pierce": {
+      "min": 3,
+      "max": 5
+    },
+    "passive_pois_mastery": {
+      "min": 3,
+      "max": 5
+    },
+    "levelup_skill": {
+      "chance_to_cast": 100,
+      "skill_level": 23,
+      "skill": "venom"
+    }
   },
-  {
-    "item_name": "Gheed's Fortune",
-    "item_base": "Grand Charm",
-    "level_requirement": "62",
-    "item_mods": {
-      "item_magicbonus": {
-        "min": "20",
-        "max": "40"
-      },
-      "item_goldbonus": {
-        "min": "80",
-        "max": "160"
-      },
-      "item_reducedprices": {
-        "min": "10",
-        "max": "15"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "100% Chance To Cast Level 23 Venom When You Level Up"
     },
-    "property_strings": [
-      {
-        "order": "10",
-        "string": "80-160% extra gold from monsters"
-      },
-      {
-        "order": "8",
-        "string": "20-40% better chance of getting magic item"
-      },
-      {
-        "order": "8",
-        "string": "Reduces all Vendor Prices 10-15%"
-      }
-    ]
+    {
+      "order": "159",
+      "string": "Adds 187 Poison Damage"
+    },
+    {
+      "order": "88",
+      "string": "-3-5% to Enemy Poison Resistance"
+    },
+    {
+      "order": "88",
+      "string": "+3-5% to Poison Skill Damage"
+    }
+  ]
+},
+{
+  "item_name": "Hellfire Torch",
+  "item_base": "Large Charm",
+  "level_requirement": 75,
+  "item_mods": {
+    "item_addclassskills": {
+      "min": 0,
+      "max": 6
+    },
+    "all_attributes": {
+      "min": 10,
+      "max": 20
+    },
+    "all_resist": {
+      "min": 10,
+      "max": 20
+    },
+    "item_lightradius": {
+      "min": 8,
+      "max": 8
+    },
+    "hit_skill": {
+      "chance_to_cast": 5,
+      "skill_level": 10,
+      "skill": "diabwall"
+    },
+    "item_charged_skill": {
+      "skill": "Hydra",
+      "charges": 10,
+      "skill_level": 30
+    }
   },
-  {
-    "item_name": "Stormlash",
-    "item_base": "Scourge",
-    "level_requirement": "82",
-    "item_mods": {
-      "item_damage_percent": {
-        "min": "240",
-        "max": "300"
-      },
-      "item_fasterattackrate": {
-        "min": "30",
-        "max": "30"
-      },
-      "hit_skill": {
-        "chance_to_cast": "20",
-        "skill_level": "18",
-        "skill": "tornado"
-      },
-      "lightdmg_flat": {
-        "min": "1",
-        "max": "473"
-      },
-      "item_attackertakeslightdamage": {
-        "min": "30",
-        "max": "30"
-      },
-      "item_crushingblow": {
-        "min": "33",
-        "max": "33"
-      },
-      "item_absorblight": {
-        "min": "3",
-        "max": "9"
-      }
+  "property_strings": [
+    {
+      "order": "160",
+      "string": "5% Chance To Cast Level 10 DiabWall On Striking"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "15% Chance To Cast Level 10 Static Field On Striking"
-      },
-      {
-        "order": "160",
-        "string": "20% Chance To Cast Level 18 Tornado On Striking"
-      },
-      {
-        "order": "159",
-        "string": "+240-300% Enhanced Damage"
-      },
-      {
-        "order": "159",
-        "string": "Adds 1-473 Lightning Damage"
-      },
-      {
-        "order": "145",
-        "string": "+30% Increased Attack Speed"
-      },
-      {
-        "order": "87",
-        "string": "33% Chance of Crushing Blow"
-      },
-      {
-        "order": "29",
-        "string": "+3-9 Lightning Absorb"
-      },
-      {
-        "order": "14",
-        "string": "Attacker Takes Lightning Damage of 30"
-      }
-    ]
-  },
-  {
-    "item_name": "Templar's Might",
-    "item_base": "Sacred Armor",
-    "level_requirement": "74",
-    "item_mods": {
-      "item_armor_percent": {
-        "min": "170",
-        "max": "220"
-      },
-      "item_fastergethitrate": {
-        "min": "20",
-        "max": "20"
-      },
-      "armorclass_vs_missile": {
-        "min": "250",
-        "max": "300"
-      },
-      "maxstamina": {
-        "min": "40",
-        "max": "50"
-      },
-      "strength": {
-        "min": "10",
-        "max": "15"
-      },
-      "vitality": {
-        "min": "10",
-        "max": "15"
-      },
-      "defensive_auras": {
-        "min": "1",
-        "max": "2"
-      }
+    {
+      "order": "159",
+      "string": "+10-20 To All Attributes"
     },
-    "property_strings": [
-      {
-        "order": "139",
-        "string": "+20% Faster Hit Recovery"
-      },
-      {
-        "order": "81",
-        "string": "+1-2 To Defensive Auras"
-      },
-      {
-        "order": "74",
-        "string": "+170-220% Enhanced Defense"
-      },
-      {
-        "order": "69",
-        "string": "+250-300 Defense vs. Missile"
-      },
-      {
-        "order": "67",
-        "string": "+10-15 to Strength"
-      },
-      {
-        "order": "63",
-        "string": "+10-15 to Vitality"
-      },
-      {
-        "order": "51",
-        "string": "+40-50 Maximum Stamina"
-      }
-    ]
-  },
-  {
-    "item_name": "Metalgrid",
-    "item_base": "Amulet",
-    "level_requirement": "81",
-    "item_mods": {
-      "armorclass": {
-        "min": "300",
-        "max": "350"
-      },
-      "all_resist": {
-        "min": "25",
-        "max": "35"
-      },
-      "tohit": {
-        "min": "400",
-        "max": "450"
-      },
-      "item_charged_skill": {
-        "skill": "Iron Maiden",
-        "charges": "20",
-        "skill_level": "12"
-      }
+    {
+      "order": "159",
+      "string": "All Resistances +10-20"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "All Resistances +25-35"
-      },
-      {
-        "order": "115",
-        "string": "+400-450 to Attack Rating"
-      },
-      {
-        "order": "71",
-        "string": "+300-350 Defense"
-      },
-      {
-        "order": "1",
-        "string": "Level 22 IronGolem (11 Charges)"
-      },
-      {
-        "order": "1",
-        "string": "Level 12 Iron Maiden (20 Charges)"
-      }
-    ]
-  },
-  {
-    "item_name": "Carrion Wind",
-    "item_base": "Ring",
-    "level_requirement": "60",
-    "item_mods": {
-      "armorclass_vs_missile": {
-        "min": "100",
-        "max": "160"
-      },
-      "lifedrainmindam": {
-        "min": "6",
-        "max": "9"
-      },
-      "poisonresist": {
-        "min": "55",
-        "max": "55"
-      },
-      "gethit_skill": {
-        "chance_to_cast": "10",
-        "skill_level": "10",
-        "skill": "poison_nova"
-      },
-      "item_charged_skill": {
-        "skill": "Plague Poppy",
-        "charges": "15",
-        "skill_level": "21"
-      },
-      "hit_skill": {
-        "chance_to_cast": "8",
-        "skill_level": "13",
-        "skill": "twister"
-      },
-      "item_damagetomana": {
-        "min": "10",
-        "max": "10"
-      }
+    {
+      "order": "150"
     },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "10% Chance To Cast Level 10 Poison Nova When Struck"
-      },
-      {
-        "order": "160",
-        "string": "8% Chance To Cast Level 13 Twister On Striking"
-      },
-      {
-        "order": "88",
-        "string": "6-9% Life stolen per hit"
-      },
-      {
-        "order": "69",
-        "string": "+100-160 Defense vs. Missile"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +55%"
-      },
-      {
-        "order": "11",
-        "string": "10% Damage Taken Goes To Mana"
-      },
-      {
-        "order": "1",
-        "string": "Level 21 Plague Poppy (15 Charges)"
-      }
-    ]
-  },
-  {
-    "item_name": "Annihilus",
-    "item_base": "Small Charm",
-    "level_requirement": "70",
-    "item_mods": {
-      "item_allskills": {
-        "min": "1",
-        "max": "1"
-      },
-      "all_attributes": {
-        "min": "10",
-        "max": "20"
-      },
-      "all_resist": {
-        "min": "10",
-        "max": "20"
-      },
-      "item_addexperience": {
-        "min": "5",
-        "max": "10"
-      }
+    {
+      "order": "6",
+      "string": "+8 to Light Radius"
     },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "+10-20 To All Attributes"
-      },
-      {
-        "order": "159",
-        "string": "All Resistances +10-20"
-      },
-      {
-        "order": "158",
-        "string": "+1 to All Skills"
-      },
-      {
-        "order": "11",
-        "string": "+5-10% to Experience Gained"
-      }
-    ]
-  },
-  {
-    "item_name": "Earth Shifter",
-    "item_base": "Thunder Maul",
-    "level_requirement": "69",
-    "item_mods": {
-      "item_damage_percent": {
-        "min": "250",
-        "max": "300"
-      },
-      "hit_skill": {
-        "chance_to_cast": "25",
-        "skill_level": "14",
-        "skill": "eruption"
-      },
-      "item_crushingblow": {
-        "min": "33",
-        "max": "33"
-      },
-      "item_fasterattackrate": {
-        "min": "10",
-        "max": "10"
-      },
-      "item_charged_skill": {
-        "skill": "Volcano",
-        "charges": "30",
-        "skill_level": "14"
-      },
-      "elemental_skills": {
-        "min": "7",
-        "max": "7"
-      },
-      "item_fastercastrate": {
-        "min": "10",
-        "max": "10"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "25% Chance To Cast Level 14 Eruption On Striking"
-      },
-      {
-        "order": "159",
-        "string": "+250-300% Enhanced Damage"
-      },
-      {
-        "order": "145",
-        "string": "+10% Increased Attack Speed"
-      },
-      {
-        "order": "142",
-        "string": "+10% Faster Cast Rate"
-      },
-      {
-        "order": "87",
-        "string": "33% Chance of Crushing Blow"
-      },
-      {
-        "order": "81",
-        "string": "+7 To Elemental Skills"
-      },
-      {
-        "order": "1",
-        "string": "Level 14 Volcano (30 Charges)"
-      }
-    ]
-  },
-  {
-    "item_name": "The Redeemer",
-    "item_base": "Mighty Scepter",
-    "level_requirement": "72",
-    "item_mods": {
-      "item_damage_percent": {
-        "min": "250",
-        "max": "300"
-      },
-      "item_demondamage_percent": {
-        "min": "200",
-        "max": "250"
-      },
-      "paladin_skills": {
-        "min": "2",
-        "max": "2"
-      },
-      "item_req_percent": {
-        "min": "-60",
-        "max": "-60"
-      },
-      "redemption": {
-        "min": "2",
-        "max": "4"
-      },
-      "holy_bolt": {
-        "min": "2",
-        "max": "4"
-      },
-      "item_lightradius": {
-        "min": "3",
-        "max": "3"
-      },
-      "item_fractionaltargetac": {
-        "min": "33",
-        "max": "33"
-      },
-      "item_normaldamage": {
-        "min": "60",
-        "max": "120"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "159",
-        "string": "+250-300% Enhanced Damage"
-      },
-      {
-        "order": "150",
-        "string": "+2 to Paladin Skill Levels"
-      },
-      {
-        "order": "122",
-        "string": "Damage +60-120"
-      },
-      {
-        "order": "118",
-        "string": "-33% Target Defense"
-      },
-      {
-        "order": "112",
-        "string": "+200-250% Damage to Demons"
-      },
-      {
-        "order": "81",
-        "string": "+2-4 To Redemption"
-      },
-      {
-        "order": "81",
-        "string": "+2-4 To Holy Bolt"
-      },
-      {
-        "order": "6",
-        "string": "+3 to Light Radius"
-      },
-      {
-        "order": "0",
-        "string": "Requirements +-60%"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "lightdmg_flat": {
-        "min": "1",
-        "max": "74"
-      },
-      "passive_ltng_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_ltng_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "death_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "47",
-        "skill": "chain_lightning"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 47 Chain Lightning When You Die"
-      },
-      {
-        "order": "159",
-        "string": "Adds 1-74 Lightning Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Lightning Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Lightning Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "colddmg_flat": {
-        "min": "24",
-        "max": "38"
-      },
-      "passive_cold_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_cold_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "death_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "37",
-        "skill": "blizzard"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 37 Blizzard When You Die"
-      },
-      {
-        "order": "159",
-        "string": "Adds 24-38 Cold Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Cold Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Cold Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "firedmg_flat": {
-        "min": "17",
-        "max": "45"
-      },
-      "passive_fire_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_fire_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "death_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "31",
-        "skill": "meteor"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 31 Meteor When You Die"
-      },
-      {
-        "order": "159",
-        "string": "Adds 17-45 Fire Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Fire Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Fire Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "poisondmg_flat": {
-        "min": "187",
-        "max": "187"
-      },
-      "passive_pois_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_pois_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "death_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "51",
-        "skill": "poison_nova"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 51 Poison Nova When You Die"
-      },
-      {
-        "order": "159",
-        "string": "Adds 187 Poison Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Poison Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Poison Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "lightdmg_flat": {
-        "min": "1",
-        "max": "74"
-      },
-      "passive_ltng_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_ltng_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "levelup_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "41",
-        "skill": "nova"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 41 Nova When You Level Up"
-      },
-      {
-        "order": "159",
-        "string": "Adds 1-74 Lightning Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Lightning Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Lightning Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "colddmg_flat": {
-        "min": "24",
-        "max": "38"
-      },
-      "passive_cold_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_cold_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "levelup_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "43",
-        "skill": "frost_nova"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 43 Frost Nova When You Level Up"
-      },
-      {
-        "order": "159",
-        "string": "Adds 24-38 Cold Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Cold Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Cold Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "firedmg_flat": {
-        "min": "17",
-        "max": "45"
-      },
-      "passive_fire_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_fire_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "levelup_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "29",
-        "skill": "blaze"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 29 Blaze When You Level Up"
-      },
-      {
-        "order": "159",
-        "string": "Adds 17-45 Fire Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Fire Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Fire Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Rainbow Facet",
-    "item_base": "Jewel",
-    "level_requirement": "49",
-    "item_mods": {
-      "poisondmg_flat": {
-        "min": "187",
-        "max": "187"
-      },
-      "passive_pois_pierce": {
-        "min": "3",
-        "max": "5"
-      },
-      "passive_pois_mastery": {
-        "min": "3",
-        "max": "5"
-      },
-      "levelup_skill": {
-        "chance_to_cast": "100",
-        "skill_level": "23",
-        "skill": "venom"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "100% Chance To Cast Level 23 Venom When You Level Up"
-      },
-      {
-        "order": "159",
-        "string": "Adds 187 Poison Damage"
-      },
-      {
-        "order": "88",
-        "string": "-3-5% to Enemy Poison Resistance"
-      },
-      {
-        "order": "88",
-        "string": "+3-5% to Poison Skill Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Hellfire Torch",
-    "item_base": "Large Charm",
-    "level_requirement": "75",
-    "item_mods": {
-      "item_addclassskills": {
-        "min": "0",
-        "max": "6"
-      },
-      "all_attributes": {
-        "min": "10",
-        "max": "20"
-      },
-      "all_resist": {
-        "min": "10",
-        "max": "20"
-      },
-      "item_lightradius": {
-        "min": "8",
-        "max": "8"
-      },
-      "hit_skill": {
-        "chance_to_cast": "5",
-        "skill_level": "10",
-        "skill": "diabwall"
-      },
-      "item_charged_skill": {
-        "skill": "Hydra",
-        "charges": "10",
-        "skill_level": "30"
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "5% Chance To Cast Level 10 DiabWall On Striking"
-      },
-      {
-        "order": "159",
-        "string": "+10-20 To All Attributes"
-      },
-      {
-        "order": "159",
-        "string": "All Resistances +10-20"
-      },
-      {
-        "order": "150"
-      },
-      {
-        "order": "6",
-        "string": "+8 to Light Radius"
-      },
-      {
-        "order": "1",
-        "string": "Level 30 Hydra (10 Charges)"
-      }
-    ]
-  }
+    {
+      "order": "1",
+      "string": "Level 30 Hydra (10 Charges)"
+    }
+  ]
+}
 ]

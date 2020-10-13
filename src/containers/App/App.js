@@ -1,13 +1,14 @@
 import React, { useState, useEffect } from "react";
-// import { parseItems } from "../../assets/util/parseItems";
+// import { parseToJson } from "../../assets/util/parseToJson";
+import { parseRunewords } from "../../assets/util/parseRunewords";
 // import { combineAll } from "../../assets/util/combineItems";
-import { filterCharm } from "../../assets/util/filterByType";
+// import { filterBelts } from "../../assets/util/filterByType";
 
 export const App = () => {
   const [state, setState] = useState({});
   useEffect(() => {
     const stuff = async () => {
-      let result = await filterCharm();
+      let result = await parseRunewords();
       setState(result);
     };
     stuff();

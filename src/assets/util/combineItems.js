@@ -1,7 +1,10 @@
 import allBases from "../json/allBases.json";
-import uni from "../json/uniquesAfterBase.json";
+import { parseItems } from "./parseItems";
+import uni from "../json/uniquesBeforeBase.json";
 
 export const combineAll = () => {
+  // const uni = parseItems();
+
   let result = [];
   let unfound = [];
   for (let i = 0; i < uni.length; i++) {
@@ -32,8 +35,8 @@ export const combineAll = () => {
           parseInt(uni[i].item_mods.item_undeaddamage_percent.max);
         combineUndeadOnBlunt = {
           item_undeaddamage_percent: {
-            min: min.toString(),
-            max: max.toString(),
+            min: min,
+            max: max,
           },
         };
         const string =

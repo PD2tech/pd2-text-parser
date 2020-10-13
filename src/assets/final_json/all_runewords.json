@@ -1,0 +1,5044 @@
+[
+  {
+    "item_name": "Ancient's Pledge",
+    "base_types": [
+      "shield"
+    ],
+    "rune_string": "RalOrtTal",
+    "level_requirement": 21,
+    "socket_requirement": 3,
+    "item_mods": {
+      "coldresist": {
+        "min": 30,
+        "max": 30
+      },
+      "all_resist": {
+        "min": 13,
+        "max": 13
+      },
+      "item_armor_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damagetomana": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +13"
+      },
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +30%"
+      },
+      {
+        "order": "11",
+        "string": "10% Damage Taken Goes To Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Black",
+    "base_types": [
+      "club",
+      "hammer",
+      "mace"
+    ],
+    "rune_string": "ThulIoNef",
+    "level_requirement": 35,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_crushingblow": {
+        "min": 40,
+        "max": 40
+      },
+      "item_damage_percent": {
+        "min": 120,
+        "max": 120
+      },
+      "item_fasterattackrate": {
+        "min": 15,
+        "max": 15
+      },
+      "magic_damage_reduction": {
+        "min": 2,
+        "max": 2
+      },
+      "tohit": {
+        "min": 200,
+        "max": 200
+      },
+      "item_charged_skill": {
+        "skill": "Corpse Explosion",
+        "charges": 12,
+        "skill_level": 4
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+120% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+15% Increased Attack Speed"
+      },
+      {
+        "order": "115",
+        "string": "+200 to Attack Rating"
+      },
+      {
+        "order": "87",
+        "string": "40% Chance of Crushing Blow"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 2"
+      },
+      {
+        "order": "1",
+        "string": "Level 4 Corpse Explosion (12 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Fury",
+    "base_types": [
+      "melee"
+    ],
+    "rune_string": "JahGulEth",
+    "level_requirement": 65,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 209,
+        "max": 209
+      },
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_openwounds": {
+        "min": 66,
+        "max": 66
+      },
+      "lifedrainmindam": {
+        "min": 6,
+        "max": 6
+      },
+      "item_deadlystrike": {
+        "min": 33,
+        "max": 33
+      },
+      "frenzy": {
+        "min": 5,
+        "max": 5
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+209% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "6% Life stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "33% Deadly Strike"
+      },
+      {
+        "order": "83",
+        "string": "66% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "81",
+        "string": "+5 To Frenzy"
+      }
+    ]
+  },
+  {
+    "item_name": "Holy Thunder",
+    "base_types": [
+      "scepter"
+    ],
+    "rune_string": "EthRalOrtTal",
+    "level_requirement": 21,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 60,
+        "max": 60
+      },
+      "lightdmg_flat": {
+        "min": 20,
+        "max": 60
+      },
+      "damage_max": {
+        "min": 10,
+        "max": 10
+      },
+      "lightresist": {
+        "min": 60,
+        "max": 60
+      },
+      "maxlightresist": {
+        "min": 5,
+        "max": 5
+      },
+      "holy_shock": {
+        "min": 3,
+        "max": 3
+      },
+      "item_charged_skill": {
+        "skill": "Chain Lightning",
+        "charges": 60,
+        "skill_level": 7
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+60% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 20-60 Lightning Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 10 Maximum Damage"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Holy Shock"
+      },
+      {
+        "order": "43",
+        "string": "+5% to Maximum Lightning Resist"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +60%"
+      },
+      {
+        "order": "1",
+        "string": "Level 7 Chain Lightning (60 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Honor",
+    "base_types": [
+      "melee"
+    ],
+    "rune_string": "AmnElIthTirSol",
+    "level_requirement": 27,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 160,
+        "max": 160
+      },
+      "hpregen": {
+        "min": 10,
+        "max": 10
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "tohit": {
+        "min": 200,
+        "max": 200
+      },
+      "item_deadlystrike": {
+        "min": 25,
+        "max": 25
+      },
+      "strength": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+160% Enhanced Damage"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "115",
+        "string": "+200 to Attack Rating"
+      },
+      {
+        "order": "85",
+        "string": "25% Deadly Strike"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      }
+    ]
+  },
+  {
+    "item_name": "King's Grace",
+    "base_types": [
+      "sword",
+      "scepter"
+    ],
+    "rune_string": "AmnRalThul",
+    "level_requirement": 25,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 100,
+        "max": 100
+      },
+      "tohit": {
+        "min": 150,
+        "max": 150
+      },
+      "item_demondamage_percent": {
+        "min": 100,
+        "max": 100
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_demon_tohit": {
+        "min": 100,
+        "max": 100
+      },
+      "item_undead_tohit": {
+        "min": 100,
+        "max": 100
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+100% Enhanced Damage"
+      },
+      {
+        "order": "115",
+        "string": "+150 to Attack Rating"
+      },
+      {
+        "order": "112",
+        "string": "+100% Damage to Demons"
+      },
+      {
+        "order": "110",
+        "string": "+100 to Attack Rating against Demons"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage to Undead"
+      },
+      {
+        "order": "106",
+        "string": "+100 to Attack Rating against Undead"
+      }
+    ]
+  },
+  {
+    "item_name": "Leaf",
+    "base_types": [
+      "staff"
+    ],
+    "rune_string": "TirRal",
+    "level_requirement": 19,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_elemskill": {
+        "min": 3,
+        "max": 3
+      },
+      "item_armor_perlevel": {
+        "min": 16,
+        "max": 16
+      },
+      "coldresist": {
+        "min": 33,
+        "max": 33
+      },
+      "inferno": {
+        "min": 3,
+        "max": 3
+      },
+      "fire_bolt": {
+        "min": 3,
+        "max": 3
+      },
+      "warmth": {
+        "min": 3,
+        "max": 3
+      }
+    },
+    "property_strings": [
+      {
+        "order": "157",
+        "string": "+3 to Fire Skills"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Inferno"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Fire Bolt"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Warmth"
+      },
+      {
+        "order": "72",
+        "string": "+0-0 Defense (Based On Character level)"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +33%"
+      }
+    ]
+  },
+  {
+    "item_name": "Lionheart",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "HelLumFal",
+    "level_requirement": 41,
+    "socket_requirement": 3,
+    "item_mods": {
+      "strength": {
+        "min": 15,
+        "max": 15
+      },
+      "vitality": {
+        "min": 20,
+        "max": 20
+      },
+      "dexterity": {
+        "min": 15,
+        "max": 15
+      },
+      "item_damage_percent": {
+        "min": 20,
+        "max": 20
+      },
+      "maxhp": {
+        "min": 50,
+        "max": 50
+      },
+      "all_resist": {
+        "min": 30,
+        "max": 30
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+20% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +30"
+      },
+      {
+        "order": "67",
+        "string": "+15 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+15 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+20 to Vitality"
+      },
+      {
+        "order": "59",
+        "string": "+50 to Life"
+      }
+    ]
+  },
+  {
+    "item_name": "Lore",
+    "base_types": [
+      "helm"
+    ],
+    "rune_string": "OrtSol",
+    "level_requirement": 27,
+    "socket_requirement": 2,
+    "item_mods": {
+      "energy": {
+        "min": 10,
+        "max": 10
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "item_lightradius": {
+        "min": 2,
+        "max": 2
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "61",
+        "string": "+10 to Energy"
+      },
+      {
+        "order": "16",
+        "string": "+2 to Mana after each Kill"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Malice",
+    "base_types": [
+      "melee"
+    ],
+    "rune_string": "IthElEth",
+    "level_requirement": 15,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_openwounds": {
+        "min": 100,
+        "max": 100
+      },
+      "item_damagetargetac": {
+        "min": -100,
+        "max": -100
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_damage_percent": {
+        "min": 33,
+        "max": 33
+      },
+      "item_lightradius": {
+        "min": -1,
+        "max": -1
+      },
+      "hpregen": {
+        "min": -5,
+        "max": -5
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+33% Enhanced Damage"
+      },
+      {
+        "order": "83",
+        "string": "100% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "75",
+        "string": "+-100 to Monster Defense Per Hit"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +-5"
+      },
+      {
+        "order": "6",
+        "string": "+-1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Melody",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "ShaelKoNef",
+    "level_requirement": 39,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "bow_and_crossbow": {
+        "min": 3,
+        "max": 3
+      },
+      "critical_strike": {
+        "min": 3,
+        "max": 3
+      },
+      "dodge": {
+        "min": 3,
+        "max": 3
+      },
+      "slow_missiles": {
+        "min": 3,
+        "max": 3
+      },
+      "item_undeaddamage_percent": {
+        "min": 300,
+        "max": 300
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+50% Enhanced Damage"
+      },
+      {
+        "order": "108",
+        "string": "+300% Damage to Undead"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Bow and Crossbow"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Critical Strike"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Dodge"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Slow Missiles"
+      }
+    ]
+  },
+  {
+    "item_name": "Memory",
+    "base_types": [
+      "staff"
+    ],
+    "rune_string": "LumIoSolEth",
+    "level_requirement": 37,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_maxmana_percent": {
+        "min": 20,
+        "max": 20
+      },
+      "magic_damage_reduction": {
+        "min": 7,
+        "max": 7
+      },
+      "item_armor_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_fastercastrate": {
+        "min": 33,
+        "max": 33
+      },
+      "sorceress_skills": {
+        "min": 3,
+        "max": 3
+      },
+      "energy_shield": {
+        "min": 3,
+        "max": 3
+      },
+      "static_field": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+3 to Sorceress Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+33% Faster Cast Rate"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Energy Shield"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Static Field"
+      },
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 20%"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Nadir",
+    "base_types": [
+      "helm"
+    ],
+    "rune_string": "NefTir",
+    "level_requirement": 13,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "armorclass": {
+        "min": 10,
+        "max": 10
+      },
+      "item_lightradius": {
+        "min": -3,
+        "max": -3
+      },
+      "item_charged_skill": {
+        "skill": "Cloak of Shadows",
+        "charges": 9,
+        "skill_level": 13
+      },
+      "item_goldbonus": {
+        "min": -33,
+        "max": -33
+      },
+      "strength": {
+        "min": 5,
+        "max": 5
+      }
+    },
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+10 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+5 to Strength"
+      },
+      {
+        "order": "10",
+        "string": "-33% extra gold from monsters"
+      },
+      {
+        "order": "6",
+        "string": "+-3 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Cloak of Shadows (9 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Radiance",
+    "base_types": [
+      "helm"
+    ],
+    "rune_string": "NefSolIth",
+    "level_requirement": 27,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_lightradius": {
+        "min": 5,
+        "max": 5
+      },
+      "energy": {
+        "min": 10,
+        "max": 10
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10
+      },
+      "magic_damage_reduction": {
+        "min": 3,
+        "max": 3
+      },
+      "maxmana": {
+        "min": 33,
+        "max": 33
+      },
+      "item_armor_percent": {
+        "min": 75,
+        "max": 75
+      }
+    },
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+75% Enhanced Defense"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+10 to Energy"
+      },
+      {
+        "order": "55",
+        "string": "+33 to Mana"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 3"
+      },
+      {
+        "order": "6",
+        "string": "+5 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Rhyme",
+    "base_types": [
+      "shield"
+    ],
+    "rune_string": "ShaelEth",
+    "level_requirement": 29,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20
+      },
+      "toblock": {
+        "min": 20,
+        "max": 20
+      },
+      "all_resist": {
+        "min": 25,
+        "max": 25
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      },
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50
+      },
+      "item_magicbonus": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +25"
+      },
+      {
+        "order": "136",
+        "string": "+20% Faster Block Rate"
+      },
+      {
+        "order": "134",
+        "string": "20% Increased Chance of Blocking"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "10",
+        "string": "50% extra gold from monsters"
+      },
+      {
+        "order": "8",
+        "string": "25% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Silence",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "DolEldHelIstTirVex",
+    "level_requirement": 55,
+    "socket_requirement": 6,
+    "item_mods": {
+      "manadrainmindam": {
+        "min": 4,
+        "max": 4
+      },
+      "item_stupidity": {
+        "min": 33,
+        "max": 33
+      },
+      "item_damage_percent": {
+        "min": 200,
+        "max": 200
+      },
+      "item_fasterattackrate": {
+        "min": 20,
+        "max": 20
+      },
+      "all_resist": {
+        "min": 75,
+        "max": 75
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+200% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +75"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "89",
+        "string": "4% Mana stolen per hit"
+      },
+      {
+        "order": "80",
+        "string": "Hit blinds target +33"
+      }
+    ]
+  },
+  {
+    "item_name": "Smoke",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "NefLum",
+    "level_requirement": 37,
+    "socket_requirement": 2,
+    "item_mods": {
+      "armorclass_vs_missile": {
+        "min": 250,
+        "max": 250
+      },
+      "item_armor_percent": {
+        "min": 75,
+        "max": 75
+      },
+      "all_resist": {
+        "min": 50,
+        "max": 50
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_lightradius": {
+        "min": -1,
+        "max": -1
+      },
+      "item_charged_skill": {
+        "skill": "Weaken",
+        "charges": 18,
+        "skill_level": 6
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +50"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+75% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+250 Defense vs. Missile"
+      },
+      {
+        "order": "6",
+        "string": "+-1 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 6 Weaken (18 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Stealth",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "TalEth",
+    "level_requirement": 17,
+    "socket_requirement": 2,
+    "item_mods": {
+      "magic_damage_reduction": {
+        "min": 3,
+        "max": 3
+      },
+      "dexterity": {
+        "min": 6,
+        "max": 6
+      },
+      "maxstamina": {
+        "min": 15,
+        "max": 15
+      },
+      "item_fastermovevelocity": {
+        "min": 25,
+        "max": 25
+      },
+      "item_fastercastrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_fastergethitrate": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+25% Faster Run/Walk"
+      },
+      {
+        "order": "142",
+        "string": "+25% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+25% Faster Hit Recovery"
+      },
+      {
+        "order": "65",
+        "string": "+6 to Dexterity"
+      },
+      {
+        "order": "51",
+        "string": "+15 Maximum Stamina"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 3"
+      }
+    ]
+  },
+  {
+    "item_name": "Steel",
+    "base_types": [
+      "sword",
+      "axe",
+      "mace"
+    ],
+    "rune_string": "TirEl",
+    "level_requirement": 13,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 25,
+        "max": 25
+      },
+      "damage_min": {
+        "min": 3,
+        "max": 3
+      },
+      "damage_max": {
+        "min": 3,
+        "max": 3
+      },
+      "item_openwounds": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 3 Minimum Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 3 Maximum Damage"
+      },
+      {
+        "order": "159",
+        "string": "+20% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+25% Increased Attack Speed"
+      },
+      {
+        "order": "83",
+        "string": "50% Chance of Open Wounds"
+      }
+    ]
+  },
+  {
+    "item_name": "Strength",
+    "base_types": [
+      "melee"
+    ],
+    "rune_string": "AmnTir",
+    "level_requirement": 25,
+    "socket_requirement": 2,
+    "item_mods": {
+      "strength": {
+        "min": 20,
+        "max": 20
+      },
+      "item_damage_percent": {
+        "min": 35,
+        "max": 35
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10
+      },
+      "item_crushingblow": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+35% Enhanced Damage"
+      },
+      {
+        "order": "87",
+        "string": "25% Chance of Crushing Blow"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      }
+    ]
+  },
+  {
+    "item_name": "Venom",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "TalDolMal",
+    "level_requirement": 49,
+    "socket_requirement": 3,
+    "item_mods": {
+      "poisondmg_flat": {
+        "min": 312,
+        "max": 312
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "item_charged_skill": {
+        "skill": "Poison Nova",
+        "charges": 11,
+        "skill_level": 13
+      },
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 312 Poison Damage"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "89",
+        "string": "7% Mana stolen per hit"
+      },
+      {
+        "order": "1",
+        "string": "Level 15 Poison Explosion (27 Charges)"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Poison Nova (11 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Wealth",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "LemKoTir",
+    "level_requirement": 43,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_goldbonus": {
+        "min": 250,
+        "max": 250
+      },
+      "item_magicbonus": {
+        "min": 100,
+        "max": 100
+      }
+    },
+    "property_strings": [
+      {
+        "order": "10",
+        "string": "250% extra gold from monsters"
+      },
+      {
+        "order": "8",
+        "string": "100% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "White",
+    "base_types": [
+      "wand"
+    ],
+    "rune_string": "DolIo",
+    "level_requirement": 35,
+    "socket_requirement": 2,
+    "item_mods": {
+      "poison_and_bone": {
+        "min": 3,
+        "max": 3
+      },
+      "magic_damage_reduction": {
+        "min": 4,
+        "max": 4
+      },
+      "item_fastercastrate": {
+        "min": 20,
+        "max": 20
+      },
+      "maxmana": {
+        "min": 13,
+        "max": 13
+      },
+      "bone_armor": {
+        "min": 3,
+        "max": 3
+      },
+      "bone_spear": {
+        "min": 2,
+        "max": 2
+      },
+      "skeleton_mastery": {
+        "min": 4,
+        "max": 4
+      }
+    },
+    "property_strings": [
+      {
+        "order": "142",
+        "string": "+20% Faster Cast Rate"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Poison and Bone"
+      },
+      {
+        "order": "81",
+        "string": "+3 To Bone Armor"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Bone Spear"
+      },
+      {
+        "order": "81",
+        "string": "+4 To Skeleton Mastery"
+      },
+      {
+        "order": "55",
+        "string": "+13 to Mana"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 4"
+      }
+    ]
+  },
+  {
+    "item_name": "Zephyr",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "OrtEth",
+    "level_requirement": 21,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_fastermovevelocity": {
+        "min": 25,
+        "max": 25
+      },
+      "item_fasterattackrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_damage_percent": {
+        "min": 33,
+        "max": 33
+      },
+      "tohit": {
+        "min": 66,
+        "max": 66
+      },
+      "gethit_skill": {
+        "chance_to_cast": 7,
+        "skill_level": 1,
+        "skill": "twister"
+      },
+      "armorclass": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "7% Chance To Cast Level 1 Twister When Struck"
+      },
+      {
+        "order": "159",
+        "string": "+33% Enhanced Damage"
+      },
+      {
+        "order": "148",
+        "string": "+25% Faster Run/Walk"
+      },
+      {
+        "order": "145",
+        "string": "+25% Increased Attack Speed"
+      },
+      {
+        "order": "115",
+        "string": "+66 to Attack Rating"
+      },
+      {
+        "order": "71",
+        "string": "+25 Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Bramble",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "RalOhmSurEth",
+    "level_requirement": 61,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fastergethitrate": {
+        "min": 50,
+        "max": 50
+      },
+      "armorclass": {
+        "min": 300,
+        "max": 300
+      },
+      "aura": {
+        "min": 15,
+        "max": 21,
+        "skill": "thorns"
+      },
+      "item_healafterkill": {
+        "min": 13,
+        "max": 13
+      },
+      "passive_pois_mastery": {
+        "min": 25,
+        "max": 50
+      },
+      "poisonresist": {
+        "min": 100,
+        "max": 100
+      },
+      "item_charged_skill": {
+        "skill": "Spirit of Barbs",
+        "charges": 33,
+        "skill_level": 13
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+15-21 Thorns When Equipped"
+      },
+      {
+        "order": "139",
+        "string": "+50% Faster Hit Recovery"
+      },
+      {
+        "order": "88",
+        "string": "+25-50% to Poison Skill Damage"
+      },
+      {
+        "order": "71",
+        "string": "+300 Defense"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +100%"
+      },
+      {
+        "order": "16",
+        "string": "+13 Life after each Kill"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Spirit of Barbs (33 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Breath of the Dying",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "VexHelElEldZodEth",
+    "level_requirement": 69,
+    "socket_requirement": 6,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 60,
+        "max": 60
+      },
+      "item_undeaddamage_percent": {
+        "min": 125,
+        "max": 125
+      },
+      "lifedrainmindam": {
+        "min": 12,
+        "max": 15
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "kill_skill": {
+        "chance_to_cast": 50,
+        "skill_level": 20,
+        "skill": "poison_nova"
+      },
+      "item_damage_percent": {
+        "min": 350,
+        "max": 400
+      },
+      "all_attributes": {
+        "min": 30,
+        "max": 30
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy"
+      },
+      {
+        "order": "159",
+        "string": "+350-400% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+30 To All Attributes"
+      },
+      {
+        "order": "145",
+        "string": "+60% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+125% Damage to Undead"
+      },
+      {
+        "order": "88",
+        "string": "12-15% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      }
+    ]
+  },
+  {
+    "item_name": "Call to Arms",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "AmnRalMalIstOhm",
+    "level_requirement": 57,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_damage_percent": {
+        "min": 200,
+        "max": 240
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 4
+      },
+      "hpregen": {
+        "min": 12,
+        "max": 12
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+200-240% Enhanced Damage"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +12"
+      }
+    ]
+  },
+  {
+    "item_name": "Crescent Moon",
+    "base_types": [
+      "axe",
+      "sword",
+      "polearm"
+    ],
+    "rune_string": "ShaelUmTir",
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "passive_ltng_pierce": {
+        "min": 35,
+        "max": 35
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "item_damage_percent": {
+        "min": 180,
+        "max": 220
+      },
+      "item_absorbmagic": {
+        "min": 9,
+        "max": 11
+      },
+      "item_charged_skill": {
+        "skill": "Summon Spirit Wolf",
+        "charges": 30,
+        "skill_level": 18
+      },
+      "hit_skill": {
+        "chance_to_cast": 10,
+        "skill_level": 17,
+        "skill": "chain_lightning"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "7% Chance To Cast Level 13 Static Field On Striking"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 17 Chain Lightning On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+180-220% Enhanced Damage"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "88",
+        "string": "-35% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "33",
+        "string": "+9-11 Magic Absorb"
+      },
+      {
+        "order": "1",
+        "string": "Level 18 Summon Spirit Wolf (30 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Delirium",
+    "base_types": [
+      "helm"
+    ],
+    "rune_string": "LemIstIo",
+    "level_requirement": 51,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 11,
+        "skill_level": 18,
+        "skill": "confuse"
+      },
+      "item_charged_skill": {
+        "skill": "Attract",
+        "charges": 60,
+        "skill_level": 17
+      },
+      "gethit_skill": {
+        "chance_to_cast": 1,
+        "skill_level": 50,
+        "skill": "delerium_change"
+      },
+      "armorclass": {
+        "min": 261,
+        "max": 261
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "11% Chance To Cast Level 18 Confuse On Striking"
+      },
+      {
+        "order": "160",
+        "string": "14% Chance To Cast Level 13 Terror When Struck"
+      },
+      {
+        "order": "160",
+        "string": "6% Chance To Cast Level 14 Mind Blast When Struck"
+      },
+      {
+        "order": "160",
+        "string": "1% Chance To Cast Level 50 Delerium Change When Struck"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "71",
+        "string": "+261 Defense"
+      },
+      {
+        "order": "1",
+        "string": "Level 17 Attract (60 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Doomsayer",
+    "base_types": [
+      "axe",
+      "polearm",
+      "hammer"
+    ],
+    "rune_string": "HelOhmUmLoCham",
+    "level_requirement": 67,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 280,
+        "max": 320
+      },
+      "aura": {
+        "min": 12,
+        "max": 12,
+        "skill": "holy_freeze"
+      },
+      "item_fasterattackrate": {
+        "min": 45,
+        "max": 45
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "passive_cold_pierce": {
+        "min": 40,
+        "max": 60
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "hit_skill": {
+        "chance_to_cast": 5,
+        "skill_level": 18,
+        "skill": "volcano"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 18 Volcano On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+280-320% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+12 Holy Freeze When Equipped"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+45% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "-40-60% to Enemy Cold Resistance"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      }
+    ]
+  },
+  {
+    "item_name": "Enigma",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "JahIthBer",
+    "level_requirement": 65,
+    "socket_requirement": 3,
+    "item_mods": {
+      "armorclass": {
+        "min": 750,
+        "max": 775
+      },
+      "item_healafterkill": {
+        "min": 14,
+        "max": 14
+      },
+      "item_fastermovevelocity": {
+        "min": 45,
+        "max": 45
+      },
+      "item_strength_perlevel": {
+        "min": 0.75,
+        "max": 0.75
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_find_magic_perlevel": {
+        "min": 1,
+        "max": 1
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "148",
+        "string": "+45% Faster Run/Walk"
+      },
+      {
+        "order": "71",
+        "string": "+750-775 Defense"
+      },
+      {
+        "order": "66",
+        "string": "+0.75-74 to Strength (Based On Character level)"
+      },
+      {
+        "order": "16",
+        "string": "+14 Life after each Kill"
+      },
+      {
+        "order": "7",
+        "string": "1-99% better chance of getting magic item (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Stone",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "ShaelUmPulLum",
+    "level_requirement": 47,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 220,
+        "max": 260
+      },
+      "item_charged_skill": {
+        "skill": "Molten Boulder",
+        "charges": 80,
+        "skill_level": 16
+      },
+      "armorclass_vs_missile": {
+        "min": 300,
+        "max": 300
+      },
+      "strength": {
+        "min": 16,
+        "max": 16
+      },
+      "vitality": {
+        "min": 16,
+        "max": 16
+      },
+      "item_fastergethitrate": {
+        "min": 40,
+        "max": 40
+      }
+    },
+    "property_strings": [
+      {
+        "order": "139",
+        "string": "+40% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+220-260% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+300 Defense vs. Missile"
+      },
+      {
+        "order": "67",
+        "string": "+16 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+16 to Vitality"
+      },
+      {
+        "order": "1",
+        "string": "Level 16 Clay Golem (16 Charges)"
+      },
+      {
+        "order": "1",
+        "string": "Level 16 Molten Boulder (80 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Eternity",
+    "base_types": [
+      "melee"
+    ],
+    "rune_string": "AmnBerIstSolSur",
+    "level_requirement": 63,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 260,
+        "max": 310
+      },
+      "indestruct": {
+        "min": 1,
+        "max": 1
+      },
+      "item_slow": {
+        "min": 33,
+        "max": 33
+      },
+      "item_charged_skill": {
+        "skill": "Revive",
+        "charges": 88,
+        "skill_level": 8
+      },
+      "hpregen": {
+        "min": 16,
+        "max": 16
+      },
+      "manarecoverybonus": {
+        "min": 16,
+        "max": 16
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "159",
+        "string": "+260-310% Enhanced Damage"
+      },
+      {
+        "order": "77",
+        "string": "Slows target by 33%"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +16"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 16%"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "1",
+        "string": "Level 8 Revive (88 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Exile",
+    "base_types": [
+      "pally shield"
+    ],
+    "rune_string": "VexOhmIstDol",
+    "level_requirement": 57,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fasterblockrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_freeze": {
+        "min": 1,
+        "max": 1
+      },
+      "item_armor_percent": {
+        "min": 220,
+        "max": 260
+      },
+      "aura": {
+        "min": 13,
+        "max": 16,
+        "skill": "defiance"
+      },
+      "defensive_auras": {
+        "min": 2,
+        "max": 2
+      },
+      "hit_skill": {
+        "chance_to_cast": 15,
+        "skill_level": 5,
+        "skill": "life_tap"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 5 Life Tap On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+13-16 Defiance When Equipped"
+      },
+      {
+        "order": "136",
+        "string": "+30% Faster Block Rate"
+      },
+      {
+        "order": "81",
+        "string": "+2 To Defensive Auras"
+      },
+      {
+        "order": "78",
+        "string": "Freezes target +1"
+      },
+      {
+        "order": "74",
+        "string": "+220-260% Enhanced Defense"
+      },
+      {
+        "order": "1",
+        "string": "Repairs %d durability per second"
+      }
+    ]
+  },
+  {
+    "item_name": "Famine",
+    "base_types": [
+      "axe",
+      "hammer"
+    ],
+    "rune_string": "FalOhmOrtJah",
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 270,
+        "max": 320
+      },
+      "lifedrainmindam": {
+        "min": 12,
+        "max": 12
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "magicdmg_flat": {
+        "min": 180,
+        "max": 200
+      },
+      "eledmg_flat": {
+        "min": 50,
+        "max": 200
+      },
+      "ethereal": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Ethereal"
+      },
+      {
+        "order": "159",
+        "string": "+270-320% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 180-200 Magic Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 50-200 Fire Damage\n\n        Adds 50-200 Lightning Damage\n\n        Adds 50-200 Cold Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "12% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      }
+    ]
+  },
+  {
+    "item_name": "Hand of Justice",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "SurChamAmnLo",
+    "level_requirement": 67,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 33,
+        "max": 33
+      },
+      "item_damage_percent": {
+        "min": 280,
+        "max": 330
+      },
+      "aura": {
+        "min": 16,
+        "max": 16,
+        "skill": "holy_fire"
+      },
+      "levelup_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 36,
+        "skill": "blaze"
+      },
+      "death_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 48,
+        "skill": "meteor"
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "passive_fire_pierce": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 36 Blaze When You Level Up"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 48 Meteor When You Die"
+      },
+      {
+        "order": "159",
+        "string": "+280-330% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+16 Holy Fire When Equipped"
+      },
+      {
+        "order": "145",
+        "string": "+33% Increased Attack Speed"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "88",
+        "string": "-20% to Enemy Fire Resistance"
+      }
+    ]
+  },
+  {
+    "item_name": "Heart of the Oak",
+    "base_types": [
+      "staff",
+      "mace"
+    ],
+    "rune_string": "KoVexPulThul",
+    "level_requirement": 55,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fastercastrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_charged_skill": {
+        "skill": "Raven",
+        "charges": 60,
+        "skill_level": 14
+      },
+      "item_maxmana_percent": {
+        "min": 15,
+        "max": 15
+      },
+      "item_allskills": {
+        "min": 3,
+        "max": 3
+      },
+      "hpregen": {
+        "min": 20,
+        "max": 20
+      },
+      "all_resist": {
+        "min": 30,
+        "max": 40
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +30-40"
+      },
+      {
+        "order": "158",
+        "string": "+3 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+40% Faster Cast Rate"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +20"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 15%"
+      },
+      {
+        "order": "1",
+        "string": "Level 4 Oak Sage (25 Charges)"
+      },
+      {
+        "order": "1",
+        "string": "Level 14 Raven (60 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Kingslayer",
+    "base_types": [
+      "sword",
+      "axe"
+    ],
+    "rune_string": "MalUmGulFal",
+    "level_requirement": 53,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_damage_percent": {
+        "min": 230,
+        "max": 270
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25
+      },
+      "item_crushingblow": {
+        "min": 33,
+        "max": 33
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 1
+      },
+      "item_goldbonus": {
+        "min": 40,
+        "max": 40
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+230-270% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "118",
+        "string": "-25% Target Defense"
+      },
+      {
+        "order": "87",
+        "string": "33% Chance of Crushing Blow"
+      },
+      {
+        "order": "83",
+        "string": "25% Chance of Open Wounds"
+      },
+      {
+        "order": "10",
+        "string": "40% extra gold from monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "Passion",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "DolOrtEldLem",
+    "level_requirement": 43,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 160,
+        "max": 210
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 1
+      },
+      "item_tohit_percent": {
+        "min": 50,
+        "max": 80
+      },
+      "item_fasterattackrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_charged_skill": {
+        "skill": "Heart of Wolverine",
+        "charges": 12,
+        "skill_level": 3
+      },
+      "item_stupidity": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+160-210% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+25% Increased Attack Speed"
+      },
+      {
+        "order": "117",
+        "string": "50-80% bonus to Attack Rating"
+      },
+      {
+        "order": "80",
+        "string": "Hit blinds target +10"
+      },
+      {
+        "order": "1",
+        "string": "Level 3 Heart of Wolverine (12 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Gloom",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "FalUmPul",
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 170,
+        "max": 230
+      },
+      "all_resist": {
+        "min": 30,
+        "max": 30
+      },
+      "gethit_skill": {
+        "chance_to_cast": 15,
+        "skill_level": 3,
+        "skill": "dim_vision"
+      },
+      "item_fastergethitrate": {
+        "min": 10,
+        "max": 10
+      },
+      "item_damagetomana": {
+        "min": 5,
+        "max": 5
+      },
+      "item_lightradius": {
+        "min": -3,
+        "max": -3
+      },
+      "item_halffreezeduration": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 3 Dim Vision When Struck"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +30"
+      },
+      {
+        "order": "139",
+        "string": "+10% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+170-230% Enhanced Defense"
+      },
+      {
+        "order": "19",
+        "string": "Half Freeze Duration"
+      },
+      {
+        "order": "11",
+        "string": "5% Damage Taken Goes To Mana"
+      },
+      {
+        "order": "6",
+        "string": "+-3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Sanctuary",
+    "base_types": [
+      "shield"
+    ],
+    "rune_string": "KoKoMal",
+    "level_requirement": 49,
+    "socket_requirement": 3,
+    "item_mods": {
+      "toblock": {
+        "min": 20,
+        "max": 20
+      },
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_armor_percent": {
+        "min": 130,
+        "max": 160
+      },
+      "armorclass_vs_missile": {
+        "min": 250,
+        "max": 250
+      },
+      "all_resist": {
+        "min": 50,
+        "max": 70
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_charged_skill": {
+        "skill": "Slow Missiles",
+        "charges": 60,
+        "skill_level": 12
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +50-70"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "136",
+        "string": "+20% Faster Block Rate"
+      },
+      {
+        "order": "134",
+        "string": "20% Increased Chance of Blocking"
+      },
+      {
+        "order": "74",
+        "string": "+130-160% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+250 Defense vs. Missile"
+      },
+      {
+        "order": "1",
+        "string": "Level 12 Slow Missiles (60 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Chaos",
+    "base_types": [
+      "claw"
+    ],
+    "rune_string": "FalOhmUm",
+    "level_requirement": 57,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_healafterdemonkill": {
+        "min": 15,
+        "max": 15
+      },
+      "item_damage_percent": {
+        "min": 240,
+        "max": 290
+      },
+      "magicdmg_flat": {
+        "min": 216,
+        "max": 471
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 1
+      },
+      "item_fasterattackrate": {
+        "min": 35,
+        "max": 35
+      },
+      "hit_skill": {
+        "chance_to_cast": 11,
+        "skill_level": 9,
+        "skill": "charged_bolt"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "9% Chance To Cast Level 11 Frozen Orb On Striking"
+      },
+      {
+        "order": "160",
+        "string": "11% Chance To Cast Level 9 Charged Bolt On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+240-290% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 216-471 Magic Damage"
+      },
+      {
+        "order": "145",
+        "string": "+35% Increased Attack Speed"
+      },
+      {
+        "order": "15",
+        "string": "+15 Life after each Demon Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "The Beast",
+    "base_types": [
+      "axe",
+      "scepter",
+      "hammer"
+    ],
+    "rune_string": "BerTirUmMalLum",
+    "level_requirement": 63,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "aura": {
+        "min": 9,
+        "max": 9,
+        "skill": "fanaticism"
+      },
+      "item_damage_percent": {
+        "min": 240,
+        "max": 270
+      },
+      "strength": {
+        "min": 25,
+        "max": 40
+      },
+      "item_charged_skill": {
+        "skill": "Summon Grizzly",
+        "charges": 5,
+        "skill_level": 13
+      },
+      "item_nonclassskill": {
+        "min": 3,
+        "max": 3
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+9 Fanaticism When Equipped"
+      },
+      {
+        "order": "159",
+        "string": "+240-270% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "67",
+        "string": "+25-40 to Strength"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Summon Grizzly (5 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Spirit",
+    "base_types": [
+      "sword",
+      "shield"
+    ],
+    "rune_string": "TalThulOrtAmn",
+    "level_requirement": 25,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fastergethitrate": {
+        "min": 55,
+        "max": 55
+      },
+      "maxmana": {
+        "min": 89,
+        "max": 112
+      },
+      "armorclass_vs_missile": {
+        "min": 250,
+        "max": 250
+      },
+      "vitality": {
+        "min": 22,
+        "max": 22
+      },
+      "item_fastercastrate": {
+        "min": 25,
+        "max": 35
+      },
+      "item_absorbmagic": {
+        "min": 3,
+        "max": 8
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+25-35% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+55% Faster Hit Recovery"
+      },
+      {
+        "order": "69",
+        "string": "+250 Defense vs. Missile"
+      },
+      {
+        "order": "63",
+        "string": "+22 to Vitality"
+      },
+      {
+        "order": "55",
+        "string": "+89-112 to Mana"
+      },
+      {
+        "order": "33",
+        "string": "+3-8 Magic Absorb"
+      }
+    ]
+  },
+  {
+    "item_name": "Splendor",
+    "base_types": [
+      "shield"
+    ],
+    "rune_string": "EthLum",
+    "level_requirement": 37,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_lightradius": {
+        "min": 3,
+        "max": 3
+      },
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50
+      },
+      "item_magicbonus": {
+        "min": 20,
+        "max": 20
+      },
+      "item_armor_percent": {
+        "min": 60,
+        "max": 100
+      },
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_fastercastrate": {
+        "min": 10,
+        "max": 10
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+10% Faster Cast Rate"
+      },
+      {
+        "order": "136",
+        "string": "+20% Faster Block Rate"
+      },
+      {
+        "order": "74",
+        "string": "+60-100% Enhanced Defense"
+      },
+      {
+        "order": "10",
+        "string": "50% extra gold from monsters"
+      },
+      {
+        "order": "8",
+        "string": "20% better chance of getting magic item"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Duress",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "ShaelUmThul",
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "colddmg_flat": {
+        "min": 37,
+        "max": 133
+      },
+      "item_damage_percent": {
+        "min": 10,
+        "max": 20
+      },
+      "item_armor_percent": {
+        "min": 150,
+        "max": 200
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_openwounds": {
+        "min": 33,
+        "max": 33
+      },
+      "item_crushingblow": {
+        "min": 15,
+        "max": 15
+      },
+      "item_staminadrainpct": {
+        "min": -20,
+        "max": -20
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Adds 37-133 Cold Damage"
+      },
+      {
+        "order": "159",
+        "string": "+10-20% Enhanced Damage"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "87",
+        "string": "15% Chance of Crushing Blow"
+      },
+      {
+        "order": "83",
+        "string": "33% Chance of Open Wounds"
+      },
+      {
+        "order": "74",
+        "string": "+150-200% Enhanced Defense"
+      },
+      {
+        "order": "49",
+        "string": "-20% Stamina Drain"
+      }
+    ]
+  },
+  {
+    "item_name": "Oath",
+    "base_types": [
+      "sword",
+      "axe",
+      "mace"
+    ],
+    "rune_string": "ShaelPulMalLum",
+    "level_requirement": 49,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 210,
+        "max": 340
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 30
+      },
+      "hit_skill": {
+        "chance_to_cast": 30,
+        "skill_level": 20,
+        "skill": "bone_spirit"
+      },
+      "item_charged_skill": {
+        "skill": "Heart of Wolverine",
+        "charges": 20,
+        "skill_level": 16
+      },
+      "item_absorbmagic": {
+        "min": 10,
+        "max": 15
+      },
+      "indestruct": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "30% Chance To Cast Level 20 Bone Spirit On Striking"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "159",
+        "string": "+210-340% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "33",
+        "string": "+10-15 Magic Absorb"
+      },
+      {
+        "order": "1",
+        "string": "Level 17 IronGolem (14 Charges)"
+      },
+      {
+        "order": "1",
+        "string": "Level 16 Heart of Wolverine (20 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Obedience",
+    "base_types": [
+      "polearm"
+    ],
+    "rune_string": "HelKoThulEthFal",
+    "level_requirement": 41,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 370,
+        "max": 370
+      },
+      "item_crushingblow": {
+        "min": 40,
+        "max": 40
+      },
+      "kill_skill": {
+        "chance_to_cast": 30,
+        "skill_level": 21,
+        "skill": "enchant"
+      },
+      "passive_fire_pierce": {
+        "min": 25,
+        "max": 25
+      },
+      "armorclass": {
+        "min": 200,
+        "max": 300
+      },
+      "item_fastergethitrate": {
+        "min": 40,
+        "max": 40
+      },
+      "all_resist": {
+        "min": 20,
+        "max": 30
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "30% Chance To Cast Level 21 enchant When You Kill An Enemy"
+      },
+      {
+        "order": "159",
+        "string": "+370% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "139",
+        "string": "+40% Faster Hit Recovery"
+      },
+      {
+        "order": "88",
+        "string": "-25% to Enemy Fire Resistance"
+      },
+      {
+        "order": "87",
+        "string": "40% Chance of Crushing Blow"
+      },
+      {
+        "order": "71",
+        "string": "+200-300 Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Harmony",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "TirIthSolKo",
+    "level_requirement": 39,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 200,
+        "max": 275
+      },
+      "eledmg_flat": {
+        "min": 55,
+        "max": 160
+      },
+      "item_charged_skill": {
+        "skill": "Revive",
+        "charges": 25,
+        "skill_level": 20
+      },
+      "aura": {
+        "min": 10,
+        "max": 10,
+        "skill": "vigor"
+      },
+      "item_nonclassskill": {
+        "min": 2,
+        "max": 6
+      },
+      "manarecoverybonus": {
+        "min": 20,
+        "max": 20
+      },
+      "item_lightradius": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+200-275% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 55-160 Fire Damage\n\n        Adds 55-160 Lightning Damage\n\n        Adds 55-160 Cold Damage"
+      },
+      {
+        "order": "159",
+        "string": "+10 Vigor When Equipped"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 20%"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 20 Revive (25 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Fortitude",
+    "base_types": [
+      "weapon",
+      "body armor"
+    ],
+    "rune_string": "ElSolDolLo",
+    "level_requirement": 59,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 200,
+        "max": 200
+      },
+      "item_damage_percent": {
+        "min": 300,
+        "max": 300
+      },
+      "item_fastercastrate": {
+        "min": 25,
+        "max": 25
+      },
+      "gethit_skill": {
+        "chance_to_cast": 20,
+        "skill_level": 15,
+        "skill": "chilling_armor"
+      },
+      "item_damagetomana": {
+        "min": 12,
+        "max": 12
+      },
+      "item_hp_perlevel": {
+        "min": 8,
+        "max": 12
+      },
+      "all_resist": {
+        "min": 25,
+        "max": 30
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 15 Chilling Armor When Struck"
+      },
+      {
+        "order": "159",
+        "string": "+300% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +25-30"
+      },
+      {
+        "order": "142",
+        "string": "+25% Faster Cast Rate"
+      },
+      {
+        "order": "74",
+        "string": "+200% Enhanced Defense"
+      },
+      {
+        "order": "57",
+        "string": "+0-0 to Life (Based On Character level)"
+      },
+      {
+        "order": "11",
+        "string": "12% Damage Taken Goes To Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Faith",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "OhmJahLemEld",
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 280,
+        "max": 280
+      },
+      "item_tohit_percent": {
+        "min": 300,
+        "max": 300
+      },
+      "firedmg_flat": {
+        "min": 120,
+        "max": 120
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15
+      },
+      "aura": {
+        "min": 12,
+        "max": 15,
+        "skill": "fanaticism"
+      },
+      "item_reanimate": {
+        "min": 10,
+        "max": 10
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+280% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 120 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +15"
+      },
+      {
+        "order": "159",
+        "string": "+12-15 fanaticism When Equipped"
+      },
+      {
+        "order": "158",
+        "string": "+1-2 to All Skills"
+      },
+      {
+        "order": "117",
+        "string": "300% bonus to Attack Rating"
+      },
+      {
+        "order": "17"
+      }
+    ]
+  },
+  {
+    "item_name": "Bone",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "SolUmUm",
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 15,
+        "skill_level": 10,
+        "skill": "bone_spear"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 15,
+        "skill_level": 10,
+        "skill": "bone_armor"
+      },
+      "necromancer_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "maxmana": {
+        "min": 100,
+        "max": 150
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 10 Bone Spear On Striking"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 10 Bone Armor When Struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Necromancer Skill Levels"
+      },
+      {
+        "order": "55",
+        "string": "+100-150 to Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Brand",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "JahLoMalGul",
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 260,
+        "max": 340
+      },
+      "item_demondamage_percent": {
+        "min": 280,
+        "max": 330
+      },
+      "hit_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 18,
+        "skill": "bone_spear"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 35,
+        "skill_level": 14,
+        "skill": "amplify_damage"
+      },
+      "item_knockback": {
+        "min": 1,
+        "max": 1
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_explosivearrow": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 18 Bone Spear On Striking"
+      },
+      {
+        "order": "160",
+        "string": "35% Chance To Cast Level 14 Amplify Damage When Struck"
+      },
+      {
+        "order": "159",
+        "string": "+260-340% Enhanced Damage"
+      },
+      {
+        "order": "133",
+        "string": "Fires Explosive Arrows or Bolts"
+      },
+      {
+        "order": "112",
+        "string": "+280-330% Damage to Demons"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "76",
+        "string": "Knockback"
+      }
+    ]
+  },
+  {
+    "item_name": "Death",
+    "base_types": [
+      "sword",
+      "axe"
+    ],
+    "rune_string": "HelElVexOrtGul",
+    "level_requirement": 55,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 300,
+        "max": 385
+      },
+      "item_deadlystrike_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      },
+      "item_charged_skill": {
+        "skill": "BloodGolem",
+        "charges": 15,
+        "skill_level": 22
+      },
+      "att_skill": {
+        "chance_to_cast": 25,
+        "skill_level": 18,
+        "skill": "glacial_spike"
+      },
+      "death_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 44,
+        "skill": "chain_lightning"
+      },
+      "item_crushingblow": {
+        "min": 50,
+        "max": 50
+      },
+      "indestruct": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "25% Chance To Cast Level 18 Glacial Spike On Attack"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 44 Chain Lightning When You Die"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "159",
+        "string": "+300-385% Enhanced Damage"
+      },
+      {
+        "order": "87",
+        "string": "50% Chance of Crushing Blow"
+      },
+      {
+        "order": "84",
+        "string": "0.5-50% Deadly Strike (Based On Character level)"
+      },
+      {
+        "order": "1",
+        "string": "Level 22 BloodGolem (15 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Destruction",
+    "base_types": [
+      "polearm",
+      "sword"
+    ],
+    "rune_string": "VexLoBerJahKo",
+    "level_requirement": 65,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 350,
+        "max": 350
+      },
+      "magicdmg_flat": {
+        "min": 100,
+        "max": 180
+      },
+      "hit_skill": {
+        "chance_to_cast": 23,
+        "skill_level": 12,
+        "skill": "volcano"
+      },
+      "death_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 45,
+        "skill": "meteor"
+      },
+      "att_skill": {
+        "chance_to_cast": 15,
+        "skill_level": 22,
+        "skill": "nova"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 23 Molten Boulder On Striking"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 45 Meteor When You Die"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 22 Nova On Attack"
+      },
+      {
+        "order": "160",
+        "string": "23% Chance To Cast Level 12 Volcano On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+350% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 100-180 Magic Damage"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      }
+    ]
+  },
+  {
+    "item_name": "Dragon",
+    "base_types": [
+      "body armor",
+      "shield"
+    ],
+    "rune_string": "SurLoSol",
+    "level_requirement": 61,
+    "socket_requirement": 3,
+    "item_mods": {
+      "armorclass": {
+        "min": 360,
+        "max": 360
+      },
+      "armorclass_vs_missile": {
+        "min": 230,
+        "max": 230
+      },
+      "item_strength_perlevel": {
+        "min": 0.375,
+        "max": 0.375
+      },
+      "hit_skill": {
+        "chance_to_cast": 12,
+        "skill_level": 15,
+        "skill": "hydra"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 20,
+        "skill_level": 18,
+        "skill": "venom"
+      },
+      "aura": {
+        "min": 14,
+        "max": 14,
+        "skill": "holy_fire"
+      },
+      "all_attributes": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "12% Chance To Cast Level 15 Hydra On Striking"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 18 Venom When Struck"
+      },
+      {
+        "order": "159",
+        "string": "+14 Holy Fire When Equipped"
+      },
+      {
+        "order": "159",
+        "string": "+3-5 To All Attributes"
+      },
+      {
+        "order": "71",
+        "string": "+360 Defense"
+      },
+      {
+        "order": "69",
+        "string": "+230 Defense vs. Missile"
+      },
+      {
+        "order": "66",
+        "string": "+0.375-37 to Strength (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Dream",
+    "base_types": [
+      "helm",
+      "shield"
+    ],
+    "rune_string": "IoJahPul",
+    "level_requirement": 65,
+    "socket_requirement": 3,
+    "item_mods": {
+      "armorclass": {
+        "min": 150,
+        "max": 220
+      },
+      "gethit_skill": {
+        "chance_to_cast": 10,
+        "skill_level": 15,
+        "skill": "confuse"
+      },
+      "item_mana_perlevel": {
+        "min": 0.625,
+        "max": 0.625
+      },
+      "all_resist": {
+        "min": 5,
+        "max": 20
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 30
+      },
+      "aura": {
+        "min": 15,
+        "max": 15,
+        "skill": "holy_shock"
+      },
+      "item_magicbonus": {
+        "min": 12,
+        "max": 25
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 15 Confuse When Struck"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +5-20"
+      },
+      {
+        "order": "159",
+        "string": "+15 Holy Shock When Equipped"
+      },
+      {
+        "order": "139",
+        "string": "+20-30% Faster Hit Recovery"
+      },
+      {
+        "order": "71",
+        "string": "+150-220 Defense"
+      },
+      {
+        "order": "53",
+        "string": "+0.625-62 to Mana (Based On Character level)"
+      },
+      {
+        "order": "8",
+        "string": "12-25% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Edge",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "TirTalAmn",
+    "level_requirement": 25,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 320,
+        "max": 380
+      },
+      "item_undeaddamage_percent": {
+        "min": 280,
+        "max": 280
+      },
+      "item_fasterattackrate": {
+        "min": 35,
+        "max": 35
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "aura": {
+        "min": 15,
+        "max": 15,
+        "skill": "thorns"
+      },
+      "all_attributes": {
+        "min": 5,
+        "max": 10
+      },
+      "item_reducedprices": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+15 Thorns When Equipped"
+      },
+      {
+        "order": "159",
+        "string": "+5-10 To All Attributes"
+      },
+      {
+        "order": "145",
+        "string": "+35% Increased Attack Speed"
+      },
+      {
+        "order": "112",
+        "string": "+320-380% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+280% Damage to Undead"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "8",
+        "string": "Reduces all Vendor Prices 15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Enlightenment",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "PulRalSur",
+    "level_requirement": 45,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 5,
+        "skill_level": 15,
+        "skill": "fire_ball"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 5,
+        "skill_level": 15,
+        "skill": "blaze"
+      },
+      "sorceress_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 15 Fire Ball On Striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 15 Blaze When Struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Sorceress Skill Levels"
+      }
+    ]
+  },
+  {
+    "item_name": "Ice",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "AmnShaelJahLo",
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 140,
+        "max": 210
+      },
+      "aura": {
+        "min": 18,
+        "max": 18,
+        "skill": "holy_freeze"
+      },
+      "passive_cold_mastery": {
+        "min": 25,
+        "max": 30
+      },
+      "hit_skill": {
+        "chance_to_cast": 25,
+        "skill_level": 22,
+        "skill": "frost_nova"
+      },
+      "levelup_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 40,
+        "skill": "blizzard"
+      },
+      "passive_cold_pierce": {
+        "min": 20,
+        "max": 20
+      },
+      "item_find_gold_perlevel": {
+        "min": 3.125,
+        "max": 3.125
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "25% Chance To Cast Level 22 Frost Nova On Striking"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 40 Blizzard When You Level Up"
+      },
+      {
+        "order": "159",
+        "string": "+140-210% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+18 Holy Freeze When Equipped"
+      },
+      {
+        "order": "88",
+        "string": "+25-30% to Cold Skill Damage"
+      },
+      {
+        "order": "88",
+        "string": "-20% to Enemy Cold Resistance"
+      },
+      {
+        "order": "9",
+        "string": "3.125-309% extra gold from monsters (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Infinity",
+    "base_types": [
+      "polearm"
+    ],
+    "rune_string": "BerMalBerIst",
+    "level_requirement": 63,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 255,
+        "max": 325
+      },
+      "item_fastermovevelocity": {
+        "min": 35,
+        "max": 35
+      },
+      "item_vitality_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      },
+      "aura": {
+        "min": 12,
+        "max": 12,
+        "skill": "conviction"
+      },
+      "kill_skill": {
+        "chance_to_cast": 50,
+        "skill_level": 20,
+        "skill": "chain_lightning"
+      },
+      "passive_ltng_pierce": {
+        "min": 45,
+        "max": 55
+      },
+      "item_charged_skill": {
+        "skill": "Cyclone Armor",
+        "charges": 30,
+        "skill_level": 21
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy"
+      },
+      {
+        "order": "159",
+        "string": "+255-325% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+12 Conviction When Equipped"
+      },
+      {
+        "order": "148",
+        "string": "+35% Faster Run/Walk"
+      },
+      {
+        "order": "88",
+        "string": "-45-55% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "62",
+        "string": "+0.5-50 to Vitality (Based On Character level)"
+      },
+      {
+        "order": "1",
+        "string": "Level 21 Cyclone Armor (30 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Insight",
+    "base_types": [
+      "polearm",
+      "staff"
+    ],
+    "rune_string": "RalTirTalSol",
+    "level_requirement": 27,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 200,
+        "max": 260
+      },
+      "item_tohit_percent": {
+        "min": 180,
+        "max": 250
+      },
+      "item_magicbonus": {
+        "min": 23,
+        "max": 23
+      },
+      "item_nonclassskill": {
+        "min": 1,
+        "max": 6
+      },
+      "item_fastercastrate": {
+        "min": 35,
+        "max": 35
+      },
+      "aura": {
+        "min": 12,
+        "max": 17,
+        "skill": "meditation"
+      },
+      "all_attributes": {
+        "min": 5,
+        "max": 5
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+200-260% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+12-17 Meditation When Equipped"
+      },
+      {
+        "order": "159",
+        "string": "+5 To All Attributes"
+      },
+      {
+        "order": "142",
+        "string": "+35% Faster Cast Rate"
+      },
+      {
+        "order": "117",
+        "string": "180-250% bonus to Attack Rating"
+      },
+      {
+        "order": "8",
+        "string": "23% better chance of getting magic item"
+      }
+    ]
+  },
+  {
+    "item_name": "Last Wish",
+    "base_types": [
+      "sword",
+      "hammer",
+      "axe"
+    ],
+    "rune_string": "JahMalJahSurJahBer",
+    "level_requirement": 65,
+    "socket_requirement": 6,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 330,
+        "max": 375
+      },
+      "att_skill": {
+        "chance_to_cast": 20,
+        "skill_level": 20,
+        "skill": "charged_bolt"
+      },
+      "hit_skill": {
+        "chance_to_cast": 10,
+        "skill_level": 18,
+        "skill": "life_tap"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 6,
+        "skill_level": 11,
+        "skill": "fade"
+      },
+      "item_crushingblow": {
+        "min": 40,
+        "max": 50
+      },
+      "item_find_magic_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      },
+      "aura": {
+        "min": 17,
+        "max": 17,
+        "skill": "might"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 20 Charged Bolt On Attack"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 18 Life Tap On Striking"
+      },
+      {
+        "order": "160",
+        "string": "6% Chance To Cast Level 11 Fade When Struck"
+      },
+      {
+        "order": "159",
+        "string": "+330-375% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+17 Might When Equipped"
+      },
+      {
+        "order": "87",
+        "string": "40-50% Chance of Crushing Blow"
+      },
+      {
+        "order": "7",
+        "string": "0.5-50% better chance of getting magic item (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Lawbringer",
+    "base_types": [
+      "sword",
+      "hammer",
+      "scepter"
+    ],
+    "rune_string": "AmnLemKo",
+    "level_requirement": 43,
+    "socket_requirement": 3,
+    "item_mods": {
+      "colddmg_flat": {
+        "min": 130,
+        "max": 180
+      },
+      "firedmg_flat": {
+        "min": 150,
+        "max": 210
+      },
+      "aura": {
+        "min": 16,
+        "max": 18,
+        "skill": "sanctuary"
+      },
+      "hit_skill": {
+        "chance_to_cast": 20,
+        "skill_level": 15,
+        "skill": "decrepify"
+      },
+      "armorclass_vs_missile": {
+        "min": 200,
+        "max": 250
+      },
+      "item_restinpeace": {
+        "min": 1,
+        "max": 1
+      },
+      "item_fractionaltargetac": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 15 Decrepify On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 130-180 Cold Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 150-210 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "+16-18 Sanctuary When Equipped"
+      },
+      {
+        "order": "118",
+        "string": "-50% Target Defense"
+      },
+      {
+        "order": "81",
+        "string": "Slain Monsters Rest in Peace"
+      },
+      {
+        "order": "69",
+        "string": "+200-250 Defense vs. Missile"
+      }
+    ]
+  },
+  {
+    "item_name": "Myth",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "HelAmnNef",
+    "level_requirement": 25,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 10,
+        "skill_level": 1,
+        "skill": "taunt"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 3,
+        "skill_level": 1,
+        "skill": "howl"
+      },
+      "barbarian_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "hpregen": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 1 Taunt On Striking"
+      },
+      {
+        "order": "160",
+        "string": "3% Chance To Cast Level 1 Howl When Struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Barbarian Skill Levels"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      }
+    ]
+  },
+  {
+    "item_name": "Pattern",
+    "base_types": [
+      "claw"
+    ],
+    "rune_string": "TalOrtTir",
+    "level_requirement": 21,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_tohit_percent": {
+        "min": 10,
+        "max": 10
+      },
+      "item_damage_percent": {
+        "min": 40,
+        "max": 80
+      },
+      "firedmg_flat": {
+        "min": 12,
+        "max": 32
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15
+      },
+      "strength": {
+        "min": 6,
+        "max": 6
+      },
+      "dexterity": {
+        "min": 6,
+        "max": 6
+      },
+      "item_fasterblockrate": {
+        "min": 30,
+        "max": 30
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "+40-80% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 12-32 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "All Resistances +15"
+      },
+      {
+        "order": "136",
+        "string": "+30% Faster Block Rate"
+      },
+      {
+        "order": "117",
+        "string": "10% bonus to Attack Rating"
+      },
+      {
+        "order": "67",
+        "string": "+6 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+6 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Peace",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "ShaelThulAmn",
+    "level_requirement": 29,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 2,
+        "skill_level": 15,
+        "skill": "valkyrie"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 4,
+        "skill_level": 5,
+        "skill": "slow_missiles"
+      },
+      "amazon_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_nonclassskill": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "2% Chance To Cast Level 15 Valkyrie On Striking"
+      },
+      {
+        "order": "160",
+        "string": "4% Chance To Cast Level 5 Slow Missiles When Struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Amazon Skill Levels"
+      }
+    ]
+  },
+  {
+    "item_name": "Phoenix",
+    "base_types": [
+      "weapon",
+      "shield"
+    ],
+    "rune_string": "VexVexLoJah",
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 350,
+        "max": 400
+      },
+      "armorclass_vs_missile": {
+        "min": 350,
+        "max": 400
+      },
+      "hit_skill": {
+        "chance_to_cast": 40,
+        "skill_level": 22,
+        "skill": "firestorm"
+      },
+      "levelup_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 40,
+        "skill": "blaze"
+      },
+      "passive_fire_pierce": {
+        "min": 28,
+        "max": 28
+      },
+      "aura": {
+        "min": 10,
+        "max": 15,
+        "skill": "redemption"
+      },
+      "item_absorbfire": {
+        "min": 15,
+        "max": 21
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "40% Chance To Cast Level 22 Firestorm On Striking"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 40 Blaze When You Level Up"
+      },
+      {
+        "order": "159",
+        "string": "+350-400% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "+10-15 Redemption When Equipped"
+      },
+      {
+        "order": "88",
+        "string": "-28% to Enemy Fire Resistance"
+      },
+      {
+        "order": "69",
+        "string": "+350-400 Defense vs. Missile"
+      },
+      {
+        "order": "27",
+        "string": "+15-21 Fire Absorb"
+      }
+    ]
+  },
+  {
+    "item_name": "Plague",
+    "base_types": [
+      "weapon"
+    ],
+    "rune_string": "ChamFalUm",
+    "level_requirement": 67,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 260,
+        "max": 380
+      },
+      "gethit_skill": {
+        "chance_to_cast": 20,
+        "skill_level": 12,
+        "skill": "lower_resist"
+      },
+      "hit_skill": {
+        "chance_to_cast": 25,
+        "skill_level": 15,
+        "skill": "poison_nova"
+      },
+      "passive_pois_pierce": {
+        "min": 23,
+        "max": 23
+      },
+      "item_deadlystrike_perlevel": {
+        "min": 0.375,
+        "max": 0.375
+      },
+      "aura": {
+        "min": 13,
+        "max": 17,
+        "skill": "cleansing"
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 12 Lower Resist When Struck"
+      },
+      {
+        "order": "160",
+        "string": "25% Chance To Cast Level 15 Poison Nova On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+13-17 Cleansing When Equipped"
+      },
+      {
+        "order": "158",
+        "string": "+1-2 to All Skills"
+      },
+      {
+        "order": "112",
+        "string": "+260-380% Damage to Demons"
+      },
+      {
+        "order": "88",
+        "string": "-23% to Enemy Poison Resistance"
+      },
+      {
+        "order": "84",
+        "string": "0.375-37% Deadly Strike (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Pride",
+    "base_types": [
+      "polearm"
+    ],
+    "rune_string": "ChamSurIoLo",
+    "level_requirement": 67,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_demon_perlevel": {
+        "min": 1,
+        "max": 1
+      },
+      "lightdmg_flat": {
+        "min": 50,
+        "max": 280
+      },
+      "item_tohit_percent": {
+        "min": 260,
+        "max": 300
+      },
+      "aura": {
+        "min": 16,
+        "max": 20,
+        "skill": "concentration"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 25,
+        "skill_level": 17,
+        "skill": "fire_wall"
+      },
+      "hpregen": {
+        "min": 8,
+        "max": 8
+      },
+      "item_find_gold_perlevel": {
+        "min": 1.875,
+        "max": 1.875
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "25% Chance To Cast Level 17 Fire Wall When Struck"
+      },
+      {
+        "order": "159",
+        "string": "Adds 50-280 Lightning Damage"
+      },
+      {
+        "order": "159",
+        "string": "+16-20 Concentration When Equipped"
+      },
+      {
+        "order": "117",
+        "string": "260-300% bonus to Attack Rating"
+      },
+      {
+        "order": "111",
+        "string": "+1-99% Damage to Demons (Based On Character level)"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +8"
+      },
+      {
+        "order": "9",
+        "string": "1.875-186% extra gold from monsters (Based On Character level)"
+      }
+    ]
+  },
+  {
+    "item_name": "Principle",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "RalGulEld",
+    "level_requirement": 53,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 100,
+        "skill_level": 5,
+        "skill": "holy_bolt"
+      },
+      "paladin_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "maxhp": {
+        "min": 100,
+        "max": 150
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance To Cast Level 5 Holy Bolt On Striking"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Paladin Skill Levels"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage to Undead"
+      },
+      {
+        "order": "59",
+        "string": "+100-150 to Life"
+      }
+    ]
+  },
+  {
+    "item_name": "Prudence",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "MalTir",
+    "level_requirement": 49,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 140,
+        "max": 170
+      },
+      "magic_damage_reduction": {
+        "min": 10,
+        "max": 10
+      },
+      "normal_damage_reduction": {
+        "min": 3,
+        "max": 3
+      },
+      "all_resist": {
+        "min": 25,
+        "max": 35
+      },
+      "item_fastergethitrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "All Resistances +25-35"
+      },
+      {
+        "order": "139",
+        "string": "+25% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+140-170% Enhanced Defense"
+      },
+      {
+        "order": "22",
+        "string": "Damage Reduced by 3"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Reduced by 10"
+      },
+      {
+        "order": "6",
+        "string": "+1 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Repairs %d durability per second"
+      }
+    ]
+  },
+  {
+    "item_name": "Rain",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "OrtMalIth",
+    "level_requirement": 49,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 5,
+        "skill_level": 15,
+        "skill": "twister"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 5,
+        "skill_level": 15,
+        "skill": "cyclone_armor"
+      },
+      "druid_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "maxmana": {
+        "min": 100,
+        "max": 150
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 15 Twister On Striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 15 Cyclone Armor When Struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Druid Skill Levels"
+      },
+      {
+        "order": "55",
+        "string": "+100-150 to Mana"
+      }
+    ]
+  },
+  {
+    "item_name": "Rift",
+    "base_types": [
+      "polearm",
+      "scepter"
+    ],
+    "rune_string": "HelKoLemGul",
+    "level_requirement": 53,
+    "socket_requirement": 4,
+    "item_mods": {
+      "magicdmg_flat": {
+        "min": 160,
+        "max": 250
+      },
+      "firedmg_flat": {
+        "min": 60,
+        "max": 180
+      },
+      "item_damagetomana": {
+        "min": 38,
+        "max": 38
+      },
+      "hit_skill": {
+        "chance_to_cast": 20,
+        "skill_level": 16,
+        "skill": "tornado"
+      },
+      "att_skill": {
+        "chance_to_cast": 16,
+        "skill_level": 21,
+        "skill": "frozen_orb"
+      },
+      "item_charged_skill": {
+        "skill": "Iron Maiden",
+        "charges": 40,
+        "skill_level": 15
+      },
+      "all_attributes": {
+        "min": 5,
+        "max": 10
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance To Cast Level 16 Tornado On Striking"
+      },
+      {
+        "order": "160",
+        "string": "16% Chance To Cast Level 21 Frozen Orb On Attack"
+      },
+      {
+        "order": "159",
+        "string": "Adds 160-250 Magic Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 60-180 Fire Damage"
+      },
+      {
+        "order": "159",
+        "string": "+5-10 To All Attributes"
+      },
+      {
+        "order": "11",
+        "string": "38% Damage Taken Goes To Mana"
+      },
+      {
+        "order": "1",
+        "string": "Level 15 Iron Maiden (40 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Treachery",
+    "base_types": [
+      "body armor"
+    ],
+    "rune_string": "ShaelThulLem",
+    "level_requirement": 43,
+    "socket_requirement": 3,
+    "item_mods": {
+      "hit_skill": {
+        "chance_to_cast": 25,
+        "skill_level": 15,
+        "skill": "venom"
+      },
+      "gethit_skill": {
+        "chance_to_cast": 5,
+        "skill_level": 15,
+        "skill": "fade"
+      },
+      "assassin_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_fasterattackrate": {
+        "min": 45,
+        "max": 45
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "25% Chance To Cast Level 15 Venom On Striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 15 Fade When Struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Assassin Skill Levels"
+      },
+      {
+        "order": "145",
+        "string": "+45% Increased Attack Speed"
+      }
+    ]
+  },
+  {
+    "item_name": "Widowmaker",
+    "base_types": [
+      "sword",
+      "axe"
+    ],
+    "rune_string": "EthTirLoMalRal",
+    "level_requirement": 59,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_demon_perlevel": {
+        "min": 1.875,
+        "max": 1.875
+      },
+      "item_normaldamage": {
+        "min": 340,
+        "max": 400
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 40
+      },
+      "hit_skill": {
+        "chance_to_cast": 35,
+        "skill_level": 15,
+        "skill": "venom"
+      },
+      "passive_pois_pierce": {
+        "min": 20,
+        "max": 25
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "item_healafterkill": {
+        "min": 10,
+        "max": 15
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "35% Chance To Cast Level 15 Venom On Striking"
+      },
+      {
+        "order": "145",
+        "string": "+30-40% Increased Attack Speed"
+      },
+      {
+        "order": "122",
+        "string": "Damage +340-400"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "111",
+        "string": "+1.875-186% Damage to Demons (Based On Character level)"
+      },
+      {
+        "order": "88",
+        "string": "-20-25% to Enemy Poison Resistance"
+      },
+      {
+        "order": "16",
+        "string": "+10-15 Life after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Wind",
+    "base_types": [
+      "melee"
+    ],
+    "rune_string": "SurEl",
+    "level_requirement": 61,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 120,
+        "max": 160
+      },
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_fastermovevelocity": {
+        "min": 20,
+        "max": 20
+      },
+      "item_fractionaltargetac": {
+        "min": 50,
+        "max": 50
+      },
+      "hit_skill": {
+        "chance_to_cast": 10,
+        "skill_level": 9,
+        "skill": "tornado"
+      },
+      "item_charged_skill": {
+        "skill": "Twister",
+        "charges": 127,
+        "skill_level": 13
+      },
+      "item_fastergethitrate": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "10% Chance To Cast Level 9 Tornado On Striking"
+      },
+      {
+        "order": "159",
+        "string": "+120-160% Enhanced Damage"
+      },
+      {
+        "order": "148",
+        "string": "+20% Faster Run/Walk"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "+15% Faster Hit Recovery"
+      },
+      {
+        "order": "118",
+        "string": "-50% Target Defense"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Twister (127 Charges)"
+      }
+    ]
+  },
+  {
+    "item_name": "Winter",
+    "base_types": [
+      "sword",
+      "mace"
+    ],
+    "rune_string": "LemKoElEld",
+    "level_requirement": 43,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 220,
+        "max": 350
+      },
+      "item_undeaddamage_percent": {
+        "min": 280,
+        "max": 300
+      },
+      "colddmg_flat": {
+        "min": 100,
+        "max": 220
+      },
+      "passive_cold_pierce": {
+        "min": 24,
+        "max": 24
+      },
+      "hit_skill": {
+        "chance_to_cast": 15,
+        "skill_level": 13,
+        "skill": "frozen_orb"
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "18% Chance To Cast Level 20 Ice Blast On Striking"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance To Cast Level 13 Frozen Orb On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 100-220 Cold Damage"
+      },
+      {
+        "order": "112",
+        "string": "+220-350% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+280-300% Damage to Undead"
+      },
+      {
+        "order": "88",
+        "string": "-24% to Enemy Cold Resistance"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      }
+    ]
+  },
+  {
+    "item_name": "Wrath",
+    "base_types": [
+      "bow",
+      "crossbow"
+    ],
+    "rune_string": "PulLumBerMal",
+    "level_requirement": 63,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 300,
+        "max": 300
+      },
+      "item_undeaddamage_percent": {
+        "min": 250,
+        "max": 300
+      },
+      "lightdmg_flat": {
+        "min": 41,
+        "max": 240
+      },
+      "magicdmg_flat": {
+        "min": 85,
+        "max": 120
+      },
+      "hit_skill": {
+        "chance_to_cast": 30,
+        "skill_level": 1,
+        "skill": "decrepify"
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance To Cast Level 10 Life Tap On Striking"
+      },
+      {
+        "order": "160",
+        "string": "30% Chance To Cast Level 1 decrepify On Striking"
+      },
+      {
+        "order": "159",
+        "string": "Adds 41-240 Lightning Damage"
+      },
+      {
+        "order": "159",
+        "string": "Adds 85-120 Magic Damage"
+      },
+      {
+        "order": "112",
+        "string": "+300% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+250-300% Damage to Undead"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      }
+    ]
+  }
+]
