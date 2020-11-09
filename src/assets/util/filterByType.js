@@ -1,5 +1,4 @@
-import uni from "../json/uniquesAfterBase.json";
-import other from "../final_json/charms_rings_jewels.json";
+import uni from "../../components/ParsingInputs/results/combinedUniques.json";
 
 export const filterHands = () => {
   return uni.filter((item) => {
@@ -126,17 +125,17 @@ export const filterBelts = () => {
 };
 
 export const filterRing = () => {
-  return other.filter((item) => item.item_base === "Ring");
+  return uni.filter((item) => item.item_type === "ring");
 };
 
 export const filterAmulet = () => {
-  return other.filter((item) => item.item_base === "Amulet");
+  return uni.filter((item) => item.item_type === "amulet");
 };
 
-export const filterJewel = () => {
-  return other.filter((item) => item.item_base === "Jewel");
-};
+// export const filterJewel = () => {
+//   return other.filter((item) => item.item_base === "Jewel");
+// };
 
-export const filterCharm = () => {
-  return other.filter((item) => item.item_base.includes("Charm"));
-};
+// export const filterCharm = () => {
+//   return other.filter((item) => item.item_base.includes("Charm"));
+// };

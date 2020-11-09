@@ -196,7 +196,6 @@ export const parseRunewords = () => {
           }
           // aura on item
           else if (val === "aura") {
-            debugger;
             const min = item[`min${propNum}`];
             const max = item[`max${propNum}`];
             const skill = item[`par${propNum}`];

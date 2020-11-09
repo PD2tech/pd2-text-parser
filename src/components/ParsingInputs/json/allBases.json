@@ -1,5 +1,35 @@
 [
   {
+    "item_name": "Ring",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/rings/rin1.png",
+    "item_type": "ring",
+    "item_properties": {
+      "item_base": "Ring",
+      "sub_type": null,
+      "class_specific": null,
+      "level_requirement": 0,
+      "item_tier": null,
+      "rarity_type": 3
+    },
+    "item_mods": {
+    }
+  },
+  {
+    "item_name": "Amulet",
+    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/amulets/amu.png",
+    "item_type": "amulet",
+    "item_properties": {
+      "item_base": "Amulet",
+      "sub_type": null,
+      "class_specific": null,
+      "level_requirement": 0,
+      "item_tier": null,
+      "rarity_type": 3
+    },
+    "item_mods": {
+    }
+  },
+  {
     "item_name": "Stag Bow",
     "item_type": "weapon",
     "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am1.png",

@@ -1277,5 +1277,13 @@
   {
     "skill": "Baal Cold Missiles",
     "Id": "318"
+  },
+  {
+    "skill": "Blink",
+    "Id": "357"
+  },
+  {
+    "skill": "Lesser Hyrdra",
+    "Id": "383"
   }
 ]

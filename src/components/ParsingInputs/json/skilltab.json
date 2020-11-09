@@ -1,0 +1,74 @@
+[
+  {
+    "skill": "Bow and Crossbow",
+    "Id": "0"
+  },
+  {
+    "skill": "Passive and Magic",
+    "Id": "1"
+  },
+  {
+    "skill": "Javelin and Spear",
+    "Id": "2"
+  },
+  {
+    "skill": "Curses",
+    "Id": "6"
+  },
+  {
+    "skill": "Poison and Bone",
+    "Id": "7"
+  },
+  {
+    "skill": "Summoning Necro",
+    "Id": "8"
+  },
+  {
+    "skill": "Pal Combat Skills",
+    "Id": "9"
+  },
+  {
+    "skill": "Defensive Auras",
+    "Id": "10"
+  },
+  {
+    "skill": "Offensive Auras",
+    "Id": "11"
+  },
+  {
+    "skill": "Bar Combat Skills",
+    "Id": "12"
+  },
+  {
+    "skill": "Combat Masteries",
+    "Id": "13"
+  },
+  {
+    "skill": "Warcries",
+    "Id": "14"
+  },
+  {
+    "skill": "Summoning Druid",
+    "Id": "15"
+  },
+  {
+    "skill": "Shape Shifting",
+    "Id": "16"
+  },
+  {
+    "skill": "Elemental Skills",
+    "Id": "17"
+  },
+  {
+    "skill": "Traps",
+    "Id": "18"
+  },
+  {
+    "skill": "Shadow Disciplines",
+    "Id": "19"
+  },
+  {
+    "skill": "Martial Arts",
+    "Id": "20"
+  }
+]

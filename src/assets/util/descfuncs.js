@@ -1,3 +1,14 @@
+export const descfunc0 = (descfunc, min, max, str, skill, val) => {
+  if (descfunc === "3") {
+    return;
+  }
+  if (descfunc === "16") {
+    return min !== max
+      ? str.replace(/%d/, `${min}-${max}`).replace(/%s/, skill)
+      : str.replace(/%d/, `${max}`).replace(/%s/, skill);
+  }
+};
+
 export const descfuncStr1 = (descfunc, min, max, str, val) => {
   if (descfunc === "1") {
     return min !== max ? `+${min}-${max} ${str}` : `+${min} ${str}`;
