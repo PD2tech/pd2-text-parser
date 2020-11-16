@@ -1,5 +1,5 @@
-import allBases from "../../components/ParsingInputs/json/allBases.json";
-import uni from "../../components/ParsingInputs/results/uniques.json";
+import allBases from "../json/allBases.json";
+import uni from "../results/uniques.json";
 
 export const combineAll = () => {
   // const uni = parseItems();

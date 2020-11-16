@@ -1,4 +1,4 @@
-import uni from "../../components/ParsingInputs/results/combinedUniques.json";
+import uni from "../results/combinedUniques.json";
 
 export const filterHands = () => {
   return uni.filter((item) => {

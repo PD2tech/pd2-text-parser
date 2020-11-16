@@ -144,8 +144,8 @@ const handleNameAndString = (val, min, max, parVal) => {
 };
 
 export const fixStat = (val, item, propNum) => {
-  const min = parseInt(item[`T1Min${propNum}`]);
-  const max = parseInt(item[`T1Max${propNum}`]);
+  const min = parseInt(item[`min${propNum}`]);
+  const max = parseInt(item[`max${propNum}`]);
   let newVal;
   let resultObj = {
     key: "",
@@ -160,7 +160,7 @@ export const fixStat = (val, item, propNum) => {
     item[`par${propNum}`]
   );
   if (min === undefined) {
-    newVal = parseInt(item[`T1Param${propNum}`]);
+    newVal = parseInt(item[`par${propNum}`]);
     resultObj.min = newVal;
     resultObj.max = newVal;
   } else {
@@ -198,5 +198,22 @@ export const fixRwStat = (val, item, propNum) => {
   }
   resultObj.key = nameAndString.name;
   resultObj.string = nameAndString.string;
+  return resultObj;
+};
+
+export const fixRuneStat = (val, min, max, type) => {
+  let resultObj = {
+    key: "",
+    string: "",
+    min: 0,
+    max: 0,
+  };
+  let parVal = "";
+  const nameAndString = handleNameAndString(val, min, max, parVal);
+
+  resultObj.min = min;
+  resultObj.max = max;
+  resultObj.key = nameAndString.name;
+  resultObj.string = `${type}: \n ${nameAndString.string}`;
   return resultObj;
 };

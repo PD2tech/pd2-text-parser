@@ -1,10 +1,11 @@
 import allStrings from "../json/allStrings.json";
 import { classSkillUtil } from "../util/classSkillUtil";
 import { descFuncUtil } from "../util/descFuncs";
-import { isMissingData, fixRwStat } from "../util/fixMissing";
+import { isMissingData, fixRwStat, fixRuneStat } from "../util/fixMissing";
 import treeIds from "../json/skilltab.json";
 import skillIds from "../json/skillIds.json";
 import runes from "../json/runes.json";
+import gems from "../json/gems.json";
 
 const defineItemTypes = (item) => {
   let result = [];
@@ -18,83 +19,113 @@ const defineItemTypes = (item) => {
     result.push(item["itype3"]);
   }
   let result2 = [];
+  let runeModTypes = [];
   for (let i = 0; i < result.length; i++) {
     if (result[i] === "weap") {
       result2.push("weapon");
+      runeModTypes.push("weapon");
     } else if (result[i] === "tors") {
       result2.push("body armor");
+      runeModTypes.push("armor");
     } else if (result[i] === "miss") {
       result2.push("bow");
-      result.push("crossbow");
+      // result.push("crossbow");
+      runeModTypes.push("weapon");
     } else if (result[i] === "mele") {
       result2.push("melee");
+      runeModTypes.push("weapon");
     } else if (result[i] === "pala") {
       result2.push("pally shield");
+      runeModTypes.push("shield");
     } else if (result[i] === "staf") {
       result2.push("staff");
+      runeModTypes.push("weapon");
     } else if (result[i] === "h2h") {
       result2.push("claw");
+      runeModTypes.push("weapon");
     } else if (result[i] === "pole") {
       result2.push("polearm");
+      runeModTypes.push("weapon");
     } else if (result[i] === "scep") {
       result2.push("scepter");
+      runeModTypes.push("weapon");
     } else if (result[i] === "hamm") {
       result2.push("hammer");
+      runeModTypes.push("weapon");
     } else if (result[i] === "shld") {
       result2.push("shield");
+      runeModTypes.push("shield");
     } else if (result[i] === "swor") {
       result2.push("sword");
+      runeModTypes.push("weapon");
+    } else if (result[i] === "helm") {
+      result2.push("helm");
+      runeModTypes.push("armor");
+    } else if (result[i] === "spea") {
+      result2.push("spear");
+      runeModTypes.push("weapon");
     } else {
       result2.push(result[i]);
+      runeModTypes.push("weapon");
     }
   }
-  return result2;
+  const removeDups = [...new Set(runeModTypes)];
+  return { base_types: result2, mod_types: removeDups };
 };
 
-const getLevelReq = (item) => {
-  let result = [];
+const getRuneProps = (item) => {
+  let socketResults = [];
   let runeString = "";
+  let runeRecipe = [];
   if (item.hasOwnProperty("Rune1")) {
     const runeCode = item["Rune1"];
     const foundRune = runes.find((obj) => obj.code === runeCode);
     runeString += `${foundRune.name} `;
-    result.push(parseInt(foundRune.levelreq));
+    runeRecipe.push(`${foundRune.code}`);
+    socketResults.push(parseInt(foundRune.levelreq));
   }
   if (item.hasOwnProperty("Rune2")) {
     const runeCode = item["Rune2"];
     const foundRune = runes.find((obj) => obj.code === runeCode);
     runeString += `${foundRune.name} `;
-    result.push(parseInt(foundRune.levelreq));
+    runeRecipe.push(`${foundRune.code}`);
+    socketResults.push(parseInt(foundRune.levelreq));
   }
   if (item.hasOwnProperty("Rune3")) {
     const runeCode = item["Rune3"];
     const foundRune = runes.find((obj) => obj.code === runeCode);
     runeString += `${foundRune.name} `;
-    result.push(parseInt(foundRune.levelreq));
+    runeRecipe.push(`${foundRune.code}`);
+    socketResults.push(parseInt(foundRune.levelreq));
   }
   if (item.hasOwnProperty("Rune4")) {
     const runeCode = item["Rune4"];
     const foundRune = runes.find((obj) => obj.code === runeCode);
     runeString += `${foundRune.name} `;
-    result.push(parseInt(foundRune.levelreq));
+    runeRecipe.push(`${foundRune.code}`);
+    socketResults.push(parseInt(foundRune.levelreq));
   }
   if (item.hasOwnProperty("Rune5")) {
     const runeCode = item["Rune5"];
     const foundRune = runes.find((obj) => obj.code === runeCode);
     runeString += `${foundRune.name} `;
-    result.push(parseInt(foundRune.levelreq));
+    runeRecipe.push(`${foundRune.code}`);
+    socketResults.push(parseInt(foundRune.levelreq));
   }
   if (item.hasOwnProperty("Rune6")) {
     const runeCode = item["Rune6"];
     const foundRune = runes.find((obj) => obj.code === runeCode);
     runeString += `${foundRune.name} `;
-    result.push(parseInt(foundRune.levelreq));
+    runeRecipe.push(`${foundRune.code}`);
+    socketResults.push(parseInt(foundRune.levelreq));
   }
-  result.sort((a, b) => b - a);
+  socketResults.sort((a, b) => b - a);
+  const removeDups = [...new Set(runeRecipe)];
   return {
-    level_requirement: result[0],
+    level_requirement: socketResults[0],
     rune_string: runeString,
-    required_sockets: result.length,
+    required_sockets: socketResults.length,
+    rune_recipe: removeDups,
   };
 };
 
@@ -103,11 +134,14 @@ export const parseRunewords = (runewords, item_stat, properties) => {
     const str_obj_name = allStrings.find((str) => str.id === item.Name);
     const item_name =
       str_obj_name !== undefined ? str_obj_name.str : item["Rune Name"];
-    const base_types = defineItemTypes(item);
-    const lvlAndSockets = getLevelReq(item);
-    const level_requirement = lvlAndSockets.level_requirement;
-    const socket_requirement = lvlAndSockets.required_sockets;
-    const rune_string = lvlAndSockets.rune_string.trim();
+    const itemTypes = defineItemTypes(item);
+    const base_types = itemTypes.base_types;
+    const runeModTypes = itemTypes.mod_types;
+    const runeProps = getRuneProps(item);
+    const level_requirement = runeProps.level_requirement;
+    const socket_requirement = runeProps.required_sockets;
+    const rune_string = runeProps.rune_string.trim();
+    const rune_recipe = runeProps.rune_recipe;
     const property_strings = [];
 
     const itemMods = Object.entries(item).reduce((acc, [key, val]) => {
@@ -343,8 +377,172 @@ export const parseRunewords = (runewords, item_stat, properties) => {
       // figure out handling for mods with multiple stats
       return acc;
     }, {});
+
+    let rune_item_mods = {};
+    rune_recipe.forEach((code) => {
+      const rune = Object.assign(
+        {},
+        gems.find((obj) => obj.code === code)
+      );
+      for (let i = 0; i < runeModTypes.length; i++) {
+        const type = runeModTypes[i];
+        if (type === "weapon") {
+          const val = rune["weaponMod1Code"];
+          const min = parseInt(rune["weaponMod1Min"]);
+          const max = parseInt(rune["weaponMod1Max"]);
+          if (isMissingData(val)) {
+            const fixed = fixRuneStat(val, min, max, type);
+            Object.assign(rune_item_mods, {
+              [fixed.key]: {
+                min: fixed.min,
+                max: fixed.max,
+                base_type: type,
+              },
+            });
+            property_strings.push({ order: "160", string: fixed.string });
+          } else {
+            let propObj = Object.assign(
+              {},
+              properties.find((obj) => obj.code === val)
+            );
+            let itemStatObj = Object.assign(
+              {},
+              item_stat.find((obj) => obj.Stat === propObj.stat1)
+            );
+            const skillName = "";
+            const name = itemStatObj.Stat;
+            Object.assign(rune_item_mods, {
+              [name]: {
+                min: min,
+                max: max,
+                base_type: type,
+              },
+            });
+            const stringObj = descFuncUtil(
+              itemStatObj,
+              allStrings,
+              min,
+              max,
+              skillName
+            );
+            const newStringObj = {
+              order: stringObj.order,
+              string: `${type}: \n ${stringObj.string}`,
+            };
+            property_strings.push(newStringObj);
+          }
+        } else if (type === "armor") {
+          const val = rune["helmMod1Code"];
+          const min = parseInt(rune["helmMod1Min"]);
+          const max = parseInt(rune["helmMod1Max"]);
+          if (isMissingData(val)) {
+            const fixed = fixRuneStat(val, min, max, type);
+            Object.assign(rune_item_mods, {
+              [fixed.key]: {
+                min: fixed.min,
+                max: fixed.max,
+                base_type: type,
+              },
+            });
+            property_strings.push({ order: "160", string: fixed.string });
+          } else {
+            let propObj = Object.assign(
+              {},
+              properties.find((obj) => obj.code === val)
+            );
+            let itemStatObj = Object.assign(
+              {},
+              item_stat.find((obj) => obj.Stat === propObj.stat1)
+            );
+            const skillName = "";
+            const name = itemStatObj.Stat;
+            Object.assign(rune_item_mods, {
+              [name]: {
+                min: min,
+                max: max,
+                base_type: type,
+              },
+            });
+            const stringObj = descFuncUtil(
+              itemStatObj,
+              allStrings,
+              min,
+              max,
+              skillName
+            );
+            const newStringObj = {
+              order: stringObj.order,
+              string: `${type}: \n ${stringObj.string}`,
+            };
+            property_strings.push(newStringObj);
+          }
+        } else if (type === "shield") {
+          const val = rune["shieldMod1Code"];
+          const min = parseInt(rune["shieldMod1Min"]);
+          const max = parseInt(rune["shieldMod1Max"]);
+          if (isMissingData(val)) {
+            const fixed = fixRuneStat(val, min, max, type);
+            Object.assign(rune_item_mods, {
+              [fixed.key]: {
+                min: fixed.min,
+                max: fixed.max,
+                base_type: type,
+              },
+            });
+            property_strings.push({ order: "160", string: fixed.string });
+          } else {
+            let propObj = Object.assign(
+              {},
+              properties.find((obj) => obj.code === val)
+            );
+            let itemStatObj = Object.assign(
+              {},
+              item_stat.find((obj) => obj.Stat === propObj.stat1)
+            );
+            const skillName = "";
+            const name = itemStatObj.Stat;
+            Object.assign(rune_item_mods, {
+              [name]: {
+                min: min,
+                max: max,
+                base_type: type,
+              },
+            });
+            const stringObj = descFuncUtil(
+              itemStatObj,
+              allStrings,
+              min,
+              max,
+              skillName
+            );
+            const newStringObj = {
+              order: stringObj.order,
+              string: `${type}: \n ${stringObj.string}`,
+            };
+            property_strings.push(newStringObj);
+          }
+        }
+      }
+    });
+
     let fixPropStrings = property_strings.filter((str) => str.string !== "");
     fixPropStrings.sort((a, b) => b.order - a.order);
+    fixPropStrings.sort((a, b) => {
+      let ax = a.string.includes("shield") ? -1 : 0;
+      let bx = b.string.includes("shield") ? -1 : 0;
+      return bx - ax;
+    });
+    fixPropStrings.sort((a, b) => {
+      let ax = a.string.includes("weapon") ? -1 : 0;
+      let bx = b.string.includes("weapon") ? -1 : 0;
+      return bx - ax;
+    });
+    fixPropStrings.sort((a, b) => {
+      let ax = a.string.includes("armor") ? -1 : 0;
+      let bx = b.string.includes("armor") ? -1 : 0;
+      return bx - ax;
+    });
+
     return {
       item_name,
       rune_string,
@@ -352,6 +550,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
       level_requirement,
       socket_requirement,
       item_mods: { ...itemMods },
+      socket_mods: { ...rune_item_mods },
       property_strings: [...fixPropStrings],
     };
   });

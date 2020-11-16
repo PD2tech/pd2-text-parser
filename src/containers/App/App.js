@@ -9,8 +9,7 @@ import { RunewordParse } from "../../components/ParsingInputs/RunewordParse";
 import { parseUniqueItems } from "../../components/ParsingInputs/util/parseUniques";
 import { parseRunewords } from "../../components/ParsingInputs/util/parseRunewords";
 
-import { combineAll } from "../../assets/util/combineItems";
-import { filterAmulet } from "../../assets/util/filterByType";
+import { combineAll } from "../../components/ParsingInputs/util/combineAll";
 
 export const App = () => {
   const [jsonFiles, setJsonFiles] = useState({
@@ -90,7 +89,7 @@ export const App = () => {
         ) : null}
         <button
           onClick={async () => {
-            const combined = await filterAmulet();
+            const combined = await combineAll();
             setJsonFiles((prevState) => ({ ...prevState, combined: combined }));
           }}
         >
