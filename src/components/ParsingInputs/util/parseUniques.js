@@ -12,6 +12,7 @@ export const parseUniqueItems = (uniqueItems, item_stat, properties) => {
       str_obj_name !== undefined ? str_obj_name.str : item.index;
     const itemBase = allStrings.find((str) => str.id === item.code);
     const item_base = itemBase.str;
+    const item_base_code = item.code;
     const level_requirement = parseInt(item["lvl req"]);
     const property_strings = [];
 
@@ -26,6 +27,24 @@ export const parseUniqueItems = (uniqueItems, item_stat, properties) => {
             max: fixed.max,
           };
           property_strings.push({ order: "160", string: fixed.string });
+        } else if (val === "skill-rand") {
+          // needs to be made another utility for random class skill
+          const propNum = key.slice(4);
+          const value = parseInt(item[`par${propNum}`]);
+          // skill id values/ranges
+          let classname = "Druid";
+          const min = parseInt(item[`min${propNum}`]);
+          if (min === 36) {
+            classname = "Sorceress";
+          }
+          acc["random_class_skill"] = {
+            min: value,
+            max: value,
+          };
+          property_strings.push({
+            order: "81",
+            string: `+${value} to Random ${classname} Skill`,
+          });
         } else {
           const propNum = key.slice(4);
 
@@ -236,11 +255,12 @@ export const parseUniqueItems = (uniqueItems, item_stat, properties) => {
               max,
               skillName
             );
-            property_strings.push(stringObj);
+            if (name !== "item_undeaddamage_percent") {
+              property_strings.push(stringObj);
+            }
           }
         }
       }
-      // need to skip item_undeaddamage_percent to combine values with bases
       // figure out handling for mods with multiple stats
       return acc;
     }, {});
@@ -248,6 +268,7 @@ export const parseUniqueItems = (uniqueItems, item_stat, properties) => {
     return {
       item_name,
       item_base,
+      item_base_code,
       level_requirement,
       item_mods: { ...itemMods },
       property_strings: [...fixPropStrings],

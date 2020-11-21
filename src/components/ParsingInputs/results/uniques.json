@@ -2,6 +2,7 @@
   {
     "item_name": "The Gnasher",
     "item_base": "Hand Axe",
+    "item_base_code": "hax",
     "level_requirement": 5,
     "item_mods": {
       "strength": {
@@ -51,6 +52,7 @@
   {
     "item_name": "Deathspade",
     "item_base": "Axe",
+    "item_base_code": "axe",
     "level_requirement": 9,
     "item_mods": {
       "item_stupidity": {
@@ -108,6 +110,7 @@
   {
     "item_name": "Bladebone",
     "item_base": "Double Axe",
+    "item_base_code": "2ax",
     "level_requirement": 15,
     "item_mods": {
       "item_undeaddamage_percent": {
@@ -145,10 +148,6 @@
     },
     "property_strings": [
       {
-        "order": "108",
-        "string": "+100% Damage to Undead"
-      },
-      {
         "order": "106",
         "string": "+40 to Attack Rating against Undead"
       },
@@ -181,6 +180,7 @@
   {
     "item_name": "Skull Splitter",
     "item_base": "Military Pick",
+    "item_base_code": "mpi",
     "level_requirement": 21,
     "item_mods": {
       "item_stupidity": {
@@ -254,6 +254,7 @@
   {
     "item_name": "Rakescar",
     "item_base": "War Axe",
+    "item_base_code": "wax",
     "level_requirement": 27,
     "item_mods": {
       "poisonmindam": {
@@ -319,6 +320,7 @@
   {
     "item_name": "Axe of Fechmar",
     "item_base": "Large Axe",
+    "item_base_code": "lax",
     "level_requirement": 8,
     "item_mods": {
       "item_damage_percent": {
@@ -368,6 +370,7 @@
   {
     "item_name": "Goreshovel",
     "item_base": "Broad Axe",
+    "item_base_code": "bax",
     "level_requirement": 14,
     "item_mods": {
       "item_fasterattackrate": {
@@ -425,6 +428,7 @@
   {
     "item_name": "The Chieftain",
     "item_base": "Battle Axe",
+    "item_base_code": "btx",
     "level_requirement": 19,
     "item_mods": {
       "item_damage_percent": {
@@ -482,6 +486,7 @@
   {
     "item_name": "Brainhew",
     "item_base": "Great Axe",
+    "item_base_code": "gax",
     "level_requirement": 25,
     "item_mods": {
       "damage_min": {
@@ -555,6 +560,7 @@
   {
     "item_name": "Humongous",
     "item_base": "Giant Axe",
+    "item_base_code": "gix",
     "level_requirement": 29,
     "item_mods": {
       "strength": {
@@ -620,6 +626,7 @@
   {
     "item_name": "Torch of Iro",
     "item_base": "Wand",
+    "item_base_code": "wnd",
     "level_requirement": 5,
     "item_mods": {
       "necromancer_skills": {
@@ -685,6 +692,7 @@
   {
     "item_name": "Maelstrom",
     "item_base": "Yew Wand",
+    "item_base_code": "ywn",
     "level_requirement": 14,
     "item_mods": {
       "lightresist": {
@@ -758,6 +766,7 @@
   {
     "item_name": "Gravenspine",
     "item_base": "Bone Wand",
+    "item_base_code": "bwn",
     "level_requirement": 20,
     "item_mods": {
       "strength": {
@@ -843,6 +852,7 @@
   {
     "item_name": "Ume's Lament",
     "item_base": "Grim Wand",
+    "item_base_code": "gwn",
     "level_requirement": 28,
     "item_mods": {
       "necromancer_skills": {
@@ -900,6 +910,7 @@
   {
     "item_name": "Felloak",
     "item_base": "Club",
+    "item_base_code": "clb",
     "level_requirement": 3,
     "item_mods": {
       "lightresist": {
@@ -973,6 +984,7 @@
   {
     "item_name": "Knell Striker",
     "item_base": "Scepter",
+    "item_base_code": "scp",
     "level_requirement": 5,
     "item_mods": {
       "item_crushingblow": {
@@ -1038,6 +1050,7 @@
   {
     "item_name": "Rusthandle",
     "item_base": "Grand Scepter",
+    "item_base_code": "gsc",
     "level_requirement": 17,
     "item_mods": {
       "paladin_skills": {
@@ -1099,10 +1112,6 @@
         "string": "+50-60% Enhanced Damage"
       },
       {
-        "order": "108",
-        "string": "+50-60% Damage to Undead"
-      },
-      {
         "order": "81",
         "string": "+1-3 to Vengeance"
       },
@@ -1119,6 +1128,7 @@
   {
     "item_name": "Stormeye",
     "item_base": "War Scepter",
+    "item_base_code": "wsp",
     "level_requirement": 23,
     "item_mods": {
       "lightmindam": {
@@ -1200,6 +1210,7 @@
   {
     "item_name": "Stoutnail",
     "item_base": "Spiked Club",
+    "item_base_code": "spc",
     "level_requirement": 5,
     "item_mods": {
       "item_attackertakesdamage": {
@@ -1257,6 +1268,7 @@
   {
     "item_name": "Crushflange",
     "item_base": "Mace",
+    "item_base_code": "mac",
     "level_requirement": 9,
     "item_mods": {
       "strength": {
@@ -1314,6 +1326,7 @@
   {
     "item_name": "Bloodrise",
     "item_base": "Morning Star",
+    "item_base_code": "mst",
     "level_requirement": 15,
     "item_mods": {
       "item_damage_percent": {
@@ -1387,6 +1400,7 @@
   {
     "item_name": "The General's Tan Do Li Ga",
     "item_base": "Flail",
+    "item_base_code": "fla",
     "level_requirement": 21,
     "item_mods": {
       "damage_min": {
@@ -1460,6 +1474,7 @@
   {
     "item_name": "Ironstone",
     "item_base": "War Hammer",
+    "item_base_code": "whm",
     "level_requirement": 27,
     "item_mods": {
       "tohit": {
@@ -1517,6 +1532,7 @@
   {
     "item_name": "Bonesnap",
     "item_base": "Maul",
+    "item_base_code": "mau",
     "level_requirement": 24,
     "item_mods": {
       "item_damage_percent": {
@@ -1562,10 +1578,6 @@
         "string": "Cold Resist +20-30%"
       },
       {
-        "order": "108",
-        "string": "+50% Damage to Undead"
-      },
-      {
         "order": "160",
         "string": "Melee Attacks Deal Splash Damage"
       }
@@ -1574,6 +1586,7 @@
   {
     "item_name": "Steeldriver",
     "item_base": "Great Maul",
+    "item_base_code": "gma",
     "level_requirement": 29,
     "item_mods": {
       "item_req_percent": {
@@ -1623,6 +1636,7 @@
   {
     "item_name": "Rixot's Keen",
     "item_base": "Short Sword",
+    "item_base_code": "ssd",
     "level_requirement": 2,
     "item_mods": {
       "damage_min": {
@@ -1688,6 +1702,7 @@
   {
     "item_name": "Blood Crescent",
     "item_base": "Scimitar",
+    "item_base_code": "scm",
     "level_requirement": 7,
     "item_mods": {
       "all_resist": {
@@ -1761,6 +1776,7 @@
   {
     "item_name": "Skewer of Krintiz",
     "item_base": "Sabre",
+    "item_base_code": "sbr",
     "level_requirement": 10,
     "item_mods": {
       "item_ignoretargetac": {
@@ -1826,6 +1842,7 @@
   {
     "item_name": "Gleamscythe",
     "item_base": "Falchion",
+    "item_base_code": "flc",
     "level_requirement": 13,
     "item_mods": {
       "item_lightradius": {
@@ -1903,6 +1920,7 @@
   {
     "item_name": "Griswold's Edge",
     "item_base": "Broad Sword",
+    "item_base_code": "bsd",
     "level_requirement": 17,
     "item_mods": {
       "firemindam": {
@@ -1968,6 +1986,7 @@
   {
     "item_name": "Hellplague",
     "item_base": "Long Sword",
+    "item_base_code": "lsd",
     "level_requirement": 22,
     "item_mods": {
       "manadrainmindam": {
@@ -2041,6 +2060,7 @@
   {
     "item_name": "Culwen's Point",
     "item_base": "War Sword",
+    "item_base_code": "wsd",
     "level_requirement": 29,
     "item_mods": {
       "item_allskills": {
@@ -2106,6 +2126,7 @@
   {
     "item_name": "Shadowfang",
     "item_base": "Two-Handed Sword",
+    "item_base_code": "2hs",
     "level_requirement": 12,
     "item_mods": {
       "manadrainmindam": {
@@ -2171,6 +2192,7 @@
   {
     "item_name": "Soulflay",
     "item_base": "Claymore",
+    "item_base_code": "clm",
     "level_requirement": 19,
     "item_mods": {
       "manadrainmindam": {
@@ -2228,6 +2250,7 @@
   {
     "item_name": "Kinemil's Awl",
     "item_base": "Giant Sword",
+    "item_base_code": "gis",
     "level_requirement": 23,
     "item_mods": {
       "tohit": {
@@ -2293,6 +2316,7 @@
   {
     "item_name": "Blacktongue",
     "item_base": "Bastard Sword",
+    "item_base_code": "bsw",
     "level_requirement": 26,
     "item_mods": {
       "poison_damage": {
@@ -2350,6 +2374,7 @@
   {
     "item_name": "Ripsaw",
     "item_base": "Flamberge",
+    "item_base_code": "flb",
     "level_requirement": 26,
     "item_mods": {
       "item_openwounds": {
@@ -2399,6 +2424,7 @@
   {
     "item_name": "The Patriarch",
     "item_base": "Great Sword",
+    "item_base_code": "gsd",
     "level_requirement": 29,
     "item_mods": {
       "normal_damage_reduction": {
@@ -2472,6 +2498,7 @@
   {
     "item_name": "Gull",
     "item_base": "Dagger",
+    "item_base_code": "dgr",
     "level_requirement": 4,
     "item_mods": {
       "damage_min": {
@@ -2521,6 +2548,7 @@
   {
     "item_name": "The Diggler",
     "item_base": "Dirk",
+    "item_base_code": "dir",
     "level_requirement": 11,
     "item_mods": {
       "dexterity": {
@@ -2586,6 +2614,7 @@
   {
     "item_name": "The Jade Tan Do",
     "item_base": "Kris",
+    "item_base_code": "kri",
     "level_requirement": 19,
     "item_mods": {
       "tohit": {
@@ -2651,6 +2680,7 @@
   {
     "item_name": "Spectral Shard",
     "item_base": "Blade",
+    "item_base_code": "bld",
     "level_requirement": 25,
     "item_mods": {
       "item_fastercastrate": {
@@ -2700,6 +2730,7 @@
   {
     "item_name": "The Dragon Chang",
     "item_base": "Spear",
+    "item_base_code": "spr",
     "level_requirement": 8,
     "item_mods": {
       "tohit": {
@@ -2745,10 +2776,6 @@
         "string": "+2 to Light Radius"
       },
       {
-        "order": "108",
-        "string": "+100% Damage to Undead"
-      },
-      {
         "order": "160",
         "string": "+3-6 Fire Damage"
       },
@@ -2765,6 +2792,7 @@
   {
     "item_name": "Razortine",
     "item_base": "Trident",
+    "item_base_code": "tri",
     "level_requirement": 12,
     "item_mods": {
       "item_slow": {
@@ -2830,6 +2858,7 @@
   {
     "item_name": "Bloodthief",
     "item_base": "Brandistock",
+    "item_base_code": "brn",
     "level_requirement": 17,
     "item_mods": {
       "item_openwounds": {
@@ -2887,6 +2916,7 @@
   {
     "item_name": "Lance of Yaggai",
     "item_base": "Spetum",
+    "item_base_code": "spt",
     "level_requirement": 22,
     "item_mods": {
       "item_attackertakesdamage": {
@@ -2960,6 +2990,7 @@
   {
     "item_name": "The Tannr Gorerod",
     "item_base": "Pike",
+    "item_base_code": "pik",
     "level_requirement": 27,
     "item_mods": {
       "firemindam": {
@@ -3041,6 +3072,7 @@
   {
     "item_name": "Dimoak's Hew",
     "item_base": "Bardiche",
+    "item_base_code": "bar",
     "level_requirement": 8,
     "item_mods": {
       "dexterity": {
@@ -3090,6 +3122,7 @@
   {
     "item_name": "Steelgoad",
     "item_base": "Voulge",
+    "item_base_code": "vou",
     "level_requirement": 14,
     "item_mods": {
       "item_howl": {
@@ -3151,6 +3184,7 @@
   {
     "item_name": "Soul Harvest",
     "item_base": "Scythe",
+    "item_base_code": "scy",
     "level_requirement": 19,
     "item_mods": {
       "381": {
@@ -3216,6 +3250,7 @@
   {
     "item_name": "The Battlebranch",
     "item_base": "Poleaxe",
+    "item_base_code": "pax",
     "level_requirement": 25,
     "item_mods": {
       "item_fasterattackrate": {
@@ -3273,6 +3308,7 @@
   {
     "item_name": "Woestave",
     "item_base": "Halberd",
+    "item_base_code": "hal",
     "level_requirement": 28,
     "item_mods": {
       "item_slow": {
@@ -3354,6 +3390,7 @@
   {
     "item_name": "The Grim Reaper",
     "item_base": "War Scythe",
+    "item_base_code": "wsc",
     "level_requirement": 29,
     "item_mods": {
       "item_deadlystrike": {
@@ -3419,6 +3456,7 @@
   {
     "item_name": "Bane Ash",
     "item_base": "Short Staff",
+    "item_base_code": "sst",
     "level_requirement": 5,
     "item_mods": {
       "firemindam": {
@@ -3500,6 +3538,7 @@
   {
     "item_name": "Serpent Lord",
     "item_base": "Long Staff",
+    "item_base_code": "lst",
     "level_requirement": 9,
     "item_mods": {
       "poison_damage": {
@@ -3581,6 +3620,7 @@
   {
     "item_name": "Spire of Lazarus",
     "item_base": "Gnarled Staff",
+    "item_base_code": "cst",
     "level_requirement": 18,
     "item_mods": {
       "lightresist": {
@@ -3670,6 +3710,7 @@
   {
     "item_name": "The Salamander",
     "item_base": "Battle Staff",
+    "item_base_code": "bst",
     "level_requirement": 21,
     "item_mods": {
       "fire_damage": {
@@ -3743,6 +3784,7 @@
   {
     "item_name": "The Iron Jang Bong",
     "item_base": "War Staff",
+    "item_base_code": "wst",
     "level_requirement": 28,
     "item_mods": {
       "armorclass": {
@@ -3824,6 +3866,7 @@
   {
     "item_name": "Pluckeye",
     "item_base": "Short Bow",
+    "item_base_code": "sbw",
     "level_requirement": 7,
     "item_mods": {
       "tohit": {
@@ -3889,6 +3932,7 @@
   {
     "item_name": "Witherstring",
     "item_base": "Hunter's Bow",
+    "item_base_code": "hbw",
     "level_requirement": 13,
     "item_mods": {
       "item_fasterattackrate": {
@@ -3946,6 +3990,7 @@
   {
     "item_name": "Raven Claw",
     "item_base": "Long Bow",
+    "item_base_code": "lbw",
     "level_requirement": 15,
     "item_mods": {
       "item_tohit_percent": {
@@ -3995,6 +4040,7 @@
   {
     "item_name": "Rogue's Bow",
     "item_base": "Composite Bow",
+    "item_base_code": "cbw",
     "level_requirement": 20,
     "item_mods": {
       "all_resist": {
@@ -4040,10 +4086,6 @@
         "string": "+60 to Attack Rating"
       },
       {
-        "order": "108",
-        "string": "+100% Damage to Undead"
-      },
-      {
         "order": "160",
         "string": "+80-120% Enhanced Damage"
       },
@@ -4060,6 +4102,7 @@
   {
     "item_name": "Stormstrike",
     "item_base": "Short Battle Bow",
+    "item_base_code": "sbb",
     "level_requirement": 25,
     "item_mods": {
       "lightmindam": {
@@ -4125,6 +4168,7 @@
   {
     "item_name": "Wizendraw",
     "item_base": "Long Battle Bow",
+    "item_base_code": "lbb",
     "level_requirement": 26,
     "item_mods": {
       "item_magicarrow": {
@@ -4198,6 +4242,7 @@
   {
     "item_name": "Hellclap",
     "item_base": "Short War Bow",
+    "item_base_code": "swb",
     "level_requirement": 27,
     "item_mods": {
       "item_fasterattackrate": {
@@ -4271,6 +4316,7 @@
   {
     "item_name": "Blastbark",
     "item_base": "Long War Bow",
+    "item_base_code": "lwb",
     "level_requirement": 28,
     "item_mods": {
       "item_damage_percent": {
@@ -4320,6 +4366,7 @@
   {
     "item_name": "Leadcrow",
     "item_base": "Light Crossbow",
+    "item_base_code": "lxb",
     "level_requirement": 9,
     "item_mods": {
       "dexterity": {
@@ -4377,6 +4424,7 @@
   {
     "item_name": "Ichorsting",
     "item_base": "Crossbow",
+    "item_base_code": "mxb",
     "level_requirement": 18,
     "item_mods": {
       "poison_damage": {
@@ -4434,6 +4482,7 @@
   {
     "item_name": "Hellcast",
     "item_base": "Heavy Crossbow",
+    "item_base_code": "hxb",
     "level_requirement": 27,
     "item_mods": {
       "item_explosivearrow": {
@@ -4499,6 +4548,7 @@
   {
     "item_name": "Doomslinger",
     "item_base": "Repeating Crossbow",
+    "item_base_code": "rxb",
     "level_requirement": 28,
     "item_mods": {
       "amazon_skills": {
@@ -4556,6 +4606,7 @@
   {
     "item_name": "Biggin's Bonnet",
     "item_base": "Cap",
+    "item_base_code": "cap",
     "level_requirement": 3,
     "item_mods": {
       "maxhp": {
@@ -4605,6 +4656,7 @@
   {
     "item_name": "Tarnhelm",
     "item_base": "Skull Cap",
+    "item_base_code": "skp",
     "level_requirement": 15,
     "item_mods": {
       "item_goldbonus": {
@@ -4646,6 +4698,7 @@
   {
     "item_name": "Coif of Glory",
     "item_base": "Helm",
+    "item_base_code": "hlm",
     "level_requirement": 14,
     "item_mods": {
       "item_attackertakeslightdamage": {
@@ -4703,6 +4756,7 @@
   {
     "item_name": "Duskdeep",
     "item_base": "Full Helm",
+    "item_base_code": "fhl",
     "level_requirement": 17,
     "item_mods": {
       "item_lightradius": {
@@ -4760,6 +4814,7 @@
   {
     "item_name": "Wormskull",
     "item_base": "Bone Helm",
+    "item_base_code": "bhm",
     "level_requirement": 21,
     "item_mods": {
       "necromancer_skills": {
@@ -4809,6 +4864,7 @@
   {
     "item_name": "Howltusk",
     "item_base": "Great Helm",
+    "item_base_code": "ghm",
     "level_requirement": 25,
     "item_mods": {
       "magic_damage_reduction": {
@@ -4874,6 +4930,7 @@
   {
     "item_name": "Undead Crown",
     "item_base": "Crown",
+    "item_base_code": "crn",
     "level_requirement": 29,
     "item_mods": {
       "lifedrainmindam": {
@@ -4927,10 +4984,6 @@
         "string": "Half Freeze Duration"
       },
       {
-        "order": "108",
-        "string": "+50% Damage to Undead"
-      },
-      {
         "order": "106",
         "string": "+50-100 to Attack Rating against Undead"
       },
@@ -4947,6 +5000,7 @@
   {
     "item_name": "The Face of Horror",
     "item_base": "Mask",
+    "item_base_code": "msk",
     "level_requirement": 20,
     "item_mods": {
       "item_howl": {
@@ -4984,10 +5038,6 @@
         "string": "All Resistances +14-18"
       },
       {
-        "order": "108",
-        "string": "+50% Damage to Undead"
-      },
-      {
         "order": "71",
         "string": "+25 Defense"
       }
@@ -4996,6 +5046,7 @@
   {
     "item_name": "Greyform",
     "item_base": "Quilted Armor",
+    "item_base_code": "qui",
     "level_requirement": 7,
     "item_mods": {
       "magic_damage_reduction": {
@@ -5053,6 +5104,7 @@
   {
     "item_name": "Blinkbat's Form",
     "item_base": "Leather Armor",
+    "item_base_code": "lea",
     "level_requirement": 12,
     "item_mods": {
       "armorclass_vs_missile": {
@@ -5110,6 +5162,7 @@
   {
     "item_name": "The Centurion",
     "item_base": "Hard Leather Armor",
+    "item_base_code": "hla",
     "level_requirement": 14,
     "item_mods": {
       "armorclass": {
@@ -5183,6 +5236,7 @@
   {
     "item_name": "Twitchthroe",
     "item_base": "Studded Leather",
+    "item_base_code": "stu",
     "level_requirement": 16,
     "item_mods": {
       "item_fasterattackrate": {
@@ -5240,6 +5294,7 @@
   {
     "item_name": "Darkglow",
     "item_base": "Ring Mail",
+    "item_base_code": "rng",
     "level_requirement": 14,
     "item_mods": {
       "tohit": {
@@ -5297,6 +5352,7 @@
   {
     "item_name": "Hawkmail",
     "item_base": "Scale Mail",
+    "item_base_code": "scl",
     "level_requirement": 15,
     "item_mods": {
       "item_armor_percent": {
@@ -5354,6 +5410,7 @@
   {
     "item_name": "Sparking Mail",
     "item_base": "Chain Mail",
+    "item_base_code": "chn",
     "level_requirement": 17,
     "item_mods": {
       "item_armor_percent": {
@@ -5403,6 +5460,7 @@
   {
     "item_name": "Venom Ward",
     "item_base": "Breast Plate",
+    "item_base_code": "brs",
     "level_requirement": 20,
     "item_mods": {
       "maxpoisonresist": {
@@ -5460,6 +5518,7 @@
   {
     "item_name": "Iceblink",
     "item_base": "Splint Mail",
+    "item_base_code": "spl",
     "level_requirement": 22,
     "item_mods": {
       "item_freeze": {
@@ -5517,6 +5576,7 @@
   {
     "item_name": "Boneflesh",
     "item_base": "Plate Mail",
+    "item_base_code": "plt",
     "level_requirement": 26,
     "item_mods": {
       "lifedrainmindam": {
@@ -5566,6 +5626,7 @@
   {
     "item_name": "Rockfleece",
     "item_base": "Field Plate",
+    "item_base_code": "fld",
     "level_requirement": 28,
     "item_mods": {
       "item_req_percent": {
@@ -5615,6 +5676,7 @@
   {
     "item_name": "Rattlecage",
     "item_base": "Gothic Plate",
+    "item_base_code": "gth",
     "level_requirement": 29,
     "item_mods": {
       "item_howl": {
@@ -5664,6 +5726,7 @@
   {
     "item_name": "Goldskin",
     "item_base": "Full Plate Mail",
+    "item_base_code": "ful",
     "level_requirement": 28,
     "item_mods": {
       "item_armor_percent": {
@@ -5713,6 +5776,7 @@
   {
     "item_name": "Silks of the Victor",
     "item_base": "Ancient Armor",
+    "item_base_code": "aar",
     "level_requirement": 28,
     "item_mods": {
       "manadrainmindam": {
@@ -5770,6 +5834,7 @@
   {
     "item_name": "Heavenly Garb",
     "item_base": "Light Plate",
+    "item_base_code": "ltp",
     "level_requirement": 29,
     "item_mods": {
       "item_armor_percent": {
@@ -5823,10 +5888,6 @@
         "string": "+15 to Energy"
       },
       {
-        "order": "108",
-        "string": "+50% Damage to Undead"
-      },
-      {
         "order": "106",
         "string": "+100 to Attack Rating against Undead"
       },
@@ -5843,6 +5904,7 @@
   {
     "item_name": "Pelta Lunata",
     "item_base": "Buckler",
+    "item_base_code": "buc",
     "level_requirement": 2,
     "item_mods": {
       "armorclass": {
@@ -5912,6 +5974,7 @@
   {
     "item_name": "Umbral Disk",
     "item_base": "Small Shield",
+    "item_base_code": "sml",
     "level_requirement": 9,
     "item_mods": {
       "item_stupidity": {
@@ -5981,6 +6044,7 @@
   {
     "item_name": "Stormguild",
     "item_base": "Large Shield",
+    "item_base_code": "lrg",
     "level_requirement": 13,
     "item_mods": {
       "magic_damage_reduction": {
@@ -6050,6 +6114,7 @@
   {
     "item_name": "Wall of the Eyeless",
     "item_base": "Bone Shield",
+    "item_base_code": "bsh",
     "level_requirement": 20,
     "item_mods": {
       "item_manaafterkill": {
@@ -6123,6 +6188,7 @@
   {
     "item_name": "Swordback Hold",
     "item_base": "Spiked Shield",
+    "item_base_code": "spk",
     "level_requirement": 15,
     "item_mods": {
       "item_attackertakesdamage": {
@@ -6184,6 +6250,7 @@
   {
     "item_name": "Steelclash",
     "item_base": "Kite Shield",
+    "item_base_code": "kit",
     "level_requirement": 17,
     "item_mods": {
       "toblock": {
@@ -6253,6 +6320,7 @@
   {
     "item_name": "Bverrit Keep",
     "item_base": "Tower Shield",
+    "item_base_code": "tow",
     "level_requirement": 19,
     "item_mods": {
       "armorclass": {
@@ -6322,6 +6390,7 @@
   {
     "item_name": "The Ward",
     "item_base": "Gothic Shield",
+    "item_base_code": "gts",
     "level_requirement": 26,
     "item_mods": {
       "armorclass": {
@@ -6379,6 +6448,7 @@
   {
     "item_name": "The Hand of Broc",
     "item_base": "Leather Gloves",
+    "item_base_code": "lgl",
     "level_requirement": 5,
     "item_mods": {
       "manadrainmindam": {
@@ -6444,6 +6514,7 @@
   {
     "item_name": "Bloodfist",
     "item_base": "Heavy Gloves",
+    "item_base_code": "vgl",
     "level_requirement": 9,
     "item_mods": {
       "damage_max": {
@@ -6501,6 +6572,7 @@
   {
     "item_name": "Chance Guards",
     "item_base": "Chain Gloves",
+    "item_base_code": "mgl",
     "level_requirement": 15,
     "item_mods": {
       "item_goldbonus": {
@@ -6566,6 +6638,7 @@
   {
     "item_name": "Magefist",
     "item_base": "Light Gauntlets",
+    "item_base_code": "tgl",
     "level_requirement": 23,
     "item_mods": {
       "item_fastercastrate": {
@@ -6623,6 +6696,7 @@
   {
     "item_name": "Frostburn",
     "item_base": "Gauntlets",
+    "item_base_code": "hgl",
     "level_requirement": 29,
     "item_mods": {
       "armorclass": {
@@ -6688,6 +6762,7 @@
   {
     "item_name": "Hotspur",
     "item_base": "Boots",
+    "item_base_code": "lbt",
     "level_requirement": 5,
     "item_mods": {
       "maxfireresist": {
@@ -6745,6 +6820,7 @@
   {
     "item_name": "Gorefoot",
     "item_base": "Heavy Boots",
+    "item_base_code": "vbt",
     "level_requirement": 12,
     "item_mods": {
       "item_extrablood": {
@@ -6806,6 +6882,7 @@
   {
     "item_name": "Treads of Cthon",
     "item_base": "Chain Boots",
+    "item_base_code": "mbt",
     "level_requirement": 15,
     "item_mods": {
       "item_fastermovevelocity": {
@@ -6871,6 +6948,7 @@
   {
     "item_name": "Goblin Toe",
     "item_base": "Light Plated Boots",
+    "item_base_code": "tbt",
     "level_requirement": 22,
     "item_mods": {
       "item_crushingblow": {
@@ -6936,6 +7014,7 @@
   {
     "item_name": "Tearhaunch",
     "item_base": "Greaves",
+    "item_base_code": "hbt",
     "level_requirement": 29,
     "item_mods": {
       "armorclass": {
@@ -7009,6 +7088,7 @@
   {
     "item_name": "Lenymo",
     "item_base": "Sash",
+    "item_base_code": "lbl",
     "level_requirement": 7,
     "item_mods": {
       "maxmana": {
@@ -7058,6 +7138,7 @@
   {
     "item_name": "Snakecord",
     "item_base": "Light Belt",
+    "item_base_code": "vbl",
     "level_requirement": 12,
     "item_mods": {
       "passive_pois_mastery": {
@@ -7115,6 +7196,7 @@
   {
     "item_name": "Nightsmoke",
     "item_base": "Belt",
+    "item_base_code": "mbl",
     "level_requirement": 20,
     "item_mods": {
       "all_resist": {
@@ -7172,6 +7254,7 @@
   {
     "item_name": "Goldwrap",
     "item_base": "Heavy Belt",
+    "item_base_code": "tbl",
     "level_requirement": 27,
     "item_mods": {
       "item_magicbonus": {
@@ -7229,6 +7312,7 @@
   {
     "item_name": "Bladebuckle",
     "item_base": "Plated Belt",
+    "item_base_code": "hbl",
     "level_requirement": 39,
     "item_mods": {
       "item_attackertakesdamage": {
@@ -7302,6 +7386,7 @@
   {
     "item_name": "Nokozan Relic",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 10,
     "item_mods": {
       "firemindam": {
@@ -7359,6 +7444,7 @@
   {
     "item_name": "The Eye of Etlich",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 15,
     "item_mods": {
       "armorclass_vs_missile": {
@@ -7420,6 +7506,7 @@
   {
     "item_name": "The Mahim-Oak Curio",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 25,
     "item_mods": {
       "strength": {
@@ -7477,6 +7564,7 @@
   {
     "item_name": "Nagelring",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 7,
     "item_mods": {
       "magic_damage_reduction": {
@@ -7526,6 +7614,7 @@
   {
     "item_name": "The Eye of Mordini",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 15,
     "item_mods": {
       "manadrainmindam": {
@@ -7567,6 +7656,7 @@
   {
     "item_name": "The Stone of Jordan",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 29,
     "item_mods": {
       "maxmana": {
@@ -7606,278 +7696,9 @@
     ]
   },
   {
-    "item_name": "Amulet of the Viper",
-    "item_base": "Top of the Horadric Staff",
-    "level_requirement": 0,
-    "item_mods": {
-      "maxmana": {
-        "min": 10,
-        "max": 10
-      },
-      "poisonresist": {
-        "min": 25,
-        "max": 25
-      },
-      "maxhp": {
-        "min": 10,
-        "max": 10
-      }
-    },
-    "property_strings": [
-      {
-        "order": "55",
-        "string": "+10 to Mana"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +25%"
-      },
-      {
-        "order": "59",
-        "string": "+10 to Life"
-      }
-    ]
-  },
-  {
-    "item_name": "Staff of Kings",
-    "item_base": "Shaft of the Horadric Staff",
-    "level_requirement": 0,
-    "item_mods": {
-      "all_resist": {
-        "min": 10,
-        "max": 10
-      },
-      "item_fasterattackrate": {
-        "min": 50,
-        "max": 50
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "All Resistances +10"
-      },
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      }
-    ]
-  },
-  {
-    "item_name": "Horadric Staff",
-    "item_base": "Horadric Staff",
-    "level_requirement": 0,
-    "item_mods": {
-      "maxmana": {
-        "min": 10,
-        "max": 10
-      },
-      "poisonresist": {
-        "min": 25,
-        "max": 25
-      },
-      "maxhp": {
-        "min": 10,
-        "max": 10
-      },
-      "all_resist": {
-        "min": 10,
-        "max": 10
-      },
-      "item_fasterattackrate": {
-        "min": 50,
-        "max": 50
-      }
-    },
-    "property_strings": [
-      {
-        "order": "55",
-        "string": "+10 to Mana"
-      },
-      {
-        "order": "34",
-        "string": "Poison Resist +25%"
-      },
-      {
-        "order": "59",
-        "string": "+10 to Life"
-      },
-      {
-        "order": "160",
-        "string": "All Resistances +10"
-      },
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      }
-    ]
-  },
-  {
-    "item_name": "Hell Forge Hammer",
-    "item_base": "Hell Forge Hammer",
-    "level_requirement": 0,
-    "item_mods": {
-      "firemindam": {
-        "min": 5,
-        "max": 5
-      },
-      "firemaxdam": {
-        "min": 20,
-        "max": 20
-      },
-      "fireresist": {
-        "min": 40,
-        "max": 40
-      },
-      "armorclass": {
-        "min": 35,
-        "max": 35
-      },
-      "item_splashonhit": {
-        "min": 100,
-        "max": 1
-      }
-    },
-    "property_strings": [
-      {
-        "order": "102",
-        "string": "+5 to Minimum Fire Damage"
-      },
-      {
-        "order": "101",
-        "string": "+20 to Maximum Fire Damage"
-      },
-      {
-        "order": "36",
-        "string": "Fire Resist +40%"
-      },
-      {
-        "order": "71",
-        "string": "+35 Defense"
-      },
-      {
-        "order": "160",
-        "string": "Melee Attacks Deal Splash Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Khalim's Flail",
-    "item_base": "Khalim's Flail",
-    "level_requirement": 0,
-    "item_mods": {
-      "lightmindam": {
-        "min": 1,
-        "max": 1
-      },
-      "lightmaxdam": {
-        "min": 20,
-        "max": 20
-      },
-      "item_fasterattackrate": {
-        "min": 50,
-        "max": 50
-      },
-      "tohit": {
-        "min": 40,
-        "max": 40
-      },
-      "item_splashonhit": {
-        "min": 100,
-        "max": 1
-      }
-    },
-    "property_strings": [
-      {
-        "order": "99",
-        "string": "+1 to Minimum Lightning Damage"
-      },
-      {
-        "order": "98",
-        "string": "+20 to Maximum Lightning Damage"
-      },
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      },
-      {
-        "order": "115",
-        "string": "+40 to Attack Rating"
-      },
-      {
-        "order": "160",
-        "string": "Melee Attacks Deal Splash Damage"
-      }
-    ]
-  },
-  {
-    "item_name": "Khalim's Will",
-    "item_base": "Khalim's Will",
-    "level_requirement": 0,
-    "item_mods": {
-      "lightmindam": {
-        "min": 1,
-        "max": 1
-      },
-      "lightmaxdam": {
-        "min": 40,
-        "max": 40
-      },
-      "item_fasterattackrate": {
-        "min": 50,
-        "max": 50
-      },
-      "tohit": {
-        "min": 40,
-        "max": 40
-      },
-      "manadrainmindam": {
-        "min": 6,
-        "max": 6
-      },
-      "lifedrainmindam": {
-        "min": 6,
-        "max": 6
-      },
-      "item_splashonhit": {
-        "min": 100,
-        "max": 1
-      }
-    },
-    "property_strings": [
-      {
-        "order": "99",
-        "string": "+1 to Minimum Lightning Damage"
-      },
-      {
-        "order": "98",
-        "string": "+40 to Maximum Lightning Damage"
-      },
-      {
-        "order": "145",
-        "string": "+50% Increased Attack Speed"
-      },
-      {
-        "order": "115",
-        "string": "+40 to Attack Rating"
-      },
-      {
-        "order": "89",
-        "string": "6% Mana stolen per hit"
-      },
-      {
-        "order": "88",
-        "string": "6% Life stolen per hit"
-      },
-      {
-        "order": "160",
-        "string": "Melee Attacks Deal Splash Damage"
-      }
-    ]
-  },
-  {
     "item_name": "Coldkill",
     "item_base": "Hatchet",
+    "item_base_code": "9ha",
     "level_requirement": 36,
     "item_mods": {
       "cold_damage": {
@@ -7951,6 +7772,7 @@
   {
     "item_name": "Butcher's Pupil",
     "item_base": "Cleaver",
+    "item_base_code": "9ax",
     "level_requirement": 39,
     "item_mods": {
       "item_deadlystrike": {
@@ -8012,6 +7834,7 @@
   {
     "item_name": "Islestrike",
     "item_base": "Twin Axe",
+    "item_base_code": "92a",
     "level_requirement": 43,
     "item_mods": {
       "druid_skills": {
@@ -8109,6 +7932,7 @@
   {
     "item_name": "Pompeii's Wrath",
     "item_base": "Crowbill",
+    "item_base_code": "9mp",
     "level_requirement": 45,
     "item_mods": {
       "item_skillonhit": {
@@ -8158,6 +7982,7 @@
   {
     "item_name": "Guardian Naga",
     "item_base": "Naga",
+    "item_base_code": "9wa",
     "level_requirement": 48,
     "item_mods": {
       "item_skillonhit": {
@@ -8223,6 +8048,7 @@
   {
     "item_name": "Warlord's Trust",
     "item_base": "Military Axe",
+    "item_base_code": "9la",
     "level_requirement": 35,
     "item_mods": {
       "armorclass": {
@@ -8288,6 +8114,7 @@
   {
     "item_name": "Spellsteel",
     "item_base": "Bearded Axe",
+    "item_base_code": "9ba",
     "level_requirement": 39,
     "item_mods": {
       "item_req_percent": {
@@ -8354,7 +8181,7 @@
       },
       {
         "order": "1",
-        "string": "Level 18 Amplify Damage (60 Charges)"
+        "string": "Level 18 Decrepify (60 Charges)"
       },
       {
         "order": "1",
@@ -8373,6 +8200,7 @@
   {
     "item_name": "Stormrider",
     "item_base": "Tabar",
+    "item_base_code": "9bt",
     "level_requirement": 41,
     "item_mods": {
       "item_skillonhit": {
@@ -8446,6 +8274,7 @@
   {
     "item_name": "Boneslayer Blade",
     "item_base": "Gothic Axe",
+    "item_base_code": "9ga",
     "level_requirement": 42,
     "item_mods": {
       "item_tohit_undead_perlevel": {
@@ -8527,6 +8356,7 @@
   {
     "item_name": "The Minotaur",
     "item_base": "Ancient Axe",
+    "item_base_code": "9gi",
     "level_requirement": 45,
     "item_mods": {
       "item_stupidity": {
@@ -8600,6 +8430,7 @@
   {
     "item_name": "Suicide Branch",
     "item_base": "Burnt Wand",
+    "item_base_code": "9wn",
     "level_requirement": 33,
     "item_mods": {
       "367": {
@@ -8665,6 +8496,7 @@
   {
     "item_name": "Carin Shard",
     "item_base": "Petrified Wand",
+    "item_base_code": "9yw",
     "level_requirement": 35,
     "item_mods": {
       "item_hp_perlevel": {
@@ -8738,6 +8570,7 @@
   {
     "item_name": "Arm of King Leoric",
     "item_base": "Tomb Wand",
+    "item_base_code": "9bw",
     "level_requirement": 36,
     "item_mods": {
       "summoning_necro": {
@@ -8819,6 +8652,7 @@
   {
     "item_name": "Blackhand Key",
     "item_base": "Grave Wand",
+    "item_base_code": "9gw",
     "level_requirement": 41,
     "item_mods": {
       "curses": {
@@ -8892,6 +8726,7 @@
   {
     "item_name": "Dark Clan Crusher",
     "item_base": "Cudgel",
+    "item_base_code": "9cl",
     "level_requirement": 34,
     "item_mods": {
       "druid_skills": {
@@ -8965,6 +8800,7 @@
   {
     "item_name": "Zakarum's Hand",
     "item_base": "Rune Scepter",
+    "item_base_code": "9sc",
     "level_requirement": 37,
     "item_mods": {
       "manadrainmindam": {
@@ -9054,6 +8890,7 @@
   {
     "item_name": "The Fetid Sprinkler",
     "item_base": "Holy Water Sprinkler",
+    "item_base_code": "9qs",
     "level_requirement": 38,
     "item_mods": {
       "paladin_skills": {
@@ -9123,6 +8960,7 @@
   {
     "item_name": "Hand of Blessed Light",
     "item_base": "Divine Scepter",
+    "item_base_code": "9ws",
     "level_requirement": 42,
     "item_mods": {
       "364": {
@@ -9220,6 +9058,7 @@
   {
     "item_name": "Fleshrender",
     "item_base": "Barbed Club",
+    "item_base_code": "9sp",
     "level_requirement": 38,
     "item_mods": {
       "item_openwounds": {
@@ -9305,6 +9144,7 @@
   {
     "item_name": "Sureshrill Frost",
     "item_base": "Flanged Mace",
+    "item_base_code": "9ma",
     "level_requirement": 39,
     "item_mods": {
       "cold_damage": {
@@ -9378,6 +9218,7 @@
   {
     "item_name": "Moonfall",
     "item_base": "Jagged Star",
+    "item_base_code": "9mt",
     "level_requirement": 42,
     "item_mods": {
       "item_skillonhit": {
@@ -9451,6 +9292,7 @@
   {
     "item_name": "Baezil's Vortex",
     "item_base": "Knout",
+    "item_base_code": "9fl",
     "level_requirement": 45,
     "item_mods": {
       "item_skillonhit": {
@@ -9524,6 +9366,7 @@
   {
     "item_name": "Earthshaker",
     "item_base": "Battle Hammer",
+    "item_base_code": "9wh",
     "level_requirement": 43,
     "item_mods": {
       "item_skillonhit": {
@@ -9601,6 +9444,7 @@
   {
     "item_name": "Bloodtree Stump",
     "item_base": "War Club",
+    "item_base_code": "9m9",
     "level_requirement": 48,
     "item_mods": {
       "item_crushingblow": {
@@ -9678,6 +9522,7 @@
   {
     "item_name": "The Gavel of Pain",
     "item_base": "Martel de Fer",
+    "item_base_code": "9gm",
     "level_requirement": 45,
     "item_mods": {
       "item_skillonhit": {
@@ -9759,6 +9604,7 @@
   {
     "item_name": "Bloodletter",
     "item_base": "Gladius",
+    "item_base_code": "9ss",
     "level_requirement": 30,
     "item_mods": {
       "damage_flat": {
@@ -9844,6 +9690,7 @@
   {
     "item_name": "Coldsteel Eye",
     "item_base": "Cutlass",
+    "item_base_code": "9sm",
     "level_requirement": 31,
     "item_mods": {
       "item_stupidity": {
@@ -9913,6 +9760,7 @@
   {
     "item_name": "Hexfire",
     "item_base": "Shamshir",
+    "item_base_code": "9sb",
     "level_requirement": 33,
     "item_mods": {
       "item_fastercastrate": {
@@ -9986,11 +9834,12 @@
   {
     "item_name": "Blade of Ali Baba",
     "item_base": "Tulwar",
+    "item_base_code": "9fc",
     "level_requirement": 35,
     "item_mods": {
       "item_numsockets": {
-        "min": 3,
-        "max": 3
+        "min": null,
+        "max": null
       },
       "item_find_gold_perlevel": {
         "min": 2.5,
@@ -10020,7 +9869,7 @@
     "property_strings": [
       {
         "order": "0",
-        "string": "Sockets (3)"
+        "string": "Sockets (NaN-NaN)"
       },
       {
         "order": "9",
@@ -10051,6 +9900,7 @@
   {
     "item_name": "Ginther's Rift",
     "item_base": "Dimensional Blade",
+    "item_base_code": "9cr",
     "level_requirement": 37,
     "item_mods": {
       "magic_damage_reduction": {
@@ -10112,6 +9962,7 @@
   {
     "item_name": "Headstriker",
     "item_base": "Battle Sword",
+    "item_base_code": "9bs",
     "level_requirement": 39,
     "item_mods": {
       "item_preventheal": {
@@ -10169,6 +10020,7 @@
   {
     "item_name": "Plague Bearer",
     "item_base": "Rune Sword",
+    "item_base_code": "9ls",
     "level_requirement": 41,
     "item_mods": {
       "item_skillonhit": {
@@ -10234,6 +10086,7 @@
   {
     "item_name": "The Atlantean",
     "item_base": "Ancient Sword",
+    "item_base_code": "9wd",
     "level_requirement": 42,
     "item_mods": {
       "maxdurability": {
@@ -10311,6 +10164,7 @@
   {
     "item_name": "Crainte Vomir",
     "item_base": "Espandon",
+    "item_base_code": "92h",
     "level_requirement": 42,
     "item_mods": {
       "item_slow": {
@@ -10376,6 +10230,7 @@
   {
     "item_name": "Bing Sz Wang",
     "item_base": "Dacian Falx",
+    "item_base_code": "9cm",
     "level_requirement": 43,
     "item_mods": {
       "item_req_percent": {
@@ -10449,6 +10304,7 @@
   {
     "item_name": "The Vile Husk",
     "item_base": "Tusk Sword",
+    "item_base_code": "9gs",
     "level_requirement": 44,
     "item_mods": {
       "item_skillonhit": {
@@ -10522,6 +10378,7 @@
   {
     "item_name": "Cloudcrack",
     "item_base": "Gothic Sword",
+    "item_base_code": "9b9",
     "level_requirement": 45,
     "item_mods": {
       "item_skillonhit": {
@@ -10611,6 +10468,7 @@
   {
     "item_name": "Todesfaelle Flamme",
     "item_base": "Zweihander",
+    "item_base_code": "9fb",
     "level_requirement": 46,
     "item_mods": {
       "fire_damage": {
@@ -10680,6 +10538,7 @@
   {
     "item_name": "Swordguard",
     "item_base": "Executioner Sword",
+    "item_base_code": "9gd",
     "level_requirement": 48,
     "item_mods": {
       "item_req_percent": {
@@ -10769,6 +10628,7 @@
   {
     "item_name": "Spineripper",
     "item_base": "Poignard",
+    "item_base_code": "9dg",
     "level_requirement": 32,
     "item_mods": {
       "item_ignoretargetac": {
@@ -10850,6 +10710,7 @@
   {
     "item_name": "Heart Carver",
     "item_base": "Rondel",
+    "item_base_code": "9di",
     "level_requirement": 36,
     "item_mods": {
       "item_deadlystrike": {
@@ -10923,6 +10784,7 @@
   {
     "item_name": "Blackbog's Sharp",
     "item_base": "Cinquedeas",
+    "item_base_code": "9kr",
     "level_requirement": 38,
     "item_mods": {
       "item_slow": {
@@ -11004,6 +10866,7 @@
   {
     "item_name": "Stormspike",
     "item_base": "Stiletto",
+    "item_base_code": "9bl",
     "level_requirement": 41,
     "item_mods": {
       "lightmindam": {
@@ -11069,6 +10932,7 @@
   {
     "item_name": "The Impaler",
     "item_base": "War Spear",
+    "item_base_code": "9sr",
     "level_requirement": 31,
     "item_mods": {
       "item_ignoretargetac": {
@@ -11158,6 +11022,7 @@
   {
     "item_name": "Kelpie Snare",
     "item_base": "Fuscina",
+    "item_base_code": "9tr",
     "level_requirement": 33,
     "item_mods": {
       "item_slow": {
@@ -11223,6 +11088,7 @@
   {
     "item_name": "Soulfeast Tine",
     "item_base": "War Fork",
+    "item_base_code": "9br",
     "level_requirement": 35,
     "item_mods": {
       "item_req_percent": {
@@ -11292,11 +11158,12 @@
   {
     "item_name": "Hone Sundan",
     "item_base": "Yari",
+    "item_base_code": "9st",
     "level_requirement": 37,
     "item_mods": {
       "item_numsockets": {
-        "min": 3,
-        "max": 3
+        "min": null,
+        "max": null
       },
       "damage_flat": {
         "min": 20,
@@ -11322,7 +11189,7 @@
     "property_strings": [
       {
         "order": "0",
-        "string": "Sockets (3)"
+        "string": "Sockets (NaN-NaN)"
       },
       {
         "order": "160",
@@ -11349,6 +11216,7 @@
   {
     "item_name": "Spire of Honor",
     "item_base": "Lance",
+    "item_base_code": "9p9",
     "level_requirement": 39,
     "item_mods": {
       "item_tohit_percent": {
@@ -11438,6 +11306,7 @@
   {
     "item_name": "The Meat Scraper",
     "item_base": "Lochaber Axe",
+    "item_base_code": "9b7",
     "level_requirement": 41,
     "item_mods": {
       "item_damage_percent": {
@@ -11503,6 +11372,7 @@
   {
     "item_name": "Blackleach Blade",
     "item_base": "Bill",
+    "item_base_code": "9vo",
     "level_requirement": 42,
     "item_mods": {
       "item_req_percent": {
@@ -11568,6 +11438,7 @@
   {
     "item_name": "Athena's Wrath",
     "item_base": "Battle Scythe",
+    "item_base_code": "9s8",
     "level_requirement": 42,
     "item_mods": {
       "druid_skills": {
@@ -11641,6 +11512,7 @@
   {
     "item_name": "Pierre Tombale Couant",
     "item_base": "Partizan",
+    "item_base_code": "9pa",
     "level_requirement": 43,
     "item_mods": {
       "item_deadlystrike": {
@@ -11722,6 +11594,7 @@
   {
     "item_name": "Husoldal Evo",
     "item_base": "Bec-de-Corbin",
+    "item_base_code": "9h9",
     "level_requirement": 44,
     "item_mods": {
       "hpregen": {
@@ -11787,6 +11660,7 @@
   {
     "item_name": "Grim's Burning Dead",
     "item_base": "Grim Scythe",
+    "item_base_code": "9wc",
     "level_requirement": 45,
     "item_mods": {
       "fire_damage": {
@@ -11876,6 +11750,7 @@
   {
     "item_name": "Razorswitch",
     "item_base": "Jo Staff",
+    "item_base_code": "8ss",
     "level_requirement": 28,
     "item_mods": {
       "item_fastercastrate": {
@@ -11949,6 +11824,7 @@
   {
     "item_name": "Ribcracker",
     "item_base": "Quarterstaff",
+    "item_base_code": "8ls",
     "level_requirement": 31,
     "item_mods": {
       "damage_flat": {
@@ -12034,6 +11910,7 @@
   {
     "item_name": "Chromatic Ire",
     "item_base": "Cedar Staff",
+    "item_base_code": "8cs",
     "level_requirement": 35,
     "item_mods": {
       "sorceress_skills": {
@@ -12115,6 +11992,7 @@
   {
     "item_name": "Warpspear",
     "item_base": "Gothic Staff",
+    "item_base_code": "8bs",
     "level_requirement": 39,
     "item_mods": {
       "369": {
@@ -12196,6 +12074,7 @@
   {
     "item_name": "Skull Collector",
     "item_base": "Rune Staff",
+    "item_base_code": "8ws",
     "level_requirement": 41,
     "item_mods": {
       "item_maxmana_percent": {
@@ -12261,6 +12140,7 @@
   {
     "item_name": "Skystrike",
     "item_base": "Edge Bow",
+    "item_base_code": "8sb",
     "level_requirement": 28,
     "item_mods": {
       "lightning_damage": {
@@ -12326,6 +12206,7 @@
   {
     "item_name": "Riphook",
     "item_base": "Razor Bow",
+    "item_base_code": "8hb",
     "level_requirement": 31,
     "item_mods": {
       "item_openwounds": {
@@ -12383,6 +12264,7 @@
   {
     "item_name": "Kuko Shakaku",
     "item_base": "Cedar Bow",
+    "item_base_code": "8lb",
     "level_requirement": 33,
     "item_mods": {
       "immolation_arrow": {
@@ -12440,6 +12322,7 @@
   {
     "item_name": "Endlesshail",
     "item_base": "Double Bow",
+    "item_base_code": "8cb",
     "level_requirement": 36,
     "item_mods": {
       "coldresist": {
@@ -12497,6 +12380,7 @@
   {
     "item_name": "Whichwild String",
     "item_base": "Short Siege Bow",
+    "item_base_code": "8s8",
     "level_requirement": 39,
     "item_mods": {
       "item_skillonhit": {
@@ -12520,8 +12404,8 @@
         "max": 20
       },
       "item_numsockets": {
-        "min": 2,
-        "max": 2
+        "min": null,
+        "max": null
       }
     },
     "property_strings": [
@@ -12547,13 +12431,14 @@
       },
       {
         "order": "0",
-        "string": "Sockets (2)"
+        "string": "Sockets (NaN-NaN)"
       }
     ]
   },
   {
     "item_name": "Cliffkiller",
     "item_base": "Large Siege Bow",
+    "item_base_code": "8l8",
     "level_requirement": 41,
     "item_mods": {
       "amazon_skills": {
@@ -12627,6 +12512,7 @@
   {
     "item_name": "Magewrath",
     "item_base": "Rune Bow",
+    "item_base_code": "8sw",
     "level_requirement": 43,
     "item_mods": {
       "manadrainmindam": {
@@ -12716,6 +12602,7 @@
   {
     "item_name": "Goldstrike Arch",
     "item_base": "Gothic Bow",
+    "item_base_code": "8lw",
     "level_requirement": 46,
     "item_mods": {
       "item_damage_percent": {
@@ -12757,10 +12644,6 @@
         "string": "100-150% Bonus to Attack Rating"
       },
       {
-        "order": "108",
-        "string": "+150-200% Damage to Undead"
-      },
-      {
         "order": "112",
         "string": "+150-200% Damage to Demons"
       },
@@ -12781,6 +12664,7 @@
   {
     "item_name": "Langer Briser",
     "item_base": "Arbalest",
+    "item_base_code": "8lx",
     "level_requirement": 32,
     "item_mods": {
       "item_knockback": {
@@ -12846,6 +12730,7 @@
   {
     "item_name": "Pus Spitter",
     "item_base": "Siege Crossbow",
+    "item_base_code": "8mx",
     "level_requirement": 36,
     "item_mods": {
       "poison_damage": {
@@ -12919,6 +12804,7 @@
   {
     "item_name": "Buriza-Do Kyanon",
     "item_base": "Ballista",
+    "item_base_code": "8hx",
     "level_requirement": 41,
     "item_mods": {
       "item_pierce": {
@@ -12992,6 +12878,7 @@
   {
     "item_name": "Demon Machine",
     "item_base": "Chu-Ko-Nu",
+    "item_base_code": "8rx",
     "level_requirement": 49,
     "item_mods": {
       "armorclass": {
@@ -13065,6 +12952,7 @@
   {
     "item_name": "Peasant Crown",
     "item_base": "War Hat",
+    "item_base_code": "xap",
     "level_requirement": 28,
     "item_mods": {
       "energy": {
@@ -13122,6 +13010,7 @@
   {
     "item_name": "Rockstopper",
     "item_base": "Sallet",
+    "item_base_code": "xkp",
     "level_requirement": 31,
     "item_mods": {
       "lightresist": {
@@ -13187,6 +13076,7 @@
   {
     "item_name": "Stealskull",
     "item_base": "Casque",
+    "item_base_code": "xlm",
     "level_requirement": 35,
     "item_mods": {
       "manadrainmindam": {
@@ -13244,6 +13134,7 @@
   {
     "item_name": "Darksight Helm",
     "item_base": "Basinet",
+    "item_base_code": "xhl",
     "level_requirement": 38,
     "item_mods": {
       "item_lightradius": {
@@ -13325,6 +13216,7 @@
   {
     "item_name": "Valkyrie Wing",
     "item_base": "Winged Helm",
+    "item_base_code": "xhm",
     "level_requirement": 44,
     "item_mods": {
       "item_armor_percent": {
@@ -13382,6 +13274,7 @@
   {
     "item_name": "Crown of Thieves",
     "item_base": "Grand Crown",
+    "item_base_code": "xrn",
     "level_requirement": 49,
     "item_mods": {
       "dexterity": {
@@ -13463,6 +13356,7 @@
   {
     "item_name": "Blackhorn's Face",
     "item_base": "Death Mask",
+    "item_base_code": "xsk",
     "level_requirement": 41,
     "item_mods": {
       "item_attackertakeslightdamage": {
@@ -13528,6 +13422,7 @@
   {
     "item_name": "Vampire Gaze",
     "item_base": "Grim Helm",
+    "item_base_code": "xh9",
     "level_requirement": 41,
     "item_mods": {
       "manadrainmindam": {
@@ -13593,6 +13488,7 @@
   {
     "item_name": "The Spirit Shroud",
     "item_base": "Ghost Armor",
+    "item_base_code": "xui",
     "level_requirement": 28,
     "item_mods": {
       "item_cannotbefrozen": {
@@ -13650,6 +13546,7 @@
   {
     "item_name": "Skin of the Vipermagi",
     "item_base": "Serpentskin Armor",
+    "item_base_code": "xea",
     "level_requirement": 29,
     "item_mods": {
       "item_armor_percent": {
@@ -13699,6 +13596,7 @@
   {
     "item_name": "Skin of the Flayed One",
     "item_base": "Demonhide Armor",
+    "item_base_code": "xla",
     "level_requirement": 31,
     "item_mods": {
       "item_replenish_durability": {
@@ -13760,6 +13658,7 @@
   {
     "item_name": "Iron Pelt",
     "item_base": "Trellised Armor",
+    "item_base_code": "xtu",
     "level_requirement": 33,
     "item_mods": {
       "maxdurability": {
@@ -13813,6 +13712,7 @@
   {
     "item_name": "Spirit Forge",
     "item_base": "Linked Mail",
+    "item_base_code": "xng",
     "level_requirement": 35,
     "item_mods": {
       "item_lightradius": {
@@ -13840,8 +13740,8 @@
         "max": 15
       },
       "item_numsockets": {
-        "min": 2,
-        "max": 2
+        "min": null,
+        "max": null
       },
       "fire_skills": {
         "min": 1,
@@ -13875,7 +13775,7 @@
       },
       {
         "order": "0",
-        "string": "Sockets (2)"
+        "string": "Sockets (NaN-NaN)"
       },
       {
         "order": "157",
@@ -13886,6 +13786,7 @@
   {
     "item_name": "Crow Caw",
     "item_base": "Tigulated Mail",
+    "item_base_code": "xcl",
     "level_requirement": 37,
     "item_mods": {
       "item_openwounds": {
@@ -13951,6 +13852,7 @@
   {
     "item_name": "Shaftstop",
     "item_base": "Mesh Armor",
+    "item_base_code": "xhn",
     "level_requirement": 38,
     "item_mods": {
       "armorclass_vs_missile": {
@@ -13992,6 +13894,7 @@
   {
     "item_name": "Duriel's Shell",
     "item_base": "Cuirass",
+    "item_base_code": "xrs",
     "level_requirement": 41,
     "item_mods": {
       "strength": {
@@ -14077,6 +13980,7 @@
   {
     "item_name": "Skullder's Ire",
     "item_base": "Russet Armor",
+    "item_base_code": "xpl",
     "level_requirement": 42,
     "item_mods": {
       "item_allskills": {
@@ -14130,6 +14034,7 @@
   {
     "item_name": "Guardian Angel",
     "item_base": "Templar Coat",
+    "item_base_code": "xlt",
     "level_requirement": 45,
     "item_mods": {
       "item_lightradius": {
@@ -14219,6 +14124,7 @@
   {
     "item_name": "Toothrow",
     "item_base": "Sharktooth Armor",
+    "item_base_code": "xld",
     "level_requirement": 48,
     "item_mods": {
       "item_attackertakesdamage": {
@@ -14288,6 +14194,7 @@
   {
     "item_name": "Atma's Wail",
     "item_base": "Embossed Plate",
+    "item_base_code": "xth",
     "level_requirement": 51,
     "item_mods": {
       "dexterity": {
@@ -14373,6 +14280,7 @@
   {
     "item_name": "Black Hades",
     "item_base": "Chaos Armor",
+    "item_base_code": "xul",
     "level_requirement": 53,
     "item_mods": {
       "item_lightradius": {
@@ -14430,6 +14338,7 @@
   {
     "item_name": "Corpsemourn",
     "item_base": "Ornate Plate",
+    "item_base_code": "xar",
     "level_requirement": 55,
     "item_mods": {
       "strength": {
@@ -14465,8 +14374,8 @@
         "max": 1
       },
       "item_req_percent": {
-        "min": -15,
-        "max": -30
+        "min": -30,
+        "max": -15
       }
     },
     "property_strings": [
@@ -14504,13 +14413,14 @@
       },
       {
         "order": "0",
-        "string": "Requirements -15 to -30%"
+        "string": "Requirements -30 to -15%"
       }
     ]
   },
   {
     "item_name": "Que-Hegan's Wisdom",
     "item_base": "Mage Plate",
+    "item_base_code": "xtp",
     "level_requirement": 51,
     "item_mods": {
       "item_fastercastrate": {
@@ -14576,6 +14486,7 @@
   {
     "item_name": "Visceratuant",
     "item_base": "Defender",
+    "item_base_code": "xuc",
     "level_requirement": 28,
     "item_mods": {
       "sorceress_skills": {
@@ -14633,6 +14544,7 @@
   {
     "item_name": "Moser's Blessed Circle",
     "item_base": "Round Shield",
+    "item_base_code": "xml",
     "level_requirement": 31,
     "item_mods": {
       "all_resist": {
@@ -14644,8 +14556,8 @@
         "max": 25
       },
       "item_numsockets": {
-        "min": 2,
-        "max": 2
+        "min": null,
+        "max": null
       },
       "item_armor_percent": {
         "min": 180,
@@ -14667,7 +14579,7 @@
       },
       {
         "order": "0",
-        "string": "Sockets (2)"
+        "string": "Sockets (NaN-NaN)"
       },
       {
         "order": "74",
@@ -14682,6 +14594,7 @@
   {
     "item_name": "Stormchaser",
     "item_base": "Scutum",
+    "item_base_code": "xrg",
     "level_requirement": 35,
     "item_mods": {
       "lightning_damage": {
@@ -14767,6 +14680,7 @@
   {
     "item_name": "Tiamat's Rebuke",
     "item_base": "Dragon Shield",
+    "item_base_code": "xit",
     "level_requirement": 38,
     "item_mods": {
       "cold_damage": {
@@ -14836,6 +14750,7 @@
   {
     "item_name": "Gerke's Sanctuary",
     "item_base": "Pavise",
+    "item_base_code": "xow",
     "level_requirement": 44,
     "item_mods": {
       "normal_damage_reduction": {
@@ -14913,6 +14828,7 @@
   {
     "item_name": "Radament's Sphere",
     "item_base": "Ancient Shield",
+    "item_base_code": "xts",
     "level_requirement": 50,
     "item_mods": {
       "item_skillongethit": {
@@ -14982,6 +14898,7 @@
   {
     "item_name": "Lidless Wall",
     "item_base": "Grim Shield",
+    "item_base_code": "xsh",
     "level_requirement": 41,
     "item_mods": {
       "item_lightradius": {
@@ -15047,6 +14964,7 @@
   {
     "item_name": "Lance Guard",
     "item_base": "Barbed Shield",
+    "item_base_code": "xpk",
     "level_requirement": 35,
     "item_mods": {
       "item_hp_perlevel": {
@@ -15112,6 +15030,7 @@
   {
     "item_name": "Venom Grip",
     "item_base": "Demonhide Gloves",
+    "item_base_code": "xlg",
     "level_requirement": 29,
     "item_mods": {
       "poisonresist": {
@@ -15177,6 +15096,7 @@
   {
     "item_name": "Gravepalm",
     "item_base": "Sharkskin Gloves",
+    "item_base_code": "xvg",
     "level_requirement": 32,
     "item_mods": {
       "energy": {
@@ -15218,10 +15138,6 @@
         "string": "+10 to Strength"
       },
       {
-        "order": "108",
-        "string": "+100-200% Damage to Undead"
-      },
-      {
         "order": "106",
         "string": "+100-200 to Attack Rating against Undead"
       },
@@ -15242,6 +15158,7 @@
   {
     "item_name": "Ghoulhide",
     "item_base": "Heavy Bracers",
+    "item_base_code": "xmg",
     "level_requirement": 36,
     "item_mods": {
       "item_tohit_undead_perlevel": {
@@ -15299,6 +15216,7 @@
   {
     "item_name": "Lava Gout",
     "item_base": "Battle Gauntlets",
+    "item_base_code": "xtg",
     "level_requirement": 42,
     "item_mods": {
       "fireresist": {
@@ -15368,6 +15286,7 @@
   {
     "item_name": "Hellmouth",
     "item_base": "War Gauntlets",
+    "item_base_code": "xhg",
     "level_requirement": 47,
     "item_mods": {
       "fire_damage": {
@@ -15433,6 +15352,7 @@
   {
     "item_name": "Infernostride",
     "item_base": "Demonhide Boots",
+    "item_base_code": "xlb",
     "level_requirement": 29,
     "item_mods": {
       "fire_damage": {
@@ -15514,6 +15434,7 @@
   {
     "item_name": "Waterwalk",
     "item_base": "Sharkskin Boots",
+    "item_base_code": "xvb",
     "level_requirement": 32,
     "item_mods": {
       "item_fasterblockrate": {
@@ -15587,6 +15508,7 @@
   {
     "item_name": "Silkweave",
     "item_base": "Mesh Boots",
+    "item_base_code": "xmb",
     "level_requirement": 36,
     "item_mods": {
       "item_armor_percent": {
@@ -15636,6 +15558,7 @@
   {
     "item_name": "War Traveler",
     "item_base": "Battle Boots",
+    "item_base_code": "xtb",
     "level_requirement": 42,
     "item_mods": {
       "vitality": {
@@ -15713,6 +15636,7 @@
   {
     "item_name": "Gore Rider",
     "item_base": "War Boots",
+    "item_base_code": "xhb",
     "level_requirement": 47,
     "item_mods": {
       "item_req_percent": {
@@ -15782,6 +15706,7 @@
   {
     "item_name": "String of Ears",
     "item_base": "Demonhide Sash",
+    "item_base_code": "zlb",
     "level_requirement": 29,
     "item_mods": {
       "magic_damage_reduction": {
@@ -15835,6 +15760,7 @@
   {
     "item_name": "Razortail",
     "item_base": "Sharkskin Belt",
+    "item_base_code": "zvb",
     "level_requirement": 32,
     "item_mods": {
       "item_thorns_perlevel": {
@@ -15892,6 +15818,7 @@
   {
     "item_name": "Gloom's Trap",
     "item_base": "Mesh Belt",
+    "item_base_code": "zmb",
     "level_requirement": 36,
     "item_mods": {
       "item_lightradius": {
@@ -15957,6 +15884,7 @@
   {
     "item_name": "Snowclash",
     "item_base": "Battle Belt",
+    "item_base_code": "ztb",
     "level_requirement": 42,
     "item_mods": {
       "item_skillongethit": {
@@ -16030,6 +15958,7 @@
   {
     "item_name": "Thundergod's Vigor",
     "item_base": "War Belt",
+    "item_base_code": "zhb",
     "level_requirement": 47,
     "item_mods": {
       "item_skillongethit": {
@@ -16127,6 +16056,7 @@
   {
     "item_name": "Harlequin Crest",
     "item_base": "Shako",
+    "item_base_code": "uap",
     "level_requirement": 62,
     "item_mods": {
       "item_allskills": {
@@ -16208,6 +16138,7 @@
   {
     "item_name": "Veil of Steel",
     "item_base": "Spired Helm",
+    "item_base_code": "uhm",
     "level_requirement": 73,
     "item_mods": {
       "all_resist": {
@@ -16277,6 +16208,7 @@
   {
     "item_name": "The Gladiator's Bane",
     "item_base": "Wire Fleece",
+    "item_base_code": "utu",
     "level_requirement": 85,
     "item_mods": {
       "item_armor_percent": {
@@ -16354,6 +16286,7 @@
   {
     "item_name": "Arkaine's Valor",
     "item_base": "Balrog Skin",
+    "item_base_code": "upl",
     "level_requirement": 85,
     "item_mods": {
       "item_armor_percent": {
@@ -16403,6 +16336,7 @@
   {
     "item_name": "Blackoak Shield",
     "item_base": "Luna",
+    "item_base_code": "uml",
     "level_requirement": 61,
     "item_mods": {
       "item_dexterity_perlevel": {
@@ -16480,6 +16414,7 @@
   {
     "item_name": "Stormshield",
     "item_base": "Monarch",
+    "item_base_code": "uit",
     "level_requirement": 73,
     "item_mods": {
       "item_armor_perlevel": {
@@ -16557,6 +16492,7 @@
   {
     "item_name": "Hellslayer",
     "item_base": "Decapitator",
+    "item_base_code": "7bt",
     "level_requirement": 66,
     "item_mods": {
       "item_strength_perlevel": {
@@ -16638,6 +16574,7 @@
   {
     "item_name": "Messerschmidt's Reaver",
     "item_base": "Champion Axe",
+    "item_base_code": "7ga",
     "level_requirement": 70,
     "item_mods": {
       "item_maxdamage_percent_perlevel": {
@@ -16731,6 +16668,7 @@
   {
     "item_name": "Baranar's Star",
     "item_base": "Devil Star",
+    "item_base_code": "7mt",
     "level_requirement": 65,
     "item_mods": {
       "item_tohit_percent": {
@@ -16816,6 +16754,7 @@
   {
     "item_name": "Schaefer's Hammer",
     "item_base": "Legendary Mallet",
+    "item_base_code": "7wh",
     "level_requirement": 79,
     "item_mods": {
       "item_skillonhit": {
@@ -16913,6 +16852,7 @@
   {
     "item_name": "The Cranium Basher",
     "item_base": "Thunder Maul",
+    "item_base_code": "7gm",
     "level_requirement": 87,
     "item_mods": {
       "item_fasterattackrate": {
@@ -16994,6 +16934,7 @@
   {
     "item_name": "Lightsabre",
     "item_base": "Phase Blade",
+    "item_base_code": "7cr",
     "level_requirement": 58,
     "item_mods": {
       "item_lightradius": {
@@ -17091,6 +17032,7 @@
   {
     "item_name": "Doombringer",
     "item_base": "Champion Sword",
+    "item_base_code": "7b7",
     "level_requirement": 69,
     "item_mods": {
       "item_maxhp_percent": {
@@ -17164,6 +17106,7 @@
   {
     "item_name": "The Grandfather",
     "item_base": "Colossus Blade",
+    "item_base_code": "7gd",
     "level_requirement": 81,
     "item_mods": {
       "strength": {
@@ -17253,6 +17196,7 @@
   {
     "item_name": "Wizardspike",
     "item_base": "Bone Knife",
+    "item_base_code": "7dg",
     "level_requirement": 61,
     "item_mods": {
       "item_mana_perlevel": {
@@ -17312,49 +17256,9 @@
     ]
   },
   {
-    "item_name": "Constricting Ring",
-    "item_base": "Ring",
-    "level_requirement": 95,
-    "item_mods": {
-      "all_resist": {
-        "min": 100,
-        "max": 100
-      },
-      "hpregen": {
-        "min": -30,
-        "max": -30
-      },
-      "item_magicbonus": {
-        "min": 100,
-        "max": 100
-      },
-      "all_resist_max": {
-        "min": 15,
-        "max": 15
-      }
-    },
-    "property_strings": [
-      {
-        "order": "160",
-        "string": "All Resistances +100"
-      },
-      {
-        "order": "56",
-        "string": "Replenish Life +-30"
-      },
-      {
-        "order": "8",
-        "string": "100% Better Chance of Getting Magic Items"
-      },
-      {
-        "order": "160",
-        "string": "+15 to All Maximum Resistances"
-      }
-    ]
-  },
-  {
     "item_name": "Stormspire",
     "item_base": "Giant Thresher",
+    "item_base_code": "7wc",
     "level_requirement": 70,
     "item_mods": {
       "lightresist": {
@@ -17452,6 +17356,7 @@
   {
     "item_name": "Eaglehorn",
     "item_base": "Crusader Bow",
+    "item_base_code": "6l7",
     "level_requirement": 69,
     "item_mods": {
       "item_ignoretargetac": {
@@ -17509,6 +17414,7 @@
   {
     "item_name": "Windforce",
     "item_base": "Hydra Bow",
+    "item_base_code": "6lw",
     "level_requirement": 73,
     "item_mods": {
       "dexterity": {
@@ -17582,6 +17488,7 @@
   {
     "item_name": "Bul-Kathos' Wedding Band",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 58,
     "item_mods": {
       "item_hp_perlevel": {
@@ -17623,6 +17530,7 @@
   {
     "item_name": "The Cat's Eye",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 50,
     "item_mods": {
       "item_fastermovevelocity": {
@@ -17672,6 +17580,7 @@
   {
     "item_name": "The Rising Sun",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 65,
     "item_mods": {
       "item_absorb_fire_perlevel": {
@@ -17745,6 +17654,7 @@
   {
     "item_name": "Crescent Moon",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 50,
     "item_mods": {
       "manadrainmindam": {
@@ -17810,6 +17720,7 @@
   {
     "item_name": "Mara's Kaleidoscope",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 67,
     "item_mods": {
       "item_allskills": {
@@ -17867,6 +17778,7 @@
   {
     "item_name": "Atma's Scarab",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 60,
     "item_mods": {
       "poison_damage": {
@@ -17924,6 +17836,7 @@
   {
     "item_name": "Dwarf Star",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 45,
     "item_mods": {
       "item_goldbonus": {
@@ -17981,6 +17894,7 @@
   {
     "item_name": "Raven Frost",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 45,
     "item_mods": {
       "item_cannotbefrozen": {
@@ -18038,6 +17952,7 @@
   {
     "item_name": "Highlord's Wrath",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 65,
     "item_mods": {
       "lightresist": {
@@ -18095,6 +18010,7 @@
   {
     "item_name": "Saracen's Chance",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 47,
     "item_mods": {
       "all_resist": {
@@ -18136,6 +18052,7 @@
   {
     "item_name": "Arreat's Face",
     "item_base": "Slayer Guard",
+    "item_base_code": "baa",
     "level_requirement": 42,
     "item_mods": {
       "barbarian_skills": {
@@ -18217,6 +18134,7 @@
   {
     "item_name": "Homunculus",
     "item_base": "Hierophant Trophy",
+    "item_base_code": "nea",
     "level_requirement": 42,
     "item_mods": {
       "necromancer_skills": {
@@ -18290,6 +18208,7 @@
   {
     "item_name": "Titan's Revenge",
     "item_base": "Ceremonial Javelin",
+    "item_base_code": "ama",
     "level_requirement": 42,
     "item_mods": {
       "amazon_skills": {
@@ -18371,6 +18290,7 @@
   {
     "item_name": "Lycander's Aim",
     "item_base": "Ceremonial Bow",
+    "item_base_code": "am7",
     "level_requirement": 42,
     "item_mods": {
       "amazon_skills": {
@@ -18452,6 +18372,7 @@
   {
     "item_name": "Lycander's Flank",
     "item_base": "Ceremonial Pike",
+    "item_base_code": "am9",
     "level_requirement": 42,
     "item_mods": {
       "amazon_skills": {
@@ -18541,6 +18462,7 @@
   {
     "item_name": "The Oculus",
     "item_base": "Swirling Crystal",
+    "item_base_code": "oba",
     "level_requirement": 42,
     "item_mods": {
       "sorceress_skills": {
@@ -18622,6 +18544,7 @@
   {
     "item_name": "Herald of Zakarum",
     "item_base": "Gilded Shield",
+    "item_base_code": "pa9",
     "level_requirement": 42,
     "item_mods": {
       "paladin_skills": {
@@ -18703,6 +18626,7 @@
   {
     "item_name": "Bartuc's Cut-Throat",
     "item_base": "Greater Talons",
+    "item_base_code": "9tw",
     "level_requirement": 42,
     "item_mods": {
       "assassin_skills": {
@@ -18792,6 +18716,7 @@
   {
     "item_name": "Jalal's Mane",
     "item_base": "Totemic Mask",
+    "item_base_code": "dra",
     "level_requirement": 42,
     "item_mods": {
       "druid_skills": {
@@ -18873,6 +18798,7 @@
   {
     "item_name": "The Scalper",
     "item_base": "Francisca",
+    "item_base_code": "9ta",
     "level_requirement": 57,
     "item_mods": {
       "item_damage_percent": {
@@ -18938,6 +18864,7 @@
   {
     "item_name": "Bloodmoon",
     "item_base": "Elegant Blade",
+    "item_base_code": "7sb",
     "level_requirement": 61,
     "item_mods": {
       "item_damage_percent": {
@@ -18999,6 +18926,7 @@
   {
     "item_name": "Djinn Slayer",
     "item_base": "Ataghan",
+    "item_base_code": "7sm",
     "level_requirement": 65,
     "item_mods": {
       "item_damage_percent": {
@@ -19072,6 +19000,7 @@
   {
     "item_name": "Deathbit",
     "item_base": "Battle Dart",
+    "item_base_code": "9tk",
     "level_requirement": 44,
     "item_mods": {
       "item_deadlystrike": {
@@ -19129,6 +19058,7 @@
   {
     "item_name": "Warshrike",
     "item_base": "Winged Knife",
+    "item_base_code": "7bk",
     "level_requirement": 75,
     "item_mods": {
       "item_damage_percent": {
@@ -19186,6 +19116,7 @@
   {
     "item_name": "Gut Siphon",
     "item_base": "Demon Crossbow",
+    "item_base_code": "6rx",
     "level_requirement": 71,
     "item_mods": {
       "item_damage_percent": {
@@ -19243,6 +19174,7 @@
   {
     "item_name": "Razor's Edge",
     "item_base": "Tomahawk",
+    "item_base_code": "7ha",
     "level_requirement": 67,
     "item_mods": {
       "item_damage_percent": {
@@ -19300,6 +19232,7 @@
   {
     "item_name": "Demon Limb",
     "item_base": "Tyrant Club",
+    "item_base_code": "7sp",
     "level_requirement": 63,
     "item_mods": {
       "item_damage_percent": {
@@ -19373,6 +19306,7 @@
   {
     "item_name": "Steel Shade",
     "item_base": "Armet",
+    "item_base_code": "ulm",
     "level_requirement": 62,
     "item_mods": {
       "item_armor_percent": {
@@ -19446,6 +19380,7 @@
   {
     "item_name": "Tomb Reaver",
     "item_base": "Cryptic Axe",
+    "item_base_code": "7pa",
     "level_requirement": 84,
     "item_mods": {
       "item_fasterattackrate": {
@@ -19507,10 +19442,6 @@
         "string": "+200-280% Enhanced Damage"
       },
       {
-        "order": "108",
-        "string": "+150-230% Damage to Undead"
-      },
-      {
         "order": "8",
         "string": "50-80% Better Chance of Getting Magic Items"
       },
@@ -19543,6 +19474,7 @@
   {
     "item_name": "Death's Web",
     "item_base": "Unearthed Wand",
+    "item_base_code": "7gw",
     "level_requirement": 66,
     "item_mods": {
       "item_allskills": {
@@ -19592,6 +19524,7 @@
   {
     "item_name": "Nature's Peace",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 69,
     "item_mods": {
       "item_preventheal": {
@@ -19665,6 +19598,7 @@
   {
     "item_name": "Azurewrath",
     "item_base": "Phase Blade",
+    "item_base_code": "7cr",
     "level_requirement": 85,
     "item_mods": {
       "magic_damage": {
@@ -19746,6 +19680,7 @@
   {
     "item_name": "Seraph's Hymn",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 65,
     "item_mods": {
       "item_allskills": {
@@ -19791,10 +19726,6 @@
         "string": "+50-80% Damage to Demons"
       },
       {
-        "order": "108",
-        "string": "+50-80% Damage to Undead"
-      },
-      {
         "order": "110",
         "string": "+150-250 to Attack Rating against Demons"
       },
@@ -19811,6 +19742,7 @@
   {
     "item_name": "Fleshripper",
     "item_base": "Fanged Knife",
+    "item_base_code": "7kr",
     "level_requirement": 68,
     "item_mods": {
       "item_damage_percent": {
@@ -19884,6 +19816,7 @@
   {
     "item_name": "Horizon's Tornado",
     "item_base": "Scourge",
+    "item_base_code": "7fl",
     "level_requirement": 64,
     "item_mods": {
       "item_damage_percent": {
@@ -19949,6 +19882,7 @@
   {
     "item_name": "Stone Crusher",
     "item_base": "Legendary Mallet",
+    "item_base_code": "7wh",
     "level_requirement": 68,
     "item_mods": {
       "item_damage_percent": {
@@ -20022,6 +19956,7 @@
   {
     "item_name": "Jade Talon",
     "item_base": "Wrist Sword",
+    "item_base_code": "7wb",
     "level_requirement": 66,
     "item_mods": {
       "item_damage_percent": {
@@ -20087,6 +20022,7 @@
   {
     "item_name": "Shadow Dancer",
     "item_base": "Myrmidon Greaves",
+    "item_base_code": "uhb",
     "level_requirement": 71,
     "item_mods": {
       "item_armor_percent": {
@@ -20144,6 +20080,7 @@
   {
     "item_name": "Cerebus' Bite",
     "item_base": "Blood Spirit",
+    "item_base_code": "drb",
     "level_requirement": 63,
     "item_mods": {
       "item_armor_percent": {
@@ -20217,6 +20154,7 @@
   {
     "item_name": "Tyrael's Might",
     "item_base": "Sacred Armor",
+    "item_base_code": "uar",
     "level_requirement": 84,
     "item_mods": {
       "item_req_percent": {
@@ -20266,10 +20204,6 @@
         "string": "+120-150% Enhanced Defense"
       },
       {
-        "order": "108",
-        "string": "+70-120% Damage to Undead"
-      },
-      {
         "order": "112",
         "string": "+70-120% Damage to Demons"
       },
@@ -20294,6 +20228,7 @@
   {
     "item_name": "Soul Drainer",
     "item_base": "Vambraces",
+    "item_base_code": "umg",
     "level_requirement": 74,
     "item_mods": {
       "item_armor_percent": {
@@ -20359,6 +20294,7 @@
   {
     "item_name": "Rune Master",
     "item_base": "Ettin Axe",
+    "item_base_code": "72a",
     "level_requirement": 72,
     "item_mods": {
       "item_damage_percent": {
@@ -20408,6 +20344,7 @@
   {
     "item_name": "Death Cleaver",
     "item_base": "Berserker Axe",
+    "item_base_code": "7wa",
     "level_requirement": 70,
     "item_mods": {
       "item_damage_percent": {
@@ -20465,6 +20402,7 @@
   {
     "item_name": "Executioner's Justice",
     "item_base": "Glorious Axe",
+    "item_base_code": "7gi",
     "level_requirement": 75,
     "item_mods": {
       "item_damage_percent": {
@@ -20522,6 +20460,7 @@
   {
     "item_name": "Stoneraven",
     "item_base": "Matriarchal Spear",
+    "item_base_code": "amd",
     "level_requirement": 64,
     "item_mods": {
       "item_damage_percent": {
@@ -20579,6 +20518,7 @@
   {
     "item_name": "Leviathan",
     "item_base": "Kraken Shell",
+    "item_base_code": "uld",
     "level_requirement": 65,
     "item_mods": {
       "item_armor_percent": {
@@ -20624,6 +20564,7 @@
   {
     "item_name": "Wisp Projector",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 76,
     "item_mods": {
       "item_absorblight_percent": {
@@ -20673,6 +20614,7 @@
   {
     "item_name": "Gargoyle's Bite",
     "item_base": "Winged Harpoon",
+    "item_base_code": "7ts",
     "level_requirement": 70,
     "item_mods": {
       "item_damage_percent": {
@@ -20722,6 +20664,7 @@
   {
     "item_name": "Lacerator",
     "item_base": "Winged Axe",
+    "item_base_code": "7b8",
     "level_requirement": 68,
     "item_mods": {
       "item_damage_percent": {
@@ -20779,6 +20722,7 @@
   {
     "item_name": "Mang Song's Lesson",
     "item_base": "Archon Staff",
+    "item_base_code": "6ws",
     "level_requirement": 82,
     "item_mods": {
       "item_allskills": {
@@ -20844,6 +20788,7 @@
   {
     "item_name": "Viperfork",
     "item_base": "Mancatcher",
+    "item_base_code": "7br",
     "level_requirement": 71,
     "item_mods": {
       "item_damage_percent": {
@@ -20925,6 +20870,7 @@
   {
     "item_name": "Ethereal Edge",
     "item_base": "Silver-edged Axe",
+    "item_base_code": "7ba",
     "level_requirement": 74,
     "item_mods": {
       "item_damage_percent": {
@@ -20998,6 +20944,7 @@
   {
     "item_name": "Demonhorn's Edge",
     "item_base": "Destroyer Helm",
+    "item_base_code": "bad",
     "level_requirement": 61,
     "item_mods": {
       "vitality": {
@@ -21071,6 +21018,7 @@
   {
     "item_name": "The Reaper's Toll",
     "item_base": "Thresher",
+    "item_base_code": "7s8",
     "level_requirement": 75,
     "item_mods": {
       "item_damage_percent": {
@@ -21144,6 +21092,7 @@
   {
     "item_name": "Spirit Keeper",
     "item_base": "Earth Spirit",
+    "item_base_code": "drd",
     "level_requirement": 67,
     "item_mods": {
       "item_armor_percent": {
@@ -21174,9 +21123,9 @@
         "min": 1,
         "max": 2
       },
-      "throw": {
-        "min": 221,
-        "max": 250
+      "random_class_skill": {
+        "min": 2,
+        "max": 2
       }
     },
     "property_strings": [
@@ -21210,13 +21159,14 @@
       },
       {
         "order": "81",
-        "string": "+221-250 to Throw"
+        "string": "+2 to Random Druid Skill"
       }
     ]
   },
   {
     "item_name": "Hellrack",
     "item_base": "Colossus Crossbow",
+    "item_base_code": "6hx",
     "level_requirement": 76,
     "item_mods": {
       "item_damage_percent": {
@@ -21282,6 +21232,7 @@
   {
     "item_name": "Alma Negra",
     "item_base": "Sacred Rondache",
+    "item_base_code": "pac",
     "level_requirement": 77,
     "item_mods": {
       "item_armor_percent": {
@@ -21347,6 +21298,7 @@
   {
     "item_name": "Darkforce Spawn",
     "item_base": "Bloodlord Skull",
+    "item_base_code": "nef",
     "level_requirement": 64,
     "item_mods": {
       "item_armor_percent": {
@@ -21420,6 +21372,7 @@
   {
     "item_name": "Widowmaker",
     "item_base": "Ward Bow",
+    "item_base_code": "6sw",
     "level_requirement": 65,
     "item_mods": {
       "item_damage_percent": {
@@ -21477,6 +21430,7 @@
   {
     "item_name": "Blood Raven's Charge",
     "item_base": "Matriarchal Bow",
+    "item_base_code": "amb",
     "level_requirement": 71,
     "item_mods": {
       "item_damage_percent": {
@@ -21550,6 +21504,7 @@
   {
     "item_name": "Ghostflame",
     "item_base": "Legend Spike",
+    "item_base_code": "7bl",
     "level_requirement": 62,
     "item_mods": {
       "item_damage_percent": {
@@ -21615,6 +21570,7 @@
   {
     "item_name": "Shadow Killer",
     "item_base": "Battle Cestus",
+    "item_base_code": "7cs",
     "level_requirement": 78,
     "item_mods": {
       "item_damage_percent": {
@@ -21696,6 +21652,7 @@
   {
     "item_name": "Gimmershred",
     "item_base": "Flying Axe",
+    "item_base_code": "7ta",
     "level_requirement": 70,
     "item_mods": {
       "item_damage_percent": {
@@ -21753,6 +21710,7 @@
   {
     "item_name": "Griffon's Eye",
     "item_base": "Diadem",
+    "item_base_code": "ci3",
     "level_requirement": 76,
     "item_mods": {
       "armorclass": {
@@ -21802,6 +21760,7 @@
   {
     "item_name": "Windhammer",
     "item_base": "Ogre Maul",
+    "item_base_code": "7m7",
     "level_requirement": 68,
     "item_mods": {
       "item_damage_percent": {
@@ -21851,6 +21810,7 @@
   {
     "item_name": "Thunderstroke",
     "item_base": "Matriarchal Javelin",
+    "item_base_code": "amf",
     "level_requirement": 69,
     "item_mods": {
       "item_damage_percent": {
@@ -21924,6 +21884,7 @@
   {
     "item_name": "Demon's Arch",
     "item_base": "Balrog Spear",
+    "item_base_code": "7s7",
     "level_requirement": 68,
     "item_mods": {
       "item_damage_percent": {
@@ -21997,6 +21958,7 @@
   {
     "item_name": "Boneflame",
     "item_base": "Succubus Skull",
+    "item_base_code": "nee",
     "level_requirement": 72,
     "item_mods": {
       "item_armor_percent": {
@@ -22054,6 +22016,7 @@
   {
     "item_name": "Steel Pillar",
     "item_base": "War Pike",
+    "item_base_code": "7p7",
     "level_requirement": 69,
     "item_mods": {
       "item_damage_percent": {
@@ -22127,6 +22090,7 @@
   {
     "item_name": "Nightwing's Veil",
     "item_base": "Spired Helm",
+    "item_base_code": "uhm",
     "level_requirement": 67,
     "item_mods": {
       "item_armor_percent": {
@@ -22200,6 +22164,7 @@
   {
     "item_name": "Crown of Ages",
     "item_base": "Corona",
+    "item_base_code": "urn",
     "level_requirement": 82,
     "item_mods": {
       "item_fastergethitrate": {
@@ -22269,6 +22234,7 @@
   {
     "item_name": "Andariel's Visage",
     "item_base": "Demonhead",
+    "item_base_code": "usk",
     "level_requirement": 83,
     "item_mods": {
       "item_armor_percent": {
@@ -22358,6 +22324,7 @@
   {
     "item_name": "Dragonscale",
     "item_base": "Zakarum Shield",
+    "item_base_code": "pae",
     "level_requirement": 80,
     "item_mods": {
       "item_armor_percent": {
@@ -22431,6 +22398,7 @@
   {
     "item_name": "Steel Carapace",
     "item_base": "Shadow Plate",
+    "item_base_code": "uul",
     "level_requirement": 66,
     "item_mods": {
       "item_armor_percent": {
@@ -22496,6 +22464,7 @@
   {
     "item_name": "Medusa's Gaze",
     "item_base": "Aegis",
+    "item_base_code": "uow",
     "level_requirement": 76,
     "item_mods": {
       "item_armor_percent": {
@@ -22569,6 +22538,7 @@
   {
     "item_name": "Ravenlore",
     "item_base": "Sky Spirit",
+    "item_base_code": "dre",
     "level_requirement": 74,
     "item_mods": {
       "item_armor_percent": {
@@ -22626,6 +22596,7 @@
   {
     "item_name": "Boneshade",
     "item_base": "Lich Wand",
+    "item_base_code": "7bw",
     "level_requirement": 79,
     "item_mods": {
       "necromancer_skills": {
@@ -22691,6 +22662,7 @@
   {
     "item_name": "Flamebellow",
     "item_base": "Balrog Blade",
+    "item_base_code": "7gs",
     "level_requirement": 71,
     "item_mods": {
       "item_damage_percent": {
@@ -22772,6 +22744,7 @@
   {
     "item_name": "Death's Fathom",
     "item_base": "Dimensional Shard",
+    "item_base_code": "obf",
     "level_requirement": 73,
     "item_mods": {
       "sorceress_skills": {
@@ -22829,6 +22802,7 @@
   {
     "item_name": "Wolfhowl",
     "item_base": "Fury Visor",
+    "item_base_code": "bac",
     "level_requirement": 79,
     "item_mods": {
       "item_armor_percent": {
@@ -22910,6 +22884,7 @@
   {
     "item_name": "Spirit Ward",
     "item_base": "Ward",
+    "item_base_code": "uts",
     "level_requirement": 68,
     "item_mods": {
       "item_armor_percent": {
@@ -22975,6 +22950,7 @@
   {
     "item_name": "Kira's Guardian",
     "item_base": "Tiara",
+    "item_base_code": "ci2",
     "level_requirement": 77,
     "item_mods": {
       "armorclass": {
@@ -23040,6 +23016,7 @@
   {
     "item_name": "Ormus' Robes",
     "item_base": "Dusk Shroud",
+    "item_base_code": "uui",
     "level_requirement": 75,
     "item_mods": {
       "armorclass": {
@@ -23066,9 +23043,9 @@
         "min": 10,
         "max": 15
       },
-      "unsummon": {
-        "min": 36,
-        "max": 60
+      "random_class_skill": {
+        "min": 3,
+        "max": 3
       }
     },
     "property_strings": [
@@ -23098,13 +23075,14 @@
       },
       {
         "order": "81",
-        "string": "+36-60 to Unsummon"
+        "string": "+3 to Random Sorceress Skill"
       }
     ]
   },
   {
     "item_name": "Gheed's Fortune",
     "item_base": "Grand Charm",
+    "item_base_code": "cm3",
     "level_requirement": 62,
     "item_mods": {
       "item_magicbonus": {
@@ -23138,6 +23116,7 @@
   {
     "item_name": "Stormlash",
     "item_base": "Scourge",
+    "item_base_code": "7fl",
     "level_requirement": 82,
     "item_mods": {
       "item_damage_percent": {
@@ -23215,6 +23194,7 @@
   {
     "item_name": "Halaberd's Reign",
     "item_base": "Conqueror Crown",
+    "item_base_code": "bae",
     "level_requirement": 77,
     "item_mods": {
       "item_armor_percent": {
@@ -23296,6 +23276,7 @@
   {
     "item_name": "Spike Thorn",
     "item_base": "Blade Barrier",
+    "item_base_code": "upk",
     "level_requirement": 70,
     "item_mods": {
       "item_armor_percent": {
@@ -23349,6 +23330,7 @@
   {
     "item_name": "Dracul's Grasp",
     "item_base": "Vampirebone Gloves",
+    "item_base_code": "uvg",
     "level_requirement": 76,
     "item_mods": {
       "item_armor_percent": {
@@ -23406,6 +23388,7 @@
   {
     "item_name": "Frostwind",
     "item_base": "Cryptic Sword",
+    "item_base_code": "7ls",
     "level_requirement": 70,
     "item_mods": {
       "item_damage_percent": {
@@ -23479,6 +23462,7 @@
   {
     "item_name": "Templar's Might",
     "item_base": "Sacred Armor",
+    "item_base_code": "uar",
     "level_requirement": 74,
     "item_mods": {
       "item_armor_percent": {
@@ -23552,6 +23536,7 @@
   {
     "item_name": "Eschuta's Temper",
     "item_base": "Eldritch Orb",
+    "item_base_code": "obc",
     "level_requirement": 72,
     "item_mods": {
       "sorceress_skills": {
@@ -23617,6 +23602,7 @@
   {
     "item_name": "Firelizard's Talons",
     "item_base": "Feral Claws",
+    "item_base_code": "7lw",
     "level_requirement": 67,
     "item_mods": {
       "item_damage_percent": {
@@ -23690,6 +23676,7 @@
   {
     "item_name": "Sandstorm Trek",
     "item_base": "Scarabshell Boots",
+    "item_base_code": "uvb",
     "level_requirement": 64,
     "item_mods": {
       "item_armor_percent": {
@@ -23771,6 +23758,7 @@
   {
     "item_name": "Marrowwalk",
     "item_base": "Boneweave Boots",
+    "item_base_code": "umb",
     "level_requirement": 66,
     "item_mods": {
       "item_armor_percent": {
@@ -23844,6 +23832,7 @@
   {
     "item_name": "Heaven's Light",
     "item_base": "Mighty Scepter",
+    "item_base_code": "7sc",
     "level_requirement": 61,
     "item_mods": {
       "item_damage_percent": {
@@ -23925,6 +23914,7 @@
   {
     "item_name": "Arachnid Mesh",
     "item_base": "Spiderweb Sash",
+    "item_base_code": "ulc",
     "level_requirement": 80,
     "item_mods": {
       "item_armor_percent": {
@@ -23982,6 +23972,7 @@
   {
     "item_name": "Nosferatu's Coil",
     "item_base": "Vampirefang Belt",
+    "item_base_code": "uvc",
     "level_requirement": 51,
     "item_mods": {
       "strength": {
@@ -24039,6 +24030,7 @@
   {
     "item_name": "Metalgrid",
     "item_base": "Amulet",
+    "item_base_code": "amu",
     "level_requirement": 81,
     "item_mods": {
       "item_attackertakesdamage": {
@@ -24053,7 +24045,7 @@
         "min": 400,
         "max": 450
       },
-      "iron_golem": {
+      "irongolem": {
         "min": 16,
         "max": 16
       },
@@ -24077,7 +24069,7 @@
       },
       {
         "order": "81",
-        "string": "+16 to Iron Golem"
+        "string": "+16 to IronGolem"
       },
       {
         "order": "1",
@@ -24088,6 +24080,7 @@
   {
     "item_name": "Verdungo's Hearty Cord",
     "item_base": "Mithril Coil",
+    "item_base_code": "umc",
     "level_requirement": 63,
     "item_mods": {
       "item_armor_percent": {
@@ -24145,6 +24138,7 @@
   {
     "item_name": "Carrion Wind",
     "item_base": "Ring",
+    "item_base_code": "rin",
     "level_requirement": 60,
     "item_mods": {
       "armorclass_vs_missile": {
@@ -24210,6 +24204,7 @@
   {
     "item_name": "Giant Skull",
     "item_base": "Bone Visage",
+    "item_base_code": "uh9",
     "level_requirement": 65,
     "item_mods": {
       "armorclass": {
@@ -24267,6 +24262,7 @@
   {
     "item_name": "Astreon's Iron Ward",
     "item_base": "Caduceus",
+    "item_base_code": "7ws",
     "level_requirement": 60,
     "item_mods": {
       "item_damage_percent": {
@@ -24356,6 +24352,7 @@
   {
     "item_name": "Annihilus",
     "item_base": "Small Charm",
+    "item_base_code": "cm1",
     "level_requirement": 70,
     "item_mods": {
       "item_allskills": {
@@ -24405,6 +24402,7 @@
   {
     "item_name": "Arioc's Needle",
     "item_base": "Hyperion Spear",
+    "item_base_code": "7sr",
     "level_requirement": 81,
     "item_mods": {
       "item_damage_percent": {
@@ -24470,6 +24468,7 @@
   {
     "item_name": "Cranebeak",
     "item_base": "War Spike",
+    "item_base_code": "7mp",
     "level_requirement": 63,
     "item_mods": {
       "item_damage_percent": {
@@ -24535,6 +24534,7 @@
   {
     "item_name": "Nord's Tenderizer",
     "item_base": "Truncheon",
+    "item_base_code": "7cl",
     "level_requirement": 68,
     "item_mods": {
       "item_damage_percent": {
@@ -24608,6 +24608,7 @@
   {
     "item_name": "Earth Shifter",
     "item_base": "Thunder Maul",
+    "item_base_code": "7gm",
     "level_requirement": 69,
     "item_mods": {
       "item_damage_percent": {
@@ -24681,6 +24682,7 @@
   {
     "item_name": "Wraith Flight",
     "item_base": "Ghost Glaive",
+    "item_base_code": "7gl",
     "level_requirement": 76,
     "item_mods": {
       "item_damage_percent": {
@@ -24734,6 +24736,7 @@
   {
     "item_name": "Bonehew",
     "item_base": "Ogre Axe",
+    "item_base_code": "7o7",
     "level_requirement": 64,
     "item_mods": {
       "item_damage_percent": {
@@ -24799,6 +24802,7 @@
   {
     "item_name": "Ondal's Wisdom",
     "item_base": "Elder Staff",
+    "item_base_code": "6cs",
     "level_requirement": 66,
     "item_mods": {
       "item_fastercastrate": {
@@ -24856,6 +24860,7 @@
   {
     "item_name": "The Redeemer",
     "item_base": "Mighty Scepter",
+    "item_base_code": "7sc",
     "level_requirement": 72,
     "item_mods": {
       "item_damage_percent": {
@@ -24953,6 +24958,7 @@
   {
     "item_name": "Head Hunter's Glory",
     "item_base": "Troll Nest",
+    "item_base_code": "ush",
     "level_requirement": 75,
     "item_mods": {
       "armorclass": {
@@ -25034,6 +25040,7 @@
   {
     "item_name": "Steelrend",
     "item_base": "Ogre Gauntlets",
+    "item_base_code": "uhg",
     "level_requirement": 70,
     "item_mods": {
       "armorclass": {
@@ -25083,6 +25090,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "lightning_damage": {
@@ -25124,6 +25132,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "cold_damage": {
@@ -25165,6 +25174,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "fire_damage": {
@@ -25206,6 +25216,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "poison_damage": {
@@ -25247,6 +25258,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "lightning_damage": {
@@ -25288,6 +25300,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "cold_damage": {
@@ -25329,6 +25342,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "fire_damage": {
@@ -25370,6 +25384,7 @@
   {
     "item_name": "Rainbow Facet",
     "item_base": "Jewel",
+    "item_base_code": "jew",
     "level_requirement": 49,
     "item_mods": {
       "poison_damage": {
@@ -25411,6 +25426,7 @@
   {
     "item_name": "Hellfire Torch",
     "item_base": "Large Charm",
+    "item_base_code": "cm2",
     "level_requirement": 75,
     "item_mods": {
       "": {

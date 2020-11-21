@@ -1,11 +1,11 @@
 import React from "react";
-import { parseToJson } from "./util/parseToJson";
+import { convertItemStat } from "./util/convertItemStat";
 
 import { CSVReader } from "react-papaparse";
 
 const buttonRef = React.createRef();
 
-export const PropertiesParse = (props) => {
+export const ItemStatInput = (props) => {
   const { setJsonFiles } = props;
   const handleOpenDialog = (e) => {
     if (buttonRef.current) {
@@ -14,10 +14,10 @@ export const PropertiesParse = (props) => {
   };
 
   const handleOnFileLoad = (data) => {
-    const newJson = parseToJson(data);
+    const newJson = convertItemStat(data);
     setJsonFiles((prevState) => ({
       ...prevState,
-      properties: newJson,
+      item_stat: newJson,
     }));
   };
 
@@ -54,7 +54,7 @@ export const PropertiesParse = (props) => {
           }}
         >
           <button type="button" onClick={handleOpenDialog}>
-            Properties.txt
+            ItemStatCost.txt
           </button>
           <div
             style={{
@@ -63,7 +63,7 @@ export const PropertiesParse = (props) => {
               borderColor: "#ccc",
               height: 25,
               paddingLeft: 12,
-              width: "20%",
+              width: "50%",
             }}
           >
             {file && file.name}

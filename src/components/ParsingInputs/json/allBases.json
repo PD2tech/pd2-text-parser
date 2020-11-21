@@ -1,7 +1,7 @@
 [
   {
     "item_name": "Ring",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/rings/rin1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/rings/rin1.png",
     "item_type": "ring",
     "item_properties": {
       "item_base": "Ring",
@@ -11,12 +11,11 @@
       "item_tier": null,
       "rarity_type": 3
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Amulet",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/amulets/amu.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu.png",
     "item_type": "amulet",
     "item_properties": {
       "item_base": "Amulet",
@@ -26,13 +25,12 @@
       "item_tier": null,
       "rarity_type": 3
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Stag Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/am1.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Stag Bow",
@@ -66,7 +64,7 @@
   {
     "item_name": "Reflex Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/am2.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Reflex Bow",
@@ -100,7 +98,7 @@
   {
     "item_name": "Ashwood Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/am1.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ashwood Bow",
@@ -134,7 +132,7 @@
   {
     "item_name": "Ceremonial Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/am2.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ceremonial Bow",
@@ -168,7 +166,7 @@
   {
     "item_name": "Matriarchal Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/am1.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Matriarchal Bow",
@@ -202,7 +200,7 @@
   {
     "item_name": "Grand Matron Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/am2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/am2.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Grand Matron Bow",
@@ -236,7 +234,7 @@
   {
     "item_name": "Quilted Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/qlt.png",
     "item_properties": { 
       "item_base": "Quilted Armor",
       "armor_type": "light",
@@ -262,13 +260,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Leather Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/lea.png",
     "item_properties": { 
       "item_base": "Leather Armor",
       "armor_type": "light",
@@ -294,13 +291,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Hard Leather Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/hla.png",
     "item_properties": { 
       "item_base": "Hard Leather Armor",
       "armor_type": "light",
@@ -326,13 +322,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Studded Leather",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/stu.png",
     "item_properties": { 
       "item_base": "Studded Leather",
       "armor_type": "light",
@@ -358,13 +353,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Ring Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/rng.png",
     "item_properties": { 
       "item_base": "Ring Mail",
       "armor_type": "medium",
@@ -390,13 +384,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Scale Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/scl.png",
     "item_properties": { 
       "item_base": "Scale Mail",
       "armor_type": "heavy",
@@ -422,13 +415,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Breast Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/brs.png",
     "item_properties": { 
       "item_base": "Breast Plate",
       "armor_type": "light",
@@ -454,13 +446,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Chain Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/chn.png",
     "item_properties": { 
       "item_base": "Chain Mail",
       "armor_type": "medium",
@@ -486,13 +477,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Splint Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/spl.png",
     "item_properties": { 
       "item_base": "Splint Mail",
       "armor_type": "medium",
@@ -518,13 +508,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Light Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ltp.png",
     "item_properties": { 
       "item_base": "Light Plate",
       "armor_type": "light",
@@ -550,13 +539,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Field Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/fld.png",
     "item_properties": { 
       "item_base": "Field Plate",
       "armor_type": "medium",
@@ -582,13 +570,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Plate Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/plt.png",
     "item_properties": { 
       "item_base": "Plate Mail",
       "armor_type": "heavy",
@@ -614,13 +601,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Gothic Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/gth.png",
     "item_properties": { 
       "item_base": "Gothic Plate",
       "armor_type": "medium",
@@ -646,13 +632,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Full Plate Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ful.png",
     "item_properties": { 
       "item_base": "Full Plate Mail",
       "armor_type": "heavy",
@@ -678,13 +663,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Ancient Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/aar.png",
     "item_properties": { 
       "item_base": "Ancient Armor",
       "armor_type": "heavy",
@@ -710,13 +694,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Ghost Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/qlt.png",
     "item_properties": {
       "item_base": "Ghost Armor",
       "armor_type": "light",
@@ -747,7 +730,7 @@
   {
     "item_name": "Serpentskin Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/lea.png",
     "item_properties": {
       "item_base": "Serpentskin Armor",
       "armor_type": "light",
@@ -778,7 +761,7 @@
   {
     "item_name": "Demonhide Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/hla.png",
     "item_properties": {
       "item_base": "Demonhide Armor",
       "armor_type": "light",
@@ -809,7 +792,7 @@
   {
     "item_name": "Trellised Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/stu.png",
     "item_properties": {
       "item_base": "Trellised Armor",
       "armor_type": "light",
@@ -840,7 +823,7 @@
   {
     "item_name": "Linked Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/rng.png",
     "item_properties": {
       "item_base": "Linked Mail",
       "armor_type": "medium",
@@ -871,7 +854,7 @@
   {
     "item_name": "Tigulated Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/scl.png",
     "item_properties": {
       "item_base": "Tigulated Mail",
       "armor_type": "heavy",
@@ -902,7 +885,7 @@
   {
     "item_name": "Cuirass",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/brs.png",
     "item_properties": {
       "item_base": "Cuirass",
       "armor_type": "light",
@@ -933,7 +916,7 @@
   {
     "item_name": "Mesh Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/chn.png",
     "item_properties": {
       "item_base": "Mesh Armor",
       "armor_type": "medium",
@@ -964,7 +947,7 @@
   {
     "item_name": "Russet Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/spl.png",
     "item_properties": {
       "item_base": "Russet Armor",
       "armor_type": "medium",
@@ -995,7 +978,7 @@
   {
     "item_name": "Mage Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ltp.png",
     "item_properties": {
       "item_base": "Mage Plate",
       "armor_type": "light",
@@ -1026,7 +1009,7 @@
   {
     "item_name": "Sharktooth Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/fld.png",
     "item_properties": {
       "item_base": "Sharktooth Armor",
       "armor_type": "medium",
@@ -1057,7 +1040,7 @@
   {
     "item_name": "Templar Coat",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/plt.png",
     "item_properties": {
       "item_base": "Templar Coat",
       "armor_type": "heavy",
@@ -1088,7 +1071,7 @@
   {
     "item_name": "Embossed Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/gth.png",
     "item_properties": {
       "item_base": "Embossed Plate",
       "armor_type": "medium",
@@ -1119,7 +1102,7 @@
   {
     "item_name": "Chaos Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ful.png",
     "item_properties": {
       "item_base": "Chaos Armor",
       "armor_type": "heavy",
@@ -1150,7 +1133,7 @@
   {
     "item_name": "Ornate Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/aar.png",
     "item_properties": {
       "item_base": "Ornate Plate",
       "armor_type": "medium",
@@ -1181,7 +1164,7 @@
   {
     "item_name": "Dusk Shroud",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/qlt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/qlt.png",
     "item_properties": {
       "item_base": "Dusk Shroud",
       "armor_type": "light",
@@ -1212,7 +1195,7 @@
   {
     "item_name": "Wyrmhide",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/lea.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/lea.png",
     "item_properties": {
       "item_base": "Wyrmhide",
       "armor_type": "light",
@@ -1243,7 +1226,7 @@
   {
     "item_name": "Scarab Husk",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/hla.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/hla.png",
     "item_properties": {
       "item_base": "Scarab Husk",
       "armor_type": "light",
@@ -1274,7 +1257,7 @@
   {
     "item_name": "Wire Fleece",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/stu.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/stu.png",
     "item_properties": {
       "item_base": "Wire Fleece",
       "armor_type": "light",
@@ -1305,7 +1288,7 @@
   {
     "item_name": "Diamond Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/rng.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/rng.png",
     "item_properties": {
       "item_base": "Diamond Mail",
       "armor_type": "medium",
@@ -1336,7 +1319,7 @@
   {
     "item_name": "Loricated Mail",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/scl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/scl.png",
     "item_properties": {
       "item_base": "Loricated Mail",
       "armor_type": "heavy",
@@ -1367,7 +1350,7 @@
   {
     "item_name": "Great Hauberk",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/brs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/brs.png",
     "item_properties": {
       "item_base": "Great Hauberk",
       "armor_type": "light",
@@ -1398,7 +1381,7 @@
   {
     "item_name": "Boneweave",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/chn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/chn.png",
     "item_properties": {
       "item_base": "Boneweave",
       "armor_type": "medium",
@@ -1429,7 +1412,7 @@
   {
     "item_name": "Balrog Skin",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/spl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/spl.png",
     "item_properties": {
       "item_base": "Balrog Skin",
       "armor_type": "medium",
@@ -1460,7 +1443,7 @@
   {
     "item_name": "Archon Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ltp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ltp.png",
     "item_properties": {
       "item_base": "Archon Plate",
       "armor_type": "light",
@@ -1491,7 +1474,7 @@
   {
     "item_name": "Kraken Shell",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/fld.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/fld.png",
     "item_properties": {
       "item_base": "Kraken Shell",
       "armor_type": "medium",
@@ -1522,7 +1505,7 @@
   {
     "item_name": "Hellforge Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/plt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/plt.png",
     "item_properties": {
       "item_base": "Hellforge Plate",
       "armor_type": "heavy",
@@ -1553,7 +1536,7 @@
   {
     "item_name": "Lacquered Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/gth.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/gth.png",
     "item_properties": {
       "item_base": "Lacquered Plate",
       "armor_type": "medium",
@@ -1584,7 +1567,7 @@
   {
     "item_name": "Shadow Plate",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/ful.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ful.png",
     "item_properties": {
       "item_base": "Shadow Plate",
       "armor_type": "heavy",
@@ -1615,7 +1598,7 @@
   {
     "item_name": "Sacred Armor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/armor/aar.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/aar.png",
     "item_properties": {
       "item_base": "Sacred Armor",
       "armor_type": "medium",
@@ -1646,7 +1629,7 @@
   {
     "item_name": "Jawbone Cap",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba1.png",
     "item_properties": {
       "item_base": "Jawbone Cap",
       "sub_type": "helm",
@@ -1676,7 +1659,7 @@
   {
     "item_name": "Fanged Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba2.png",
     "item_properties": {
       "item_base": "Fanged Helm",
       "sub_type": "helm",
@@ -1706,7 +1689,7 @@
   {
     "item_name": "Horned Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba3.png",
     "item_properties": {
       "item_base": "Horned Helm",
       "sub_type": "helm",
@@ -1736,7 +1719,7 @@
   {
     "item_name": "Assault Helmet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba4.png",
     "item_properties": {
       "item_base": "Assault Helmet",
       "sub_type": "helm",
@@ -1766,7 +1749,7 @@
   {
     "item_name": "Avenger Guard",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba5.png",
     "item_properties": {
       "item_base": "Avenger Guard",
       "sub_type": "helm",
@@ -1796,7 +1779,7 @@
   {
     "item_name": "Jawbone Visor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba1.png",
     "item_properties": {
       "item_base": "Jawbone Visor",
       "sub_type": "helm",
@@ -1826,7 +1809,7 @@
   {
     "item_name": "Lion Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba2.png",
     "item_properties": {
       "item_base": "Lion Helm",
       "sub_type": "helm",
@@ -1856,7 +1839,7 @@
   {
     "item_name": "Rage Mask",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba3.png",
     "item_properties": {
       "item_base": "Rage Mask",
       "sub_type": "helm",
@@ -1886,7 +1869,7 @@
   {
     "item_name": "Savage Helmet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba4.png",
     "item_properties": {
       "item_base": "Savage Helmet",
       "sub_type": "helm",
@@ -1916,7 +1899,7 @@
   {
     "item_name": "Slayer Guard",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba5.png",
     "item_properties": {
       "item_base": "Slayer Guard",
       "sub_type": "helm",
@@ -1946,7 +1929,7 @@
   {
     "item_name": "Carnage Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba1.png",
     "item_properties": {
       "item_base": "Carnage Helm",
       "sub_type": "helm",
@@ -1976,7 +1959,7 @@
   {
     "item_name": "Fury Visor",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba2.png",
     "item_properties": {
       "item_base": "Fury Visor",
       "sub_type": "helm",
@@ -2006,7 +1989,7 @@
   {
     "item_name": "Destroyer Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba3.png",
     "item_properties": {
       "item_base": "Destroyer Helm",
       "sub_type": "helm",
@@ -2036,7 +2019,7 @@
   {
     "item_name": "Conqueror Crown",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba4.png",
     "item_properties": {
       "item_base": "Conqueror Crown",
       "sub_type": "helm",
@@ -2066,7 +2049,7 @@
   {
     "item_name": "Guardian Crown",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/barb_helms/ba5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba5.png",
     "item_properties": {
       "item_base": "Guardian Crown",
       "sub_type": "helm",
@@ -2095,7 +2078,7 @@
   },
   {
     "item_name": "Sash",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/lbl.png",
     "item_type": "armor",
     "item_properties": { 
       "item_base": "Sash",
@@ -2117,11 +2100,10 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Light Belt",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/vbl.png",
     "item_type": "armor",
     "item_properties": { 
       "item_base": "Light Belt",
@@ -2143,12 +2125,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/mbl.png",
     "item_properties": { 
       "item_base": "Belt",
         "sub_type": "belt",
@@ -2169,12 +2150,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Heavy Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/tbl.png",
     "item_properties": { 
       "item_base": "Heavy Belt",
         "sub_type": "belt",
@@ -2195,12 +2175,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Plated Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/hbl.png",
     "item_properties": { 
       "item_base": "Plated Belt",
         "sub_type": "belt",
@@ -2221,12 +2200,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Demonhide Sash",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/lbl.png",
     "item_properties": { 
       "item_base": "Demonhide Sash",
         "sub_type": "belt",
@@ -2247,12 +2225,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Sharkskin Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/vbl.png",
     "item_properties": { 
       "item_base": "Sharkskin Belt",
         "sub_type": "belt",
@@ -2273,12 +2250,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Mesh Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/mbl.png",
     "item_properties": { 
       "item_base": "Mesh Belt",
         "sub_type": "belt",
@@ -2299,12 +2275,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Battle Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/tbl.png",
     "item_properties": { 
       "item_base": "Mesh Belt",
         "sub_type": "belt",
@@ -2325,12 +2300,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "War Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/hbl.png",
     "item_properties": { 
       "item_base": "War Belt",
         "sub_type": "belt",
@@ -2351,12 +2325,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Spiderweb Sash",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/lbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/lbl.png",
     "item_properties": { 
       "item_base": "Spiderweb Sash",
         "sub_type": "belt",
@@ -2380,7 +2353,7 @@
   },{
     "item_name": "Vampirefang Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/vbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/vbl.png",
     "item_properties": { 
       "item_base": "Vampirefang Belt",
         "sub_type": "belt",
@@ -2404,7 +2377,7 @@
   },{
     "item_name": "Mithril Coil",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/mbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/mbl.png",
     "item_properties": { 
       "item_base": "Mithril Coil",
         "sub_type": "belt",
@@ -2428,7 +2401,7 @@
   },{
     "item_name": "Troll Belt",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/tbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/tbl.png",
     "item_properties": { 
       "item_base": "Mithril Coil",
         "sub_type": "belt",
@@ -2452,7 +2425,7 @@
   },{
     "item_name": "Colossus Girdle",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/belts/hbl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/hbl.png",
     "item_properties": { 
       "item_base": "Mithril Coil",
         "sub_type": "belt",
@@ -2477,7 +2450,7 @@
   {
     "item_name": "Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/lbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/lbt.png",
     "item_properties": { 
       "item_base": "Boots",
         "sub_type": "boots",
@@ -2502,12 +2475,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Heavy Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/vbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/vbt.png",
     "item_properties": { 
       "item_base": "Heavy Boots",
         "sub_type": "boots",
@@ -2532,12 +2504,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Chain Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/mbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/mbt.png",
     "item_properties": { 
       "item_base": "Chain Boots",
         "sub_type": "boots",
@@ -2562,12 +2533,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Light Plated Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/tbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/tbt.png",
     "item_properties": { 
       "item_base": "Light Plated Boots",
         "sub_type": "boots",
@@ -2592,12 +2562,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Greaves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/hbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/hbt.png",
     "item_properties": { 
       "item_base": "Greaves",
         "sub_type": "boots",
@@ -2622,12 +2591,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Demonhide Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/lbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/lbt.png",
     "item_properties": { 
       "item_base": "Demonhide Boots",
         "sub_type": "boots",
@@ -2652,12 +2620,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Sharkskin Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/vbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/vbt.png",
     "item_properties": { 
       "item_base": "Sharkskin Boots",
         "sub_type": "boots",
@@ -2682,12 +2649,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Mesh Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/mbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/mbt.png",
     "item_properties": { 
       "item_base": "Mesh Boots",
         "sub_type": "boots",
@@ -2712,12 +2678,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Battle Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/tbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/tbt.png",
     "item_properties": { 
       "item_base": "Battle Boots",
         "sub_type": "boots",
@@ -2742,12 +2707,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "War Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/hbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/hbt.png",
     "item_properties": { 
       "item_base": "War Boots",
         "sub_type": "boots",
@@ -2772,12 +2736,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Wyrmhide Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/lbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/lbt.png",
     "item_properties": { 
       "item_base": "Wyrmhide Boots",
         "sub_type": "boots",
@@ -2802,12 +2765,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Scarabshell Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/vbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/vbt.png",
     "item_properties": { 
       "item_base": "Scarabshell Boots",
         "sub_type": "boots",
@@ -2832,12 +2794,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Boneweave Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/mbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/mbt.png",
     "item_properties": { 
       "item_base": "Boneweave Boots",
         "sub_type": "boots",
@@ -2862,12 +2823,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Mirrored Boots",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/tbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/tbt.png",
     "item_properties": { 
       "item_base": "Mirrored Boots",
         "sub_type": "boots",
@@ -2892,12 +2852,11 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },{
     "item_name": "Myrmidon Greaves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/boots/hbt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/hbt.png",
     "item_properties": { 
       "item_base": "Mirrored Boots",
         "sub_type": "boots",
@@ -2922,13 +2881,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Short Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/sbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Short Bow",
@@ -2962,7 +2920,7 @@
   {
     "item_name": "Hunter's Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/hbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/hbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Hunter's Bow",
@@ -2996,7 +2954,7 @@
   {
     "item_name": "Long Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Long Bow",
@@ -3030,7 +2988,7 @@
   {
     "item_name": "Composite Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/cbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/cbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Composite Bow",
@@ -3064,7 +3022,7 @@
   {
     "item_name": "Short Battle Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/sbb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Short Battle Bow",
@@ -3098,7 +3056,7 @@
   {
     "item_name": "Long Battle Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lbb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Long Battle Bow",
@@ -3132,7 +3090,7 @@
   {
     "item_name": "Short War Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/swb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/swb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Short War Bow",
@@ -3166,7 +3124,7 @@
   {
     "item_name": "Long War Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lwb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lwb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Long War Bow",
@@ -3200,7 +3158,7 @@
   {
     "item_name": "Edge Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/sbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Edge Bow",
@@ -3234,7 +3192,7 @@
   {
     "item_name": "Razor Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/hbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/hbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Razor Bow",
@@ -3268,7 +3226,7 @@
   {
     "item_name": "Cedar Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Cedar Bow",
@@ -3302,7 +3260,7 @@
   {
     "item_name": "Double Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/cbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/cbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Double Bow",
@@ -3336,7 +3294,7 @@
   {
     "item_name": "Short Siege Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/sbb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Short Siege Bow",
@@ -3370,7 +3328,7 @@
   {
     "item_name": "Large Siege Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lbb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Large Siege Bow",
@@ -3404,7 +3362,7 @@
   {
     "item_name": "Rune Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/swb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/swb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Rune Bow",
@@ -3438,7 +3396,7 @@
   {
     "item_name": "Gothic Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lwb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lwb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Gothic Bow",
@@ -3472,7 +3430,7 @@
   {
     "item_name": "Spider Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/sbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Spider Bow",
@@ -3506,7 +3464,7 @@
   {
     "item_name": "Blade Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/hbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/hbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Blade Bow",
@@ -3540,7 +3498,7 @@
   {
     "item_name": "Shadow Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Shadow Bow",
@@ -3574,7 +3532,7 @@
   {
     "item_name": "Great Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/cbw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/cbw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Great Bow",
@@ -3608,7 +3566,7 @@
   {
     "item_name": "Diamond Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/sbb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/sbb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Diamond Bow",
@@ -3642,7 +3600,7 @@
   {
     "item_name": "Crusader Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lbb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lbb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Crusader Bow",
@@ -3676,7 +3634,7 @@
   {
     "item_name": "Ward Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/swb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/swb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ward Bow",
@@ -3710,7 +3668,7 @@
   {
     "item_name": "Hydra Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/bows/lwb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/bows/lwb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Hydra Bow",
@@ -3744,7 +3702,7 @@
   {
     "item_name": "Circlet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci0.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci0.png",
     "item_properties": {
       "item_base": "Circlet",
       "sub_type": "circlet",
@@ -3766,7 +3724,7 @@
   {
     "item_name": "Coronet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci1.png",
     "item_properties": {
       "item_base": "Coronet",
       "sub_type": "circlet",
@@ -3788,7 +3746,7 @@
   {
     "item_name": "Tiara",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci2.png",
     "item_properties": {
       "item_base": "Tiara",
       "sub_type": "circlet",
@@ -3810,7 +3768,7 @@
   {
     "item_name": "Diadem",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/circlets/ci3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci3.png",
     "item_properties": {
       "item_base": "Diadem",
       "sub_type": "circlet",
@@ -3832,7 +3790,8 @@
   {
     "item_name": "Katar",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ktr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Katar",
       "sub_type": "claw",
@@ -3868,7 +3827,8 @@
   {
     "item_name": "Wrist Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ktr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Wrist Blade",
       "sub_type": "claw",
@@ -3904,7 +3864,8 @@
   {
     "item_name": "Hatchet Hands",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ces.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hatchet Hands",
       "sub_type": "claw",
@@ -3940,7 +3901,8 @@
   {
     "item_name": "Cetsus",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ces.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cetsus",
       "sub_type": "claw",
@@ -3976,7 +3938,8 @@
   {
     "item_name": "Claws",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/clw.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Claws",
       "sub_type": "claw",
@@ -4012,7 +3975,8 @@
   {
     "item_name": "Blade Talons",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/clw.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Blade Talons",
       "sub_type": "claw",
@@ -4048,7 +4012,8 @@
   {
     "item_name": "Scissors Katar",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/skr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/skr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Scissors Katar",
       "sub_type": "claw",
@@ -4084,7 +4049,8 @@
   {
     "item_name": "Quhab",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ktr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Quhab",
       "sub_type": "claw",
@@ -4120,7 +4086,8 @@
   {
     "item_name": "Wrist Spike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ktr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Wrist Spike",
       "sub_type": "claw",
@@ -4156,7 +4123,8 @@
   {
     "item_name": "Fascia",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ces.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Fascia",
       "sub_type": "claw",
@@ -4192,7 +4160,8 @@
   {
     "item_name": "Hand Scythe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ces.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hand Scythe",
       "sub_type": "claw",
@@ -4228,7 +4197,8 @@
   {
     "item_name": "Greater Claws",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/clw.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Greater Claws",
       "sub_type": "claw",
@@ -4264,7 +4234,8 @@
   {
     "item_name": "Greater Talons",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/clw.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Greater Talons",
       "sub_type": "claw",
@@ -4300,7 +4271,8 @@
   {
     "item_name": "Scissors Quhab",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/skr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/skr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Scissors Quhab",
       "sub_type": "claw",
@@ -4336,7 +4308,8 @@
   {
     "item_name": "Suwayyah",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ktr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Suwayyah",
       "sub_type": "claw",
@@ -4372,7 +4345,8 @@
   {
     "item_name": "Wrist Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ktr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ktr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Wrist Sword",
       "sub_type": "claw",
@@ -4408,7 +4382,8 @@
   {
     "item_name": "War Fist",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ces.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Fist",
       "sub_type": "claw",
@@ -4444,7 +4419,8 @@
   {
     "item_name": "Battle Cestus",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/ces.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/ces.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Battle Cestus",
       "sub_type": "claw",
@@ -4480,7 +4456,8 @@
   {
     "item_name": "Feral Claws",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/clw.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Feral Claws",
       "sub_type": "claw",
@@ -4516,7 +4493,8 @@
   {
     "item_name": "Runic Talons",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/clw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/clw.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Runic Talons",
       "sub_type": "claw",
@@ -4552,7 +4530,8 @@
   {
     "item_name": "Scissors Suwayya",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/claws/skr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/claws/skr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Scissors Suwayya",
       "sub_type": "claw",
@@ -4588,7 +4567,8 @@
   {
     "item_name": "Dagger",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/dgr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/dgr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Dagger",
       "sub_type": "dagger",
@@ -4624,7 +4604,8 @@
   {
     "item_name": "Dirk",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/dir.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/dir.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Dirk",
       "sub_type": "dagger",
@@ -4660,7 +4641,8 @@
   {
     "item_name": "Kris",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/krs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/krs.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Kris",
       "sub_type": "dagger",
@@ -4696,7 +4678,8 @@
   {
     "item_name": "Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/bld.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/bld.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Blade",
       "sub_type": "dagger",
@@ -4732,7 +4715,8 @@
   {
     "item_name": "Poignard",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/dgr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/dgr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Poignard",
       "sub_type": "dagger",
@@ -4768,7 +4752,8 @@
   {
     "item_name": "Rondel",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/dir.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/dir.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Rondel",
       "sub_type": "dagger",
@@ -4804,7 +4789,8 @@
   {
     "item_name": "Cinquedeas",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/krs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/krs.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cinquedeas",
       "sub_type": "dagger",
@@ -4840,7 +4826,8 @@
   {
     "item_name": "Stiletto",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/bld.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/bld.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Stiletto",
       "sub_type": "dagger",
@@ -4876,7 +4863,8 @@
   {
     "item_name": "Bone Knife",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/dgr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/dgr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Bone Knife",
       "sub_type": "dagger",
@@ -4912,7 +4900,8 @@
   {
     "item_name": "Mithril Point",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/dir.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/dir.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Mithril Point",
       "sub_type": "dagger",
@@ -4948,7 +4937,8 @@
   {
     "item_name": "Fanged Knife",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/krs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/krs.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Fanged Knife",
       "sub_type": "dagger",
@@ -4984,7 +4974,8 @@
   {
     "item_name": "Legend Spike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/daggers/bld.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/daggers/bld.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Legend Spike",
       "sub_type": "dagger",
@@ -5020,7 +5011,7 @@
   {
     "item_name": "Wolf Head",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr1.png",
     "item_properties": {
       "item_base": "Wolf Head",
       "sub_type": "helm",
@@ -5050,7 +5041,7 @@
   {
     "item_name": "Hawk Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr2.png",
     "item_properties": {
       "item_base": "Hawk Helm",
       "sub_type": "helm",
@@ -5080,7 +5071,7 @@
   {
     "item_name": "Antlers",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr3.png",
     "item_properties": {
       "item_base": "Antlers",
       "sub_type": "helm",
@@ -5110,7 +5101,7 @@
   {
     "item_name": "Falcon Mask",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr4.png",
     "item_properties": {
       "item_base": "Falcon Mask",
       "sub_type": "helm",
@@ -5140,7 +5131,7 @@
   {
     "item_name": "Spirit Mask",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr5.png",
     "item_properties": {
       "item_base": "Spirit Mask",
       "sub_type": "helm",
@@ -5170,7 +5161,7 @@
   {
     "item_name": "Alpha Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr1.png",
     "item_properties": {
       "item_base": "Alpha Helm",
       "sub_type": "helm",
@@ -5200,7 +5191,7 @@
   {
     "item_name": "Griffon Headdress",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr2.png",
     "item_properties": {
       "item_base": "Griffon Headdress",
       "sub_type": "helm",
@@ -5230,7 +5221,7 @@
   {
     "item_name": "Hunter's Guise",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr3.png",
     "item_properties": {
       "item_base": "Hunter's Guise",
       "sub_type": "helm",
@@ -5260,7 +5251,7 @@
   {
     "item_name": "Sacred Feathers",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr2.png",
     "item_properties": {
       "item_base": "Sacred Feathers",
       "sub_type": "helm",
@@ -5290,7 +5281,7 @@
   {
     "item_name": "Totemic Mask",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr5.png",
     "item_properties": {
       "item_base": "Totemic Mask",
       "sub_type": "helm",
@@ -5320,7 +5311,7 @@
   {
     "item_name": "Blood Spirit",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr1.png",
     "item_properties": {
       "item_base": "Blood Spirit",
       "sub_type": "helm",
@@ -5350,7 +5341,7 @@
   {
     "item_name": "Sun Spirit",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr4.png",
     "item_properties": {
       "item_base": "Sun Spirit",
       "sub_type": "helm",
@@ -5380,7 +5371,7 @@
   {
     "item_name": "Earth Spirit",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr3.png",
     "item_properties": {
       "item_base": "Earth Spirit",
       "sub_type": "helm",
@@ -5410,7 +5401,7 @@
   {
     "item_name": "Sky Spirit",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr4.png",
     "item_properties": {
       "item_base": "Sky Spirit",
       "sub_type": "helm",
@@ -5440,7 +5431,7 @@
   {
     "item_name": "Dream Spirit",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/druid_helms/dr5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr5.png",
     "item_properties": {
       "item_base": "Dream Spirit",
       "sub_type": "helm",
@@ -5470,7 +5461,7 @@
   {
     "item_name": "Leather Gloves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/lgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/lgl.png",
     "item_properties": {
       "item_base": "Leather Gloves",
       "sub_type": "gloves",
@@ -5496,7 +5487,7 @@
   {
     "item_name": "Heavy Gloves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/vgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/vgl.png",
     "item_properties": {
       "item_base": "Heavy Gloves",
       "sub_type": "gloves",
@@ -5522,7 +5513,7 @@
   {
     "item_name": "Chain Gloves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/mgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/mgl.png",
     "item_properties": {
       "item_base": "Chain Gloves",
       "sub_type": "gloves",
@@ -5548,7 +5539,7 @@
   {
     "item_name": "Light Gauntlets",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/tgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/tgl.png",
     "item_properties": {
       "item_base": "Light Gauntlets",
       "sub_type": "gloves",
@@ -5574,7 +5565,7 @@
   {
     "item_name": "Gauntlets",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/hgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/hgl.png",
     "item_properties": {
       "item_base": "Gauntlets",
       "sub_type": "gloves",
@@ -5600,7 +5591,7 @@
   {
     "item_name": "Demonhide Gloves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/lgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/lgl.png",
     "item_properties": {
       "item_base": "Demonhide Gloves",
       "sub_type": "gloves",
@@ -5626,7 +5617,7 @@
   {
     "item_name": "Sharkskin Gloves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/vgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/vgl.png",
     "item_properties": {
       "item_base": "Sharkskin Gloves",
       "sub_type": "gloves",
@@ -5652,7 +5643,7 @@
   {
     "item_name": "Heavy Bracers",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/mgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/mgl.png",
     "item_properties": {
       "item_base": "Heavy Bracers",
       "sub_type": "gloves",
@@ -5678,7 +5669,7 @@
   {
     "item_name": "Battle Gauntlets",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/tgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/tgl.png",
     "item_properties": {
       "item_base": "Battle Gauntlets",
       "sub_type": "gloves",
@@ -5704,7 +5695,7 @@
   {
     "item_name": "War Gauntlets",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/hgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/hgl.png",
     "item_properties": {
       "item_base": "War Gauntlets",
       "sub_type": "gloves",
@@ -5730,7 +5721,7 @@
   {
     "item_name": "Bramble Mitts",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/lgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/lgl.png",
     "item_properties": {
       "item_base": "Bramble Mitts",
       "sub_type": "gloves",
@@ -5756,7 +5747,7 @@
   {
     "item_name": "Vampirebone Gloves",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/vgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/vgl.png",
     "item_properties": {
       "item_base": "Vampirebone Gloves",
       "sub_type": "gloves",
@@ -5782,7 +5773,7 @@
   {
     "item_name": "Vambraces",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/mgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/mgl.png",
     "item_properties": {
       "item_base": "Vambraces",
       "sub_type": "gloves",
@@ -5808,7 +5799,7 @@
   {
     "item_name": "Crusader Gauntlets",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/tgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/tgl.png",
     "item_properties": {
       "item_base": "Crusader Gauntlets",
       "sub_type": "gloves",
@@ -5834,7 +5825,7 @@
   {
     "item_name": "Ogre Gauntlets",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/gloves/hgl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/hgl.png",
     "item_properties": {
       "item_base": "Ogre Gauntlets",
       "sub_type": "gloves",
@@ -5860,7 +5851,7 @@
   {
     "item_name": "Cap",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/cap.png",
     "item_properties": {
       "item_base": "Cap",
       "sub_type": "helm",
@@ -5890,7 +5881,7 @@
   {
     "item_name": "Skull Cap",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/skp.png",
     "item_properties": {
       "item_base": "Skull Cap",
       "sub_type": "helm",
@@ -5920,7 +5911,7 @@
   {
     "item_name": "Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/hlm.png",
     "item_properties": {
       "item_base": "Helm",
       "sub_type": "helm",
@@ -5950,7 +5941,7 @@
   {
     "item_name": "Full Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/fhl.png",
     "item_properties": {
       "item_base": "Full Helm",
       "sub_type": "helm",
@@ -5980,7 +5971,7 @@
   {
     "item_name": "Mask",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/msk.png",
     "item_properties": {
       "item_base": "Mask",
       "sub_type": "helm",
@@ -6010,7 +6001,7 @@
   {
     "item_name": "Bone Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/bhm.png",
     "item_properties": {
       "item_base": "Bone Helm",
       "sub_type": "helm",
@@ -6040,7 +6031,7 @@
   {
     "item_name": "Great Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/ghm.png",
     "item_properties": {
       "item_base": "Great Helm",
       "sub_type": "helm",
@@ -6070,7 +6061,7 @@
   {
     "item_name": "Crown",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/crn.png",
     "item_properties": {
       "item_base": "Crown",
       "sub_type": "helm",
@@ -6100,7 +6091,7 @@
   {
     "item_name": "War Hat",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/cap.png",
     "item_properties": {
       "item_base": "War Hat",
       "sub_type": "helm",
@@ -6130,7 +6121,7 @@
   {
     "item_name": "Sallet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/skp.png",
     "item_properties": {
       "item_base": "Sallet",
       "sub_type": "helm",
@@ -6160,7 +6151,7 @@
   {
     "item_name": "Casque",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/hlm.png",
     "item_properties": {
       "item_base": "Casque",
       "sub_type": "helm",
@@ -6190,7 +6181,7 @@
   {
     "item_name": "Basinet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/fhl.png",
     "item_properties": {
       "item_base": "Basinet",
       "sub_type": "helm",
@@ -6220,7 +6211,7 @@
   {
     "item_name": "Death Mask",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/msk.png",
     "item_properties": {
       "item_base": "Death Mask",
       "sub_type": "helm",
@@ -6250,7 +6241,7 @@
   {
     "item_name": "Grim Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/bhm.png",
     "item_properties": {
       "item_base": "Grim Helm",
       "sub_type": "helm",
@@ -6280,7 +6271,7 @@
   {
     "item_name": "Winged Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/ghm.png",
     "item_properties": {
       "item_base": "Winged Helm",
       "sub_type": "helm",
@@ -6310,7 +6301,7 @@
   {
     "item_name": "Grand Crown",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/crn.png",
     "item_properties": {
       "item_base": "Grand Crown",
       "sub_type": "helm",
@@ -6340,7 +6331,7 @@
   {
     "item_name": "Shako",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/cap.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/cap.png",
     "item_properties": {
       "item_base": "Shako",
       "sub_type": "helm",
@@ -6370,7 +6361,7 @@
   {
     "item_name": "Hydraskull",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/skp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/skp.png",
     "item_properties": {
       "item_base": "Hydraskull",
       "sub_type": "helm",
@@ -6400,7 +6391,7 @@
   {
     "item_name": "Armet",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/hlm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/hlm.png",
     "item_properties": {
       "item_base": "Armet",
       "sub_type": "helm",
@@ -6430,7 +6421,7 @@
   {
     "item_name": "Giant Conch",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/fhl.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/fhl.png",
     "item_properties": {
       "item_base": "Giant Conch",
       "sub_type": "helm",
@@ -6460,7 +6451,7 @@
   {
     "item_name": "Demonhead",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/msk.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/msk.png",
     "item_properties": {
       "item_base": "Demonhead",
       "sub_type": "helm",
@@ -6490,7 +6481,7 @@
   {
     "item_name": "Bone Visage",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/bhm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/bhm.png",
     "item_properties": {
       "item_base": "Bone Visage",
       "sub_type": "helm",
@@ -6520,7 +6511,7 @@
   {
     "item_name": "Spired Helm",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/ghm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/ghm.png",
     "item_properties": {
       "item_base": "Spired Helm",
       "sub_type": "helm",
@@ -6550,7 +6541,7 @@
   {
     "item_name": "Corona",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/helms/crn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/crn.png",
     "item_properties": {
       "item_base": "Corona",
       "sub_type": "helm",
@@ -6580,7 +6571,8 @@
   {
     "item_name": "Pilum",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/pil.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/pil.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Pilum",
       "sub_type": "javelin",
@@ -6616,7 +6608,8 @@
   {
     "item_name": "Short Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/ssp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Short Spear",
       "sub_type": "javelin",
@@ -6652,7 +6645,8 @@
   {
     "item_name": "Glaive",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/glv.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Glaive",
       "sub_type": "javelin",
@@ -6688,7 +6682,8 @@
   {
     "item_name": "Throwing Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tsp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Throwing Spear",
       "sub_type": "javelin",
@@ -6724,7 +6719,8 @@
   {
     "item_name": "Great Pilum",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/pil.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/pil.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Great Pilum",
       "sub_type": "javelin",
@@ -6760,7 +6756,8 @@
   {
     "item_name": "Simbilan",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/ssp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Simbilan",
       "sub_type": "javelin",
@@ -6796,7 +6793,8 @@
   {
     "item_name": "Spiculumn",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/glv.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Spiculumn",
       "sub_type": "javelin",
@@ -6832,7 +6830,8 @@
   {
     "item_name": "Harpoon",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tsp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Harpoon",
       "sub_type": "javelin",
@@ -6868,7 +6867,8 @@
   {
     "item_name": "Stygian Pilum",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/pil.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/pil.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Stygian Pilum",
       "sub_type": "javelin",
@@ -6904,7 +6904,8 @@
   {
     "item_name": "Balrog Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/ssp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/ssp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Balrog Spear",
       "sub_type": "javelin",
@@ -6940,7 +6941,8 @@
   {
     "item_name": "Ghost Glaive",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/glv.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/glv.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Ghost Glaive",
       "sub_type": "javelin",
@@ -6976,7 +6978,8 @@
   {
     "item_name": "Winged Harpoon",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tsp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tsp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Winged Harpoon",
       "sub_type": "javelin",
@@ -7012,7 +7015,8 @@
   {
     "item_name": "Javelin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/jav.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/javelins/jav.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Javelin",
       "sub_type": "javelin",
@@ -7048,7 +7052,8 @@
   {
     "item_name": "War Javelin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/jav.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/javelins/jav.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Javelin",
       "sub_type": "javelin",
@@ -7084,7 +7089,8 @@
   {
     "item_name": "Hyperion Javelin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/jav.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/javelins/jav.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hyperion Javelin",
       "sub_type": "javelin",
@@ -7120,7 +7126,8 @@
   {
     "item_name": "Scourge",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/fla.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Scourge",
       "sub_type": "mace",
@@ -7160,7 +7167,8 @@
   {
     "item_name": "War Scepter",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/wsp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Scepter",
       "sub_type": "scepter",
@@ -7200,7 +7208,8 @@
   {
     "item_name": "Spiked Club",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/spc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/spc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Spiked Club",
       "sub_type": "club",
@@ -7240,7 +7249,8 @@
   {
     "item_name": "Devil Star",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/mst.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Devil Star",
       "sub_type": "mace",
@@ -7280,7 +7290,8 @@
   {
     "item_name": "Truncheon",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/clb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/clb.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Truncheon",
       "sub_type": "club",
@@ -7320,7 +7331,8 @@
   {
     "item_name": "Rune Scepter",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/scp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Rune Scepter",
       "sub_type": "scepter",
@@ -7360,7 +7372,8 @@
   {
     "item_name": "Morning Star",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/mst.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Morning Star",
       "sub_type": "mace",
@@ -7400,7 +7413,8 @@
   {
     "item_name": "Mace",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/mac.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Mace",
       "sub_type": "mace",
@@ -7440,7 +7454,8 @@
   {
     "item_name": "Tyrant Club",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/spc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/spc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Tyrant Club",
       "sub_type": "club",
@@ -7480,7 +7495,8 @@
   {
     "item_name": "Reinforced Mace",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/mac.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Reinforced Mace",
       "sub_type": "mace",
@@ -7520,7 +7536,8 @@
   {
     "item_name": "Grand Scepter",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/gsc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Grand Scepter",
       "sub_type": "scepter",
@@ -7560,7 +7577,8 @@
   {
     "item_name": "Seraph Rod",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/gsc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Seraph Rod",
       "sub_type": "scepter",
@@ -7600,7 +7618,8 @@
   {
     "item_name": "Flail",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/fla.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Flail",
       "sub_type": "mace",
@@ -7640,7 +7659,8 @@
   {
     "item_name": "Barbed Club",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/spc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/spc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Barbed Club",
       "sub_type": "club",
@@ -7680,7 +7700,8 @@
   {
     "item_name": "Holy Water Sprinkler",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/gsc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/gsc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Holy Water Sprinkler",
       "sub_type": "scepter",
@@ -7720,7 +7741,8 @@
   {
     "item_name": "Scepter",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/scp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Scepter",
       "sub_type": "scepter",
@@ -7760,7 +7782,8 @@
   {
     "item_name": "Club",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/clb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/clb.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Club",
       "sub_type": "club",
@@ -7800,7 +7823,8 @@
   {
     "item_name": "Knout",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/fla.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/fla.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Knout",
       "sub_type": "mace",
@@ -7840,7 +7864,8 @@
   {
     "item_name": "Cudgel",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/clb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/clb.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cudgel",
       "sub_type": "club",
@@ -7880,7 +7905,8 @@
   {
     "item_name": "Flanged Mace",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mac.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/mac.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Flanged Mace",
       "sub_type": "mace",
@@ -7920,7 +7946,8 @@
   {
     "item_name": "Caduceus",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/wsp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Caduceus",
       "sub_type": "scepter",
@@ -7960,7 +7987,8 @@
   {
     "item_name": "Divine Scepter",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/wsp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/wsp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Divine Scepter",
       "sub_type": "scepter",
@@ -8000,7 +8028,8 @@
   {
     "item_name": "Jagged Star",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/maces/mst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/maces/mst.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Jagged Star",
       "sub_type": "mace",
@@ -8040,7 +8069,8 @@
   {
     "item_name": "Mighty Scepter",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/scepters/scp.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/scepters/scp.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Mighty Scepter",
       "sub_type": "scepter",
@@ -8080,7 +8110,8 @@
   {
     "item_name": "Maul",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/mau.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/mau.png",
+    "two_hand": true,
     "item_properties": {
       "item_base": "Maul",
       "sub_type": "hammer",
@@ -8120,7 +8151,8 @@
   {
     "item_name": "Martel de Fer",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/gma.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/gma.png",
+    "two_hand": true,
     "item_properties": {
       "item_base": "Martel de Fer",
       "sub_type": "hammer",
@@ -8160,7 +8192,8 @@
   {
     "item_name": "Ogre Maul",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/mau.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/mau.png",
+    "two_hand": true,
     "item_properties": {
       "item_base": "Ogre Maul",
       "sub_type": "hammer",
@@ -8200,7 +8233,8 @@
   {
     "item_name": "Thunder Maul",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/mau.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/mau.png",
+    "two_hand": true,
     "item_properties": {
       "item_base": "Thunder Maul",
       "sub_type": "hammer",
@@ -8240,7 +8274,8 @@
   {
     "item_name": "War Club",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/mau.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/mau.png",
+    "two_hand": true,
     "item_properties": {
       "item_base": "War Club",
       "sub_type": "hammer",
@@ -8280,7 +8315,8 @@
   {
     "item_name": "Great Maul",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/mau.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/mau.png",
+    "two_hand": true,
     "item_properties": {
       "item_base": "Great Maul",
       "sub_type": "hammer",
@@ -8320,7 +8356,8 @@
   {
     "item_name": "War Hammer",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/whm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/whm.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Hammer",
       "sub_type": "hammer",
@@ -8360,7 +8397,8 @@
   {
     "item_name": "Legendary Mallet",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/whm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/whm.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Legendary Mallet",
       "sub_type": "hammer",
@@ -8400,7 +8438,8 @@
   {
     "item_name": "Battle Hammer",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/hammers/whm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/hammers/whm.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Battle Hammer",
       "sub_type": "hammer",
@@ -8440,7 +8479,7 @@
   {
     "item_name": "Demon Head",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne5.png",
     "item_properties": {
       "item_base": "Demon Head",
       "armor_type": "light",
@@ -8481,7 +8520,7 @@
   {
     "item_name": "Sexton Trophy",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne3.png",
     "item_properties": {
       "item_base": "Sexton Trophy",
       "armor_type": "light",
@@ -8522,7 +8561,7 @@
   {
     "item_name": "Fetish Trophy",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne2.png",
     "item_properties": {
       "item_base": "Fetish Trophy",
       "armor_type": "light",
@@ -8563,7 +8602,7 @@
   {
     "item_name": "Unraveller Head",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne3.png",
     "item_properties": {
       "item_base": "Unraveller Head",
       "armor_type": "light",
@@ -8604,7 +8643,7 @@
   {
     "item_name": "Minion Skull",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne1.png",
     "item_properties": {
       "item_base": "Minion Skull",
       "armor_type": "light",
@@ -8645,7 +8684,7 @@
   {
     "item_name": "Zombie Head",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne2.png",
     "item_properties": {
       "item_base": "Zombie Head",
       "armor_type": "light",
@@ -8686,7 +8725,7 @@
   {
     "item_name": "Preserved Head",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne1.png",
     "item_properties": {
       "item_base": "Preserved Head",
       "armor_type": "light",
@@ -8727,7 +8766,7 @@
   {
     "item_name": "Gargoyle Head",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne4.png",
     "item_properties": {
       "item_base": "Gargoyle Head",
       "armor_type": "light",
@@ -8768,7 +8807,7 @@
   {
     "item_name": "Mummified Trophy",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne1.png",
     "item_properties": {
       "item_base": "Mummified Trophy",
       "armor_type": "light",
@@ -8809,7 +8848,7 @@
   {
     "item_name": "Hierophant Trophy",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne5.png",
     "item_properties": {
       "item_base": "Hierophant Trophy",
       "armor_type": "light",
@@ -8850,7 +8889,7 @@
   {
     "item_name": "Cantor Trophy",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne4.png",
     "item_properties": {
       "item_base": "Cantor Trophy",
       "armor_type": "light",
@@ -8891,7 +8930,7 @@
   {
     "item_name": "Hellspawn Skull",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne2.png",
     "item_properties": {
       "item_base": "Hellspawn Skull",
       "armor_type": "light",
@@ -8932,7 +8971,7 @@
   {
     "item_name": "Overseer Skull",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne3.png",
     "item_properties": {
       "item_base": "Overseer Skull",
       "armor_type": "light",
@@ -8973,7 +9012,7 @@
   {
     "item_name": "Succubus Skull",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne4.png",
     "item_properties": {
       "item_base": "Succubus Skull",
       "armor_type": "light",
@@ -9014,7 +9053,7 @@
   {
     "item_name": "Bloodlord Skull",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/necro_heads/ne5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne5.png",
     "item_properties": {
       "item_base": "Bloodlord Skull",
       "armor_type": "light",
@@ -9055,7 +9094,8 @@
   {
     "item_name": "Hand Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/hax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/hax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hand Axe",
       "sub_type": "axe",
@@ -9090,7 +9130,8 @@
   {
     "item_name": "Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/axe.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/axe.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Axe",
       "sub_type": "axe",
@@ -9125,7 +9166,8 @@
   {
     "item_name": "Double Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/2ax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/2ax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Double Axe",
       "sub_type": "axe",
@@ -9160,7 +9202,8 @@
   {
     "item_name": "Military Pick",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/mpi.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/mpi.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Military Pick",
       "sub_type": "axe",
@@ -9195,7 +9238,8 @@
   {
     "item_name": "War Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/wax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Axe",
       "sub_type": "axe",
@@ -9230,7 +9274,8 @@
   {
     "item_name": "Hatchet",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/wax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hatchet",
       "sub_type": "axe",
@@ -9265,7 +9310,8 @@
   {
     "item_name": "Cleaver",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/axe.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/axe.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cleaver",
       "sub_type": "axe",
@@ -9300,7 +9346,8 @@
   {
     "item_name": "Twin Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/2ax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/2ax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Twin Axe",
       "sub_type": "axe",
@@ -9335,7 +9382,8 @@
   {
     "item_name": "Crowbill",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/mpi.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/mpi.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Crowbill",
       "sub_type": "axe",
@@ -9370,7 +9418,8 @@
   {
     "item_name": "Naga",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/wax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Naga",
       "sub_type": "axe",
@@ -9405,7 +9454,8 @@
   {
     "item_name": "Tomahawk",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/wax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Tomahawk",
       "sub_type": "axe",
@@ -9440,7 +9490,8 @@
   {
     "item_name": "Small Crescent",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/axe.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/axe.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Small Crescent",
       "sub_type": "axe",
@@ -9475,7 +9526,8 @@
   {
     "item_name": "Ettin Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/2ax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/2ax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Ettin Axe",
       "sub_type": "axe",
@@ -9510,7 +9562,8 @@
   {
     "item_name": "War Spike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/mpi.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/mpi.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Spike",
       "sub_type": "axe",
@@ -9545,7 +9598,8 @@
   {
     "item_name": "Berserker Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_axes/wax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_axes/wax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Berserker Axe",
       "sub_type": "axe",
@@ -9580,7 +9634,8 @@
   {
     "item_name": "Short Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/ssd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/ssd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Short Sword",
       "sub_type": "sword",
@@ -9615,7 +9670,8 @@
   {
     "item_name": "Scimitar",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/scm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/scm.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Scimitar",
       "sub_type": "sword",
@@ -9650,7 +9706,8 @@
   {
     "item_name": "Sabre",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/sbr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/sbr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Sabre",
       "sub_type": "sword",
@@ -9685,7 +9742,8 @@
   {
     "item_name": "Falchion",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/flc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/flc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Falchion",
       "sub_type": "sword",
@@ -9720,7 +9778,8 @@
   {
     "item_name": "Crystal Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/crs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/crs.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Crystal Sword",
       "sub_type": "sword",
@@ -9755,7 +9814,8 @@
   {
     "item_name": "Broad Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/bsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/bsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Broad Sword",
       "sub_type": "sword",
@@ -9790,7 +9850,8 @@
   {
     "item_name": "Long Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/lsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/lsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Long Sword",
       "sub_type": "sword",
@@ -9825,7 +9886,8 @@
   {
     "item_name": "War Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/wsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/wsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Sword",
       "sub_type": "sword",
@@ -9860,7 +9922,8 @@
   {
     "item_name": "Gladius",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/ssd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/ssd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Gladius",
       "sub_type": "sword",
@@ -9895,7 +9958,8 @@
   {
     "item_name": "Cutlass",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/scm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/scm.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cutlass",
       "sub_type": "sword",
@@ -9930,7 +9994,8 @@
   {
     "item_name": "Shamshir",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/sbr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/sbr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Shamshir",
       "sub_type": "sword",
@@ -9965,7 +10030,8 @@
   {
     "item_name": "Tulwar",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/flc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/flc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Tulwar",
       "sub_type": "sword",
@@ -10000,7 +10066,8 @@
   {
     "item_name": "Dimensional Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/crs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/crs.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Dimensional Blade",
       "sub_type": "sword",
@@ -10035,7 +10102,8 @@
   {
     "item_name": "Battle Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/bsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/bsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Battle Sword",
       "sub_type": "sword",
@@ -10070,7 +10138,8 @@
   {
     "item_name": "Rune Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/lsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/lsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Rune Sword",
       "sub_type": "sword",
@@ -10105,7 +10174,8 @@
   {
     "item_name": "Ancient Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/wsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/wsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Ancient Sword",
       "sub_type": "sword",
@@ -10140,7 +10210,8 @@
   {
     "item_name": "Falcata",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/ssd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/ssd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Falcata",
       "sub_type": "sword",
@@ -10175,7 +10246,8 @@
   {
     "item_name": "Ataghan",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/scm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/scm.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Ataghan",
       "sub_type": "sword",
@@ -10210,7 +10282,8 @@
   {
     "item_name": "Elegant Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/sbr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/sbr.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Elegant Blade",
       "sub_type": "sword",
@@ -10245,7 +10318,8 @@
   {
     "item_name": "Hydra Edge",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/flc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/flc.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hydra Edge",
       "sub_type": "sword",
@@ -10280,7 +10354,8 @@
   {
     "item_name": "Phase Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/crs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/crs.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Phase Blade",
       "sub_type": "sword",
@@ -10315,7 +10390,8 @@
   {
     "item_name": "Conquest Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/bsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/bsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Conquest Sword",
       "sub_type": "sword",
@@ -10350,7 +10426,8 @@
   {
     "item_name": "Cryptic Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/lsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/lsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cryptic Sword",
       "sub_type": "sword",
@@ -10385,7 +10462,8 @@
   {
     "item_name": "Mythical Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/one_swords/wsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/one_swords/wsd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Mythical Sword",
       "sub_type": "sword",
@@ -10420,7 +10498,8 @@
   {
     "item_name": "Eagle Orb",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob1.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Eagle Orb",
       "sub_type": "orb",
@@ -10455,7 +10534,8 @@
   {
     "item_name": "Sacred Globe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob2.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Sacred Globe",
       "sub_type": "orb",
@@ -10490,7 +10570,8 @@
   {
     "item_name": "Smoked Sphere",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob3.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Smoked Sphere",
       "sub_type": "orb",
@@ -10525,7 +10606,8 @@
   {
     "item_name": "Clasped Orb",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob4.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Clasped Orb",
       "sub_type": "orb",
@@ -10560,7 +10642,8 @@
   {
     "item_name": "Jared's Stone",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob5.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Jared's Stone",
       "sub_type": "orb",
@@ -10595,7 +10678,8 @@
   {
     "item_name": "Glowing Orb",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob1.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Glowing Orb",
       "sub_type": "orb",
@@ -10630,7 +10714,8 @@
   {
     "item_name": "Crystalline Globe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob2.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Crystalline Globe",
       "sub_type": "orb",
@@ -10665,7 +10750,8 @@
   {
     "item_name": "Cloudy Sphere",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob3.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Cloudy Sphere",
       "sub_type": "orb",
@@ -10700,7 +10786,8 @@
   {
     "item_name": "Sparkling Ball",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob4.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Sparkling Ball",
       "sub_type": "orb",
@@ -10735,7 +10822,8 @@
   {
     "item_name": "Swirling Crystal",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob5.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Swirling Crystal",
       "sub_type": "orb",
@@ -10770,7 +10858,8 @@
   {
     "item_name": "Heavenly Stone",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob1.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Heavenly Stone",
       "sub_type": "orb",
@@ -10805,7 +10894,8 @@
   {
     "item_name": "Eldritch Orb",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob2.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Eldritch Orb",
       "sub_type": "orb",
@@ -10840,7 +10930,8 @@
   {
     "item_name": "Demon Heart",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob3.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Demon Heart",
       "sub_type": "orb",
@@ -10875,7 +10966,8 @@
   {
     "item_name": "Vortex Orb",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob4.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Vortex Orb",
       "sub_type": "orb",
@@ -10910,7 +11002,8 @@
   {
     "item_name": "Dimensional Shard",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/sorc_orbs/ob5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/sorc_orbs/ob5.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Dimensional Shard",
       "sub_type": "orb",
@@ -10945,7 +11038,7 @@
   {
     "item_name": "Aerin Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa4.png",
     "item_properties": {
       "item_base": "Aerin Shield",
       "armor_type": "light",
@@ -10990,7 +11083,7 @@
   {
     "item_name": "Kurast Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa3.png",
     "item_properties": {
       "item_base": "Kurast Shield",
       "armor_type": "light",
@@ -11035,7 +11128,7 @@
   {
     "item_name": "Gilded Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa4.png",
     "item_properties": {
       "item_base": "Gilded Shield",
       "armor_type": "light",
@@ -11080,7 +11173,7 @@
   {
     "item_name": "Zakarum Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa4.png",
     "item_properties": {
       "item_base": "Zakarum Shield",
       "armor_type": "light",
@@ -11125,7 +11218,7 @@
   {
     "item_name": "Rondache",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa2.png",
     "item_properties": {
       "item_base": "Rondache",
       "armor_type": "light",
@@ -11170,7 +11263,7 @@
   {
     "item_name": "Sacred Targe",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa1.png",
     "item_properties": {
       "item_base": "Sacred Targe",
       "armor_type": "light",
@@ -11215,7 +11308,7 @@
   {
     "item_name": "Vortex Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa5.png",
     "item_properties": {
       "item_base": "Vortex Shield",
       "armor_type": "light",
@@ -11260,7 +11353,7 @@
   {
     "item_name": "Heraldic Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa3.png",
     "item_properties": {
       "item_base": "Heraldic Shield",
       "armor_type": "light",
@@ -11305,7 +11398,7 @@
   {
     "item_name": "Akaran Rondache",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa2.png",
     "item_properties": {
       "item_base": "Akaran Rondache",
       "armor_type": "light",
@@ -11350,7 +11443,7 @@
   {
     "item_name": "Protector Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa3.png",
     "item_properties": {
       "item_base": "Protector Shield",
       "armor_type": "light",
@@ -11395,7 +11488,7 @@
   {
     "item_name": "Sacred Rondache",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa2.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa2.png",
     "item_properties": {
       "item_base": "Sacred Rondache",
       "armor_type": "light",
@@ -11440,7 +11533,7 @@
   {
     "item_name": "Crown Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa5.png",
     "item_properties": {
       "item_base": "Crown Shield",
       "armor_type": "light",
@@ -11485,7 +11578,7 @@
   {
     "item_name": "Targe",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa1.png",
     "item_properties": {
       "item_base": "Targe",
       "armor_type": "light",
@@ -11530,7 +11623,7 @@
   {
     "item_name": "Akaran Targe",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa1.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa1.png",
     "item_properties": {
       "item_base": "Akaran Targe",
       "armor_type": "light",
@@ -11575,7 +11668,7 @@
   {
     "item_name": "Royal Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/pally_shields/pa5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa5.png",
     "item_properties": {
       "item_base": "Royal Shield",
       "armor_type": "light",
@@ -11620,7 +11713,7 @@
   {
     "item_name": "Bardiche",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/bar.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/bar.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Bardiche",
@@ -11656,7 +11749,7 @@
   {
     "item_name": "Voulge",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/vou.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/vou.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Voulge",
@@ -11692,7 +11785,7 @@
   {
     "item_name": "Scythe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/scy.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/scy.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Scythe",
@@ -11728,7 +11821,7 @@
   {
     "item_name": "Poleaxe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/pax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/pax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Poleaxe",
@@ -11764,7 +11857,7 @@
   {
     "item_name": "Halberd",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/hal.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/hal.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Halberd",
@@ -11800,7 +11893,7 @@
   {
     "item_name": "War Scythe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/wsc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/wsc.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "War Scythe",
@@ -11836,7 +11929,7 @@
   {
     "item_name": "Lochaber Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/bar.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/bar.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Lochaber Axe",
@@ -11872,7 +11965,7 @@
   {
     "item_name": "Bill",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/vou.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/vou.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Bill",
@@ -11908,7 +12001,7 @@
   {
     "item_name": "Battle Scythe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/scy.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/scy.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Battle Scythe",
@@ -11944,7 +12037,7 @@
   {
     "item_name": "Partizan",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/pax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/pax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Partizan",
@@ -11980,7 +12073,7 @@
   {
     "item_name": "Bec-de-Corbin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/hal.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/hal.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Bec-de-Corbin",
@@ -12016,7 +12109,7 @@
   {
     "item_name": "Grim Scythe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/wsc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/wsc.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Grim Scythe",
@@ -12052,7 +12145,7 @@
   {
     "item_name": "Ogre Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/bar.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/bar.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ogre Axe",
@@ -12088,7 +12181,7 @@
   {
     "item_name": "Colossus Voulge",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/vou.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/vou.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Colossus Voulge",
@@ -12124,7 +12217,7 @@
   {
     "item_name": "Thresher",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/scy.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/scy.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Thresher",
@@ -12160,7 +12253,7 @@
   {
     "item_name": "Cryptic Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/pax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/pax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Cryptic Axe",
@@ -12196,7 +12289,7 @@
   {
     "item_name": "Great Poleaxe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/hal.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/hal.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Great Poleaxe",
@@ -12232,7 +12325,7 @@
   {
     "item_name": "Giant Thresher",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/polearms/wsc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/polearms/wsc.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Giant Thresher",
@@ -12268,7 +12361,7 @@
   {
     "item_name": "Scutum",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/lrg.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/lrg.png",
     "item_properties": {
       "item_base": "Scutum",
       "armor_type": "medium",
@@ -12313,7 +12406,7 @@
   {
     "item_name": "Dragon Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/kit.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/kit.png",
     "item_properties": {
       "item_base": "Dragon Shield",
       "armor_type": "light",
@@ -12358,7 +12451,7 @@
   {
     "item_name": "Large Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/lrg.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/lrg.png",
     "item_properties": {
       "item_base": "Large Shield",
       "armor_type": "medium",
@@ -12403,7 +12496,7 @@
   {
     "item_name": "Hyperion",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/lrg.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/lrg.png",
     "item_properties": {
       "item_base": "Hyperion",
       "armor_type": "medium",
@@ -12448,7 +12541,7 @@
   {
     "item_name": "Ward",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/gts.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/gts.png",
     "item_properties": {
       "item_base": "Ward",
       "armor_type": "medium",
@@ -12493,7 +12586,7 @@
   {
     "item_name": "Aegis",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/tow.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/tow.png",
     "item_properties": {
       "item_base": "Aegis",
       "armor_type": "heavy",
@@ -12538,7 +12631,7 @@
   {
     "item_name": "Pavise",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/tow.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/tow.png",
     "item_properties": {
       "item_base": "Pavise",
       "armor_type": "heavy",
@@ -12583,7 +12676,7 @@
   {
     "item_name": "Gothic Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/gts.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/gts.png",
     "item_properties": {
       "item_base": "Gothic Shield",
       "armor_type": "medium",
@@ -12628,7 +12721,7 @@
   {
     "item_name": "Troll Nest",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/bsh.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/bsh.png",
     "item_properties": {
       "item_base": "Troll Nest",
       "armor_type": "light",
@@ -12673,7 +12766,7 @@
   {
     "item_name": "Barbed Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/spk.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/spk.png",
     "item_properties": {
       "item_base": "Barbed Shield",
       "armor_type": "light",
@@ -12718,7 +12811,7 @@
   {
     "item_name": "Kite Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/kit.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/kit.png",
     "item_properties": {
       "item_base": "Kite Shield",
       "armor_type": "light",
@@ -12763,7 +12856,7 @@
   {
     "item_name": "Round Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/sml.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/sml.png",
     "item_properties": {
       "item_base": "Round Shield",
       "armor_type": "light",
@@ -12808,7 +12901,7 @@
   {
     "item_name": "Luna",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/sml.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/sml.png",
     "item_properties": {
       "item_base": "Luna",
       "armor_type": "light",
@@ -12853,7 +12946,7 @@
   {
     "item_name": "Buckler",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/buc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/buc.png",
     "item_properties": {
       "item_base": "Buckler",
       "armor_type": "light",
@@ -12898,7 +12991,7 @@
   {
     "item_name": "Defender",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/buc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/buc.png",
     "item_properties": {
       "item_base": "Defender",
       "armor_type": "light",
@@ -12943,7 +13036,7 @@
   {
     "item_name": "Small Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/sml.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/sml.png",
     "item_properties": {
       "item_base": "Small Shield",
       "armor_type": "light",
@@ -12988,7 +13081,7 @@
   {
     "item_name": "Monarch",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/kit.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/kit.png",
     "item_properties": {
       "item_base": "Monarch",
       "armor_type": "light",
@@ -13033,7 +13126,7 @@
   {
     "item_name": "Spiked Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/spk.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/spk.png",
     "item_properties": {
       "item_base": "Spiked Shield",
       "armor_type": "light",
@@ -13078,7 +13171,7 @@
   {
     "item_name": "Grim Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/bsh.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/bsh.png",
     "item_properties": {
       "item_base": "Grim Shield",
       "armor_type": "light",
@@ -13123,7 +13216,7 @@
   {
     "item_name": "Heater",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/buc.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/buc.png",
     "item_properties": {
       "item_base": "Heater",
       "armor_type": "light",
@@ -13168,7 +13261,7 @@
   {
     "item_name": "Tower Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/tow.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/tow.png",
     "item_properties": {
       "item_base": "Tower Shield",
       "armor_type": "heavy",
@@ -13213,7 +13306,7 @@
   {
     "item_name": "Blade Barrier",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/spk.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/spk.png",
     "item_properties": {
       "item_base": "Blade Barrier",
       "armor_type": "light",
@@ -13258,7 +13351,7 @@
   {
     "item_name": "Bone Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/bsh.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/bsh.png",
     "item_properties": {
       "item_base": "Bone Shield",
       "armor_type": "light",
@@ -13303,7 +13396,7 @@
   {
     "item_name": "Ancient Shield",
     "item_type": "armor",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/shields/gts.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/gts.png",
     "item_properties": {
       "item_base": "Ancient Shield",
       "armor_type": "medium",
@@ -13348,7 +13441,7 @@
   {
     "item_name": "Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/spr.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Spear",
@@ -13384,7 +13477,7 @@
   {
     "item_name": "Trident",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/tri.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/tri.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Trident",
@@ -13420,7 +13513,7 @@
   {
     "item_name": "Brandistock",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/brn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/brn.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Brandistock",
@@ -13456,7 +13549,7 @@
   {
     "item_name": "Spetum",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/spt.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Spetum",
@@ -13492,7 +13585,7 @@
   {
     "item_name": "Pike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/pik.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/pik.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Pike",
@@ -13528,7 +13621,7 @@
   {
     "item_name": "War Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/spr.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "War Spear",
@@ -13564,7 +13657,7 @@
   {
     "item_name": "Fuscina",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/tri.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/tri.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Fuscina",
@@ -13600,7 +13693,7 @@
   {
     "item_name": "War Fork",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/brn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/brn.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "War Fork",
@@ -13636,7 +13729,7 @@
   {
     "item_name": "Yari",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/spt.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Yari",
@@ -13672,7 +13765,7 @@
   {
     "item_name": "Lance",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/pik.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/pik.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Lance",
@@ -13708,7 +13801,7 @@
   {
     "item_name": "Hyperion Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spr.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/spr.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Hyperion Spear",
@@ -13744,7 +13837,7 @@
   {
     "item_name": "Stygian Pike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/tri.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/tri.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Stygian Pike",
@@ -13780,7 +13873,7 @@
   {
     "item_name": "Mancatcher",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/brn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/brn.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Mancatcher",
@@ -13816,7 +13909,7 @@
   {
     "item_name": "Ghost Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/spt.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/spt.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ghost Spear",
@@ -13852,7 +13945,7 @@
   {
     "item_name": "War Pike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/pik.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/pik.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "War Pike",
@@ -13888,7 +13981,7 @@
   {
     "item_name": "Cedar Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/cst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/cst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Cedar Staff",
@@ -13929,7 +14022,7 @@
   {
     "item_name": "Walking Stick",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/sst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/sst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Walking Stick",
@@ -13970,7 +14063,7 @@
   {
     "item_name": "Shillelagh",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/bst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/bst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Shillelagh",
@@ -14011,7 +14104,7 @@
   {
     "item_name": "Gnarled Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/cst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/cst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Gnarled Staff",
@@ -14052,7 +14145,7 @@
   {
     "item_name": "Rune Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/wst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/wst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Rune Staff",
@@ -14093,7 +14186,7 @@
   {
     "item_name": "Jo Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/sst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/sst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Jo Staff",
@@ -14134,7 +14227,7 @@
   {
     "item_name": "Gothic Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/bst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/bst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Gothic Staff",
@@ -14175,7 +14268,7 @@
   {
     "item_name": "Elder Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/cst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/cst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Elder Staff",
@@ -14216,7 +14309,7 @@
   {
     "item_name": "Archon Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/wst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/wst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Archon Staff",
@@ -14257,7 +14350,7 @@
   {
     "item_name": "Battle Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/bst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/bst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Battle Staff",
@@ -14298,7 +14391,7 @@
   {
     "item_name": "Quarterstaff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/lst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/lst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Quarterstaff",
@@ -14339,7 +14432,7 @@
   {
     "item_name": "War Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/wst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/wst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "War Staff",
@@ -14380,7 +14473,7 @@
   {
     "item_name": "Short Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/sst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/sst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Short Staff",
@@ -14421,7 +14514,7 @@
   {
     "item_name": "Long Staff",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/lst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/lst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Long Staff",
@@ -14462,7 +14555,7 @@
   {
     "item_name": "Stalagmite",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/staves/lst.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/staves/lst.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Stalagmite",
@@ -14503,7 +14596,8 @@
   {
     "item_name": "Throwing Knife",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tkn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Throwing Knife",
       "sub_type": "throwing",
@@ -14539,7 +14633,8 @@
   {
     "item_name": "Balanced Knife",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/bkf.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Balanced Knife",
       "sub_type": "throwing",
@@ -14575,7 +14670,8 @@
   {
     "item_name": "Throwing Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Throwing Axe",
       "sub_type": "throwing",
@@ -14611,7 +14707,8 @@
   {
     "item_name": "Balanced Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/bal.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Balanced Axe",
       "sub_type": "throwing",
@@ -14647,7 +14744,8 @@
   {
     "item_name": "Battle Dart",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tkn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Battle Dart",
       "sub_type": "throwing",
@@ -14683,7 +14781,8 @@
   {
     "item_name": "War Dart",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/bkf.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "War Dart",
       "sub_type": "throwing",
@@ -14719,7 +14818,8 @@
   {
     "item_name": "Francisca",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Francisca",
       "sub_type": "throwing",
@@ -14755,7 +14855,8 @@
   {
     "item_name": "Hurlbat",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/bal.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Hurlbat",
       "sub_type": "throwing",
@@ -14791,7 +14892,8 @@
   {
     "item_name": "Flying Knife",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tkn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tkn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Flying Knife",
       "sub_type": "throwing",
@@ -14827,7 +14929,8 @@
   {
     "item_name": "Winged Knife",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bkf.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/bkf.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Winged Knife",
       "sub_type": "throwing",
@@ -14863,7 +14966,8 @@
   {
     "item_name": "Flying Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/tax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/tax.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Flying Axe",
       "sub_type": "throwing",
@@ -14899,7 +15003,8 @@
   {
     "item_name": "Winged Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/throwing/bal.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/throwing/bal.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Winged Axe",
       "sub_type": "throwing",
@@ -14935,7 +15040,7 @@
   {
     "item_name": "Large Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/lax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/lax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Large Axe",
@@ -14966,13 +15071,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Broad Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/brx.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/brx.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Broad Axe",
@@ -15003,13 +15107,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Battle Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/btx.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/btx.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Battle Axe",
@@ -15040,13 +15143,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Great Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/gax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Great Axe",
@@ -15077,13 +15179,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Giant Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gix.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/gix.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Giant Axe",
@@ -15114,13 +15215,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Military Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/lax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/lax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Military Axe",
@@ -15151,13 +15251,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Bearded Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/brx.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/brx.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Bearded Axe",
@@ -15188,13 +15287,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Tabar",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/btx.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/btx.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Tabar",
@@ -15225,13 +15323,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Gothic Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/gax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Gothic Axe",
@@ -15262,13 +15359,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Ancient Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gix.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/gix.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ancient Axe",
@@ -15299,13 +15395,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Feral Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/lax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/lax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Feral Axe",
@@ -15336,13 +15431,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Silver-edged Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/brx.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/brx.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Silver-edged Axe",
@@ -15373,13 +15467,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Decapitator",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/btx.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/btx.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Decapitator",
@@ -15410,13 +15503,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Champion Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gax.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/gax.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Champion Axe",
@@ -15447,13 +15539,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Glorious Axe",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_axes/gix.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_axes/gix.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Glorious Axe",
@@ -15484,13 +15575,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Two-Handed Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/2hs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/2hs.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Two-Handed Sword",
@@ -15526,7 +15616,7 @@
   {
     "item_name": "Claymore",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/clm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/clm.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Claymore",
@@ -15562,7 +15652,7 @@
   {
     "item_name": "Giant Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/gis.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/gis.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Giant Sword",
@@ -15598,7 +15688,7 @@
   {
     "item_name": "Bastard Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/bsw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/bsw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Bastard Sword",
@@ -15634,7 +15724,7 @@
   {
     "item_name": "Flamberge",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/flb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/flb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Flamberge",
@@ -15670,7 +15760,7 @@
   {
     "item_name": "Great Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/gsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/gsd.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Great Sword",
@@ -15706,7 +15796,7 @@
   {
     "item_name": "Espandon",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/2hs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/2hs.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Espandon",
@@ -15742,7 +15832,7 @@
   {
     "item_name": "Dacian Falx",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/clm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/clm.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Dacian Falx",
@@ -15778,7 +15868,7 @@
   {
     "item_name": "Tusk Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/gis.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/gis.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Tusk Sword",
@@ -15814,7 +15904,7 @@
   {
     "item_name": "Gothic Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/bsw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/bsw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Gothic Sword",
@@ -15850,7 +15940,7 @@
   {
     "item_name": "Zweihander",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/flb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/flb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Zweihander",
@@ -15886,7 +15976,7 @@
   {
     "item_name": "Executioner Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/gsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/gsd.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Executioner Sword",
@@ -15922,7 +16012,7 @@
   {
     "item_name": "Legend Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/2hs.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/2hs.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Legend Sword",
@@ -15958,7 +16048,7 @@
   {
     "item_name": "Highland Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/clm.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/clm.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Highland Blade",
@@ -15994,7 +16084,7 @@
   {
     "item_name": "Balrog Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/gis.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/gis.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Balrog Blade",
@@ -16030,7 +16120,7 @@
   {
     "item_name": "Champion Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/bsw.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/bsw.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Champion Sword",
@@ -16066,7 +16156,7 @@
   {
     "item_name": "Colossus Sword",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/flb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/flb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Colossus Sword",
@@ -16102,7 +16192,7 @@
   {
     "item_name": "Colossus Blade",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/two_swords/gsd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/two_swords/gsd.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Colossus Blade",
@@ -16138,7 +16228,8 @@
   {
     "item_name": "Ghost Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/ywn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/ywn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Ghost Wand",
       "sub_type": "wand",
@@ -16178,7 +16269,8 @@
   {
     "item_name": "Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/wnd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/wnd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Wand",
       "sub_type": "wand",
@@ -16218,7 +16310,8 @@
   {
     "item_name": "Bone Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/bwn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/bwn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Bone Wand",
       "sub_type": "wand",
@@ -16258,7 +16351,8 @@
   {
     "item_name": "Polished Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/wnd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/wnd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Polished Wand",
       "sub_type": "wand",
@@ -16298,7 +16392,8 @@
   {
     "item_name": "Lich Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/bwn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/bwn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Lich Wand",
       "sub_type": "wand",
@@ -16338,7 +16433,8 @@
   {
     "item_name": "Grim Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/gwn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/gwn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Grim Wand",
       "sub_type": "wand",
@@ -16378,7 +16474,8 @@
   {
     "item_name": "Tomb Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/bwn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/bwn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Tomb Wand",
       "sub_type": "wand",
@@ -16418,7 +16515,8 @@
   {
     "item_name": "Yew Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/ywn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/ywn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Yew Wand",
       "sub_type": "wand",
@@ -16458,7 +16556,8 @@
   {
     "item_name": "Burnt Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/wnd.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/wnd.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Burnt Wand",
       "sub_type": "wand",
@@ -16498,7 +16597,8 @@
   {
     "item_name": "Petrified Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/ywn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/ywn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Petrified Wand",
       "sub_type": "wand",
@@ -16538,7 +16638,8 @@
   {
     "item_name": "Grave Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/gwn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/gwn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Grave Wand",
       "sub_type": "wand",
@@ -16578,7 +16679,8 @@
   {
     "item_name": "Unearthed Wand",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/wands/gwn.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/wands/gwn.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Unearthed Wand",
       "sub_type": "wand",
@@ -16618,7 +16720,7 @@
   {
     "item_name": "Light Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/lxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/lxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Light Crossbow",
@@ -16652,7 +16754,7 @@
   {
     "item_name": "Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/mxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/mxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Crossbow",
@@ -16686,7 +16788,7 @@
   {
     "item_name": "Heavy Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/hxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/hxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Heavy Crossbow",
@@ -16720,7 +16822,7 @@
   {
     "item_name": "Repeating Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/rxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/rxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Repeating Crossbow",
@@ -16754,7 +16856,7 @@
   {
     "item_name": "Arbalest",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/lxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/lxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Arbalest",
@@ -16788,7 +16890,7 @@
   {
     "item_name": "Siege Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/mxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/mxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Siege Crossbow",
@@ -16822,7 +16924,7 @@
   {
     "item_name": "Ballista",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/hxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/hxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ballista",
@@ -16856,7 +16958,7 @@
   {
     "item_name": "Chu-Ko-Nu",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/rxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/rxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Chu-Ko-Nu",
@@ -16890,7 +16992,7 @@
   {
     "item_name": "Pellet Bow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/lxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/lxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Pellet Bow",
@@ -16924,7 +17026,7 @@
   {
     "item_name": "Gorgon Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/mxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/mxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Gorgon Crossbow",
@@ -16958,7 +17060,7 @@
   {
     "item_name": "Colossus Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/hxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/hxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Colossus Crossbow",
@@ -16992,7 +17094,7 @@
   {
     "item_name": "Demon Crossbow",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/crossbows/rxb.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/crossbows/rxb.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Demon Crossbow",
@@ -17026,7 +17128,8 @@
   {
     "item_name": "Maiden Javelin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/javelins/am5.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Maiden Javelin",
       "sub_type": "javelin",
@@ -17062,7 +17165,8 @@
   {
     "item_name": "Ceremonial Javelin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/javelins/am5.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Ceremonial Javelin",
       "sub_type": "javelin",
@@ -17098,7 +17202,8 @@
   {
     "item_name": "Matriarchal Javelin",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/javelins/am5.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/javelins/am5.png",
+    "two_hand": false,
     "item_properties": {
       "item_base": "Matriarchal Javelin",
       "sub_type": "javelin",
@@ -17134,7 +17239,7 @@
   {
     "item_name": "Maiden Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/am3.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Maiden Spear",
@@ -17166,13 +17271,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Maiden Pike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/am4.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Maiden Pike",
@@ -17204,13 +17308,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Ceremonial Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/am3.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ceremonial Spear",
@@ -17242,13 +17345,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Ceremonial Pike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/am4.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Ceremonial Pike",
@@ -17280,13 +17382,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Matriarchal Spear",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am3.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/am3.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Matriarchal Spear",
@@ -17318,13 +17419,12 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   },
   {
     "item_name": "Matriarchal Pike",
     "item_type": "weapon",
-    "item_image": "https://pd2-tools-planner.s3.amazonaws.com/item_images/spears/am4.png",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/spears/am4.png",
     "two_hand": true,
     "item_properties": {
       "item_base": "Matriarchal Pike",
@@ -17356,7 +17456,6 @@
         "ethereal": false
       }
     },
-    "item_mods": {
-    }
+    "item_mods": {}
   }
 ]

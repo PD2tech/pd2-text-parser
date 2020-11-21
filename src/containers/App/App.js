@@ -1,17 +1,20 @@
 import React, { useState } from "react";
 
-import { PropertiesParse } from "../../components/ParsingInputs/PropertiesParse";
-import { ItemStatParse } from "../../components/ParsingInputs/ItemStatParse";
-// import { SkillsParse } from "../../components/ParsingInputs/SkillsParse";
-import { UniqueParse } from "../../components/ParsingInputs/UniqueParse";
-import { StringParse } from "../../components/ParsingInputs/stringParse";
-import { RunewordParse } from "../../components/ParsingInputs/RunewordParse";
+import {
+  PropertiesInput,
+  ItemStatInput,
+  UniqueInput,
+  RunewordInput,
+  StringInput,
+} from "../../components/components_index";
+
 import { parseUniqueItems } from "../../components/ParsingInputs/util/parseUniques";
 import { parseRunewords } from "../../components/ParsingInputs/util/parseRunewords";
 
 import { combineAll } from "../../components/ParsingInputs/util/combineAll";
 
 export const App = () => {
+  const [itemCategory, setItemCategory] = useState(0);
   const [jsonFiles, setJsonFiles] = useState({
     properties: null,
     item_stat: null,
@@ -23,31 +26,67 @@ export const App = () => {
   });
   const [results, setResults] = useState(null);
 
-  const showUniqueParser = () => {
+  const showItemInput = () => {
     const { properties, item_stat } = jsonFiles;
-    if (properties && item_stat) {
-      return <UniqueParse setJsonFiles={setJsonFiles} />;
-    }
-  };
-
-  const showRunewordParser = () => {
-    const { properties, item_stat } = jsonFiles;
-    if (properties && item_stat) {
-      return <RunewordParse setJsonFiles={setJsonFiles} />;
+    if (properties && item_stat && itemCategory === 0) {
+      return (
+        <>
+          <h5>
+            Has some special handling in conversion to filter out non-item
+            entries in the .txt as well as items that aren't actually
+            "completed" or in the game.
+          </h5>
+          <UniqueInput setJsonFiles={setJsonFiles} />
+        </>
+      );
+    } else if (properties && item_stat && itemCategory === 1) {
+      return (
+        <>
+          <h5>
+            Has some special handling in conversion to filter out items that
+            aren't actually "completed" or in the game.
+          </h5>
+          <RunewordInput setJsonFiles={setJsonFiles} />
+        </>
+      );
     }
   };
 
   return (
     <div className="App">
-      <div>
-        <StringParse setJsonFiles={setJsonFiles} />
-        <PropertiesParse setJsonFiles={setJsonFiles} />
-        <ItemStatParse setJsonFiles={setJsonFiles} />
-        {/* <SkillsParse setJsonFiles={setJsonFiles} /> */}
-        {showUniqueParser()}
-        {showRunewordParser()}
+      <div className="input-container">
+        <h5>
+          Converts raw .txt file into JSON and prints it on screen. No special
+          handling in the conversion.
+        </h5>
+        <StringInput setJsonFiles={setJsonFiles} />
       </div>
-      <div>
+
+      <div className="input-container">
+        <h5>
+          Converts and stores JSON result in application state. Both
+          Properties.txt and ItemStatCost.txt are required for generating items.
+          No special handling in conversions.
+        </h5>
+        <PropertiesInput setJsonFiles={setJsonFiles} />
+        <ItemStatInput setJsonFiles={setJsonFiles} />
+      </div>
+
+      {jsonFiles.properties && jsonFiles.item_stat ? (
+        <div className="input-container">
+          <h5>Item Category</h5>
+          <div className="item-category-buttons">
+            <button onClick={() => setItemCategory(0)}>uniques</button>
+            <button onClick={() => setItemCategory(1)}>runewords</button>
+            <button disabled onClick={() => setItemCategory(2)}>
+              sets
+            </button>
+          </div>
+          {showItemInput()}
+        </div>
+      ) : null}
+
+      <div className="input-container">
         {jsonFiles.unique_items ? (
           <div>
             <button
@@ -87,6 +126,9 @@ export const App = () => {
         {jsonFiles.string ? (
           <pre>{JSON.stringify(jsonFiles.string, null, 2)}</pre>
         ) : null}
+      </div>
+      <div className="input-container">
+        <h5>Combines resulting Uniques or Sets with matching item base.</h5>
         <button
           onClick={async () => {
             const combined = await combineAll();

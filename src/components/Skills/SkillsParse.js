@@ -1,11 +1,11 @@
 import React from "react";
-import { parseToJson } from "./util/parseToJson";
+import { convertSkills } from "./util/convertSkills";
 
 import { CSVReader } from "react-papaparse";
 
 const buttonRef = React.createRef();
 
-export const RunewordParse = (props) => {
+export const SkillsParse = (props) => {
   const { setJsonFiles } = props;
   const handleOpenDialog = (e) => {
     if (buttonRef.current) {
@@ -14,10 +14,10 @@ export const RunewordParse = (props) => {
   };
 
   const handleOnFileLoad = (data) => {
-    const newJson = parseToJson(data);
+    const newJson = convertSkills(data);
     setJsonFiles((prevState) => ({
       ...prevState,
-      rune_items: newJson,
+      skills: newJson,
     }));
   };
 
@@ -54,7 +54,7 @@ export const RunewordParse = (props) => {
           }}
         >
           <button type="button" onClick={handleOpenDialog}>
-            Runes.txt
+            Skills.txt
           </button>
           <div
             style={{
@@ -63,7 +63,7 @@ export const RunewordParse = (props) => {
               borderColor: "#ccc",
               height: 25,
               paddingLeft: 12,
-              width: "20%",
+              width: "50%",
             }}
           >
             {file && file.name}

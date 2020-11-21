@@ -1,11 +1,11 @@
 import React from "react";
-import { parseToJson } from "./util/parseToJson";
+import { convertUniques } from "./util/convertUniques";
 
 import { CSVReader } from "react-papaparse";
 
 const buttonRef = React.createRef();
 
-export const UniqueParse = (props) => {
+export const UniqueInput = (props) => {
   const { setJsonFiles } = props;
   const handleOpenDialog = (e) => {
     if (buttonRef.current) {
@@ -14,7 +14,7 @@ export const UniqueParse = (props) => {
   };
 
   const handleOnFileLoad = (data) => {
-    const newJson = parseToJson(data);
+    const newJson = convertUniques(data);
     setJsonFiles((prevState) => ({
       ...prevState,
       unique_items: newJson,
@@ -63,7 +63,7 @@ export const UniqueParse = (props) => {
               borderColor: "#ccc",
               height: 25,
               paddingLeft: 12,
-              width: "20%",
+              width: "50%",
             }}
           >
             {file && file.name}
