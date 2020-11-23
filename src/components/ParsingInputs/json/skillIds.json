@@ -1,0 +1,1289 @@
+[
+  {
+    "skill": "Attack",
+    "Id": "0"
+  },
+  {
+    "skill": "Kick",
+    "Id": "1"
+  },
+  {
+    "skill": "Throw",
+    "Id": "2"
+  },
+  {
+    "skill": "Unsummon",
+    "Id": "3"
+  },
+  {
+    "skill": "Left Hand Throw",
+    "Id": "4"
+  },
+  {
+    "skill": "Left Hand Swing",
+    "Id": "5"
+  },
+  {
+    "skill": "Magic Arrow",
+    "Id": "6"
+  },
+  {
+    "skill": "Fire Arrow",
+    "Id": "7"
+  },
+  {
+    "skill": "Inner Sight",
+    "Id": "8"
+  },
+  {
+    "skill": "Critical Strike",
+    "Id": "9"
+  },
+  {
+    "skill": "Jab",
+    "Id": "10"
+  },
+  {
+    "skill": "Cold Arrow",
+    "Id": "11"
+  },
+  {
+    "skill": "Multiple Shot",
+    "Id": "12"
+  },
+  {
+    "skill": "Dodge",
+    "Id": "13"
+  },
+  {
+    "skill": "Power Strike",
+    "Id": "14"
+  },
+  {
+    "skill": "Poison Javelin",
+    "Id": "15"
+  },
+  {
+    "skill": "Exploding Arrow",
+    "Id": "16"
+  },
+  {
+    "skill": "Slow Missiles",
+    "Id": "17"
+  },
+  {
+    "skill": "Avoid",
+    "Id": "18"
+  },
+  {
+    "skill": "Impale",
+    "Id": "19"
+  },
+  {
+    "skill": "Lightning Bolt",
+    "Id": "20"
+  },
+  {
+    "skill": "Ice Arrow",
+    "Id": "21"
+  },
+  {
+    "skill": "Guided Arrow",
+    "Id": "22"
+  },
+  {
+    "skill": "Penetrate",
+    "Id": "23"
+  },
+  {
+    "skill": "Charged Strike",
+    "Id": "24"
+  },
+  {
+    "skill": "Plague Javelin",
+    "Id": "25"
+  },
+  {
+    "skill": "Strafe",
+    "Id": "26"
+  },
+  {
+    "skill": "Immolation Arrow",
+    "Id": "27"
+  },
+  {
+    "skill": "Dopplezon",
+    "Id": "28"
+  },
+  {
+    "skill": "Evade",
+    "Id": "29"
+  },
+  {
+    "skill": "Fend",
+    "Id": "30"
+  },
+  {
+    "skill": "Freezing Arrow",
+    "Id": "31"
+  },
+  {
+    "skill": "Valkyrie",
+    "Id": "32"
+  },
+  {
+    "skill": "Pierce",
+    "Id": "33"
+  },
+  {
+    "skill": "Lightning Strike",
+    "Id": "34"
+  },
+  {
+    "skill": "Lightning Fury",
+    "Id": "35"
+  },
+  {
+    "skill": "Fire Bolt",
+    "Id": "36"
+  },
+  {
+    "skill": "Warmth",
+    "Id": "37"
+  },
+  {
+    "skill": "Charged Bolt",
+    "Id": "38"
+  },
+  {
+    "skill": "Ice Bolt",
+    "Id": "39"
+  },
+  {
+    "skill": "Frozen Armor",
+    "Id": "40"
+  },
+  {
+    "skill": "Inferno",
+    "Id": "41"
+  },
+  {
+    "skill": "Static Field",
+    "Id": "42"
+  },
+  {
+    "skill": "Telekinesis",
+    "Id": "43"
+  },
+  {
+    "skill": "Frost Nova",
+    "Id": "44"
+  },
+  {
+    "skill": "Ice Blast",
+    "Id": "45"
+  },
+  {
+    "skill": "Blaze",
+    "Id": "46"
+  },
+  {
+    "skill": "Fire Ball",
+    "Id": "47"
+  },
+  {
+    "skill": "Nova",
+    "Id": "48"
+  },
+  {
+    "skill": "Lightning",
+    "Id": "49"
+  },
+  {
+    "skill": "Shiver Armor",
+    "Id": "50"
+  },
+  {
+    "skill": "Fire Wall",
+    "Id": "51"
+  },
+  {
+    "skill": "Enchant",
+    "Id": "52"
+  },
+  {
+    "skill": "Chain Lightning",
+    "Id": "53"
+  },
+  {
+    "skill": "Teleport",
+    "Id": "54"
+  },
+  {
+    "skill": "Glacial Spike",
+    "Id": "55"
+  },
+  {
+    "skill": "Meteor",
+    "Id": "56"
+  },
+  {
+    "skill": "Thunder Storm",
+    "Id": "57"
+  },
+  {
+    "skill": "Energy Shield",
+    "Id": "58"
+  },
+  {
+    "skill": "Blizzard",
+    "Id": "59"
+  },
+  {
+    "skill": "Chilling Armor",
+    "Id": "60"
+  },
+  {
+    "skill": "Fire Mastery",
+    "Id": "61"
+  },
+  {
+    "skill": "Hydra",
+    "Id": "62"
+  },
+  {
+    "skill": "Lightning Mastery",
+    "Id": "63"
+  },
+  {
+    "skill": "Frozen Orb",
+    "Id": "64"
+  },
+  {
+    "skill": "Cold Mastery",
+    "Id": "65"
+  },
+  {
+    "skill": "Amplify Damage",
+    "Id": "66"
+  },
+  {
+    "skill": "Teeth",
+    "Id": "67"
+  },
+  {
+    "skill": "Bone Armor",
+    "Id": "68"
+  },
+  {
+    "skill": "Skeleton Mastery",
+    "Id": "69"
+  },
+  {
+    "skill": "Raise Skeleton",
+    "Id": "70"
+  },
+  {
+    "skill": "Dim Vision",
+    "Id": "71"
+  },
+  {
+    "skill": "Weaken",
+    "Id": "72"
+  },
+  {
+    "skill": "Poison Dagger",
+    "Id": "73"
+  },
+  {
+    "skill": "Corpse Explosion",
+    "Id": "74"
+  },
+  {
+    "skill": "Clay Golem",
+    "Id": "75"
+  },
+  {
+    "skill": "Iron Maiden",
+    "Id": "76"
+  },
+  {
+    "skill": "Terror",
+    "Id": "77"
+  },
+  {
+    "skill": "Bone Wall",
+    "Id": "78"
+  },
+  {
+    "skill": "Golem Mastery",
+    "Id": "79"
+  },
+  {
+    "skill": "Raise Skeletal Mage",
+    "Id": "80"
+  },
+  {
+    "skill": "Confuse",
+    "Id": "81"
+  },
+  {
+    "skill": "Life Tap",
+    "Id": "82"
+  },
+  {
+    "skill": "Poison Explosion",
+    "Id": "83"
+  },
+  {
+    "skill": "Bone Spear",
+    "Id": "84"
+  },
+  {
+    "skill": "BloodGolem",
+    "Id": "85"
+  },
+  {
+    "skill": "Attract",
+    "Id": "86"
+  },
+  {
+    "skill": "Decrepify",
+    "Id": "87"
+  },
+  {
+    "skill": "Bone Prison",
+    "Id": "88"
+  },
+  {
+    "skill": "Summon Resist",
+    "Id": "89"
+  },
+  {
+    "skill": "IronGolem",
+    "Id": "90"
+  },
+  {
+    "skill": "Lower Resist",
+    "Id": "91"
+  },
+  {
+    "skill": "Poison Nova",
+    "Id": "92"
+  },
+  {
+    "skill": "Bone Spirit",
+    "Id": "93"
+  },
+  {
+    "skill": "FireGolem",
+    "Id": "94"
+  },
+  {
+    "skill": "Revive",
+    "Id": "95"
+  },
+  {
+    "skill": "Sacrifice",
+    "Id": "96"
+  },
+  {
+    "skill": "Smite",
+    "Id": "97"
+  },
+  {
+    "skill": "Might",
+    "Id": "98"
+  },
+  {
+    "skill": "Prayer",
+    "Id": "99"
+  },
+  {
+    "skill": "Resist Fire",
+    "Id": "100"
+  },
+  {
+    "skill": "Holy Bolt",
+    "Id": "101"
+  },
+  {
+    "skill": "Holy Fire",
+    "Id": "102"
+  },
+  {
+    "skill": "Thorns",
+    "Id": "103"
+  },
+  {
+    "skill": "Defiance",
+    "Id": "104"
+  },
+  {
+    "skill": "Resist Cold",
+    "Id": "105"
+  },
+  {
+    "skill": "Zeal",
+    "Id": "106"
+  },
+  {
+    "skill": "Charge",
+    "Id": "107"
+  },
+  {
+    "skill": "Blessed Aim",
+    "Id": "108"
+  },
+  {
+    "skill": "Cleansing",
+    "Id": "109"
+  },
+  {
+    "skill": "Resist Lightning",
+    "Id": "110"
+  },
+  {
+    "skill": "Vengeance",
+    "Id": "111"
+  },
+  {
+    "skill": "Blessed Hammer",
+    "Id": "112"
+  },
+  {
+    "skill": "Concentration",
+    "Id": "113"
+  },
+  {
+    "skill": "Holy Freeze",
+    "Id": "114"
+  },
+  {
+    "skill": "Vigor",
+    "Id": "115"
+  },
+  {
+    "skill": "Conversion",
+    "Id": "116"
+  },
+  {
+    "skill": "Holy Shield",
+    "Id": "117"
+  },
+  {
+    "skill": "Holy Shock",
+    "Id": "118"
+  },
+  {
+    "skill": "Sanctuary",
+    "Id": "119"
+  },
+  {
+    "skill": "Meditation",
+    "Id": "120"
+  },
+  {
+    "skill": "Fist of the Heavens",
+    "Id": "121"
+  },
+  {
+    "skill": "Fanaticism",
+    "Id": "122"
+  },
+  {
+    "skill": "Conviction",
+    "Id": "123"
+  },
+  {
+    "skill": "Redemption",
+    "Id": "124"
+  },
+  {
+    "skill": "Salvation",
+    "Id": "125"
+  },
+  {
+    "skill": "Bash",
+    "Id": "126"
+  },
+  {
+    "skill": "Sword Mastery",
+    "Id": "127"
+  },
+  {
+    "skill": "Axe Mastery",
+    "Id": "128"
+  },
+  {
+    "skill": "Mace Mastery",
+    "Id": "129"
+  },
+  {
+    "skill": "Howl",
+    "Id": "130"
+  },
+  {
+    "skill": "Find Potion",
+    "Id": "131"
+  },
+  {
+    "skill": "Leap",
+    "Id": "132"
+  },
+  {
+    "skill": "Double Swing",
+    "Id": "133"
+  },
+  {
+    "skill": "Pole Arm Mastery",
+    "Id": "134"
+  },
+  {
+    "skill": "Throwing Mastery",
+    "Id": "135"
+  },
+  {
+    "skill": "Spear Mastery",
+    "Id": "136"
+  },
+  {
+    "skill": "Taunt",
+    "Id": "137"
+  },
+  {
+    "skill": "Shout",
+    "Id": "138"
+  },
+  {
+    "skill": "Stun",
+    "Id": "139"
+  },
+  {
+    "skill": "Double Throw",
+    "Id": "140"
+  },
+  {
+    "skill": "Increased Stamina",
+    "Id": "141"
+  },
+  {
+    "skill": "Find Item",
+    "Id": "142"
+  },
+  {
+    "skill": "Leap Attack",
+    "Id": "143"
+  },
+  {
+    "skill": "Concentrate",
+    "Id": "144"
+  },
+  {
+    "skill": "Iron Skin",
+    "Id": "145"
+  },
+  {
+    "skill": "Battle Cry",
+    "Id": "146"
+  },
+  {
+    "skill": "Frenzy",
+    "Id": "147"
+  },
+  {
+    "skill": "Increased Speed",
+    "Id": "148"
+  },
+  {
+    "skill": "Battle Orders",
+    "Id": "149"
+  },
+  {
+    "skill": "Grim Ward",
+    "Id": "150"
+  },
+  {
+    "skill": "Whirlwind",
+    "Id": "151"
+  },
+  {
+    "skill": "Berserk",
+    "Id": "152"
+  },
+  {
+    "skill": "Natural Resistance",
+    "Id": "153"
+  },
+  {
+    "skill": "War Cry",
+    "Id": "154"
+  },
+  {
+    "skill": "Battle Command",
+    "Id": "155"
+  },
+  {
+    "skill": "Fire Hit",
+    "Id": "156"
+  },
+  {
+    "skill": "UnHolyBolt",
+    "Id": "157"
+  },
+  {
+    "skill": "SkeletonRaise",
+    "Id": "158"
+  },
+  {
+    "skill": "MaggotEgg",
+    "Id": "159"
+  },
+  {
+    "skill": "ShamanFire",
+    "Id": "160"
+  },
+  {
+    "skill": "MagottUp",
+    "Id": "161"
+  },
+  {
+    "skill": "MagottDown",
+    "Id": "162"
+  },
+  {
+    "skill": "MagottLay",
+    "Id": "163"
+  },
+  {
+    "skill": "AndrialSpray",
+    "Id": "164"
+  },
+  {
+    "skill": "Jump",
+    "Id": "165"
+  },
+  {
+    "skill": "Swarm Move",
+    "Id": "166"
+  },
+  {
+    "skill": "Nest",
+    "Id": "167"
+  },
+  {
+    "skill": "Quick Strike",
+    "Id": "168"
+  },
+  {
+    "skill": "VampireFireball",
+    "Id": "169"
+  },
+  {
+    "skill": "VampireFirewall",
+    "Id": "170"
+  },
+  {
+    "skill": "VampireMeteor",
+    "Id": "171"
+  },
+  {
+    "skill": "GargoyleTrap",
+    "Id": "172"
+  },
+  {
+    "skill": "SpiderLay",
+    "Id": "173"
+  },
+  {
+    "skill": "VampireHeal",
+    "Id": "174"
+  },
+  {
+    "skill": "VampireRaise",
+    "Id": "175"
+  },
+  {
+    "skill": "Submerge",
+    "Id": "176"
+  },
+  {
+    "skill": "FetishAura",
+    "Id": "177"
+  },
+  {
+    "skill": "FetishInferno",
+    "Id": "178"
+  },
+  {
+    "skill": "ZakarumHeal",
+    "Id": "179"
+  },
+  {
+    "skill": "Emerge",
+    "Id": "180"
+  },
+  {
+    "skill": "Resurrect",
+    "Id": "181"
+  },
+  {
+    "skill": "Bestow",
+    "Id": "182"
+  },
+  {
+    "skill": "MissileSkill1",
+    "Id": "183"
+  },
+  {
+    "skill": "MonTeleport",
+    "Id": "184"
+  },
+  {
+    "skill": "PrimeLightning",
+    "Id": "185"
+  },
+  {
+    "skill": "PrimeBolt",
+    "Id": "186"
+  },
+  {
+    "skill": "PrimeBlaze",
+    "Id": "187"
+  },
+  {
+    "skill": "PrimeFirewall",
+    "Id": "188"
+  },
+  {
+    "skill": "PrimeSpike",
+    "Id": "189"
+  },
+  {
+    "skill": "PrimeIceNova",
+    "Id": "190"
+  },
+  {
+    "skill": "PrimePoisonball",
+    "Id": "191"
+  },
+  {
+    "skill": "PrimePoisonNova",
+    "Id": "192"
+  },
+  {
+    "skill": "DiabLight",
+    "Id": "193"
+  },
+  {
+    "skill": "DiabCold",
+    "Id": "194"
+  },
+  {
+    "skill": "DiabFire",
+    "Id": "195"
+  },
+  {
+    "skill": "FingerMageSpider",
+    "Id": "196"
+  },
+  {
+    "skill": "DiabWall",
+    "Id": "197"
+  },
+  {
+    "skill": "DiabRun",
+    "Id": "198"
+  },
+  {
+    "skill": "DiabPrison",
+    "Id": "199"
+  },
+  {
+    "skill": "PoisonBallTrap",
+    "Id": "200"
+  },
+  {
+    "skill": "AndyPoisonBolt",
+    "Id": "201"
+  },
+  {
+    "skill": "HireableMissile",
+    "Id": "202"
+  },
+  {
+    "skill": "DesertTurret",
+    "Id": "203"
+  },
+  {
+    "skill": "ArcaneTower",
+    "Id": "204"
+  },
+  {
+    "skill": "MonBlizzard",
+    "Id": "205"
+  },
+  {
+    "skill": "Mosquito",
+    "Id": "206"
+  },
+  {
+    "skill": "CursedBallTrapRight",
+    "Id": "207"
+  },
+  {
+    "skill": "CursedBallTrapLeft",
+    "Id": "208"
+  },
+  {
+    "skill": "MonFrozenArmor",
+    "Id": "209"
+  },
+  {
+    "skill": "MonBoneArmor",
+    "Id": "210"
+  },
+  {
+    "skill": "MonBoneSpirit",
+    "Id": "211"
+  },
+  {
+    "skill": "MonCurseCast",
+    "Id": "212"
+  },
+  {
+    "skill": "HellMeteor",
+    "Id": "213"
+  },
+  {
+    "skill": "RegurgitatorEat",
+    "Id": "214"
+  },
+  {
+    "skill": "MonFrenzy",
+    "Id": "215"
+  },
+  {
+    "skill": "QueenDeath",
+    "Id": "216"
+  },
+  {
+    "skill": "Scroll of Identify",
+    "Id": "217"
+  },
+  {
+    "skill": "Book of Identify",
+    "Id": "218"
+  },
+  {
+    "skill": "Scroll of Townportal",
+    "Id": "219"
+  },
+  {
+    "skill": "Book of Townportal",
+    "Id": "220"
+  },
+  {
+    "skill": "Expansion"
+  },
+  {
+    "skill": "Raven",
+    "Id": "221"
+  },
+  {
+    "skill": "Plague Poppy",
+    "Id": "222"
+  },
+  {
+    "skill": "Dire Wolf",
+    "Id": "223"
+  },
+  {
+    "skill": "Shape Shifting",
+    "Id": "224"
+  },
+  {
+    "skill": "Firestorm",
+    "Id": "225"
+  },
+  {
+    "skill": "Oak Sage",
+    "Id": "226"
+  },
+  {
+    "skill": "Summon Spirit Wolf",
+    "Id": "227"
+  },
+  {
+    "skill": "Mammoth Bear",
+    "Id": "228"
+  },
+  {
+    "skill": "Molten Boulder",
+    "Id": "229"
+  },
+  {
+    "skill": "Arctic Blast",
+    "Id": "230"
+  },
+  {
+    "skill": "Cycle of Life",
+    "Id": "231"
+  },
+  {
+    "skill": "Feral Rage",
+    "Id": "232"
+  },
+  {
+    "skill": "Maul",
+    "Id": "233"
+  },
+  {
+    "skill": "Eruption",
+    "Id": "234"
+  },
+  {
+    "skill": "Cyclone Armor",
+    "Id": "235"
+  },
+  {
+    "skill": "Heart of Wolverine",
+    "Id": "236"
+  },
+  {
+    "skill": "Summon Fenris",
+    "Id": "237"
+  },
+  {
+    "skill": "Rabies",
+    "Id": "238"
+  },
+  {
+    "skill": "Fire Claws",
+    "Id": "239"
+  },
+  {
+    "skill": "Twister",
+    "Id": "240"
+  },
+  {
+    "skill": "Vines",
+    "Id": "241"
+  },
+  {
+    "skill": "Hunger",
+    "Id": "242"
+  },
+  {
+    "skill": "Shock Wave",
+    "Id": "243"
+  },
+  {
+    "skill": "Volcano",
+    "Id": "244"
+  },
+  {
+    "skill": "Tornado",
+    "Id": "245"
+  },
+  {
+    "skill": "Spirit of Barbs",
+    "Id": "246"
+  },
+  {
+    "skill": "Summon Grizzly",
+    "Id": "247"
+  },
+  {
+    "skill": "Fury",
+    "Id": "248"
+  },
+  {
+    "skill": "Armageddon",
+    "Id": "249"
+  },
+  {
+    "skill": "Hurricane",
+    "Id": "250"
+  },
+  {
+    "skill": "Fire Trauma",
+    "Id": "251"
+  },
+  {
+    "skill": "Claw Mastery",
+    "Id": "252"
+  },
+  {
+    "skill": "Psychic Hammer",
+    "Id": "253"
+  },
+  {
+    "skill": "Tiger Strike",
+    "Id": "254"
+  },
+  {
+    "skill": "Dragon Talon",
+    "Id": "255"
+  },
+  {
+    "skill": "Shock Field",
+    "Id": "256"
+  },
+  {
+    "skill": "Blade Sentinel",
+    "Id": "257"
+  },
+  {
+    "skill": "Quickness",
+    "Id": "258"
+  },
+  {
+    "skill": "Fists of Fire",
+    "Id": "259"
+  },
+  {
+    "skill": "Dragon Claw",
+    "Id": "260"
+  },
+  {
+    "skill": "Charged Bolt Sentry",
+    "Id": "261"
+  },
+  {
+    "skill": "Wake of Fire Sentry",
+    "Id": "262"
+  },
+  {
+    "skill": "Weapon Block",
+    "Id": "263"
+  },
+  {
+    "skill": "Cloak of Shadows",
+    "Id": "264"
+  },
+  {
+    "skill": "Cobra Strike",
+    "Id": "265"
+  },
+  {
+    "skill": "Blade Fury",
+    "Id": "266"
+  },
+  {
+    "skill": "Fade",
+    "Id": "267"
+  },
+  {
+    "skill": "Shadow Warrior",
+    "Id": "268"
+  },
+  {
+    "skill": "Claws of Thunder",
+    "Id": "269"
+  },
+  {
+    "skill": "Dragon Tail",
+    "Id": "270"
+  },
+  {
+    "skill": "Lightning Sentry",
+    "Id": "271"
+  },
+  {
+    "skill": "Inferno Sentry",
+    "Id": "272"
+  },
+  {
+    "skill": "Mind Blast",
+    "Id": "273"
+  },
+  {
+    "skill": "Blades of Ice",
+    "Id": "274"
+  },
+  {
+    "skill": "Dragon Flight",
+    "Id": "275"
+  },
+  {
+    "skill": "Death Sentry",
+    "Id": "276"
+  },
+  {
+    "skill": "Blade Shield",
+    "Id": "277"
+  },
+  {
+    "skill": "Venom",
+    "Id": "278"
+  },
+  {
+    "skill": "Shadow Master",
+    "Id": "279"
+  },
+  {
+    "skill": "Royal Strike",
+    "Id": "280"
+  },
+  {
+    "skill": "Wake Of Destruction Sentry",
+    "Id": "281"
+  },
+  {
+    "skill": "Imp Inferno",
+    "Id": "282"
+  },
+  {
+    "skill": "Imp Fireball",
+    "Id": "283"
+  },
+  {
+    "skill": "Baal Taunt",
+    "Id": "284"
+  },
+  {
+    "skill": "Baal Corpse Explode",
+    "Id": "285"
+  },
+  {
+    "skill": "Baal Monster Spawn",
+    "Id": "286"
+  },
+  {
+    "skill": "Catapult Charged Ball",
+    "Id": "287"
+  },
+  {
+    "skill": "Catapult Spike Ball",
+    "Id": "288"
+  },
+  {
+    "skill": "Suck Blood",
+    "Id": "289"
+  },
+  {
+    "skill": "Cry Help",
+    "Id": "290"
+  },
+  {
+    "skill": "Healing Vortex",
+    "Id": "291"
+  },
+  {
+    "skill": "Teleport 2",
+    "Id": "292"
+  },
+  {
+    "skill": "Self-resurrect",
+    "Id": "293"
+  },
+  {
+    "skill": "Vine Attack",
+    "Id": "294"
+  },
+  {
+    "skill": "Overseer Whip",
+    "Id": "295"
+  },
+  {
+    "skill": "Barbs Aura",
+    "Id": "296"
+  },
+  {
+    "skill": "Wolverine Aura",
+    "Id": "297"
+  },
+  {
+    "skill": "Oak Sage Aura",
+    "Id": "298"
+  },
+  {
+    "skill": "Imp Fire Missile",
+    "Id": "299"
+  },
+  {
+    "skill": "Impregnate",
+    "Id": "300"
+  },
+  {
+    "skill": "Siege Beast Stomp",
+    "Id": "301"
+  },
+  {
+    "skill": "MinionSpawner",
+    "Id": "302"
+  },
+  {
+    "skill": "CatapultBlizzard",
+    "Id": "303"
+  },
+  {
+    "skill": "CatapultPlague",
+    "Id": "304"
+  },
+  {
+    "skill": "CatapultMeteor",
+    "Id": "305"
+  },
+  {
+    "skill": "BoltSentry",
+    "Id": "306"
+  },
+  {
+    "skill": "CorpseCycler",
+    "Id": "307"
+  },
+  {
+    "skill": "DeathMaul",
+    "Id": "308"
+  },
+  {
+    "skill": "Defense Curse",
+    "Id": "309"
+  },
+  {
+    "skill": "Blood Mana",
+    "Id": "310"
+  },
+  {
+    "skill": "inferno sentry",
+    "Id": "311"
+  },
+  {
+    "skill": "death sentry",
+    "Id": "312"
+  },
+  {
+    "skill": "sentry lightning",
+    "Id": "313"
+  },
+  {
+    "skill": "fenris rage",
+    "Id": "314"
+  },
+  {
+    "skill": "Baal Tentacle",
+    "Id": "315"
+  },
+  {
+    "skill": "Baal Nova",
+    "Id": "316"
+  },
+  {
+    "skill": "Baal Inferno",
+    "Id": "317"
+  },
+  {
+    "skill": "Baal Cold Missiles",
+    "Id": "318"
+  },
+  {
+    "skill": "Blink",
+    "Id": "357"
+  },
+  {
+    "skill": "Lesser Hyrdra",
+    "Id": "383"
+  }
+]

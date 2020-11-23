@@ -1,0 +1,8001 @@
+[
+  {
+    "item_name": "Cap",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/cap.png",
+    "item_properties": {
+      "item_base": "cap",
+      "upgrade": "xap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Skull Cap",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/skp.png",
+    "item_properties": {
+      "item_base": "skp",
+      "upgrade": "xkp",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 15,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/hlm.png",
+    "item_properties": {
+      "item_base": "hlm",
+      "upgrade": "xlm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 26,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Full Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/fhl.png",
+    "item_properties": {
+      "item_base": "fhl",
+      "upgrade": "xhl",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 41,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Great Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/ghm.png",
+    "item_properties": {
+      "item_base": "ghm",
+      "upgrade": "xhm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 63,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/crn.png",
+    "item_properties": {
+      "item_base": "crn",
+      "upgrade": "xrn",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 50,
+      "strength_req": 55,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/msk.png",
+    "item_properties": {
+      "item_base": "msk",
+      "upgrade": "xsk",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 23,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Quilted Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/qui.png",
+    "item_properties": {
+      "item_base": "qui",
+      "upgrade": "xui",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 12,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Leather Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/lea.png",
+    "item_properties": {
+      "item_base": "lea",
+      "upgrade": "xea",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 15,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hard Leather Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/hla.png",
+    "item_properties": {
+      "item_base": "hla",
+      "upgrade": "xla",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 28,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Studded Leather",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/stu.png",
+    "item_properties": {
+      "item_base": "stu",
+      "upgrade": "xtu",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 32,
+      "strength_req": 27,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ring Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/rng.png",
+    "item_properties": {
+      "item_base": "rng",
+      "upgrade": "xng",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 26,
+      "strength_req": 36,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Scale Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/scl.png",
+    "item_properties": {
+      "item_base": "scl",
+      "upgrade": "xcl",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 36,
+      "strength_req": 44,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Chain Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/chn.png",
+    "item_properties": {
+      "item_base": "chn",
+      "upgrade": "xhn",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 45,
+      "strength_req": 48,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Breast Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/brs.png",
+    "item_properties": {
+      "item_base": "brs",
+      "upgrade": "xrs",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 50,
+      "strength_req": 30,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Splint Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/spl.png",
+    "item_properties": {
+      "item_base": "spl",
+      "upgrade": "xpl",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 51,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Plate Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/plt.png",
+    "item_properties": {
+      "item_base": "plt",
+      "upgrade": "xlt",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Field Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/fld.png",
+    "item_properties": {
+      "item_base": "fld",
+      "upgrade": "xld",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 48,
+      "strength_req": 55,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Gothic Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/gth.png",
+    "item_properties": {
+      "item_base": "gth",
+      "upgrade": "xth",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 55,
+      "strength_req": 70,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Full Plate Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ful.png",
+    "item_properties": {
+      "item_base": "ful",
+      "upgrade": "xul",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 70,
+      "strength_req": 80,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ancient Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/aar.png",
+    "item_properties": {
+      "item_base": "aar",
+      "upgrade": "xar",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 100,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Light Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ltp.png",
+    "item_properties": {
+      "item_base": "ltp",
+      "upgrade": "xtp",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 41,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Buckler",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/buc.png",
+    "item_properties": {
+      "item_base": "buc",
+      "upgrade": "xuc",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 12,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 1,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 1,
+        "max": 3
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 0
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Small Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/sml.png",
+    "item_properties": {
+      "item_base": "sml",
+      "upgrade": "xml",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 22,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 2,
+        "max": 3
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 5
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Large Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/lrg.png",
+    "item_properties": {
+      "item_base": "lrg",
+      "upgrade": "xrg",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 34,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 2,
+        "max": 4
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 12
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Kite Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/kit.png",
+    "item_properties": {
+      "item_base": "kit",
+      "upgrade": "xit",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 47,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 2,
+        "max": 5
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 8
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Tower Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/tow.png",
+    "item_properties": {
+      "item_base": "tow",
+      "upgrade": "xow",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 75,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 1,
+        "max": 5
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 24
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Gothic Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/gts.png",
+    "item_properties": {
+      "item_base": "gts",
+      "upgrade": "xts",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 60,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 2,
+        "max": 6
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 16
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Leather Gloves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/lgl.png",
+    "item_properties": {
+      "item_base": "lgl",
+      "upgrade": "xlg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Heavy Gloves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/vgl.png",
+    "item_properties": {
+      "item_base": "vgl",
+      "upgrade": "xvg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Chain Gloves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/mgl.png",
+    "item_properties": {
+      "item_base": "mgl",
+      "upgrade": "xmg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 25,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Light Gauntlets",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/tgl.png",
+    "item_properties": {
+      "item_base": "tgl",
+      "upgrade": "xtg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 45,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Gauntlets",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/hgl.png",
+    "item_properties": {
+      "item_base": "hgl",
+      "upgrade": "xhg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 60,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/lbt.png",
+    "item_properties": {
+      "item_base": "lbt",
+      "upgrade": "xlb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 3,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Heavy Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/vbt.png",
+    "item_properties": {
+      "item_base": "vbt",
+      "upgrade": "xvb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 18,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 4,
+        "max": 10
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Chain Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/mbt.png",
+    "item_properties": {
+      "item_base": "mbt",
+      "upgrade": "xmb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 30,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 6,
+        "max": 12
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Light Plated Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/tbt.png",
+    "item_properties": {
+      "item_base": "tbt",
+      "upgrade": "xtb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 8,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Greaves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/hbt.png",
+    "item_properties": {
+      "item_base": "hbt",
+      "upgrade": "xhb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 70,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 10,
+        "max": 20
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sash",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/lbl.png",
+    "item_properties": {
+      "item_base": "lbl",
+      "upgrade": "zlb",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Light Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/vbl.png",
+    "item_properties": {
+      "item_base": "vbl",
+      "upgrade": "zvb",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/mbl.png",
+    "item_properties": {
+      "item_base": "mbl",
+      "upgrade": "zmb",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 25,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Heavy Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/tbl.png",
+    "item_properties": {
+      "item_base": "tbl",
+      "upgrade": "ztb",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 45,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Plated Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/hbl.png",
+    "item_properties": {
+      "item_base": "hbl",
+      "upgrade": "zhb",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 60,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Bone Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/bhm.png",
+    "item_properties": {
+      "item_base": "bhm",
+      "upgrade": "xh9",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 25,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Bone Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/bsh.png",
+    "item_properties": {
+      "item_base": "bsh",
+      "upgrade": "xsh",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 25,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 3,
+        "max": 6
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Spiked Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/spk.png",
+    "item_properties": {
+      "item_base": "spk",
+      "upgrade": "xpk",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 30,
+      "dexterity_req": 0,
+      "level_requirment": 0,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 5,
+        "max": 9
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 10
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "War Hat",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xap.png",
+    "item_properties": {
+      "item_base": "xap",
+      "upgrade": "uap",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 22,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sallet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xkp.png",
+    "item_properties": {
+      "item_base": "xkp",
+      "upgrade": "ukp",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 43,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Casque",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xlm.png",
+    "item_properties": {
+      "item_base": "xlm",
+      "upgrade": "ulm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 59,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Basinet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xhl.png",
+    "item_properties": {
+      "item_base": "xhl",
+      "upgrade": "uhl",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 82,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Winged Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xhm.png",
+    "item_properties": {
+      "item_base": "xhm",
+      "upgrade": "uhm",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 115,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Grand Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xrn.png",
+    "item_properties": {
+      "item_base": "xrn",
+      "upgrade": "urn",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 50,
+      "strength_req": 103,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Death Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xsk.png",
+    "item_properties": {
+      "item_base": "xsk",
+      "upgrade": "usk",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 55,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ghost Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xui.png",
+    "item_properties": {
+      "item_base": "xui",
+      "upgrade": "uui",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 38,
+      "dexterity_req": 0,
+      "level_requirment": 22,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Serpentskin Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xea.png",
+    "item_properties": {
+      "item_base": "xea",
+      "upgrade": "uea",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 43,
+      "dexterity_req": 0,
+      "level_requirment": 24,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Demonhide Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xla.png",
+    "item_properties": {
+      "item_base": "xla",
+      "upgrade": "ula",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 28,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Trellised Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xtu.png",
+    "item_properties": {
+      "item_base": "xtu",
+      "upgrade": "utu",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 32,
+      "strength_req": 61,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Linked Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xng.png",
+    "item_properties": {
+      "item_base": "xng",
+      "upgrade": "ung",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 26,
+      "strength_req": 74,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Tigulated Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xcl.png",
+    "item_properties": {
+      "item_base": "xcl",
+      "upgrade": "ucl",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 36,
+      "strength_req": 86,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mesh Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xhn.png",
+    "item_properties": {
+      "item_base": "xhn",
+      "upgrade": "uhn",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 45,
+      "strength_req": 92,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Cuirass",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xrs.png",
+    "item_properties": {
+      "item_base": "xrs",
+      "upgrade": "urs",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 50,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Russet Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xpl.png",
+    "item_properties": {
+      "item_base": "xpl",
+      "upgrade": "upl",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 97,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Templar Coat",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xlt.png",
+    "item_properties": {
+      "item_base": "xlt",
+      "upgrade": "ult",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 118,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sharktooth Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xld.png",
+    "item_properties": {
+      "item_base": "xld",
+      "upgrade": "uld",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 48,
+      "strength_req": 103,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Embossed Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xth.png",
+    "item_properties": {
+      "item_base": "xth",
+      "upgrade": "uth",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 55,
+      "strength_req": 125,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Chaos Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xul.png",
+    "item_properties": {
+      "item_base": "xul",
+      "upgrade": "uul",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 70,
+      "strength_req": 140,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ornate Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xar.png",
+    "item_properties": {
+      "item_base": "xar",
+      "upgrade": "uar",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 170,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mage Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/xtp.png",
+    "item_properties": {
+      "item_base": "xtp",
+      "upgrade": "utp",
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 55,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Defender",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xuc.png",
+    "item_properties": {
+      "item_base": "xuc",
+      "upgrade": "uuc",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 68,
+      "strength_req": 38,
+      "dexterity_req": 0,
+      "level_requirment": 22,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 1,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 8,
+        "max": 12
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 10
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Round Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xml.png",
+    "item_properties": {
+      "item_base": "xml",
+      "upgrade": "uml",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 64,
+      "strength_req": 53,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 7,
+        "max": 14
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 12
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Scutum",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xrg.png",
+    "item_properties": {
+      "item_base": "xrg",
+      "upgrade": "urg",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 62,
+      "strength_req": 71,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 11,
+        "max": 15
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 14
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Dragon Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xit.png",
+    "item_properties": {
+      "item_base": "xit",
+      "upgrade": "uit",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 76,
+      "strength_req": 91,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 15,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 18
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Pavise",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xow.png",
+    "item_properties": {
+      "item_base": "xow",
+      "upgrade": "uow",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 72,
+      "strength_req": 133,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 10,
+        "max": 17
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 24
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ancient Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xts.png",
+    "item_properties": {
+      "item_base": "xts",
+      "upgrade": "uts",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 80,
+      "strength_req": 110,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 12,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 16
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Demonhide Gloves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/xlg.png",
+    "item_properties": {
+      "item_base": "xlg",
+      "upgrade": "ulg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 21,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sharkskin Gloves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/xvg.png",
+    "item_properties": {
+      "item_base": "xvg",
+      "upgrade": "uvg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Heavy Bracers",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/xmg.png",
+    "item_properties": {
+      "item_base": "xmg",
+      "upgrade": "umg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 58,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Battle Gauntlets",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/xtg.png",
+    "item_properties": {
+      "item_base": "xtg",
+      "upgrade": "utg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 88,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "War Gauntlets",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/xhg.png",
+    "item_properties": {
+      "item_base": "xhg",
+      "upgrade": "uhg",
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 110,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Demonhide Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/xlb.png",
+    "item_properties": {
+      "item_base": "xlb",
+      "upgrade": "ulb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 24,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 26,
+        "max": 46
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sharkskin Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/xvb.png",
+    "item_properties": {
+      "item_base": "xvb",
+      "upgrade": "uvb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 47,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 28,
+        "max": 50
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mesh Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/xmb.png",
+    "item_properties": {
+      "item_base": "xmb",
+      "upgrade": "umb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 23,
+        "max": 52
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Battle Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/xtb.png",
+    "item_properties": {
+      "item_base": "xtb",
+      "upgrade": "utb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 95,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 37,
+        "max": 64
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "War Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/xhb.png",
+    "item_properties": {
+      "item_base": "xhb",
+      "upgrade": "uhb",
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 125,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 39,
+        "max": 80
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Demonhide Sash",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/zlb.png",
+    "item_properties": {
+      "item_base": "zlb",
+      "upgrade": "ulc",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 24,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sharkskin Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/zvb.png",
+    "item_properties": {
+      "item_base": "zvb",
+      "upgrade": "uvc",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mesh Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/zmb.png",
+    "item_properties": {
+      "item_base": "zmb",
+      "upgrade": "umc",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 58,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Battle Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/ztb.png",
+    "item_properties": {
+      "item_base": "ztb",
+      "upgrade": "utc",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 88,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "War Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/zhb.png",
+    "item_properties": {
+      "item_base": "zhb",
+      "upgrade": "uhc",
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 110,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Grim Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/xh9.png",
+    "item_properties": {
+      "item_base": "xh9",
+      "upgrade": "uh9",
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 58,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Grim Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xsh.png",
+    "item_properties": {
+      "item_base": "xsh",
+      "upgrade": "ush",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 70,
+      "strength_req": 58,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 14,
+        "max": 20
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Barbed Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/xpk.png",
+    "item_properties": {
+      "item_base": "xpk",
+      "upgrade": "upk",
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 55,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 18,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 17
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Wolf Head",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr1.png",
+    "item_properties": {
+      "item_base": "dr1",
+      "upgrade": "dr6",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 16,
+      "dexterity_req": 0,
+      "level_requirment": 3,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hawk Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr2.png",
+    "item_properties": {
+      "item_base": "dr2",
+      "upgrade": "dr7",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 6,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Antlers",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr3.png",
+    "item_properties": {
+      "item_base": "dr3",
+      "upgrade": "dr8",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 24,
+      "dexterity_req": 0,
+      "level_requirment": 12,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Falcon Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr4.png",
+    "item_properties": {
+      "item_base": "dr4",
+      "upgrade": "dr9",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 28,
+      "dexterity_req": 0,
+      "level_requirment": 15,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Spirit Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr5.png",
+    "item_properties": {
+      "item_base": "dr5",
+      "upgrade": "dra",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 30,
+      "dexterity_req": 0,
+      "level_requirment": 18,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Jawbone Cap",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba1.png",
+    "item_properties": {
+      "item_base": "ba1",
+      "upgrade": "ba6",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 25,
+      "strength_req": 25,
+      "dexterity_req": 0,
+      "level_requirment": 3,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Fanged Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba2.png",
+    "item_properties": {
+      "item_base": "ba2",
+      "upgrade": "ba7",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 35,
+      "strength_req": 35,
+      "dexterity_req": 0,
+      "level_requirment": 6,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Horned Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba3.png",
+    "item_properties": {
+      "item_base": "ba3",
+      "upgrade": "ba8",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 45,
+      "strength_req": 45,
+      "dexterity_req": 0,
+      "level_requirment": 12,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Assault Helmet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba4.png",
+    "item_properties": {
+      "item_base": "ba4",
+      "upgrade": "ba9",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 50,
+      "strength_req": 55,
+      "dexterity_req": 0,
+      "level_requirment": 15,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Avenger Guard",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba5.png",
+    "item_properties": {
+      "item_base": "ba5",
+      "upgrade": "baa",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 55,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 18,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Targe",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa1.png",
+    "item_properties": {
+      "item_base": "pa1",
+      "upgrade": "pa6",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 20,
+      "strength_req": 16,
+      "dexterity_req": 0,
+      "level_requirment": 3,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 2,
+        "max": 6
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 10
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Rondache",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa2.png",
+    "item_properties": {
+      "item_base": "pa2",
+      "upgrade": "pa7",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 30,
+      "strength_req": 26,
+      "dexterity_req": 0,
+      "level_requirment": 6,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 2,
+        "max": 8
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 15
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Heraldic Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa3.png",
+    "item_properties": {
+      "item_base": "pa3",
+      "upgrade": "pa8",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 40,
+      "strength_req": 40,
+      "dexterity_req": 0,
+      "level_requirment": 12,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 3,
+        "max": 9
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Aerin Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa4.png",
+    "item_properties": {
+      "item_base": "pa4",
+      "upgrade": "pa9",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 50,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 15,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 4,
+        "max": 10
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 22
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Crown Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa5.png",
+    "item_properties": {
+      "item_base": "pa5",
+      "upgrade": "paa",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 60,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 18,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 4,
+        "max": 12
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 25
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Preserved Head",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne1.png",
+    "item_properties": {
+      "item_base": "ne1",
+      "upgrade": "ne6",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 12,
+      "dexterity_req": 0,
+      "level_requirment": 3,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Zombie Head",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne2.png",
+    "item_properties": {
+      "item_base": "ne2",
+      "upgrade": "ne7",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 14,
+      "dexterity_req": 0,
+      "level_requirment": 6,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Unraveller Head",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne3.png",
+    "item_properties": {
+      "item_base": "ne3",
+      "upgrade": "ne8",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 18,
+      "dexterity_req": 0,
+      "level_requirment": 12,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Gargoyle Head",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne4.png",
+    "item_properties": {
+      "item_base": "ne4",
+      "upgrade": "ne9",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 20,
+      "dexterity_req": 0,
+      "level_requirment": 15,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Demon Head",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne5.png",
+    "item_properties": {
+      "item_base": "ne5",
+      "upgrade": "nea",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 25,
+      "dexterity_req": 0,
+      "level_requirment": 18,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Circlet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci0.png",
+    "item_properties": {
+      "item_base": "ci0",
+      "upgrade": "",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 35,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 16,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Coronet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci1.png",
+    "item_properties": {
+      "item_base": "ci1",
+      "upgrade": "ci2",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 39,
+      "item_tier": 1,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Tiara",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci2.png",
+    "item_properties": {
+      "item_base": "ci2",
+      "upgrade": "ci3",
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 25,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 52,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Diadem",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/circlets/ci3.png",
+    "item_properties": {
+      "item_base": "ci3",
+      "upgrade": null,
+      "sub_type": "circlet",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 0,
+      "dexterity_req": 0,
+      "level_requirment": 64,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Shako",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/uap.png",
+    "item_properties": {
+      "item_base": "uap",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 43,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hydraskull",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/ukp.png",
+    "item_properties": {
+      "item_base": "ukp",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 84,
+      "dexterity_req": 0,
+      "level_requirment": 47,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Armet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/ulm.png",
+    "item_properties": {
+      "item_base": "ulm",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 109,
+      "dexterity_req": 0,
+      "level_requirment": 51,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Giant Conch",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/uhl.png",
+    "item_properties": {
+      "item_base": "uhl",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 142,
+      "dexterity_req": 0,
+      "level_requirment": 40,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Spired Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/uhm.png",
+    "item_properties": {
+      "item_base": "uhm",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 192,
+      "dexterity_req": 0,
+      "level_requirment": 59,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Corona",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/urn.png",
+    "item_properties": {
+      "item_base": "urn",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 50,
+      "strength_req": 174,
+      "dexterity_req": 0,
+      "level_requirment": 66,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Demonhead",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/usk.png",
+    "item_properties": {
+      "item_base": "usk",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 102,
+      "dexterity_req": 0,
+      "level_requirment": 55,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Dusk Shroud",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uui.png",
+    "item_properties": {
+      "item_base": "uui",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 20,
+      "strength_req": 77,
+      "dexterity_req": 0,
+      "level_requirment": 49,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Wyrmhide",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uea.png",
+    "item_properties": {
+      "item_base": "uea",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 84,
+      "dexterity_req": 0,
+      "level_requirment": 50,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Scarab Husk",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ula.png",
+    "item_properties": {
+      "item_base": "ula",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 28,
+      "strength_req": 95,
+      "dexterity_req": 0,
+      "level_requirment": 51,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Wire Fleece",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/utu.png",
+    "item_properties": {
+      "item_base": "utu",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 32,
+      "strength_req": 111,
+      "dexterity_req": 0,
+      "level_requirment": 53,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Diamond Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ung.png",
+    "item_properties": {
+      "item_base": "ung",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 26,
+      "strength_req": 131,
+      "dexterity_req": 0,
+      "level_requirment": 54,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Loricated Mail",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ucl.png",
+    "item_properties": {
+      "item_base": "ucl",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 36,
+      "strength_req": 149,
+      "dexterity_req": 0,
+      "level_requirment": 55,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Boneweave",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uhn.png",
+    "item_properties": {
+      "item_base": "uhn",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 45,
+      "strength_req": 158,
+      "dexterity_req": 0,
+      "level_requirment": 47,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Great Hauberk",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/urs.png",
+    "item_properties": {
+      "item_base": "urs",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 50,
+      "strength_req": 118,
+      "dexterity_req": 0,
+      "level_requirment": 56,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Balrog Skin",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/upl.png",
+    "item_properties": {
+      "item_base": "upl",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 30,
+      "strength_req": 165,
+      "dexterity_req": 0,
+      "level_requirment": 57,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hellforge Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/ult.png",
+    "item_properties": {
+      "item_base": "ult",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 196,
+      "dexterity_req": 0,
+      "level_requirment": 59,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Kraken Shell",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uld.png",
+    "item_properties": {
+      "item_base": "uld",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 48,
+      "strength_req": 174,
+      "dexterity_req": 0,
+      "level_requirment": 61,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Lacquered Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uth.png",
+    "item_properties": {
+      "item_base": "uth",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 55,
+      "strength_req": 208,
+      "dexterity_req": 0,
+      "level_requirment": 62,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Shadow Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uul.png",
+    "item_properties": {
+      "item_base": "uul",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 70,
+      "strength_req": 230,
+      "dexterity_req": 0,
+      "level_requirment": 64,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sacred Armor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/uar.png",
+    "item_properties": {
+      "item_base": "uar",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 232,
+      "dexterity_req": 0,
+      "level_requirment": 66,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Archon Plate",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/armor/utp.png",
+    "item_properties": {
+      "item_base": "utp",
+      "upgrade": null,
+      "sub_type": "body armor",
+      "class_specific": null,
+      "durability": 60,
+      "strength_req": 103,
+      "dexterity_req": 0,
+      "level_requirment": 63,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 3,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Heater",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/uuc.png",
+    "item_properties": {
+      "item_base": "uuc",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 88,
+      "strength_req": 77,
+      "dexterity_req": 0,
+      "level_requirment": 43,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 16,
+        "max": 30
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 22
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Luna",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/uml.png",
+    "item_properties": {
+      "item_base": "uml",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 84,
+      "strength_req": 100,
+      "dexterity_req": 0,
+      "level_requirment": 45,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 17,
+        "max": 29
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hyperion",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/urg.png",
+    "item_properties": {
+      "item_base": "urg",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 82,
+      "strength_req": 127,
+      "dexterity_req": 0,
+      "level_requirment": 48,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 14,
+        "max": 32
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 24
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Monarch",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/uit.png",
+    "item_properties": {
+      "item_base": "uit",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 86,
+      "strength_req": 156,
+      "dexterity_req": 0,
+      "level_requirment": 54,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 12,
+        "max": 34
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 22
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Aegis",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/uow.png",
+    "item_properties": {
+      "item_base": "uow",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 92,
+      "strength_req": 219,
+      "dexterity_req": 0,
+      "level_requirment": 59,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 18,
+        "max": 28
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 24
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ward",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/uts.png",
+    "item_properties": {
+      "item_base": "uts",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 100,
+      "strength_req": 185,
+      "dexterity_req": 0,
+      "level_requirment": 63,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 11,
+        "max": 35
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 24
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Bramble Mitts",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/ulg.png",
+    "item_properties": {
+      "item_base": "ulg",
+      "upgrade": null,
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 42,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Vampirebone Gloves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/uvg.png",
+    "item_properties": {
+      "item_base": "uvg",
+      "upgrade": null,
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 47,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Vambraces",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/umg.png",
+    "item_properties": {
+      "item_base": "umg",
+      "upgrade": null,
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 106,
+      "dexterity_req": 0,
+      "level_requirment": 51,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Crusader Gauntlets",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/utg.png",
+    "item_properties": {
+      "item_base": "utg",
+      "upgrade": null,
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 151,
+      "dexterity_req": 0,
+      "level_requirment": 57,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Ogre Gauntlets",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/gloves/uhg.png",
+    "item_properties": {
+      "item_base": "uhg",
+      "upgrade": null,
+      "sub_type": "gloves",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 185,
+      "dexterity_req": 0,
+      "level_requirment": 64,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 5,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Wyrmhide Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/ulb.png",
+    "item_properties": {
+      "item_base": "ulb",
+      "upgrade": null,
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 45,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 65,
+        "max": 100
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Scarabshell Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/uvb.png",
+    "item_properties": {
+      "item_base": "uvb",
+      "upgrade": null,
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 91,
+      "dexterity_req": 0,
+      "level_requirment": 49,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 60,
+        "max": 110
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Boneweave Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/umb.png",
+    "item_properties": {
+      "item_base": "umb",
+      "upgrade": null,
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 118,
+      "dexterity_req": 0,
+      "level_requirment": 54,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 69,
+        "max": 118
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mirrored Boots",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/utb.png",
+    "item_properties": {
+      "item_base": "utb",
+      "upgrade": null,
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 163,
+      "dexterity_req": 0,
+      "level_requirment": 60,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 50,
+        "max": 145
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Myrmidon Greaves",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/boots/uhb.png",
+    "item_properties": {
+      "item_base": "uhb",
+      "upgrade": null,
+      "sub_type": "boots",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 208,
+      "dexterity_req": 0,
+      "level_requirment": 65,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 9,
+      "equip2": null
+    },
+    "special_props": {
+      "kick": {
+        "min": 83,
+        "max": 149
+      },
+      "damage_bonus": {
+        "strength_bonus": 1.2,
+        "dexterity_bonus": 0
+      }
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Spiderweb Sash",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/ulc.png",
+    "item_properties": {
+      "item_base": "ulc",
+      "upgrade": null,
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 12,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 46,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Vampirefang Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/uvc.png",
+    "item_properties": {
+      "item_base": "uvc",
+      "upgrade": null,
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 14,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 51,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mithril Coil",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/umc.png",
+    "item_properties": {
+      "item_base": "umc",
+      "upgrade": null,
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 16,
+      "strength_req": 106,
+      "dexterity_req": 0,
+      "level_requirment": 56,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Troll Belt",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/utc.png",
+    "item_properties": {
+      "item_base": "utc",
+      "upgrade": null,
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 18,
+      "strength_req": 151,
+      "dexterity_req": 0,
+      "level_requirment": 62,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Colossus Girdle",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/belts/uhc.png",
+    "item_properties": {
+      "item_base": "uhc",
+      "upgrade": null,
+      "sub_type": "belt",
+      "class_specific": null,
+      "durability": 24,
+      "strength_req": 185,
+      "dexterity_req": 0,
+      "level_requirment": 67,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 7,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Bone Visage",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/helms/uh9.png",
+    "item_properties": {
+      "item_base": "uh9",
+      "upgrade": null,
+      "sub_type": "helm",
+      "class_specific": null,
+      "durability": 40,
+      "strength_req": 106,
+      "dexterity_req": 0,
+      "level_requirment": 63,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Troll Nest",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/ush.png",
+    "item_properties": {
+      "item_base": "ush",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 74,
+      "strength_req": 106,
+      "dexterity_req": 0,
+      "level_requirment": 57,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 24,
+        "max": 38
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Blade Barrier",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/shields/upk.png",
+    "item_properties": {
+      "item_base": "upk",
+      "upgrade": null,
+      "sub_type": "shield",
+      "class_specific": null,
+      "durability": 83,
+      "strength_req": 118,
+      "dexterity_req": 0,
+      "level_requirment": 51,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 3,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 26,
+        "max": 40
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Alpha Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr6.png",
+    "item_properties": {
+      "item_base": "dr6",
+      "upgrade": "drb",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 44,
+      "dexterity_req": 0,
+      "level_requirment": 26,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Griffon Headdress",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr7.png",
+    "item_properties": {
+      "item_base": "dr7",
+      "upgrade": "drc",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 30,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hunter's Guise",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr8.png",
+    "item_properties": {
+      "item_base": "dr8",
+      "upgrade": "drd",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 56,
+      "dexterity_req": 0,
+      "level_requirment": 29,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sacred Feathers",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dr9.png",
+    "item_properties": {
+      "item_base": "dr9",
+      "upgrade": "dre",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 62,
+      "dexterity_req": 0,
+      "level_requirment": 32,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Totemic Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dra.png",
+    "item_properties": {
+      "item_base": "dra",
+      "upgrade": "drf",
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 65,
+      "dexterity_req": 0,
+      "level_requirment": 41,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Jawbone Visor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba6.png",
+    "item_properties": {
+      "item_base": "ba6",
+      "upgrade": "bab",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 25,
+      "strength_req": 58,
+      "dexterity_req": 0,
+      "level_requirment": 25,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Lion Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba7.png",
+    "item_properties": {
+      "item_base": "ba7",
+      "upgrade": "bac",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 35,
+      "strength_req": 73,
+      "dexterity_req": 0,
+      "level_requirment": 29,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Rage Mask",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba8.png",
+    "item_properties": {
+      "item_base": "ba8",
+      "upgrade": "bad",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 45,
+      "strength_req": 88,
+      "dexterity_req": 0,
+      "level_requirment": 29,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Savage Helmet",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/ba9.png",
+    "item_properties": {
+      "item_base": "ba9",
+      "upgrade": "bae",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 50,
+      "strength_req": 103,
+      "dexterity_req": 0,
+      "level_requirment": 32,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Slayer Guard",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/baa.png",
+    "item_properties": {
+      "item_base": "baa",
+      "upgrade": "baf",
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 55,
+      "strength_req": 118,
+      "dexterity_req": 0,
+      "level_requirment": 40,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Akaran Targe",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa6.png",
+    "item_properties": {
+      "item_base": "pa6",
+      "upgrade": "pab",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 20,
+      "strength_req": 44,
+      "dexterity_req": 0,
+      "level_requirment": 26,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 12,
+        "max": 16
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 10
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Akaran Rondache",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa7.png",
+    "item_properties": {
+      "item_base": "pa7",
+      "upgrade": "pac",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 30,
+      "strength_req": 59,
+      "dexterity_req": 0,
+      "level_requirment": 30,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 15,
+        "max": 20
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 15
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Protector Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa8.png",
+    "item_properties": {
+      "item_base": "pa8",
+      "upgrade": "pad",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 40,
+      "strength_req": 69,
+      "dexterity_req": 0,
+      "level_requirment": 34,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 18,
+        "max": 24
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 20
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Gilded Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pa9.png",
+    "item_properties": {
+      "item_base": "pa9",
+      "upgrade": "pae",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 50,
+      "strength_req": 89,
+      "dexterity_req": 0,
+      "level_requirment": 38,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 20,
+        "max": 28
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 22
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Royal Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/paa.png",
+    "item_properties": {
+      "item_base": "paa",
+      "upgrade": "paf",
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 60,
+      "strength_req": 114,
+      "dexterity_req": 0,
+      "level_requirment": 41,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 24,
+        "max": 32
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 25
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Mummified Trophy",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne6.png",
+    "item_properties": {
+      "item_base": "ne6",
+      "upgrade": "neb",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 38,
+      "dexterity_req": 0,
+      "level_requirment": 24,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Fetish Trophy",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne7.png",
+    "item_properties": {
+      "item_base": "ne7",
+      "upgrade": "neg",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 41,
+      "dexterity_req": 0,
+      "level_requirment": 29,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sexton Trophy",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne8.png",
+    "item_properties": {
+      "item_base": "ne8",
+      "upgrade": "ned",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 47,
+      "dexterity_req": 0,
+      "level_requirment": 33,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Cantor Trophy",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ne9.png",
+    "item_properties": {
+      "item_base": "ne9",
+      "upgrade": "nee",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 50,
+      "dexterity_req": 0,
+      "level_requirment": 36,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hierophant Trophy",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/nea.png",
+    "item_properties": {
+      "item_base": "nea",
+      "upgrade": "nef",
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 58,
+      "dexterity_req": 0,
+      "level_requirment": 40,
+      "item_tier": 2,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Blood Spirit",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/drb.png",
+    "item_properties": {
+      "item_base": "drb",
+      "upgrade": null,
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 86,
+      "dexterity_req": 0,
+      "level_requirment": 46,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sun Spirit",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/drc.png",
+    "item_properties": {
+      "item_base": "drc",
+      "upgrade": null,
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 95,
+      "dexterity_req": 0,
+      "level_requirment": 51,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Earth Spirit",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/drd.png",
+    "item_properties": {
+      "item_base": "drd",
+      "upgrade": null,
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 104,
+      "dexterity_req": 0,
+      "level_requirment": 57,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sky Spirit",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/dre.png",
+    "item_properties": {
+      "item_base": "dre",
+      "upgrade": null,
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 113,
+      "dexterity_req": 0,
+      "level_requirment": 62,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Dream Spirit",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/druid_helms/drf.png",
+    "item_properties": {
+      "item_base": "drf",
+      "upgrade": null,
+      "sub_type": "pelt",
+      "class_specific": "druid",
+      "durability": 20,
+      "strength_req": 118,
+      "dexterity_req": 0,
+      "level_requirment": 66,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Carnage Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/bab.png",
+    "item_properties": {
+      "item_base": "bab",
+      "upgrade": null,
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 25,
+      "strength_req": 106,
+      "dexterity_req": 0,
+      "level_requirment": 45,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Fury Visor",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/bac.png",
+    "item_properties": {
+      "item_base": "bac",
+      "upgrade": null,
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 35,
+      "strength_req": 129,
+      "dexterity_req": 0,
+      "level_requirment": 49,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Destroyer Helm",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/bad.png",
+    "item_properties": {
+      "item_base": "bad",
+      "upgrade": null,
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 45,
+      "strength_req": 151,
+      "dexterity_req": 0,
+      "level_requirment": 54,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Conqueror Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/bae.png",
+    "item_properties": {
+      "item_base": "bae",
+      "upgrade": null,
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 50,
+      "strength_req": 174,
+      "dexterity_req": 0,
+      "level_requirment": 60,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Guardian Crown",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/barb_helms/baf.png",
+    "item_properties": {
+      "item_base": "baf",
+      "upgrade": null,
+      "sub_type": "barb",
+      "class_specific": "barbarian",
+      "durability": 55,
+      "strength_req": 196,
+      "dexterity_req": 0,
+      "level_requirment": 65,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 3,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 0,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sacred Targe",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pab.png",
+    "item_properties": {
+      "item_base": "pab",
+      "upgrade": null,
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 45,
+      "strength_req": 86,
+      "dexterity_req": 0,
+      "level_requirment": 47,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 22,
+        "max": 70
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 30
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Sacred Rondache",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pac.png",
+    "item_properties": {
+      "item_base": "pac",
+      "upgrade": null,
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 68,
+      "strength_req": 109,
+      "dexterity_req": 0,
+      "level_requirment": 52,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 35,
+        "max": 58
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 28
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Kurast Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pad.png",
+    "item_properties": {
+      "item_base": "pad",
+      "upgrade": null,
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 55,
+      "strength_req": 124,
+      "dexterity_req": 0,
+      "level_requirment": 55,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 10,
+        "max": 82
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 25
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Zakarum Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/pae.png",
+    "item_properties": {
+      "item_base": "pae",
+      "upgrade": null,
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 65,
+      "strength_req": 142,
+      "dexterity_req": 0,
+      "level_requirment": 61,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 4,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 46,
+        "max": 46
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 22
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Vortex Shield",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/pally_shields/paf.png",
+    "item_properties": {
+      "item_base": "paf",
+      "upgrade": null,
+      "sub_type": "pally",
+      "class_specific": "paladin",
+      "durability": 90,
+      "strength_req": 148,
+      "dexterity_req": 0,
+      "level_requirment": 66,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 4,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {
+      "smite": {
+        "min": 5,
+        "max": 87
+      },
+      "damage_bonus": {
+        "strength_bonus": 1,
+        "dexterity_bonus": 0
+      },
+      "block": 19
+    },
+    "item_mods": {}
+  },
+  {
+    "item_name": "Minion Skull",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/neb.png",
+    "item_properties": {
+      "item_base": "neb",
+      "upgrade": null,
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 77,
+      "dexterity_req": 0,
+      "level_requirment": 44,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Hellspawn Skull",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/neg.png",
+    "item_properties": {
+      "item_base": "neg",
+      "upgrade": null,
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 82,
+      "dexterity_req": 0,
+      "level_requirment": 50,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Overseer Skull",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/ned.png",
+    "item_properties": {
+      "item_base": "ned",
+      "upgrade": null,
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 91,
+      "dexterity_req": 0,
+      "level_requirment": 49,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Succubus Skull",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/nee.png",
+    "item_properties": {
+      "item_base": "nee",
+      "upgrade": null,
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 95,
+      "dexterity_req": 0,
+      "level_requirment": 60,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Bloodlord Skull",
+    "item_type": "armor",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/necro_heads/nef.png",
+    "item_properties": {
+      "item_base": "nef",
+      "upgrade": null,
+      "sub_type": "necro",
+      "class_specific": "necromancer",
+      "durability": 20,
+      "strength_req": 106,
+      "dexterity_req": 0,
+      "level_requirment": 65,
+      "item_tier": 3,
+      "rarity": 1,
+      "sockets": {
+        "socketable": true,
+        "max": 2,
+        "used": 0
+      },
+      "quality_modifier": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 2,
+      "width": 2
+    },
+    "body_props": {
+      "equip1": 2,
+      "equip2": 4
+    },
+    "special_props": {},
+    "item_mods": {}
+  }
+]
