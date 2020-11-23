@@ -1,11 +1,12 @@
 import React from "react";
-import { convertItemStat } from "./util/convertItemStat";
+import { convertWeapon } from "./util/convertWeapon";
+import { generateWeapon } from "./util/generateWeapon";
 
 import { CSVReader } from "react-papaparse";
 
 const buttonRef = React.createRef();
 
-export const ItemStatInput = (props) => {
+export const WeaponBaseInput = (props) => {
   const { setJsonFiles } = props;
   const handleOpenDialog = (e) => {
     if (buttonRef.current) {
@@ -13,11 +14,12 @@ export const ItemStatInput = (props) => {
     }
   };
 
-  const handleOnFileLoad = (data) => {
-    const newJson = convertItemStat(data);
+  const handleOnFileLoad = async (data) => {
+    const newJson = await convertWeapon(data);
+    const result = generateWeapon(newJson);
     setJsonFiles((prevState) => ({
       ...prevState,
-      item_stat: newJson,
+      string: result,
     }));
   };
 
@@ -53,7 +55,7 @@ export const ItemStatInput = (props) => {
           }}
         >
           <button type="button" onClick={handleOpenDialog}>
-            ItemStatCost.txt
+            Weapons.txt
           </button>
           <div
             style={{

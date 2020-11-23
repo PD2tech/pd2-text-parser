@@ -6,6 +6,7 @@ import {
   UniqueInput,
   RunewordInput,
   StringInput,
+  ArmorBaseInput,
 } from "../../components/components_index";
 
 import { parseUniqueItems } from "../../components/ParsingInputs/util/parseUniques";
@@ -60,6 +61,14 @@ export const App = () => {
           handling in the conversion.
         </h5>
         <StringInput setJsonFiles={setJsonFiles} />
+      </div>
+
+      <div className="input-container">
+        <h5>
+          Converts raw .txt file into JSON, puts together armor base object, and
+          prints on screen.
+        </h5>
+        <ArmorBaseInput setJsonFiles={setJsonFiles} />
       </div>
 
       <div className="input-container">
