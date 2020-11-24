@@ -10,10 +10,9 @@ import {
   WeaponBaseInput,
 } from "../../components/components_index";
 
-import { parseUniqueItems } from "../../components/ParsingInputs/util/parseUniques";
-import { parseRunewords } from "../../components/ParsingInputs/util/parseRunewords";
-
-import { combineAll } from "../../components/ParsingInputs/util/combineAll";
+import { parseUniqueItems } from "../../assets/utility/methods/parseUniques";
+import { parseRunewords } from "../../assets/utility/methods/parseRunewords";
+import { combineUniques } from "../../assets/utility/methods/combineUniques";
 
 export const App = () => {
   const [itemCategory, setItemCategory] = useState(0);
@@ -149,7 +148,7 @@ export const App = () => {
         <h5>Combines resulting Uniques or Sets with matching item base.</h5>
         <button
           onClick={async () => {
-            const combined = await combineAll();
+            const combined = await combineUniques();
             setJsonFiles((prevState) => ({ ...prevState, combined: combined }));
           }}
         >

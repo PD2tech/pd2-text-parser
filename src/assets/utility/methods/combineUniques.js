@@ -4,10 +4,6 @@ import misc from "../../../assets/results/misc_bases.json";
 import uni from "../results/uniques.json";
 import clone from "lodash.clonedeep";
 
-// some bug is happening somewhere, likely due to the mutative code, that is overwritting
-// items with duplicate bases to all have the final parsed item's result for certain properties
-// like all rings have the same level requirement
-
 const allBases = [...weapons, ...armor, ...misc];
 
 const fixNum = (n) => {
@@ -93,7 +89,7 @@ const randomInt = (max) => {
   return Math.floor(Math.random() * Math.floor(max));
 };
 
-export const combineAll = () => {
+export const combineUniques = () => {
   let result = [];
   let unfound = [];
   uni.forEach((item) => {

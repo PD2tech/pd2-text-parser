@@ -1,4 +1,4 @@
-import allStrings from "../../ParsingInputs/json/allStrings.json";
+import allStrings from "../../../assets/utility/json/allStrings.json";
 
 const getTypeProps = (type) => {
   if (type === "tors") {

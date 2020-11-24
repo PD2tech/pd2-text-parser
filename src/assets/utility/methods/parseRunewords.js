@@ -1,7 +1,7 @@
 import allStrings from "../json/allStrings.json";
-import { classSkillUtil } from "../util/classSkillUtil";
-import { descFuncUtil } from "../util/descFuncs";
-import { isMissingData, fixRwStat, fixRuneStat } from "../util/fixMissing";
+import { classSkillUtil } from "./classSkillUtil";
+import { descFuncUtil } from "./descFuncs";
+import { isMissingData, fixRwStat, fixRuneStat } from "./fixMissing";
 import treeIds from "../json/skilltab.json";
 import skillIds from "../json/skillIds.json";
 import runes from "../json/runes.json";
