@@ -16,7 +16,23 @@ export const convertWeapon = (file) => {
 
     result.push(obj);
   }
-  let filterUseless = result.filter((item) => item.name !== "Expansion");
+  let filterUseless = result.filter((item) => {
+    if (
+      item.name === "Expansion" ||
+      item.name === "decoy dagger" ||
+      item.name === "Gidbinn" ||
+      item.name === "Wirt's Leg" ||
+      item.name === "Horadric Malus" ||
+      item.name === "Hellforge Hammer" ||
+      item.name === "Horadric Staff" ||
+      item.name === "Staff of the Kings" ||
+      item.type === "tpot"
+    ) {
+      return null;
+    } else {
+      return item;
+    }
+  });
   let filterBlank = filterUseless.filter((item) => item.name !== "");
   return filterBlank;
 };

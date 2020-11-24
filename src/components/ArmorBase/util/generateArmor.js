@@ -97,7 +97,7 @@ export const generateArmor = (json) => {
     const str_obj_name = allStrings.find((str) => str.id === item.code);
     const item_name = str_obj_name !== undefined ? str_obj_name.str : item.name;
     const item_code = item.code;
-    const level_requirment = parseInt(item.levelreq);
+    const level_req = parseInt(item.levelreq);
     const durability = parseInt(item.durability);
     const max_sockets = parseInt(item.gemsockets);
     const inventory_height = parseInt(item.invheight);
@@ -154,16 +154,20 @@ export const generateArmor = (json) => {
     return {
       item_name,
       item_type: "armor",
-      item_image: `https://pd2itemimages.s3.amazonaws.com/${type_props.s3}/${item_code}.png`,
-      item_properties: {
-        item_base: item_code,
+      item_image: `https://pd2itemimages.s3.amazonaws.com/${type_props.s3}/${item.normcode}.png`,
+      item_props: {
+        item_base_code: item_code,
         upgrade,
         sub_type: type_props.type,
         class_specific: type_props.class_specific,
+        defense: {
+          min: parseInt(item.minac),
+          max: parseInt(item.maxac),
+        },
         durability,
-        strength_req: strength_requirement,
-        dexterity_req: 0,
-        level_requirment,
+        str_req: strength_requirement,
+        dex_req: 0,
+        level_req,
         item_tier: item_tier,
         rarity: 1,
         sockets: {
@@ -171,13 +175,13 @@ export const generateArmor = (json) => {
           max: parseInt(max_sockets),
           used: 0,
         },
-        quality_modifier: {
+        quality: {
           low_quality: false,
           superior: false,
           ethereal: false,
         },
       },
-      inventory_props: {
+      inv_props: {
         height: parseInt(inventory_height),
         width: parseInt(inventory_width),
       },

@@ -4422,7 +4422,7 @@
     ]
   },
   {
-    "item_name": "Ichorsting",
+    "item_name": "Ichorstring",
     "item_base": "Crossbow",
     "item_base_code": "mxb",
     "level_requirement": 18,
@@ -20900,6 +20900,10 @@
       "item_splashonhit": {
         "min": 100,
         "max": 1
+      },
+      "ethereal": {
+        "min": 1,
+        "max": 1
       }
     },
     "property_strings": [
@@ -21530,6 +21534,10 @@
       "item_splashonhit": {
         "min": 100,
         "max": 1
+      },
+      "ethereal": {
+        "min": 1,
+        "max": 1
       }
     },
     "property_strings": [
@@ -21603,6 +21611,10 @@
       },
       "item_splashonhit": {
         "min": 100,
+        "max": 1
+      },
+      "ethereal": {
+        "min": 1,
         "max": 1
       }
     },
@@ -24703,6 +24715,10 @@
       },
       "item_splashonhit": {
         "min": 100,
+        "max": 1
+      },
+      "ethereal": {
+        "min": 1,
         "max": 1
       }
     },

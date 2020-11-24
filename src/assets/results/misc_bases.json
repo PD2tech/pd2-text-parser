@@ -1,0 +1,76 @@
+[
+  {
+    "item_name": "Ring",
+    "item_type": "ring",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/rings/rin1.png",
+    "item_props": {
+      "item_base": "rin",
+      "upgrade": null,
+      "sub_type": null,
+      "class_specific": null,
+      "durability": null,
+      "str_req": 0,
+      "dex_req": 0,
+      "level_req": 1,
+      "item_tier": null,
+      "rarity": 3,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 1
+    },
+    "body_props": {
+      "equip1": 6,
+      "equip2": 8
+    },
+    "special_props": {},
+    "item_mods": {}
+  },
+  {
+    "item_name": "Amulet",
+    "item_type": "amulet",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu.png",
+    "item_props": {
+      "item_base": "amu",
+      "upgrade": null,
+      "sub_type": null,
+      "class_specific": null,
+      "durability": null,
+      "str_req": 0,
+      "dex_req": 0,
+      "level_req": 1,
+      "item_tier": null,
+      "rarity": 3,
+      "sockets": {
+        "socketable": false,
+        "max": 0,
+        "used": 0
+      },
+      "quality": {
+        "low_quality": false,
+        "superior": false,
+        "ethereal": false
+      }
+    },
+    "inventory_props": {
+      "height": 1,
+      "width": 1
+    },
+    "body_props": {
+      "equip1": 1,
+      "equip2": null
+    },
+    "special_props": {},
+    "item_mods": {}
+  }
+]
