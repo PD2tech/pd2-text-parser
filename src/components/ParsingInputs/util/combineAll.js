@@ -1,8 +1,12 @@
-// import allBases from "../json/allBases.json";
 import weapons from "../../../assets/results/weapon_bases.json";
 import armor from "../../../assets/results/armor_bases.json";
 import misc from "../../../assets/results/misc_bases.json";
 import uni from "../results/uniques.json";
+import clone from "lodash.clonedeep";
+
+// some bug is happening somewhere, likely due to the mutative code, that is overwritting
+// items with duplicate bases to all have the final parsed item's result for certain properties
+// like all rings have the same level requirement
 
 const allBases = [...weapons, ...armor, ...misc];
 
@@ -89,16 +93,15 @@ const randomInt = (max) => {
   return Math.floor(Math.random() * Math.floor(max));
 };
 
-// rings and amulets are still only using the last parsed ring or amulet's level req
-
 export const combineAll = () => {
   let result = [];
   let unfound = [];
   uni.forEach((item) => {
-    let base = Object.assign(
+    let findBase = Object.assign(
       {},
       allBases.find((b) => b.item_name === item.item_base)
     );
+    let base = clone(findBase);
     if (base === undefined || base.item_props === undefined) {
       unfound.push(item);
     } else {
@@ -214,6 +217,10 @@ export const combineAll = () => {
         ...item.item_mods,
         ...combineUndeadOnBlunt,
       };
+
+      if (item.item_name === "Nightwing's Veil") {
+        debugger;
+      }
 
       result.push({ ...base, property_strings: [...allPropertyStrings] });
     }
