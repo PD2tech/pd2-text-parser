@@ -2,11 +2,13 @@
 
 This application is meant to take the raw .txt files and translate their contents to useable JSON that can be stored in an API and used for other applications.
 
-The objective is to be able to create the handling necessary to not have to alter the .txt files in anyway in order to create accurate results so for ease of use and ability to update data overtime and as updates are released for PD2.
+The objective is to be able to create the handling necessary to not have to alter the .txt files in anyway in order to create accurate results so for ease of use and the ability to update an API quickily as updates are released for PD2. The .txts used are redacted distributable versions prepped by the PD2 team, so there are some .txts missing or we have not recieved yet. This also means based on the current methods, whenever something from the contents of these files changes on PD2s end, we also would need an updated version from them.
 
 ## Current Functionality
 
-There are currently 5 main basic inputs and some conditional inputs. The results of these inputs is printed on screen for review and gives a user the ability to copy/paste the text into a JSON file. There will eventually be an export functionality to skip the copy/paste step, but for now, this works while the results are not perfect.
+There are currently 5 main basic inputs and some conditional inputs. The results of these inputs are printed on screen for review and gives a user the ability to copy/paste the text into a JSON file. There will eventually be an export functionality to skip the copy/paste step, but for now, this works while the results are not perfect.
+
+Raw .txt files used with this application are in the `text-files` folder. Armor.csv is the only one that has had any changes made due to a duplicate column that was overwriting the value of the previous column that shares the same key name after being converted to JSON. I'll include the raw Armor.txt as well since this handling should be made as part of the converting to JSON process to prep the document. You'll notice there are two columns for mindam and maxdamn, the duplicate and empty ones being the very last columns of the .txt file.
 
 - **Strings/Print JSON** - Will take any .txt file and convert it into JSON without any special handling. Raw txt to raw JSON.
 
@@ -18,9 +20,9 @@ There are currently 5 main basic inputs and some conditional inputs. The results
 
 - **ItemStatCost.txt** - Takes the ItemStatCost.txt file and converts it into JSON. No special handling takes place during the conversion.
 
-- **UniqueItems.txt** - Will be available after Properties.txt and ItemStatCost.txt have been parsed and converted as these are required files for the process. There is some special handling that takes place to clean up the raw JSON result to make the result useable for other parsing methods.
+- **UniqueItems.txt** - Input is hidden until after Properties.txt and ItemStatCost.txt have been parsed and converted as these are required files for the process. There is some special handling that takes place to clean up the raw JSON result to make the result useable for other parsing methods.
 
-- **Runes.txt** - Will be available after Properties.txt and ItemStatCost.txt have been parsed and converted as these are required files for the process. There is some special handling that takes place to clean up the raw JSON result to make the result useable for other parsing methods.
+- **Runes.txt** - Input is hidden until after Properties.txt and ItemStatCost.txt have been parsed and converted as these are required files for the process. There is some special handling that takes place to clean up the raw JSON result to make the result useable for other parsing methods.
 
 ## Pre-Parsed and Internally Used Files
 
@@ -46,8 +48,10 @@ There are multiple utility functions being built out that are used throughout th
 
 - **descFuncs.js** - These are reproductions of the functions used within D2 itself to put together string templates, their ordering, and the injected values.
 
+- **combineUniques** - This currently uses parsed results that are stored as JSON to combine unique item results with item base results. No parsing or uploading necessary. Will be adapted as part of the process after uploading ItemStatCost.txt and Properties.txt and then either UniqueItems.txt or SetItems.txt to create full item objects with all necessary properties.
+
 ### Reference
 
-- **itemstat.json** - Previous parsed JSON for the ItemStatCosts.txt to be able to reference/find values while working out parsing methods.
+- **itemstat.json** - Previously parsed JSON for the ItemStatCosts.txt to be able to reference/find values while working out parsing methods.
 
-- **properties.json** - Previous pasrsed JSON for Properties.txt to be able to reference/find values while working out parsing methods.
+- **properties.json** - Previously pasrsed JSON for Properties.txt to be able to reference/find values while working out parsing methods.
