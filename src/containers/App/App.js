@@ -13,6 +13,7 @@ import {
 import { parseUniqueItems } from "../../assets/utility/methods/parseUniques";
 import { parseRunewords } from "../../assets/utility/methods/parseRunewords";
 import { combineUniques } from "../../assets/utility/methods/combineUniques";
+import { statEnum } from "../../assets/utility/methods/statEnum";
 
 export const App = () => {
   const [itemCategory, setItemCategory] = useState(0);
@@ -148,7 +149,7 @@ export const App = () => {
         <h5>Combines resulting Uniques or Sets with matching item base.</h5>
         <button
           onClick={async () => {
-            const combined = await combineUniques();
+            const combined = await statEnum();
             setJsonFiles((prevState) => ({ ...prevState, combined: combined }));
           }}
         >
