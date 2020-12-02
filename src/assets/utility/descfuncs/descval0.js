@@ -1,6 +1,6 @@
 import allStrings from "../json/allStrings.json";
 // descfuncs for descval === 0
-// descfunc values: 16, 3, 11, 15, 0, 9
+// descfunc values: 0, 3, 9, 11, 15, 16
 
 const descFuncs = {
   descfunc0: (
@@ -94,6 +94,9 @@ export const descval0 = (itemStatObj) => {
   let string2 = "";
   if (descstr2) {
     string2 = allStrings.find((str) => str.id === descstr2).str;
+  }
+  if (descfunc === undefined) {
+    return;
   }
   const handler = descFuncs[`descfunc${descfunc}`];
   return handler(string, string2, Stat);

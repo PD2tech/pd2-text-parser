@@ -1,3 +1,18 @@
+// item_numsockets (sock)
+
+// item_singleskill
+// skill-rand, skill
+
+// item_addclassskills (ass, dru, bar, ama, pal, sor, nec
+// ama ModStr3a
+// pal ModStr3b
+// nec ModStr3c
+// sor ModStr3d
+// bar ModStr3e
+// dru ModStre8a
+// ass ModStre8b
+// randclassskill3, randclassskill2, randclassskill1
+
 export const isMissingData = (val) => {
   if (
     val === "dmg-min" ||

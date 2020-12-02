@@ -1,0 +1,1472 @@
+[
+  {
+    "code": "ac",
+    "name": "armorclass",
+    "stat1": "+X Defense"
+  },
+  {
+    "code": "ac-miss",
+    "name": "armorclass_vs_missile",
+    "stat1": "+X Defense vs. Missile"
+  },
+  {
+    "code": "ac-hth",
+    "name": "armorclass_vs_hth",
+    "stat1": "+X Defense vs. Melee"
+  },
+  {
+    "code": "red-dmg",
+    "name": "normal_damage_reduction",
+    "stat1": "Physical Damage Taken Reduced by X"
+  },
+  {
+    "code": "red-dmg%",
+    "name": "damageresist",
+    "stat1": "Physical Damage Taken Reduced by X%"
+  },
+  {
+    "code": "ac%",
+    "name": "item_armor_percent",
+    "stat1": "+X% Enhanced Defense"
+  },
+  {
+    "code": "red-mag",
+    "name": "magic_damage_reduction",
+    "stat1": "Magic Damage Taken Reduced by X"
+  },
+  {
+    "code": "str",
+    "name": "strength",
+    "stat1": "+X to Strength"
+  },
+  {
+    "code": "dex",
+    "name": "dexterity",
+    "stat1": "+X to Dexterity"
+  },
+  {
+    "code": "vit",
+    "name": "vitality",
+    "stat1": "+X to Vitality"
+  },
+  {
+    "code": "enr",
+    "name": "energy",
+    "stat1": "+X to Energy"
+  },
+  {
+    "code": "mana",
+    "name": "maxmana",
+    "stat1": "+X to Mana"
+  },
+  {
+    "code": "mana%",
+    "name": "item_maxmana_percent",
+    "stat1": "Increase Maximum Mana X%"
+  },
+  {
+    "code": "hp",
+    "name": "maxhp",
+    "stat1": "+X to Life"
+  },
+  {
+    "code": "hp%",
+    "name": "item_maxhp_percent",
+    "stat1": "Increase Maximum Life X%"
+  },
+  {
+    "code": "att",
+    "name": "tohit",
+    "stat1": "+X to Attack Rating"
+  },
+  {
+    "code": "block",
+    "name": "toblock",
+    "stat1": "X% Increased Chance of Blocking"
+  },
+  {
+    "code": "cold-min",
+    "name": "coldmindam",
+    "stat1": "+X to Minimum Cold Damage"
+  },
+  {
+    "code": "cold-max",
+    "name": "coldmaxdam",
+    "stat1": "+X to Maximum Cold Damage"
+  },
+  {
+    "code": "fire-min",
+    "name": "firemindam",
+    "stat1": "+X to Minimum Fire Damage"
+  },
+  {
+    "code": "fire-max",
+    "name": "firemaxdam",
+    "stat1": "+X to Maximum Fire Damage"
+  },
+  {
+    "code": "ltng-min",
+    "name": "lightmindam",
+    "stat1": "+X to Minimum Lightning Damage"
+  },
+  {
+    "code": "ltng-max",
+    "name": "lightmaxdam",
+    "stat1": "+X to Maximum Lightning Damage"
+  },
+  {
+    "code": "pois-min",
+    "name": "poisonmindam",
+    "stat1": "+X to Minimum Poison Damage"
+  },
+  {
+    "code": "pois-max",
+    "name": "poisonmaxdam",
+    "stat1": "+X to Maximum Poison Damage"
+  },
+  {
+    "code": "dmg-min",
+    "stat1": "+X to Minimum Damage",
+    "name": "dmg-min"
+  },
+  {
+    "code": "dmg-max",
+    "stat1": "+X to Maximum Damage",
+    "name": "dmg-max"
+  },
+  {
+    "code": "dmg%",
+    "stat1": "+X% Enhanced Damage",
+    "name": "dmg%"
+  },
+  {
+    "code": "dmg-to-mana",
+    "name": "item_damagetomana",
+    "stat1": "X% Damage Taken Gained as Mana when Hit"
+  },
+  {
+    "code": "res-fire",
+    "name": "fireresist",
+    "stat1": "Fire Resist X%"
+  },
+  {
+    "code": "res-fire-max",
+    "name": "maxfireresist",
+    "stat1": "+X% to Maximum Fire Resist"
+  },
+  {
+    "code": "res-ltng",
+    "name": "lightresist",
+    "stat1": "Lightning Resist X%"
+  },
+  {
+    "code": "res-ltng-max",
+    "name": "maxlightresist",
+    "stat1": "+X% to Maximum Lightning Resist"
+  },
+  {
+    "code": "res-cold",
+    "name": "coldresist",
+    "stat1": "Cold Resist X%"
+  },
+  {
+    "code": "res-cold-max",
+    "name": "maxcoldresist",
+    "stat1": "+X% to Maximum Cold Resist"
+  },
+  {
+    "code": "res-mag",
+    "name": "magicresist",
+    "stat1": "Magic Resist X%"
+  },
+  {
+    "code": "res-mag-max",
+    "name": "maxmagicresist",
+    "stat1": "+X% to Maximum Magic Resist"
+  },
+  {
+    "code": "res-pois",
+    "name": "poisonresist",
+    "stat1": "Poison Resist X%"
+  },
+  {
+    "code": "res-pois-max",
+    "name": "maxpoisonresist",
+    "stat1": "+X% to Maximum Poison Resist"
+  },
+  {
+    "code": "res-all",
+    "name": "res-all",
+    "stat1": "Fire Resist X%",
+    "stat2": "Lightning Resist X%",
+    "stat3": "Cold Resist X%",
+    "stat4": "Poison Resist X%"
+  },
+  {
+    "code": "res-all-max",
+    "name": "res-all-max",
+    "stat1": "+X% to Maximum Fire Resist",
+    "stat2": "+X% to Maximum Lightning Resist",
+    "stat3": "+X% to Maximum Cold Resist",
+    "stat4": "+X% to Maximum Poison Resist"
+  },
+  {
+    "code": "abs-fire%",
+    "name": "item_absorbfire_percent",
+    "stat1": "Fire Absorb X%"
+  },
+  {
+    "code": "abs-fire",
+    "name": "item_absorbfire",
+    "stat1": "+X Fire Absorb"
+  },
+  {
+    "code": "abs-ltng%",
+    "name": "item_absorblight_percent",
+    "stat1": "Lightning Absorb X%"
+  },
+  {
+    "code": "abs-ltng",
+    "name": "item_absorblight",
+    "stat1": "+X Lightning Absorb"
+  },
+  {
+    "code": "abs-mag%",
+    "name": "item_absorbmagic_percent",
+    "stat1": "Magic Absorb X%"
+  },
+  {
+    "code": "abs-mag",
+    "name": "item_absorbmagic",
+    "stat1": "+X Magic Absorb"
+  },
+  {
+    "code": "abs-cold%",
+    "name": "item_absorbcold_percent",
+    "stat1": "Cold Absorb X%"
+  },
+  {
+    "code": "abs-cold",
+    "name": "item_absorbcold",
+    "stat1": "+X Cold Absorb"
+  },
+  {
+    "code": "dur%",
+    "name": "item_maxdurability_percent",
+    "stat1": "Increase Maximum Durability X%"
+  },
+  {
+    "code": "regen",
+    "name": "hpregen",
+    "stat1": "Replenish Life +X"
+  },
+  {
+    "code": "thorns",
+    "name": "item_attackertakesdamage",
+    "stat1": "Attacker Takes Damage of X"
+  },
+  {
+    "code": "swing1",
+    "name": "item_fasterattackrate",
+    "stat1": "+X% Increased Attack Speed"
+  },
+  {
+    "code": "swing2",
+    "name": "item_fasterattackrate",
+    "stat1": "+X% Increased Attack Speed"
+  },
+  {
+    "code": "swing3",
+    "name": "item_fasterattackrate",
+    "stat1": "+X% Increased Attack Speed"
+  },
+  {
+    "code": "gold%",
+    "name": "item_goldbonus",
+    "stat1": "X% Extra Gold from Monsters"
+  },
+  {
+    "code": "mag%",
+    "name": "item_magicbonus",
+    "stat1": "X% Better Chance of Getting Magic Items"
+  },
+  {
+    "code": "knock",
+    "name": "item_knockback",
+    "stat1": "Knockback"
+  },
+  {
+    "code": "regen-stam",
+    "name": "staminarecoverybonus",
+    "stat1": "Heal Stamina Plus X%"
+  },
+  {
+    "code": "regen-mana",
+    "name": "manarecoverybonus",
+    "stat1": "Regenerate Mana X%"
+  },
+  {
+    "code": "stam",
+    "name": "maxstamina",
+    "stat1": "+X Maximum Stamina"
+  },
+  {
+    "code": "manasteal",
+    "name": "manadrainmindam",
+    "stat1": "X% Mana stolen per hit"
+  },
+  {
+    "code": "lifesteal",
+    "name": "lifedrainmindam",
+    "stat1": "X% Life stolen per hit"
+  },
+  {
+    "code": "ama",
+    "name": "item_addclassskills",
+    "stat1": "+X to Amazon Skill Levels"
+  },
+  {
+    "code": "pal",
+    "name": "item_addclassskills",
+    "stat1": "+X to Paladin Skill Levels"
+  },
+  {
+    "code": "nec",
+    "name": "item_addclassskills",
+    "stat1": "+X to Necromancer Skill Levels"
+  },
+  {
+    "code": "sor",
+    "name": "item_addclassskills",
+    "stat1": "+X to Sorceress Skill Levels"
+  },
+  {
+    "code": "bar",
+    "name": "item_addclassskills",
+    "stat1": "+X to Barbarian Skill Levels"
+  },
+  {
+    "code": "light",
+    "name": "item_lightradius",
+    "stat1": "+X to Light Radius"
+  },
+  {
+    "code": "ease",
+    "name": "item_req_percent",
+    "stat1": "Requirements X%"
+  },
+  {
+    "code": "move1",
+    "name": "item_fastermovevelocity",
+    "stat1": "+X% Faster Run/Walk"
+  },
+  {
+    "code": "move2",
+    "name": "item_fastermovevelocity",
+    "stat1": "+X% Faster Run/Walk"
+  },
+  {
+    "code": "move3",
+    "name": "item_fastermovevelocity",
+    "stat1": "+X% Faster Run/Walk"
+  },
+  {
+    "code": "balance1",
+    "name": "item_fastergethitrate",
+    "stat1": "+X% Faster Hit Recovery"
+  },
+  {
+    "code": "balance2",
+    "name": "item_fastergethitrate",
+    "stat1": "+X% Faster Hit Recovery"
+  },
+  {
+    "code": "balance3",
+    "name": "item_fastergethitrate",
+    "stat1": "+X% Faster Hit Recovery"
+  },
+  {
+    "code": "block1",
+    "name": "item_fasterblockrate",
+    "stat1": "+X% Faster Block Rate"
+  },
+  {
+    "code": "block2",
+    "name": "item_fasterblockrate",
+    "stat1": "+X% Faster Block Rate"
+  },
+  {
+    "code": "block3",
+    "name": "item_fasterblockrate",
+    "stat1": "+X% Faster Block Rate"
+  },
+  {
+    "code": "cast1",
+    "name": "item_fastercastrate",
+    "stat1": "+X% Faster Cast Rate"
+  },
+  {
+    "code": "cast2",
+    "name": "item_fastercastrate",
+    "stat1": "+X% Faster Cast Rate"
+  },
+  {
+    "code": "cast3",
+    "name": "item_fastercastrate",
+    "stat1": "+X% Faster Cast Rate"
+  },
+  {
+    "code": "res-pois-len",
+    "name": "item_poisonlengthresist",
+    "stat1": "Poison Length Reduced by X%"
+  },
+  {
+    "code": "dmg",
+    "name": "item_normaldamage",
+    "stat1": "Damage +X"
+  },
+  {
+    "code": "howl",
+    "name": "item_howl",
+    "stat1": "Hit Causes Monster to Flee X%"
+  },
+  {
+    "code": "stupidity",
+    "name": "item_stupidity",
+    "stat1": "Hit Blinds Target +X"
+  },
+  {
+    "code": "ignore-ac",
+    "name": "item_ignoretargetac",
+    "stat1": "Ignore Target's Defense"
+  },
+  {
+    "code": "reduce-ac",
+    "name": "item_fractionaltargetac",
+    "stat1": "-X% Target Defense"
+  },
+  {
+    "code": "noheal",
+    "name": "item_preventheal",
+    "stat1": "Prevent Monster Heal"
+  },
+  {
+    "code": "half-freeze",
+    "name": "item_halffreezeduration",
+    "stat1": "Half Freeze Duration"
+  },
+  {
+    "code": "att%",
+    "name": "item_tohit_percent",
+    "stat1": "X% Bonus to Attack Rating"
+  },
+  {
+    "code": "dmg-ac",
+    "name": "item_damagetargetac",
+    "stat1": "+X to Monster Defense Per Hit"
+  },
+  {
+    "code": "dmg-demon",
+    "name": "item_demondamage_percent",
+    "stat1": "+X% Damage to Demons"
+  },
+  {
+    "code": "dmg-undead",
+    "name": "item_undeaddamage_percent",
+    "stat1": "+X% Damage to Undead"
+  },
+  {
+    "code": "att-demon",
+    "name": "item_demon_tohit",
+    "stat1": "+X to Attack Rating against Demons"
+  },
+  {
+    "code": "att-undead",
+    "name": "item_undead_tohit",
+    "stat1": "+X to Attack Rating against Undead"
+  },
+  {
+    "code": "throw",
+    "name": "item_throwable",
+    "stat1": "Throwable"
+  },
+  {
+    "code": "fireskill",
+    "name": "fireskill",
+    "stat1": "+X to Fire Skills"
+  },
+  {
+    "code": "allskills",
+    "name": "item_allskills",
+    "stat1": "+X to All Skills"
+  },
+  {
+    "code": "light-thorns",
+    "name": "item_attackertakeslightdamage",
+    "stat1": "Attacker Takes Lightning Damage of X"
+  },
+  {
+    "code": "freeze",
+    "name": "item_freeze",
+    "stat1": "Freezes target +X"
+  },
+  {
+    "code": "openwounds",
+    "name": "item_openwounds",
+    "stat1": "X% Chance of Open Wounds"
+  },
+  {
+    "code": "crush",
+    "name": "item_crushingblow",
+    "stat1": "X% Chance of Crushing Blow"
+  },
+  {
+    "code": "kick",
+    "name": "item_kickdamage",
+    "stat1": "+X Kick Damage"
+  },
+  {
+    "code": "mana-kill",
+    "name": "item_manaafterkill",
+    "stat1": "+X to Mana after each Kill"
+  },
+  {
+    "code": "demon-heal",
+    "name": "item_healafterdemonkill",
+    "stat1": "+X Life after each Demon Kill"
+  },
+  {
+    "code": "deadly",
+    "name": "item_deadlystrike",
+    "stat1": "X% Deadly Strike"
+  },
+  {
+    "code": "slow",
+    "name": "item_slow",
+    "stat1": "Slows Target by X%"
+  },
+  {
+    "code": "nofreeze",
+    "name": "item_cannotbefrozen",
+    "stat1": "Cannot Be Frozen"
+  },
+  {
+    "code": "stamdrain",
+    "name": "item_staminadrainpct",
+    "stat1": "X% Slower Stamina Drain"
+  },
+  {
+    "code": "reanimate",
+    "name": "item_reanimate",
+    "stat1": "X% Reanimate as: <monster type>"
+  },
+  {
+    "code": "pierce",
+    "name": "item_pierce",
+    "stat1": "+X% Chance to Pierce"
+  },
+  {
+    "code": "magicarrow",
+    "name": "item_magicarrow",
+    "stat1": "Fires Magic Arrows"
+  },
+  {
+    "code": "explosivearrow",
+    "name": "item_explosivearrow",
+    "stat1": "Fires Explosive Arrows or Bolts"
+  },
+  {
+    "code": "dru",
+    "name": "item_addclassskills",
+    "stat1": "+X to Druid Skill Levels"
+  },
+  {
+    "code": "ass",
+    "name": "item_addclassskills",
+    "stat1": "+X to Assassin Skill Levels"
+  },
+  {
+    "code": "skill",
+    "name": "item_singleskill",
+    "stat1": "+X to <Skill>"
+  },
+  {
+    "code": "skilltab",
+    "name": "item_addskill_tab",
+    "stat1": "+X to <SkillTree>"
+  },
+  {
+    "code": "aura",
+    "name": "item_aura",
+    "stat1": "Level X <Skill> Aura When Equipped"
+  },
+  {
+    "code": "att-skill",
+    "name": "item_skillonattack",
+    "stat1": "X% Chance to cast level X <Skill> on attack"
+  },
+  {
+    "code": "hit-skill",
+    "name": "item_skillonhit",
+    "stat1": "X% Chance to cast level X <Skill> on striking"
+  },
+  {
+    "code": "gethit-skill",
+    "name": "item_skillongethit",
+    "stat1": "X% Chance to cast level X <Skill> when struck"
+  },
+  {
+    "code": "dmg-fire",
+    "name": "dmg-fire",
+    "stat1": "+X to Minimum Fire Damage",
+    "stat2": "+X to Maximum Fire Damage"
+  },
+  {
+    "code": "dmg-ltng",
+    "name": "dmg-ltng",
+    "stat1": "+X to Minimum Lightning Damage",
+    "stat2": "+X to Maximum Lightning Damage"
+  },
+  {
+    "code": "dmg-mag",
+    "name": "dmg-mag",
+    "stat1": "+X +%d magic damage",
+    "stat2": "+X +%d magic damage"
+  },
+  {
+    "code": "dmg-cold",
+    "name": "dmg-cold",
+    "stat1": "+X to Minimum Cold Damage",
+    "stat2": "+X to Maximum Cold Damage"
+  },
+  {
+    "code": "dmg-pois",
+    "name": "dmg-pois",
+    "stat1": "+X to Minimum Poison Damage",
+    "stat2": "+X to Maximum Poison Damage"
+  },
+  {
+    "code": "dmg-norm",
+    "name": "dmg-norm",
+    "stat1": "+X to Minimum Damage",
+    "stat2": "+X to Maximum Damage"
+  },
+  {
+    "code": "ac/lvl",
+    "name": "item_armor_perlevel",
+    "stat1": "+X-X Defense (Based on Character Level)"
+  },
+  {
+    "code": "ac%/lvl",
+    "name": "item_armorpercent_perlevel",
+    "stat1": "+X-X% Enhanced Defense (Based on Character Level)"
+  },
+  {
+    "code": "hp/lvl",
+    "name": "item_hp_perlevel",
+    "stat1": "+X-X to Life (Based on Character Level)"
+  },
+  {
+    "code": "mana/lvl",
+    "name": "item_mana_perlevel",
+    "stat1": "+X-X to Mana (Based on Character Level)"
+  },
+  {
+    "code": "dmg/lvl",
+    "name": "item_maxdamage_perlevel",
+    "stat1": "+X-X to Maximum Damage (Based on Character Level)"
+  },
+  {
+    "code": "dmg%/lvl",
+    "name": "item_maxdamage_percent_perlevel",
+    "stat1": "+X-X% Enhanced Maximum Damage (Based on Character Level)"
+  },
+  {
+    "code": "str/lvl",
+    "name": "item_strength_perlevel",
+    "stat1": "+X-X to Strength (Based on Character Level)"
+  },
+  {
+    "code": "dex/lvl",
+    "name": "item_dexterity_perlevel",
+    "stat1": "+X-X to Dexterity (Based on Character Level)"
+  },
+  {
+    "code": "enr/lvl",
+    "name": "item_energy_perlevel",
+    "stat1": "+X-X to Energy (Based on Character Level)"
+  },
+  {
+    "code": "vit/lvl",
+    "name": "item_vitality_perlevel",
+    "stat1": "+X-X to Vitality (Based on Character Level)"
+  },
+  {
+    "code": "att/lvl",
+    "name": "item_tohit_perlevel",
+    "stat1": "+X-X to Attack Rating (Based on Character Level)"
+  },
+  {
+    "code": "att%/lvl",
+    "name": "item_tohitpercent_perlevel",
+    "stat1": "X-X% Bonus to Attack Rating (Based on Character Level)"
+  },
+  {
+    "code": "dmg-cold/lvl",
+    "name": "item_cold_damagemax_perlevel",
+    "stat1": "+X-X to Maximum Cold Damage (Based on Character Level)"
+  },
+  {
+    "code": "dmg-fire/lvl",
+    "name": "item_fire_damagemax_perlevel",
+    "stat1": "+X-X to Maximum Fire Damage (Based on Character Level)"
+  },
+  {
+    "code": "dmg-ltng/lvl",
+    "name": "item_ltng_damagemax_perlevel",
+    "stat1": "+X-X to Maximum Lightning Damage (Based on Character Level)"
+  },
+  {
+    "code": "dmg-pois/lvl",
+    "name": "item_pois_damagemax_perlevel",
+    "stat1": "+X-X to Maximum Poison Damage (Based on Character Level)"
+  },
+  {
+    "code": "res-cold/lvl",
+    "name": "item_resist_cold_perlevel",
+    "stat1": "Cold Resist +X-X% (Based on Character Level)"
+  },
+  {
+    "code": "res-fire/lvl",
+    "name": "item_resist_fire_perlevel",
+    "stat1": "Fire Resist +X-X% (Based on Character Level)"
+  },
+  {
+    "code": "res-ltng/lvl",
+    "name": "item_resist_ltng_perlevel",
+    "stat1": "Lightning Resist +X-X% (Based on Character Level)"
+  },
+  {
+    "code": "res-pois/lvl",
+    "name": "item_resist_pois_perlevel",
+    "stat1": "Poison Resist +X-X% (Based on Character Level)"
+  },
+  {
+    "code": "abs-cold/lvl",
+    "name": "item_absorb_cold_perlevel",
+    "stat1": "+X-X Absorbs Cold Damage (Based on Character Level)"
+  },
+  {
+    "code": "abs-fire/lvl",
+    "name": "item_absorb_fire_perlevel",
+    "stat1": "+X-X Absorbs Fire Damage (Based on Character Level)"
+  },
+  {
+    "code": "abs-ltng/lvl",
+    "name": "item_absorb_ltng_perlevel",
+    "stat1": "+X-X Absorbs Lightning Damage (Based on Character Level)"
+  },
+  {
+    "code": "thorns/lvl",
+    "name": "item_thorns_perlevel",
+    "stat1": "Attacker Takes Damage of +X-X (Based on Character Level)"
+  },
+  {
+    "code": "gold%/lvl",
+    "name": "item_find_gold_perlevel",
+    "stat1": "X-X% Extra Gold from Monsters (Based on Character Level)"
+  },
+  {
+    "code": "mag%/lvl",
+    "name": "item_find_magic_perlevel",
+    "stat1": "X-X% Better Chance of Getting Magic Items (Based on Character Level)"
+  },
+  {
+    "code": "regen-stam/lvl",
+    "name": "item_regenstamina_perlevel",
+    "stat1": "Heal Stamina Plus +X-X% (Based on Character Level)"
+  },
+  {
+    "code": "stam/lvl",
+    "name": "item_stamina_perlevel",
+    "stat1": "+X-X Maximum Stamina (Based on Character Level)"
+  },
+  {
+    "code": "dmg-dem/lvl",
+    "name": "item_damage_demon_perlevel",
+    "stat1": "+X-X% Damage to Demons (Based on Character Level)"
+  },
+  {
+    "code": "dmg-und/lvl",
+    "name": "item_damage_undead_perlevel",
+    "stat1": "+X-X% Damage to Undead (Based on Character Level)"
+  },
+  {
+    "code": "att-dem/lvl",
+    "name": "item_tohit_demon_perlevel",
+    "stat1": "+X-X to Attack Rating against Demons (Based on Character Level)"
+  },
+  {
+    "code": "att-und/lvl",
+    "name": "item_tohit_undead_perlevel",
+    "stat1": "+X-X to Attack Rating against Undead (Based on Character Level)"
+  },
+  {
+    "code": "crush/lvl",
+    "name": "item_crushingblow_perlevel",
+    "stat1": "X-X% Chance of Crushing Blow (Based on Character Level)"
+  },
+  {
+    "code": "wounds/lvl",
+    "name": "item_openwounds_perlevel",
+    "stat1": "X-X% Chance of Open Wounds (Based on Character Level)"
+  },
+  {
+    "code": "kick/lvl",
+    "name": "item_kick_damage_perlevel",
+    "stat1": "+X-X Kick Damage (Based on Character Level)"
+  },
+  {
+    "code": "deadly/lvl",
+    "name": "item_deadlystrike_perlevel",
+    "stat1": "X-X% Deadly Strike (Based on Character Level)"
+  },
+  {
+    "code": "rep-dur",
+    "name": "item_replenish_durability",
+    "stat1": "Repairs Durability"
+  },
+  {
+    "code": "rep-quant",
+    "name": "item_replenish_quantity",
+    "stat1": "Replenishes quantity"
+  },
+  {
+    "code": "stack",
+    "name": "item_extra_stack",
+    "stat1": "Increased Stack Size"
+  },
+  {
+    "code": "pierce-fire",
+    "name": "passive_fire_pierce",
+    "stat1": "-X% to Enemy Fire Resistance"
+  },
+  {
+    "code": "pierce-ltng",
+    "name": "passive_ltng_pierce",
+    "stat1": "-X% to Enemy Lightning Resistance"
+  },
+  {
+    "code": "pierce-cold",
+    "name": "passive_cold_pierce",
+    "stat1": "-X% to Enemy Cold Resistance"
+  },
+  {
+    "code": "pierce-pois",
+    "name": "passive_pois_pierce",
+    "stat1": "-X% to Enemy Poison Resistance"
+  },
+  {
+    "code": "charged",
+    "name": "item_charged_skill",
+    "stat1": "Level X <Skill> (X Charges)"
+  },
+  {
+    "code": "extra-fire",
+    "name": "passive_fire_mastery",
+    "stat1": "+X% to Fire Skill Damage"
+  },
+  {
+    "code": "extra-ltng",
+    "name": "passive_ltng_mastery",
+    "stat1": "+X% to Lightning Skill Damage"
+  },
+  {
+    "code": "extra-cold",
+    "name": "passive_cold_mastery",
+    "stat1": "+X% to Cold Skill Damage"
+  },
+  {
+    "code": "extra-pois",
+    "name": "passive_pois_mastery",
+    "stat1": "+X% to Poison Skill Damage"
+  },
+  {
+    "code": "dmg-elem",
+    "name": "dmg-elem",
+    "stat1": "+X to Minimum Fire Damage",
+    "stat2": "+X to Maximum Fire Damage",
+    "stat3": "+X to Minimum Lightning Damage",
+    "stat4": "+X to Maximum Lightning Damage",
+    "stat5": "+X to Minimum Cold Damage",
+    "stat6": "+X to Maximum Cold Damage"
+  },
+  {
+    "code": "dmg-elem-min",
+    "name": "dmg-elem-min",
+    "stat1": "+X to Minimum Fire Damage",
+    "stat2": "+X to Minimum Lightning Damage",
+    "stat3": "+X to Minimum Cold Damage"
+  },
+  {
+    "code": "dmg-elem-max",
+    "name": "dmg-elem-max",
+    "stat1": "+X to Maximum Fire Damage",
+    "stat2": "+X to Maximum Lightning Damage",
+    "stat3": "+X to Maximum Cold Damage"
+  },
+  {
+    "code": "all-stats",
+    "name": "all-stats",
+    "stat1": "+X to Strength",
+    "stat2": "+X to Energy",
+    "stat3": "+X to Dexterity",
+    "stat4": "+X to Vitality"
+  },
+  {
+    "code": "addxp",
+    "name": "item_addexperience",
+    "stat1": "+X% to Experience Gained"
+  },
+  {
+    "code": "heal-kill",
+    "name": "item_healafterkill",
+    "stat1": "+X Life after each Kill"
+  },
+  {
+    "code": "cheap",
+    "name": "item_reducedprices",
+    "stat1": "Reduces all Vendor Prices X%"
+  },
+  {
+    "code": "rip",
+    "name": "item_restinpeace",
+    "stat1": "Slain Monsters Rest in Peace"
+  },
+  {
+    "code": "att-mon%",
+    "name": "attack_vs_montype",
+    "stat1": "+X% to Attack Rating versus <monster type>"
+  },
+  {
+    "code": "dmg-mon%",
+    "name": "damage_vs_montype",
+    "stat1": "+X% to Damage versus <monster type>"
+  },
+  {
+    "code": "kill-skill",
+    "name": "item_skillonkill",
+    "stat1": "X% Chance to cast level X <Skill> when you Kill an Enemy"
+  },
+  {
+    "code": "death-skill",
+    "name": "item_skillondeath",
+    "stat1": "X% Chance to cast level X <Skill> when you Die"
+  },
+  {
+    "code": "levelup-skill",
+    "name": "item_skillonlevelup",
+    "stat1": "X% Chance to cast level X <Skill> when you Level-Up"
+  },
+  {
+    "code": "skill-rand",
+    "name": "item_singleskill",
+    "stat1": "+X to <RandomClassSkill>"
+  },
+  {
+    "code": "oskill",
+    "name": "item_nonclassskill",
+    "stat1": "+X to <Skill>"
+  },
+  {
+    "code": "randclassskill3",
+    "name": "item_addclassskills",
+    "stat1": "+X to <RandomClass> Skills"
+  },
+  {
+    "code": "splash",
+    "name": "item_splashonhit",
+    "stat1": "Melee Attacks Deal Splash Damage"
+  },
+  {
+    "code": "corrupt",
+    "name": "corrupted",
+    "stat1": "Corrupted"
+  },
+  {
+    "code": "corruptnum",
+    "name": "corruptor",
+    "stat1": "Corrupt"
+  },
+  {
+    "code": "randclassskill2",
+    "name": "item_addclassskills",
+    "stat1": "+X to <RandomClass> Skills"
+  },
+  {
+    "code": "coldskill",
+    "name": "coldskill",
+    "stat1": "+X to Cold Skills"
+  },
+  {
+    "code": "ltngskill",
+    "name": "ltngskill",
+    "stat1": "+X to Lightning Skills"
+  },
+  {
+    "code": "poisskill",
+    "name": "poisskill",
+    "stat1": "+X to Poison Skills"
+  },
+  {
+    "code": "magskill",
+    "name": "magskill",
+    "stat1": "+X to Magic Skills"
+  },
+  {
+    "code": "mapdefense",
+    "name": "map_defense",
+    "stat1": "X% Corrupt"
+  },
+  {
+    "code": "map-play-fireres",
+    "name": "map_play_fireresist",
+    "stat1": "Players have +X-X% Fire Resist"
+  },
+  {
+    "code": "map-play-mag-gold%",
+    "name": "map-play-mag-gold%",
+    "stat1": "Magic Find: X%",
+    "stat2": "Gold Find: X%"
+  },
+  {
+    "code": "map-glob-density",
+    "name": "map_glob_density",
+    "stat1": "Monster Density: X%"
+  },
+  {
+    "code": "map-play-addxp",
+    "name": "map_play_addexperience",
+    "stat1": "Experience: X%"
+  },
+  {
+    "code": "map-glob-arealevel",
+    "name": "map_glob_arealevel",
+    "stat1": "+X to Area Level"
+  },
+  {
+    "code": "map-glob-monsterrarity",
+    "name": "map_glob_monsterrarity",
+    "stat1": "Monstery Rarity: X%"
+  },
+  {
+    "code": "map-mon-fire-min",
+    "name": "map_mon_firemindam",
+    "stat1": "Monsters have +X-X to Minimum Fire Damage"
+  },
+  {
+    "code": "map-mon-fire-max",
+    "name": "map_mon_firemaxdam",
+    "stat1": "Monsters have +X-X to Maximum Fire Damage"
+  },
+  {
+    "code": "map-mon-ltng-min",
+    "name": "map_mon_lightmindam",
+    "stat1": "Monsters have +X-X to Minimum Lightning Damage"
+  },
+  {
+    "code": "map-mon-ltng-max",
+    "name": "map_mon_lightmaxdam",
+    "stat1": "Monsters have +X-X to Maximum Lightning Damage"
+  },
+  {
+    "code": "map-mon-mag-min",
+    "name": "map_mon_magicmindam",
+    "stat1": "Monsters have +X-X Magic Damage"
+  },
+  {
+    "code": "map-mon-mag-max",
+    "name": "map_mon_magicmaxdam",
+    "stat1": "Monsters have +X-X Magic Damage"
+  },
+  {
+    "code": "map-mon-dmg-cold",
+    "name": "map-mon-dmg-cold",
+    "stat1": "Monsters have +X-X to Minimum Cold Damage",
+    "stat2": "Monsters have +X-X to Maximum Cold Damage"
+  },
+  {
+    "code": "map-mon-dmg-pois",
+    "name": "map-mon-dmg-pois",
+    "stat1": "Monsters have +X-X to Minimum Poison Damage",
+    "stat2": "Monsters have +X-X to Maximum Poison Damage"
+  },
+  {
+    "code": "map-mon-extra-fire",
+    "name": "map_mon_passive_fire_mastery",
+    "stat1": "Monsters have +X-X% to Fire Skill Damage"
+  },
+  {
+    "code": "map-mon-extra-ltng",
+    "name": "map_mon_passive_ltng_mastery",
+    "stat1": "Monsters have +X-X% to Lightning Skill Damage"
+  },
+  {
+    "code": "map-mon-extra-cold",
+    "name": "map_mon_passive_cold_mastery",
+    "stat1": "Monsters have +X-X% to Cold Skill Damage"
+  },
+  {
+    "code": "map-mon-extra-pois",
+    "name": "map_mon_passive_pois_mastery",
+    "stat1": "Monsters have +X-X% to Poison Skill Damage"
+  },
+  {
+    "code": "map-mon-att-cast-speed",
+    "name": "map-mon-att-cast-speed",
+    "stat1": "Monsters have +X-X% Increased Attack Speed",
+    "stat2": "Monsters have +X-X% Faster Cast Rate"
+  },
+  {
+    "code": "map-mon-att-pierce",
+    "name": "map-mon-att-pierce",
+    "stat1": "Monsters have +X-X% to Attack Rating",
+    "stat2": "Monsters have +X-X% Chance to Pierce"
+  },
+  {
+    "code": "map-mon-ac%",
+    "name": "map_mon_ac%",
+    "stat1": "Monsters have +X-X% Enhanced Defense"
+  },
+  {
+    "code": "map-mon-abs-fire%",
+    "name": "map_mon_absorbcold_percent",
+    "stat1": "Monsters have +X-X% Cold Absorb"
+  },
+  {
+    "code": "map-mon-abs-ltng%",
+    "name": "map_mon_absorbmagic_percent",
+    "stat1": "Monsters have +X-X% Magic Absorb"
+  },
+  {
+    "code": "map-mon-abs-mag%",
+    "name": "map_mon_absorblight_percent",
+    "stat1": "Monsters have +X-X% Lightning Absorb"
+  },
+  {
+    "code": "map-mon-abs-cold%",
+    "name": "map_mon_absorbfire_percent",
+    "stat1": "Monsters have +X-X% Fire Absorb"
+  },
+  {
+    "code": "map-mon-red-dmg",
+    "name": "map_mon_normal_damage_reduction",
+    "stat1": "Monsters take +X-X Reduced Physical Damage"
+  },
+  {
+    "code": "map-mon-velocity%",
+    "name": "map_mon_velocitypercent",
+    "stat1": "Monsters have +X-X% increased Velocity"
+  },
+  {
+    "code": "map-mon-regen",
+    "name": "map_mon_hpregen",
+    "stat1": "Monsters have +X-X Replenish Life"
+  },
+  {
+    "code": "map-mon-lifesteal-hp%",
+    "name": "map-mon-lifesteal-hp%",
+    "stat1": "Monsters have +X-X% Life stolen per hit",
+    "stat2": "Monsters have +X-X% Increased Maximum Life"
+  },
+  {
+    "code": "map-mon-balance1",
+    "name": "map_mon_fastergethitrate",
+    "stat1": "Monsters have +X-X% Faster Hit Recovery"
+  },
+  {
+    "code": "map-mon-hp%",
+    "name": "map_mon_maxhp_percent",
+    "stat1": "Monsters have +X-X% Increased Maximum Life"
+  },
+  {
+    "code": "map-mon-openwounds",
+    "name": "map_mon_openwounds",
+    "stat1": "Monsters have +X-X% Chance of Open Wounds"
+  },
+  {
+    "code": "map-mon-crush",
+    "name": "map_mon_crushingblow",
+    "stat1": "Monsters have +X-X% Chance of Crushing Blow"
+  },
+  {
+    "code": "map-mon-curseresist-hp%",
+    "name": "map-mon-curseresist-hp%",
+    "stat1": "Monsters have +X-X% Curse Duration Reduction",
+    "stat2": "Monsters have +X-X% Increased Maximum Life"
+  },
+  {
+    "code": "map-play-ac%",
+    "name": "map_play_ac%",
+    "stat1": "Players have +X-X% Enhanced Defense"
+  },
+  {
+    "code": "map-play-balance1",
+    "name": "map_play_fastergethitrate",
+    "stat1": "Players have +X-X% Faster Hit Recovery"
+  },
+  {
+    "code": "map-play-block",
+    "name": "map_play_toblock",
+    "stat1": "Players have +X-X% Chance to Block"
+  },
+  {
+    "code": "map-play-regen",
+    "name": "map_play_hpregen",
+    "stat1": "Players have +X-X Drain Life"
+  },
+  {
+    "code": "map-mon-pierce-fire",
+    "name": "map_mon_passive_fire_pierce",
+    "stat1": "Monsters have -X%"
+  },
+  {
+    "code": "map-mon-pierce-ltng",
+    "name": "map_mon_passive_ltng_pierce",
+    "stat1": "Monsters have -X%"
+  },
+  {
+    "code": "map-mon-pierce-cold",
+    "name": "map_mon_passive_cold_pierce",
+    "stat1": "Monsters have -X%"
+  },
+  {
+    "code": "map-mon-pierce-pois",
+    "name": "map_mon_passive_pois_pierce",
+    "stat1": "Monsters have -X%"
+  },
+  {
+    "code": "map-play-res-all",
+    "name": "map-play-res-all",
+    "stat1": "Players have +X-X% Fire Resist",
+    "stat2": "Players have +X-X% Lightning Resist",
+    "stat3": "Players have +X-X% Cold Resist",
+    "stat4": "Players have +X-X% Poison Resist"
+  },
+  {
+    "code": "map-play-res-all-max",
+    "name": "map-play-res-all-max",
+    "stat1": "Players have +X-X% to Maximum Fire Resist",
+    "stat2": "Players have +X-X% to Maximum Lightning Resist",
+    "stat3": "Players have +X-X% to Maximum Cold Resist",
+    "stat4": "Players have +X-X% to Maximum Poison Resist"
+  },
+  {
+    "code": "map-mon-ed%",
+    "name": "map_mon_ed%",
+    "stat1": "Monsters have +X-X% Enhanced Physical Damage"
+  },
+  {
+    "code": "map-mon-splash",
+    "name": "map_mon_splash",
+    "stat1": "Monster's Melee Attacks Deal Splash Damage"
+  },
+  {
+    "code": "rep-charge",
+    "name": "item_replenish_charges",
+    "stat1": "Replenish 1 Charge in 8 Seconds"
+  },
+  {
+    "code": "leapspeed",
+    "name": "item_leap_speed",
+    "stat1": "+X% to Leap and Leap Attack Movement Speed"
+  },
+  {
+    "code": "maxcurse",
+    "name": "max_curses",
+    "stat1": "+X to Maximum Curses"
+  },
+  {
+    "code": "randelemskill",
+    "name": "item_elemskill",
+    "stat1": "+X to Fire Skills"
+  },
+  {
+    "code": "curse-res",
+    "name": "curse_resistance",
+    "stat1": "X% Reduced Curse Duration"
+  },
+  {
+    "code": "heal-hit",
+    "name": "item_healafterhit",
+    "stat1": "+X Life after each Hit"
+  },
+  {
+    "code": "randclassskill1",
+    "name": "item_addclassskills",
+    "stat1": "+X to <RandomClass> Skills"
+  },
+  {
+    "code": "map-mon-phys-as-extra-ltng",
+    "name": "map_mon_phys_as_extra_ltng",
+    "stat1": "Monsters have +X-X% of Physical Damage as Extra Lightning Damage"
+  },
+  {
+    "code": "map-mon-phys-as-extra-cold",
+    "name": "map_mon_phys_as_extra_cold",
+    "stat1": "Monsters have +X-X% of Physical Damage as Extra Cold Damage"
+  },
+  {
+    "code": "map-mon-phys-as-extra-fire",
+    "name": "map_mon_phys_as_extra_fire",
+    "stat1": "Monsters have +X-X% of Physical Damage as Extra Fire Damage"
+  },
+  {
+    "code": "map-mon-phys-as-extra-pois",
+    "name": "map_mon_phys_as_extra_pois",
+    "stat1": "Monsters have +X-X% of Physical Damage as Extra Poison Damage over 5 Seconds"
+  },
+  {
+    "code": "map-mon-phys-as-extra-mag",
+    "name": "map_mon_phys_as_extra_mag",
+    "stat1": "Monsters have +X-X% of Physical Damage as Extra Magic Damage"
+  },
+  {
+    "code": "map-glob-add-mon-doll",
+    "name": "map_glob_add_mon_doll",
+    "stat1": "Map contains Stygian Dolls"
+  },
+  {
+    "code": "map-glob-add-mon-succ",
+    "name": "map_glob_add_mon_succ",
+    "stat1": "Map contains Succubus Witches"
+  },
+  {
+    "code": "map-glob-add-mon-vamp",
+    "name": "map_glob_add_mon_vamp",
+    "stat1": "Map contains Vampire Lords"
+  },
+  {
+    "code": "map-glob-add-mon-cow",
+    "name": "map_glob_add_mon_cow",
+    "stat1": "Map contains Hell Bovines"
+  },
+  {
+    "code": "map-glob-add-mon-horde",
+    "name": "map_glob_add_mon_horde",
+    "stat1": "Map contains Reanimated Horde"
+  },
+  {
+    "code": "map-glob-add-mon-ghost",
+    "name": "map_glob_add_mon_ghost",
+    "stat1": "Map contains Ghosts"
+  },
+  {
+    "code": "extra-bonespears",
+    "name": "extra_bonespears",
+    "stat1": "Bonespear Now Fires +X-X Additional Spears"
+  },
+  {
+    "code": "extra-revives",
+    "name": "extra_revives",
+    "stat1": "You May Now Summon +X-X Additional Revives"
+  },
+  {
+    "code": "pierce-phys",
+    "name": "passive_phys_pierce",
+    "stat1": "-X% to Enemy Physical Resistance"
+  },
+  {
+    "code": "immune-prop",
+    "name": "immune_stat",
+    "stat1": "+X% to Fire Skill Damage"
+  },
+  {
+    "code": "map-mon-deadlystrike",
+    "name": "map_mon_deadlystrike",
+    "stat1": "Monsters have +X-X% Deadly Strike"
+  },
+  {
+    "code": "map-mon-cannotbefrozen",
+    "name": "map_mon_cannotbefrozen",
+    "stat1": "Monsters have Cannot Be Frozen"
+  },
+  {
+    "code": "map-play-fasterattackrate",
+    "name": "map_play_fasterattackrate",
+    "stat1": "Players have +X-X% Increased Attack Speed"
+  },
+  {
+    "code": "map-play-fastercastrate",
+    "name": "map_play_fastercastrate",
+    "stat1": "Players have +X-X% Faster Cast Rate"
+  },
+  {
+    "code": "map-mon-skillondeath",
+    "name": "map_mon_skillondeath",
+    "stat1": "X% Chance to cast level X <Skill> when you Die"
+  },
+  {
+    "code": "map-play-maxhp-percent",
+    "name": "map_play_maxhp_percent",
+    "stat1": "Players have +X-X% Increase Maximum Life"
+  },
+  {
+    "code": "map-play-maxmana-percent",
+    "name": "map_play_maxmana_percent",
+    "stat1": "Players have +X-X% Increase Maximum Mana"
+  },
+  {
+    "code": "map-play-damageresist",
+    "name": "map_play_damageresist",
+    "stat1": "Players have +X-X% Physical Damage Taken Reduced by"
+  },
+  {
+    "code": "map-play-velocitypercent",
+    "name": "map_play_velocitypercent",
+    "stat1": "Players have +X-X% to Velocity"
+  },
+  {
+    "code": "map-mon-pierce-all",
+    "name": "map-mon-pierce-all",
+    "stat1": "Monsters have -X%",
+    "stat2": "Monsters have -X%",
+    "stat3": "Monsters have -X%",
+    "stat4": "Monsters have -X%"
+  },
+  {
+    "code": "map-mon-nofreeze-hp%",
+    "name": "map-mon-nofreeze-hp%",
+    "stat1": "Monsters have Cannot Be Frozen",
+    "stat2": "Monsters have +X-X% Increased Maximum Life"
+  },
+  {
+    "code": "map-play-swing-cast",
+    "name": "map-play-swing-cast",
+    "stat1": "Players have +X-X% Increased Attack Speed",
+    "stat2": "Players have +X-X% Faster Cast Rate"
+  },
+  {
+    "code": "map-play-hp%-mp%",
+    "name": "map-play-hp%-mp%",
+    "stat1": "Players have +X-X% Increase Maximum Life",
+    "stat2": "Players have +X-X% Increase Maximum Mana"
+  },
+  {
+    "code": "map-play-speed-all",
+    "name": "map-play-speed-all",
+    "stat1": "Players have +X-X% Increased Attack Speed",
+    "stat2": "Players have +X-X% Faster Cast Rate",
+    "stat3": "Players have +X-X% to Velocity"
+  },
+  {
+    "code": "map-play-mag",
+    "name": "map_play_magicbonus",
+    "stat1": "Magic Find: X%"
+  },
+  {
+    "code": "map-play-gold",
+    "name": "map_play_goldbonus",
+    "stat1": "Gold Find: X%"
+  }
+]

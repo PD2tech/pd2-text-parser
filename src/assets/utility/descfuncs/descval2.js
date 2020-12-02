@@ -1,6 +1,7 @@
 import allStrings from "../json/allStrings.json";
 // descfuncs for descval === 2
 // descfunc values: 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 20
+// ignore 18 - used for bytime stats that aren't used in game
 
 const descFuncs = {
   descfunc1: (
@@ -106,6 +107,7 @@ const descFuncs = {
       ? `${string} +${min}-${newMax}% ${string2}`
       : `${string} +${min}-${newMin}% ${string2}`;
   },
+  // might need a condition for min being a negative number to have remove the "+"
   descfunc8: (
     string,
     string2,
@@ -179,8 +181,8 @@ export const descval2 = (itemStatObj) => {
   if (descstr2) {
     string2 = allStrings.find((str) => str.id === descstr2).str;
   }
-  if (descfunc === undefined) {
-    debugger;
+  if (descfunc === undefined || descfunc === "18") {
+    return;
   }
   const handler = descFuncs[`descfunc${descfunc}`];
   return handler(string, string2, Stat);

@@ -1,6 +1,7 @@
 import allStrings from "../json/allStrings.json";
 // descfuncs for descval === 1
 // descfunc values: 1, 2, 3, 4, 6, 7, 8, 13, 20, 22, 23
+// ignore 17 & 18 - used for bytime stats that aren't used in game
 
 const descFuncs = {
   descfunc1: (
@@ -122,7 +123,7 @@ const descFuncs = {
     max = "X",
     skill = "<Skill>"
   ) => {
-    return min !== max ? `+${min}-${max} ${string}` : `+${min} ${string}`;
+    return min !== max ? `+${min}-${max} ${string2}` : `+${min} ${string2}`;
   },
   descfunc20: (
     string,
@@ -159,12 +160,57 @@ const descFuncs = {
   },
 };
 
-export const descval1 = (itemStatObj) => {
+const classDifferentiator = [
+  {
+    name: "ama",
+    id: "ModStr3a",
+  },
+  {
+    name: "pal",
+    id: "ModStr3b",
+  },
+  {
+    name: "nec",
+    id: "ModStr3c",
+  },
+  {
+    name: "sor",
+    id: "ModStr3d",
+  },
+  {
+    name: "bar",
+    id: "ModStr3e",
+  },
+  {
+    name: "dru",
+    id: "ModStre8a",
+  },
+  {
+    name: "ass",
+    id: "ModStre8b",
+  },
+];
+
+export const descval1 = (itemStatObj, propCode) => {
   const { Stat, descfunc, descstrpos, descpriority, descstr2 } = itemStatObj;
   const string = allStrings.find((str) => str.id === descstrpos).str;
   let string2 = "";
+  // not all stats have a secondary string
   if (descstr2) {
     string2 = allStrings.find((str) => str.id === descstr2).str;
+  }
+  // specific for handling +all skills to character class
+  if (descfunc === "13") {
+    const getClass = classDifferentiator.find((obj) => obj.name === propCode);
+    if (getClass !== undefined) {
+      string2 = allStrings.find((str) => str.id === getClass.id).str;
+    } else {
+      string2 = "to <RandomClass> Skills";
+    }
+  }
+  // ignored
+  if (descfunc === undefined || descfunc === "17" || descfunc === "18") {
+    return;
   }
   const handler = descFuncs[`descfunc${descfunc}`];
   return handler(string, string2, Stat);
