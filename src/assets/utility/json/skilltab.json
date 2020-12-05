@@ -1,74 +1,86 @@
 [
   {
-    "skill": "Bow and Crossbow",
-    "Id": "0"
+    "name": "Bow and Crossbow",
+    "id": "0"
   },
   {
-    "skill": "Passive and Magic",
-    "Id": "1"
+    "name": "Passive and Magic",
+    "id": "1"
   },
   {
-    "skill": "Javelin and Spear",
-    "Id": "2"
+    "name": "Javelin and Spear",
+    "id": "2"
   },
   {
-    "skill": "Curses",
-    "Id": "6"
+    "name": "Fire",
+    "id": "3"
   },
   {
-    "skill": "Poison and Bone",
-    "Id": "7"
+    "name": "Cold",
+    "id": "4"
   },
   {
-    "skill": "Summoning Necro",
-    "Id": "8"
+    "name": "Lightning",
+    "id": "5"
   },
   {
-    "skill": "Pal Combat Skills",
-    "Id": "9"
+    "name": "Curses",
+    "id": "6"
   },
   {
-    "skill": "Defensive Auras",
-    "Id": "10"
+    "name": "Poison and Bone",
+    "id": "7"
   },
   {
-    "skill": "Offensive Auras",
-    "Id": "11"
+    "name": "Summoning",
+    "id": "8"
   },
   {
-    "skill": "Bar Combat Skills",
-    "Id": "12"
+    "name": "Combat",
+    "id": "9"
   },
   {
-    "skill": "Combat Masteries",
-    "Id": "13"
+    "name": "Defensive Auras",
+    "id": "10"
   },
   {
-    "skill": "Warcries",
-    "Id": "14"
+    "name": "Offensive Auras",
+    "id": "11"
   },
   {
-    "skill": "Summoning Druid",
-    "Id": "15"
+    "name": "Combat",
+    "id": "12"
   },
   {
-    "skill": "Shape Shifting",
-    "Id": "16"
+    "name": "Combat Masteries",
+    "id": "13"
   },
   {
-    "skill": "Elemental Skills",
-    "Id": "17"
+    "name": "Warcries",
+    "id": "14"
   },
   {
-    "skill": "Traps",
-    "Id": "18"
+    "name": "Summoning Druid",
+    "id": "15"
   },
   {
-    "skill": "Shadow Disciplines",
-    "Id": "19"
+    "name": "Shape Shifting",
+    "id": "16"
   },
   {
-    "skill": "Martial Arts",
-    "Id": "20"
+    "name": "Elemental",
+    "id": "17"
+  },
+  {
+    "name": "Traps",
+    "id": "18"
+  },
+  {
+    "name": "Shadow Disciplines",
+    "id": "19"
+  },
+  {
+    "name": "Martial Arts",
+    "id": "20"
   }
 ]

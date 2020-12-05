@@ -3,21 +3,17 @@
 // item_singleskill
 // skill-rand, skill
 
-// item_addclassskills (ass, dru, bar, ama, pal, sor, nec
-// ama ModStr3a
-// pal ModStr3b
-// nec ModStr3c
-// sor ModStr3d
-// bar ModStr3e
-// dru ModStre8a
-// ass ModStre8b
-// randclassskill3, randclassskill2, randclassskill1
+// res-all
+// stat 1,2,3,4
 
 export const isMissingData = (val) => {
   if (
+    // first 4 have no stat1
     val === "dmg-min" ||
     val === "dmg-max" ||
     val === "dmg%" ||
+    val === "sock" ||
+    // have multiple stat#
     val === "res-all" ||
     val === "res-all-max" ||
     val === "dmg-fire" ||
@@ -26,7 +22,8 @@ export const isMissingData = (val) => {
     val === "dmg-cold" ||
     val === "dmg-pois" ||
     val === "dmg-norm" ||
-    val === "dmg-elem"
+    val === "dmg-elem" ||
+    val === "all-stats"
   ) {
     return true;
   } else {

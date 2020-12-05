@@ -8,9 +8,9 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     return min !== max ? `${string} +${min}-${max}` : `${string} +${min}`;
   },
@@ -18,9 +18,9 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     return min !== max ? `${string} ${min}-${max}%` : `${string} ${min}%`;
   },
@@ -28,9 +28,9 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     return min !== max ? `${string} ${min}-${max}` : `${string} ${min}`;
   },
@@ -38,9 +38,9 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     if (min > 0) {
       return min !== max ? `${string} +${min}-${max}%` : `${string} +${min}%`;
@@ -52,9 +52,9 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     return min !== max ? `${string} ${min}-${max}%` : `${string} ${min}%`;
   },
@@ -62,12 +62,12 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
-    let newMax = max;
     let newMin = min;
+    let newMax = max;
     if (typeof newMax === "number") {
       console.log("finish descfunc6 in descval1");
       newMax = Math.round(newMax * 100);
@@ -89,12 +89,12 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
-    let newMax = max;
     let newMin = min;
+    let newMax = max;
     if (typeof newMax === "number") {
       console.log("finish descfunc7 in descval2");
       newMax = Math.round(newMax * 100);
@@ -112,12 +112,12 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
-    let newMax = max;
     let newMin = min;
+    let newMax = max;
     if (typeof newMax === "number") {
       console.log("finish descfunc8 in descval2");
       newMax = Math.round(newMax * 100);
@@ -134,12 +134,12 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
-    let newMax = max;
     let newMin = min;
+    let newMax = max;
     if (typeof newMax === "number") {
       console.log("finish descfunc7 in descval2");
       newMax = Math.round(newMax * 100);
@@ -156,9 +156,9 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     return min !== max ? `${string} +${min}-${max}` : `${string} +${min}`;
   },
@@ -166,16 +166,16 @@ const descFuncs = {
     string,
     string2,
     Stat,
-    min = "X",
-    max = "X",
-    skill = "<Skill>"
+    min = "{X}",
+    max = "{X}",
+    skill = "{Skill}"
   ) => {
     return min !== max ? `${string} -${min}-${max}%` : `${string} -${min}%`;
   },
 };
 
-export const descval2 = (itemStatObj) => {
-  const { Stat, descfunc, descstrpos, descpriority, descstr2 } = itemStatObj;
+export const descval2 = (itemStatObj, propCode, par, min, max) => {
+  const { Stat, descfunc, descstrpos, descstr2 } = itemStatObj;
   const string = allStrings.find((str) => str.id === descstrpos).str;
   let string2 = "";
   if (descstr2) {

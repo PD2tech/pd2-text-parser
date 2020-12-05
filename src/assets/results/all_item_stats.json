@@ -1,1472 +1,3282 @@
 [
   {
     "code": "ac",
-    "name": "armorclass",
-    "stat1": "+X Defense"
+    "stat1": "+{X} Defense",
+    "displayName": "+{X} Defense"
   },
   {
     "code": "ac-miss",
-    "name": "armorclass_vs_missile",
-    "stat1": "+X Defense vs. Missile"
+    "stat1": "+{X} Defense vs. Missile",
+    "displayName": "+{X} Defense vs. Missile"
   },
   {
     "code": "ac-hth",
-    "name": "armorclass_vs_hth",
-    "stat1": "+X Defense vs. Melee"
+    "stat1": "+{X} Defense vs. Melee",
+    "displayName": "+{X} Defense vs. Melee"
   },
   {
     "code": "red-dmg",
-    "name": "normal_damage_reduction",
-    "stat1": "Physical Damage Taken Reduced by X"
+    "stat1": "Physical Damage Taken Reduced by {X}",
+    "displayName": "Physical Damage Taken Reduced by {X}"
   },
   {
     "code": "red-dmg%",
-    "name": "damageresist",
-    "stat1": "Physical Damage Taken Reduced by X%"
+    "stat1": "Physical Damage Taken Reduced by {X}%",
+    "displayName": "Physical Damage Taken Reduced by {X}%"
   },
   {
     "code": "ac%",
-    "name": "item_armor_percent",
-    "stat1": "+X% Enhanced Defense"
+    "stat1": "+{X}% Enhanced Defense",
+    "displayName": "+{X}% Enhanced Defense"
   },
   {
     "code": "red-mag",
-    "name": "magic_damage_reduction",
-    "stat1": "Magic Damage Taken Reduced by X"
+    "stat1": "Magic Damage Taken Reduced by {X}",
+    "displayName": "Magic Damage Taken Reduced by {X}"
   },
   {
     "code": "str",
-    "name": "strength",
-    "stat1": "+X to Strength"
+    "stat1": "+{X} to Strength",
+    "displayName": "+{X} to Strength"
   },
   {
     "code": "dex",
-    "name": "dexterity",
-    "stat1": "+X to Dexterity"
+    "stat1": "+{X} to Dexterity",
+    "displayName": "+{X} to Dexterity"
   },
   {
     "code": "vit",
-    "name": "vitality",
-    "stat1": "+X to Vitality"
+    "stat1": "+{X} to Vitality",
+    "displayName": "+{X} to Vitality"
   },
   {
     "code": "enr",
-    "name": "energy",
-    "stat1": "+X to Energy"
+    "stat1": "+{X} to Energy",
+    "displayName": "+{X} to Energy"
   },
   {
     "code": "mana",
-    "name": "maxmana",
-    "stat1": "+X to Mana"
+    "stat1": "+{X} to Mana",
+    "displayName": "+{X} to Mana"
   },
   {
     "code": "mana%",
-    "name": "item_maxmana_percent",
-    "stat1": "Increase Maximum Mana X%"
+    "stat1": "Increase Maximum Mana {X}%",
+    "displayName": "Increase Maximum Mana {X}%"
   },
   {
     "code": "hp",
-    "name": "maxhp",
-    "stat1": "+X to Life"
+    "stat1": "+{X} to Life",
+    "displayName": "+{X} to Life"
   },
   {
     "code": "hp%",
-    "name": "item_maxhp_percent",
-    "stat1": "Increase Maximum Life X%"
+    "stat1": "Increase Maximum Life {X}%",
+    "displayName": "Increase Maximum Life {X}%"
   },
   {
     "code": "att",
-    "name": "tohit",
-    "stat1": "+X to Attack Rating"
+    "stat1": "+{X} to Attack Rating",
+    "displayName": "+{X} to Attack Rating"
   },
   {
     "code": "block",
-    "name": "toblock",
-    "stat1": "X% Increased Chance of Blocking"
+    "stat1": "{X}% Increased Chance of Blocking",
+    "displayName": "{X}% Increased Chance of Blocking"
+  },
+  {
+    "code": "sock",
+    "stat1": "Socketed ({X})",
+    "displayName": "Socketed ({X})"
   },
   {
     "code": "cold-min",
-    "name": "coldmindam",
-    "stat1": "+X to Minimum Cold Damage"
+    "stat1": "+{X} to Minimum Cold Damage",
+    "displayName": "+{X} to Minimum Cold Damage"
   },
   {
     "code": "cold-max",
-    "name": "coldmaxdam",
-    "stat1": "+X to Maximum Cold Damage"
+    "stat1": "+{X} to Maximum Cold Damage",
+    "displayName": "+{X} to Maximum Cold Damage"
   },
   {
     "code": "fire-min",
-    "name": "firemindam",
-    "stat1": "+X to Minimum Fire Damage"
+    "stat1": "+{X} to Minimum Fire Damage",
+    "displayName": "+{X} to Minimum Fire Damage"
   },
   {
     "code": "fire-max",
-    "name": "firemaxdam",
-    "stat1": "+X to Maximum Fire Damage"
+    "stat1": "+{X} to Maximum Fire Damage",
+    "displayName": "+{X} to Maximum Fire Damage"
   },
   {
     "code": "ltng-min",
-    "name": "lightmindam",
-    "stat1": "+X to Minimum Lightning Damage"
+    "stat1": "+{X} to Minimum Lightning Damage",
+    "displayName": "+{X} to Minimum Lightning Damage"
   },
   {
     "code": "ltng-max",
-    "name": "lightmaxdam",
-    "stat1": "+X to Maximum Lightning Damage"
+    "stat1": "+{X} to Maximum Lightning Damage",
+    "displayName": "+{X} to Maximum Lightning Damage"
   },
   {
     "code": "pois-min",
-    "name": "poisonmindam",
-    "stat1": "+X to Minimum Poison Damage"
+    "stat1": "+{X} to Minimum Poison Damage",
+    "displayName": "+{X} to Minimum Poison Damage"
   },
   {
     "code": "pois-max",
-    "name": "poisonmaxdam",
-    "stat1": "+X to Maximum Poison Damage"
+    "stat1": "+{X} to Maximum Poison Damage",
+    "displayName": "+{X} to Maximum Poison Damage"
   },
   {
     "code": "dmg-min",
-    "stat1": "+X to Minimum Damage",
-    "name": "dmg-min"
+    "stat1": "+{X} to Minimum Damage",
+    "displayName": "+{X} to Minimum Damage"
   },
   {
     "code": "dmg-max",
-    "stat1": "+X to Maximum Damage",
-    "name": "dmg-max"
+    "stat1": "+{X} to Maximum Damage",
+    "displayName": "+{X} to Maximum Damage"
   },
   {
     "code": "dmg%",
-    "stat1": "+X% Enhanced Damage",
-    "name": "dmg%"
+    "stat1": "+{X}% Enhanced Damage",
+    "displayName": "+{X}% Enhanced Damage"
   },
   {
     "code": "dmg-to-mana",
-    "name": "item_damagetomana",
-    "stat1": "X% Damage Taken Gained as Mana when Hit"
+    "stat1": "{X}% Damage Taken Gained as Mana when Hit",
+    "displayName": "{X}% Damage Taken Gained as Mana when Hit"
   },
   {
     "code": "res-fire",
-    "name": "fireresist",
-    "stat1": "Fire Resist X%"
+    "stat1": "Fire Resist {X}%",
+    "displayName": "Fire Resist {X}%"
   },
   {
     "code": "res-fire-max",
-    "name": "maxfireresist",
-    "stat1": "+X% to Maximum Fire Resist"
+    "stat1": "+{X}% to Maximum Fire Resist",
+    "displayName": "+{X}% to Maximum Fire Resist"
   },
   {
     "code": "res-ltng",
-    "name": "lightresist",
-    "stat1": "Lightning Resist X%"
+    "stat1": "Lightning Resist {X}%",
+    "displayName": "Lightning Resist {X}%"
   },
   {
     "code": "res-ltng-max",
-    "name": "maxlightresist",
-    "stat1": "+X% to Maximum Lightning Resist"
+    "stat1": "+{X}% to Maximum Lightning Resist",
+    "displayName": "+{X}% to Maximum Lightning Resist"
   },
   {
     "code": "res-cold",
-    "name": "coldresist",
-    "stat1": "Cold Resist X%"
+    "stat1": "Cold Resist {X}%",
+    "displayName": "Cold Resist {X}%"
   },
   {
     "code": "res-cold-max",
-    "name": "maxcoldresist",
-    "stat1": "+X% to Maximum Cold Resist"
+    "stat1": "+{X}% to Maximum Cold Resist",
+    "displayName": "+{X}% to Maximum Cold Resist"
   },
   {
     "code": "res-mag",
-    "name": "magicresist",
-    "stat1": "Magic Resist X%"
+    "stat1": "Magic Resist {X}%",
+    "displayName": "Magic Resist {X}%"
   },
   {
     "code": "res-mag-max",
-    "name": "maxmagicresist",
-    "stat1": "+X% to Maximum Magic Resist"
+    "stat1": "+{X}% to Maximum Magic Resist",
+    "displayName": "+{X}% to Maximum Magic Resist"
   },
   {
     "code": "res-pois",
-    "name": "poisonresist",
-    "stat1": "Poison Resist X%"
+    "stat1": "Poison Resist {X}%",
+    "displayName": "Poison Resist {X}%"
   },
   {
     "code": "res-pois-max",
-    "name": "maxpoisonresist",
-    "stat1": "+X% to Maximum Poison Resist"
+    "stat1": "+{X}% to Maximum Poison Resist",
+    "displayName": "+{X}% to Maximum Poison Resist"
   },
   {
     "code": "res-all",
-    "name": "res-all",
-    "stat1": "Fire Resist X%",
-    "stat2": "Lightning Resist X%",
-    "stat3": "Cold Resist X%",
-    "stat4": "Poison Resist X%"
+    "stat1": "Fire Resist {X}%",
+    "stat2": "Lightning Resist {X}%",
+    "stat3": "Cold Resist {X}%",
+    "stat4": "Poison Resist {X}%",
+    "displayName": "All Resistances +{X}"
   },
   {
     "code": "res-all-max",
-    "name": "res-all-max",
-    "stat1": "+X% to Maximum Fire Resist",
-    "stat2": "+X% to Maximum Lightning Resist",
-    "stat3": "+X% to Maximum Cold Resist",
-    "stat4": "+X% to Maximum Poison Resist"
+    "stat1": "+{X}% to Maximum Fire Resist",
+    "stat2": "+{X}% to Maximum Lightning Resist",
+    "stat3": "+{X}% to Maximum Cold Resist",
+    "stat4": "+{X}% to Maximum Poison Resist",
+    "displayName": "All Maximum Resistances +{X}"
   },
   {
     "code": "abs-fire%",
-    "name": "item_absorbfire_percent",
-    "stat1": "Fire Absorb X%"
+    "stat1": "Fire Absorb {X}%",
+    "displayName": "Fire Absorb {X}%"
   },
   {
     "code": "abs-fire",
-    "name": "item_absorbfire",
-    "stat1": "+X Fire Absorb"
+    "stat1": "+{X} Fire Absorb",
+    "displayName": "+{X} Fire Absorb"
   },
   {
     "code": "abs-ltng%",
-    "name": "item_absorblight_percent",
-    "stat1": "Lightning Absorb X%"
+    "stat1": "Lightning Absorb {X}%",
+    "displayName": "Lightning Absorb {X}%"
   },
   {
     "code": "abs-ltng",
-    "name": "item_absorblight",
-    "stat1": "+X Lightning Absorb"
+    "stat1": "+{X} Lightning Absorb",
+    "displayName": "+{X} Lightning Absorb"
   },
   {
     "code": "abs-mag%",
-    "name": "item_absorbmagic_percent",
-    "stat1": "Magic Absorb X%"
+    "stat1": "Magic Absorb {X}%",
+    "displayName": "Magic Absorb {X}%"
   },
   {
     "code": "abs-mag",
-    "name": "item_absorbmagic",
-    "stat1": "+X Magic Absorb"
+    "stat1": "+{X} Magic Absorb",
+    "displayName": "+{X} Magic Absorb"
   },
   {
     "code": "abs-cold%",
-    "name": "item_absorbcold_percent",
-    "stat1": "Cold Absorb X%"
+    "stat1": "Cold Absorb {X}%",
+    "displayName": "Cold Absorb {X}%"
   },
   {
     "code": "abs-cold",
-    "name": "item_absorbcold",
-    "stat1": "+X Cold Absorb"
+    "stat1": "+{X} Cold Absorb",
+    "displayName": "+{X} Cold Absorb"
   },
   {
     "code": "dur%",
-    "name": "item_maxdurability_percent",
-    "stat1": "Increase Maximum Durability X%"
+    "stat1": "Increase Maximum Durability {X}%",
+    "displayName": "Increase Maximum Durability {X}%"
   },
   {
     "code": "regen",
-    "name": "hpregen",
-    "stat1": "Replenish Life +X"
+    "stat1": "Replenish Life +{X}",
+    "displayName": "Replenish Life +{X}"
   },
   {
     "code": "thorns",
-    "name": "item_attackertakesdamage",
-    "stat1": "Attacker Takes Damage of X"
+    "stat1": "Attacker Takes Damage of {X}",
+    "displayName": "Attacker Takes Damage of {X}"
   },
   {
     "code": "swing1",
-    "name": "item_fasterattackrate",
-    "stat1": "+X% Increased Attack Speed"
+    "stat1": "+{X}% Increased Attack Speed",
+    "displayName": "+{X}% Increased Attack Speed"
   },
   {
     "code": "swing2",
-    "name": "item_fasterattackrate",
-    "stat1": "+X% Increased Attack Speed"
+    "stat1": "+{X}% Increased Attack Speed",
+    "displayName": "+{X}% Increased Attack Speed"
   },
   {
     "code": "swing3",
-    "name": "item_fasterattackrate",
-    "stat1": "+X% Increased Attack Speed"
+    "stat1": "+{X}% Increased Attack Speed",
+    "displayName": "+{X}% Increased Attack Speed"
   },
   {
     "code": "gold%",
-    "name": "item_goldbonus",
-    "stat1": "X% Extra Gold from Monsters"
+    "stat1": "{X}% Extra Gold from Monsters",
+    "displayName": "{X}% Extra Gold from Monsters"
   },
   {
     "code": "mag%",
-    "name": "item_magicbonus",
-    "stat1": "X% Better Chance of Getting Magic Items"
+    "stat1": "{X}% Better Chance of Getting Magic Items",
+    "displayName": "{X}% Better Chance of Getting Magic Items"
   },
   {
     "code": "knock",
-    "name": "item_knockback",
-    "stat1": "Knockback"
+    "stat1": "Knockback",
+    "displayName": "Knockback"
   },
   {
     "code": "regen-stam",
-    "name": "staminarecoverybonus",
-    "stat1": "Heal Stamina Plus X%"
+    "stat1": "Heal Stamina Plus {X}%",
+    "displayName": "Heal Stamina Plus {X}%"
   },
   {
     "code": "regen-mana",
-    "name": "manarecoverybonus",
-    "stat1": "Regenerate Mana X%"
+    "stat1": "Regenerate Mana {X}%",
+    "displayName": "Regenerate Mana {X}%"
   },
   {
     "code": "stam",
-    "name": "maxstamina",
-    "stat1": "+X Maximum Stamina"
+    "stat1": "+{X} Maximum Stamina",
+    "displayName": "+{X} Maximum Stamina"
   },
   {
     "code": "manasteal",
-    "name": "manadrainmindam",
-    "stat1": "X% Mana stolen per hit"
+    "stat1": "{X}% Mana stolen per hit",
+    "displayName": "{X}% Mana stolen per hit"
   },
   {
     "code": "lifesteal",
-    "name": "lifedrainmindam",
-    "stat1": "X% Life stolen per hit"
+    "stat1": "{X}% Life stolen per hit",
+    "displayName": "{X}% Life stolen per hit"
   },
   {
     "code": "ama",
-    "name": "item_addclassskills",
-    "stat1": "+X to Amazon Skill Levels"
+    "stat1": "+{X} to Amazon Skill Levels",
+    "displayName": "+{X} to Amazon Skill Levels"
   },
   {
     "code": "pal",
-    "name": "item_addclassskills",
-    "stat1": "+X to Paladin Skill Levels"
+    "stat1": "+{X} to Paladin Skill Levels",
+    "displayName": "+{X} to Paladin Skill Levels"
   },
   {
     "code": "nec",
-    "name": "item_addclassskills",
-    "stat1": "+X to Necromancer Skill Levels"
+    "stat1": "+{X} to Necromancer Skill Levels",
+    "displayName": "+{X} to Necromancer Skill Levels"
   },
   {
     "code": "sor",
-    "name": "item_addclassskills",
-    "stat1": "+X to Sorceress Skill Levels"
+    "stat1": "+{X} to Sorceress Skill Levels",
+    "displayName": "+{X} to Sorceress Skill Levels"
   },
   {
     "code": "bar",
-    "name": "item_addclassskills",
-    "stat1": "+X to Barbarian Skill Levels"
+    "stat1": "+{X} to Barbarian Skill Levels",
+    "displayName": "+{X} to Barbarian Skill Levels"
   },
   {
     "code": "light",
-    "name": "item_lightradius",
-    "stat1": "+X to Light Radius"
+    "stat1": "+{X} to Light Radius",
+    "displayName": "+{X} to Light Radius"
   },
   {
     "code": "ease",
-    "name": "item_req_percent",
-    "stat1": "Requirements X%"
+    "stat1": "Requirements {X}%",
+    "displayName": "Requirements {X}%"
   },
   {
     "code": "move1",
-    "name": "item_fastermovevelocity",
-    "stat1": "+X% Faster Run/Walk"
+    "stat1": "+{X}% Faster Run/Walk",
+    "displayName": "+{X}% Faster Run/Walk"
   },
   {
     "code": "move2",
-    "name": "item_fastermovevelocity",
-    "stat1": "+X% Faster Run/Walk"
+    "stat1": "+{X}% Faster Run/Walk",
+    "displayName": "+{X}% Faster Run/Walk"
   },
   {
     "code": "move3",
-    "name": "item_fastermovevelocity",
-    "stat1": "+X% Faster Run/Walk"
+    "stat1": "+{X}% Faster Run/Walk",
+    "displayName": "+{X}% Faster Run/Walk"
   },
   {
     "code": "balance1",
-    "name": "item_fastergethitrate",
-    "stat1": "+X% Faster Hit Recovery"
+    "stat1": "+{X}% Faster Hit Recovery",
+    "displayName": "+{X}% Faster Hit Recovery"
   },
   {
     "code": "balance2",
-    "name": "item_fastergethitrate",
-    "stat1": "+X% Faster Hit Recovery"
+    "stat1": "+{X}% Faster Hit Recovery",
+    "displayName": "+{X}% Faster Hit Recovery"
   },
   {
     "code": "balance3",
-    "name": "item_fastergethitrate",
-    "stat1": "+X% Faster Hit Recovery"
+    "stat1": "+{X}% Faster Hit Recovery",
+    "displayName": "+{X}% Faster Hit Recovery"
   },
   {
     "code": "block1",
-    "name": "item_fasterblockrate",
-    "stat1": "+X% Faster Block Rate"
+    "stat1": "+{X}% Faster Block Rate",
+    "displayName": "+{X}% Faster Block Rate"
   },
   {
     "code": "block2",
-    "name": "item_fasterblockrate",
-    "stat1": "+X% Faster Block Rate"
+    "stat1": "+{X}% Faster Block Rate",
+    "displayName": "+{X}% Faster Block Rate"
   },
   {
     "code": "block3",
-    "name": "item_fasterblockrate",
-    "stat1": "+X% Faster Block Rate"
+    "stat1": "+{X}% Faster Block Rate",
+    "displayName": "+{X}% Faster Block Rate"
   },
   {
     "code": "cast1",
-    "name": "item_fastercastrate",
-    "stat1": "+X% Faster Cast Rate"
+    "stat1": "+{X}% Faster Cast Rate",
+    "displayName": "+{X}% Faster Cast Rate"
   },
   {
     "code": "cast2",
-    "name": "item_fastercastrate",
-    "stat1": "+X% Faster Cast Rate"
+    "stat1": "+{X}% Faster Cast Rate",
+    "displayName": "+{X}% Faster Cast Rate"
   },
   {
     "code": "cast3",
-    "name": "item_fastercastrate",
-    "stat1": "+X% Faster Cast Rate"
+    "stat1": "+{X}% Faster Cast Rate",
+    "displayName": "+{X}% Faster Cast Rate"
   },
   {
     "code": "res-pois-len",
-    "name": "item_poisonlengthresist",
-    "stat1": "Poison Length Reduced by X%"
+    "stat1": "Poison Length Reduced by {X}%",
+    "displayName": "Poison Length Reduced by {X}%"
   },
   {
     "code": "dmg",
-    "name": "item_normaldamage",
-    "stat1": "Damage +X"
+    "stat1": "Damage +{X}",
+    "displayName": "Damage +{X}"
   },
   {
     "code": "howl",
-    "name": "item_howl",
-    "stat1": "Hit Causes Monster to Flee X%"
+    "stat1": "Hit Causes Monster to Flee {X}%",
+    "displayName": "Hit Causes Monster to Flee {X}%"
   },
   {
     "code": "stupidity",
-    "name": "item_stupidity",
-    "stat1": "Hit Blinds Target +X"
+    "stat1": "Hit Blinds Target +{X}",
+    "displayName": "Hit Blinds Target +{X}"
   },
   {
     "code": "ignore-ac",
-    "name": "item_ignoretargetac",
-    "stat1": "Ignore Target's Defense"
+    "stat1": "Ignore Target's Defense",
+    "displayName": "Ignore Target's Defense"
   },
   {
     "code": "reduce-ac",
-    "name": "item_fractionaltargetac",
-    "stat1": "-X% Target Defense"
+    "stat1": "-{X}% Target Defense",
+    "displayName": "-{X}% Target Defense"
   },
   {
     "code": "noheal",
-    "name": "item_preventheal",
-    "stat1": "Prevent Monster Heal"
+    "stat1": "Prevent Monster Heal",
+    "displayName": "Prevent Monster Heal"
   },
   {
     "code": "half-freeze",
-    "name": "item_halffreezeduration",
-    "stat1": "Half Freeze Duration"
+    "stat1": "Half Freeze Duration",
+    "displayName": "Half Freeze Duration"
   },
   {
     "code": "att%",
-    "name": "item_tohit_percent",
-    "stat1": "X% Bonus to Attack Rating"
+    "stat1": "{X}% Bonus to Attack Rating",
+    "displayName": "{X}% Bonus to Attack Rating"
   },
   {
     "code": "dmg-ac",
-    "name": "item_damagetargetac",
-    "stat1": "+X to Monster Defense Per Hit"
+    "stat1": "+{X} to Monster Defense Per Hit",
+    "displayName": "+{X} to Monster Defense Per Hit"
   },
   {
     "code": "dmg-demon",
-    "name": "item_demondamage_percent",
-    "stat1": "+X% Damage to Demons"
+    "stat1": "+{X}% Damage to Demons",
+    "displayName": "+{X}% Damage to Demons"
   },
   {
     "code": "dmg-undead",
-    "name": "item_undeaddamage_percent",
-    "stat1": "+X% Damage to Undead"
+    "stat1": "+{X}% Damage to Undead",
+    "displayName": "+{X}% Damage to Undead"
   },
   {
     "code": "att-demon",
-    "name": "item_demon_tohit",
-    "stat1": "+X to Attack Rating against Demons"
+    "stat1": "+{X} to Attack Rating against Demons",
+    "displayName": "+{X} to Attack Rating against Demons"
   },
   {
     "code": "att-undead",
-    "name": "item_undead_tohit",
-    "stat1": "+X to Attack Rating against Undead"
-  },
-  {
-    "code": "throw",
-    "name": "item_throwable",
-    "stat1": "Throwable"
+    "stat1": "+{X} to Attack Rating against Undead",
+    "displayName": "+{X} to Attack Rating against Undead"
   },
   {
     "code": "fireskill",
-    "name": "fireskill",
-    "stat1": "+X to Fire Skills"
+    "stat1": "+{X} to Fire Skills",
+    "displayName": "+{X} to Fire Skills"
   },
   {
     "code": "allskills",
-    "name": "item_allskills",
-    "stat1": "+X to All Skills"
+    "stat1": "+{X} to All Skills",
+    "displayName": "+{X} to All Skills"
   },
   {
     "code": "light-thorns",
-    "name": "item_attackertakeslightdamage",
-    "stat1": "Attacker Takes Lightning Damage of X"
+    "stat1": "Attacker Takes Lightning Damage of {X}",
+    "displayName": "Attacker Takes Lightning Damage of {X}"
   },
   {
     "code": "freeze",
-    "name": "item_freeze",
-    "stat1": "Freezes target +X"
+    "stat1": "Freezes target +{X}",
+    "displayName": "Freezes target +{X}"
   },
   {
     "code": "openwounds",
-    "name": "item_openwounds",
-    "stat1": "X% Chance of Open Wounds"
+    "stat1": "{X}% Chance of Open Wounds",
+    "displayName": "{X}% Chance of Open Wounds"
   },
   {
     "code": "crush",
-    "name": "item_crushingblow",
-    "stat1": "X% Chance of Crushing Blow"
+    "stat1": "{X}% Chance of Crushing Blow",
+    "displayName": "{X}% Chance of Crushing Blow"
   },
   {
     "code": "kick",
-    "name": "item_kickdamage",
-    "stat1": "+X Kick Damage"
+    "stat1": "+{X} Kick Damage",
+    "displayName": "+{X} Kick Damage"
   },
   {
     "code": "mana-kill",
-    "name": "item_manaafterkill",
-    "stat1": "+X to Mana after each Kill"
+    "stat1": "+{X} to Mana after each Kill",
+    "displayName": "+{X} to Mana after each Kill"
   },
   {
     "code": "demon-heal",
-    "name": "item_healafterdemonkill",
-    "stat1": "+X Life after each Demon Kill"
+    "stat1": "+{X} Life after each Demon Kill",
+    "displayName": "+{X} Life after each Demon Kill"
   },
   {
     "code": "deadly",
-    "name": "item_deadlystrike",
-    "stat1": "X% Deadly Strike"
+    "stat1": "{X}% Deadly Strike",
+    "displayName": "{X}% Deadly Strike"
   },
   {
     "code": "slow",
-    "name": "item_slow",
-    "stat1": "Slows Target by X%"
+    "stat1": "Slows Target by {X}%",
+    "displayName": "Slows Target by {X}%"
   },
   {
     "code": "nofreeze",
-    "name": "item_cannotbefrozen",
-    "stat1": "Cannot Be Frozen"
+    "stat1": "Cannot Be Frozen",
+    "displayName": "Cannot Be Frozen"
   },
   {
     "code": "stamdrain",
-    "name": "item_staminadrainpct",
-    "stat1": "X% Slower Stamina Drain"
+    "stat1": "{X}% Slower Stamina Drain",
+    "displayName": "{X}% Slower Stamina Drain"
   },
   {
     "code": "reanimate",
-    "name": "item_reanimate",
-    "stat1": "X% Reanimate as: <monster type>"
+    "stat1": "{X}% Reanimate as: <monster type>",
+    "displayName": "{X}% Reanimate as: <monster type>"
   },
   {
     "code": "pierce",
-    "name": "item_pierce",
-    "stat1": "+X% Chance to Pierce"
+    "stat1": "+{X}% Chance to Pierce",
+    "displayName": "+{X}% Chance to Pierce"
   },
   {
     "code": "magicarrow",
-    "name": "item_magicarrow",
-    "stat1": "Fires Magic Arrows"
+    "stat1": "Fires Magic Arrows",
+    "displayName": "Fires Magic Arrows"
   },
   {
     "code": "explosivearrow",
-    "name": "item_explosivearrow",
-    "stat1": "Fires Explosive Arrows or Bolts"
+    "stat1": "Fires Explosive Arrows or Bolts",
+    "displayName": "Fires Explosive Arrows or Bolts"
   },
   {
     "code": "dru",
-    "name": "item_addclassskills",
-    "stat1": "+X to Druid Skill Levels"
+    "stat1": "+{X} to Druid Skill Levels",
+    "displayName": "+{X} to Druid Skill Levels"
   },
   {
     "code": "ass",
-    "name": "item_addclassskills",
-    "stat1": "+X to Assassin Skill Levels"
-  },
-  {
-    "code": "skill",
-    "name": "item_singleskill",
-    "stat1": "+X to <Skill>"
-  },
-  {
-    "code": "skilltab",
-    "name": "item_addskill_tab",
-    "stat1": "+X to <SkillTree>"
-  },
-  {
-    "code": "aura",
-    "name": "item_aura",
-    "stat1": "Level X <Skill> Aura When Equipped"
-  },
-  {
-    "code": "att-skill",
-    "name": "item_skillonattack",
-    "stat1": "X% Chance to cast level X <Skill> on attack"
-  },
-  {
-    "code": "hit-skill",
-    "name": "item_skillonhit",
-    "stat1": "X% Chance to cast level X <Skill> on striking"
-  },
-  {
-    "code": "gethit-skill",
-    "name": "item_skillongethit",
-    "stat1": "X% Chance to cast level X <Skill> when struck"
+    "stat1": "+{X} to Assassin Skill Levels",
+    "displayName": "+{X} to Assassin Skill Levels"
   },
   {
     "code": "dmg-fire",
-    "name": "dmg-fire",
-    "stat1": "+X to Minimum Fire Damage",
-    "stat2": "+X to Maximum Fire Damage"
+    "stat1": "+{X} to Minimum Fire Damage",
+    "stat2": "+{Y} to Maximum Fire Damage",
+    "displayName": "Adds {X}-{Y} Fire Damage"
   },
   {
     "code": "dmg-ltng",
-    "name": "dmg-ltng",
-    "stat1": "+X to Minimum Lightning Damage",
-    "stat2": "+X to Maximum Lightning Damage"
+    "stat1": "+{X} to Minimum Lightning Damage",
+    "stat2": "+{Y} to Maximum Lightning Damage",
+    "displayName": "Adds {X}-{Y} Lightning Damage"
   },
   {
     "code": "dmg-mag",
-    "name": "dmg-mag",
-    "stat1": "+X +%d magic damage",
-    "stat2": "+X +%d magic damage"
+    "stat1": "+{X} to Minimum Magic Damage",
+    "stat2": "+{Y} to Maximum Magic Damage",
+    "displayName": "Adds {X}-{Y} Magic Damage"
   },
   {
     "code": "dmg-cold",
-    "name": "dmg-cold",
-    "stat1": "+X to Minimum Cold Damage",
-    "stat2": "+X to Maximum Cold Damage"
+    "stat1": "+{X} to Minimum Cold Damage",
+    "stat2": "+{Y} to Maximum Cold Damage",
+    "displayName": "Adds {X}-{Y} Cold Damage"
   },
   {
     "code": "dmg-pois",
-    "name": "dmg-pois",
-    "stat1": "+X to Minimum Poison Damage",
-    "stat2": "+X to Maximum Poison Damage"
+    "stat1": "+{X} to Minimum Poison Damage",
+    "stat2": "+{Y} to Maximum Poison Damage",
+    "displayName": "Adds {X}-{Y} Poison Damage"
   },
   {
     "code": "dmg-norm",
-    "name": "dmg-norm",
-    "stat1": "+X to Minimum Damage",
-    "stat2": "+X to Maximum Damage"
+    "stat1": "+{X} to Minimum Damage",
+    "stat2": "+{Y} to Maximum Damage",
+    "displayName": "Adds {X}-{Y} Damage"
   },
   {
     "code": "ac/lvl",
-    "name": "item_armor_perlevel",
-    "stat1": "+X-X Defense (Based on Character Level)"
+    "stat1": "+{X} Defense (Based on Character Level)",
+    "displayName": "+{X} Defense (Based on Character Level)"
   },
   {
     "code": "ac%/lvl",
-    "name": "item_armorpercent_perlevel",
-    "stat1": "+X-X% Enhanced Defense (Based on Character Level)"
+    "stat1": "+{X}% Enhanced Defense (Based on Character Level)",
+    "displayName": "+{X}% Enhanced Defense (Based on Character Level)"
   },
   {
     "code": "hp/lvl",
-    "name": "item_hp_perlevel",
-    "stat1": "+X-X to Life (Based on Character Level)"
+    "stat1": "+{X} to Life (Based on Character Level)",
+    "displayName": "+{X} to Life (Based on Character Level)"
   },
   {
     "code": "mana/lvl",
-    "name": "item_mana_perlevel",
-    "stat1": "+X-X to Mana (Based on Character Level)"
+    "stat1": "+{X} to Mana (Based on Character Level)",
+    "displayName": "+{X} to Mana (Based on Character Level)"
   },
   {
     "code": "dmg/lvl",
-    "name": "item_maxdamage_perlevel",
-    "stat1": "+X-X to Maximum Damage (Based on Character Level)"
+    "stat1": "+{X} to Maximum Damage (Based on Character Level)",
+    "displayName": "+{X} to Maximum Damage (Based on Character Level)"
   },
   {
     "code": "dmg%/lvl",
-    "name": "item_maxdamage_percent_perlevel",
-    "stat1": "+X-X% Enhanced Maximum Damage (Based on Character Level)"
+    "stat1": "+{X}% Enhanced Maximum Damage (Based on Character Level)",
+    "displayName": "+{X}% Enhanced Maximum Damage (Based on Character Level)"
   },
   {
     "code": "str/lvl",
-    "name": "item_strength_perlevel",
-    "stat1": "+X-X to Strength (Based on Character Level)"
+    "stat1": "+{X} to Strength (Based on Character Level)",
+    "displayName": "+{X} to Strength (Based on Character Level)"
   },
   {
     "code": "dex/lvl",
-    "name": "item_dexterity_perlevel",
-    "stat1": "+X-X to Dexterity (Based on Character Level)"
+    "stat1": "+{X} to Dexterity (Based on Character Level)",
+    "displayName": "+{X} to Dexterity (Based on Character Level)"
   },
   {
     "code": "enr/lvl",
-    "name": "item_energy_perlevel",
-    "stat1": "+X-X to Energy (Based on Character Level)"
+    "stat1": "+{X} to Energy (Based on Character Level)",
+    "displayName": "+{X} to Energy (Based on Character Level)"
   },
   {
     "code": "vit/lvl",
-    "name": "item_vitality_perlevel",
-    "stat1": "+X-X to Vitality (Based on Character Level)"
+    "stat1": "+{X} to Vitality (Based on Character Level)",
+    "displayName": "+{X} to Vitality (Based on Character Level)"
   },
   {
     "code": "att/lvl",
-    "name": "item_tohit_perlevel",
-    "stat1": "+X-X to Attack Rating (Based on Character Level)"
+    "stat1": "+{X} to Attack Rating (Based on Character Level)",
+    "displayName": "+{X} to Attack Rating (Based on Character Level)"
   },
   {
     "code": "att%/lvl",
-    "name": "item_tohitpercent_perlevel",
-    "stat1": "X-X% Bonus to Attack Rating (Based on Character Level)"
+    "stat1": "{X}% Bonus to Attack Rating (Based on Character Level)",
+    "displayName": "{X}% Bonus to Attack Rating (Based on Character Level)"
   },
   {
     "code": "dmg-cold/lvl",
-    "name": "item_cold_damagemax_perlevel",
-    "stat1": "+X-X to Maximum Cold Damage (Based on Character Level)"
+    "stat1": "+{X} to Maximum Cold Damage (Based on Character Level)",
+    "displayName": "+{X} to Maximum Cold Damage (Based on Character Level)"
   },
   {
     "code": "dmg-fire/lvl",
-    "name": "item_fire_damagemax_perlevel",
-    "stat1": "+X-X to Maximum Fire Damage (Based on Character Level)"
+    "stat1": "+{X} to Maximum Fire Damage (Based on Character Level)",
+    "displayName": "+{X} to Maximum Fire Damage (Based on Character Level)"
   },
   {
     "code": "dmg-ltng/lvl",
-    "name": "item_ltng_damagemax_perlevel",
-    "stat1": "+X-X to Maximum Lightning Damage (Based on Character Level)"
+    "stat1": "+{X} to Maximum Lightning Damage (Based on Character Level)",
+    "displayName": "+{X} to Maximum Lightning Damage (Based on Character Level)"
   },
   {
     "code": "dmg-pois/lvl",
-    "name": "item_pois_damagemax_perlevel",
-    "stat1": "+X-X to Maximum Poison Damage (Based on Character Level)"
+    "stat1": "+{X} to Maximum Poison Damage (Based on Character Level)",
+    "displayName": "+{X} to Maximum Poison Damage (Based on Character Level)"
   },
   {
     "code": "res-cold/lvl",
-    "name": "item_resist_cold_perlevel",
-    "stat1": "Cold Resist +X-X% (Based on Character Level)"
+    "stat1": "Cold Resist +{X}% (Based on Character Level)",
+    "displayName": "Cold Resist +{X}% (Based on Character Level)"
   },
   {
     "code": "res-fire/lvl",
-    "name": "item_resist_fire_perlevel",
-    "stat1": "Fire Resist +X-X% (Based on Character Level)"
+    "stat1": "Fire Resist +{X}% (Based on Character Level)",
+    "displayName": "Fire Resist +{X}% (Based on Character Level)"
   },
   {
     "code": "res-ltng/lvl",
-    "name": "item_resist_ltng_perlevel",
-    "stat1": "Lightning Resist +X-X% (Based on Character Level)"
+    "stat1": "Lightning Resist +{X}% (Based on Character Level)",
+    "displayName": "Lightning Resist +{X}% (Based on Character Level)"
   },
   {
     "code": "res-pois/lvl",
-    "name": "item_resist_pois_perlevel",
-    "stat1": "Poison Resist +X-X% (Based on Character Level)"
+    "stat1": "Poison Resist +{X}% (Based on Character Level)",
+    "displayName": "Poison Resist +{X}% (Based on Character Level)"
   },
   {
     "code": "abs-cold/lvl",
-    "name": "item_absorb_cold_perlevel",
-    "stat1": "+X-X Absorbs Cold Damage (Based on Character Level)"
+    "stat1": "+{X} Absorbs Cold Damage (Based on Character Level)",
+    "displayName": "+{X} Absorbs Cold Damage (Based on Character Level)"
   },
   {
     "code": "abs-fire/lvl",
-    "name": "item_absorb_fire_perlevel",
-    "stat1": "+X-X Absorbs Fire Damage (Based on Character Level)"
+    "stat1": "+{X} Absorbs Fire Damage (Based on Character Level)",
+    "displayName": "+{X} Absorbs Fire Damage (Based on Character Level)"
   },
   {
     "code": "abs-ltng/lvl",
-    "name": "item_absorb_ltng_perlevel",
-    "stat1": "+X-X Absorbs Lightning Damage (Based on Character Level)"
+    "stat1": "+{X} Absorbs Lightning Damage (Based on Character Level)",
+    "displayName": "+{X} Absorbs Lightning Damage (Based on Character Level)"
   },
   {
     "code": "thorns/lvl",
-    "name": "item_thorns_perlevel",
-    "stat1": "Attacker Takes Damage of +X-X (Based on Character Level)"
+    "stat1": "Attacker Takes Damage of +{X} (Based on Character Level)",
+    "displayName": "Attacker Takes Damage of +{X} (Based on Character Level)"
   },
   {
     "code": "gold%/lvl",
-    "name": "item_find_gold_perlevel",
-    "stat1": "X-X% Extra Gold from Monsters (Based on Character Level)"
+    "stat1": "{X}% Extra Gold from Monsters (Based on Character Level)",
+    "displayName": "{X}% Extra Gold from Monsters (Based on Character Level)"
   },
   {
     "code": "mag%/lvl",
-    "name": "item_find_magic_perlevel",
-    "stat1": "X-X% Better Chance of Getting Magic Items (Based on Character Level)"
+    "stat1": "{X}% Better Chance of Getting Magic Items (Based on Character Level)",
+    "displayName": "{X}% Better Chance of Getting Magic Items (Based on Character Level)"
   },
   {
     "code": "regen-stam/lvl",
-    "name": "item_regenstamina_perlevel",
-    "stat1": "Heal Stamina Plus +X-X% (Based on Character Level)"
+    "stat1": "Heal Stamina Plus +{X}% (Based on Character Level)",
+    "displayName": "Heal Stamina Plus +{X}% (Based on Character Level)"
   },
   {
     "code": "stam/lvl",
-    "name": "item_stamina_perlevel",
-    "stat1": "+X-X Maximum Stamina (Based on Character Level)"
+    "stat1": "+{X} Maximum Stamina (Based on Character Level)",
+    "displayName": "+{X} Maximum Stamina (Based on Character Level)"
   },
   {
     "code": "dmg-dem/lvl",
-    "name": "item_damage_demon_perlevel",
-    "stat1": "+X-X% Damage to Demons (Based on Character Level)"
+    "stat1": "+{X}% Damage to Demons (Based on Character Level)",
+    "displayName": "+{X}% Damage to Demons (Based on Character Level)"
   },
   {
     "code": "dmg-und/lvl",
-    "name": "item_damage_undead_perlevel",
-    "stat1": "+X-X% Damage to Undead (Based on Character Level)"
+    "stat1": "+{X}% Damage to Undead (Based on Character Level)",
+    "displayName": "+{X}% Damage to Undead (Based on Character Level)"
   },
   {
     "code": "att-dem/lvl",
-    "name": "item_tohit_demon_perlevel",
-    "stat1": "+X-X to Attack Rating against Demons (Based on Character Level)"
+    "stat1": "+{X} to Attack Rating against Demons (Based on Character Level)",
+    "displayName": "+{X} to Attack Rating against Demons (Based on Character Level)"
   },
   {
     "code": "att-und/lvl",
-    "name": "item_tohit_undead_perlevel",
-    "stat1": "+X-X to Attack Rating against Undead (Based on Character Level)"
+    "stat1": "+{X} to Attack Rating against Undead (Based on Character Level)",
+    "displayName": "+{X} to Attack Rating against Undead (Based on Character Level)"
   },
   {
     "code": "crush/lvl",
-    "name": "item_crushingblow_perlevel",
-    "stat1": "X-X% Chance of Crushing Blow (Based on Character Level)"
+    "stat1": "{X}% Chance of Crushing Blow (Based on Character Level)",
+    "displayName": "{X}% Chance of Crushing Blow (Based on Character Level)"
   },
   {
     "code": "wounds/lvl",
-    "name": "item_openwounds_perlevel",
-    "stat1": "X-X% Chance of Open Wounds (Based on Character Level)"
+    "stat1": "{X}% Chance of Open Wounds (Based on Character Level)",
+    "displayName": "{X}% Chance of Open Wounds (Based on Character Level)"
   },
   {
     "code": "kick/lvl",
-    "name": "item_kick_damage_perlevel",
-    "stat1": "+X-X Kick Damage (Based on Character Level)"
+    "stat1": "+{X} Kick Damage (Based on Character Level)",
+    "displayName": "+{X} Kick Damage (Based on Character Level)"
   },
   {
     "code": "deadly/lvl",
-    "name": "item_deadlystrike_perlevel",
-    "stat1": "X-X% Deadly Strike (Based on Character Level)"
+    "stat1": "{X}% Deadly Strike (Based on Character Level)",
+    "displayName": "{X}% Deadly Strike (Based on Character Level)"
   },
   {
     "code": "rep-dur",
-    "name": "item_replenish_durability",
-    "stat1": "Repairs Durability"
+    "stat1": "Repairs Durability",
+    "displayName": "Repairs Durability"
   },
   {
     "code": "rep-quant",
-    "name": "item_replenish_quantity",
-    "stat1": "Replenishes quantity"
+    "stat1": "Replenishes quantity",
+    "displayName": "Replenishes quantity"
   },
   {
     "code": "stack",
-    "name": "item_extra_stack",
-    "stat1": "Increased Stack Size"
+    "stat1": "Increased Stack Size",
+    "displayName": "Increased Stack Size"
   },
   {
     "code": "pierce-fire",
-    "name": "passive_fire_pierce",
-    "stat1": "-X% to Enemy Fire Resistance"
+    "stat1": "-{X}% to Enemy Fire Resistance",
+    "displayName": "-{X}% to Enemy Fire Resistance"
   },
   {
     "code": "pierce-ltng",
-    "name": "passive_ltng_pierce",
-    "stat1": "-X% to Enemy Lightning Resistance"
+    "stat1": "-{X}% to Enemy Lightning Resistance",
+    "displayName": "-{X}% to Enemy Lightning Resistance"
   },
   {
     "code": "pierce-cold",
-    "name": "passive_cold_pierce",
-    "stat1": "-X% to Enemy Cold Resistance"
+    "stat1": "-{X}% to Enemy Cold Resistance",
+    "displayName": "-{X}% to Enemy Cold Resistance"
   },
   {
     "code": "pierce-pois",
-    "name": "passive_pois_pierce",
-    "stat1": "-X% to Enemy Poison Resistance"
+    "stat1": "-{X}% to Enemy Poison Resistance",
+    "displayName": "-{X}% to Enemy Poison Resistance"
   },
   {
     "code": "charged",
-    "name": "item_charged_skill",
-    "stat1": "Level X <Skill> (X Charges)"
+    "stat1": "Level {X} {Skill} ({Y} Charges)",
+    "displayName": "Level {X} {Skill} ({Y} Charges)"
   },
   {
     "code": "extra-fire",
-    "name": "passive_fire_mastery",
-    "stat1": "+X% to Fire Skill Damage"
+    "stat1": "+{X}% to Fire Skill Damage",
+    "displayName": "+{X}% to Fire Skill Damage"
   },
   {
     "code": "extra-ltng",
-    "name": "passive_ltng_mastery",
-    "stat1": "+X% to Lightning Skill Damage"
+    "stat1": "+{X}% to Lightning Skill Damage",
+    "displayName": "+{X}% to Lightning Skill Damage"
   },
   {
     "code": "extra-cold",
-    "name": "passive_cold_mastery",
-    "stat1": "+X% to Cold Skill Damage"
+    "stat1": "+{X}% to Cold Skill Damage",
+    "displayName": "+{X}% to Cold Skill Damage"
   },
   {
     "code": "extra-pois",
-    "name": "passive_pois_mastery",
-    "stat1": "+X% to Poison Skill Damage"
+    "stat1": "+{X}% to Poison Skill Damage",
+    "displayName": "+{X}% to Poison Skill Damage"
   },
   {
     "code": "dmg-elem",
-    "name": "dmg-elem",
-    "stat1": "+X to Minimum Fire Damage",
-    "stat2": "+X to Maximum Fire Damage",
-    "stat3": "+X to Minimum Lightning Damage",
-    "stat4": "+X to Maximum Lightning Damage",
-    "stat5": "+X to Minimum Cold Damage",
-    "stat6": "+X to Maximum Cold Damage"
+    "stat1": "+{X} to Minimum Fire Damage",
+    "stat2": "+{Y} to Maximum Fire Damage",
+    "stat3": "+{X} to Minimum Lightning Damage",
+    "stat4": "+{Y} to Maximum Lightning Damage",
+    "stat5": "+{X} to Minimum Cold Damage",
+    "stat6": "+{Y} to Maximum Cold Damage",
+    "displayName": "Adds {X}-{Y} Elemental Damage"
   },
   {
     "code": "dmg-elem-min",
-    "name": "dmg-elem-min",
-    "stat1": "+X to Minimum Fire Damage",
-    "stat2": "+X to Minimum Lightning Damage",
-    "stat3": "+X to Minimum Cold Damage"
+    "stat1": "+{X} to Minimum Fire Damage",
+    "stat2": "+{X} to Minimum Lightning Damage",
+    "stat3": "+{X} to Minimum Cold Damage",
+    "displayName": "Adds {X}-{Y} to Minimum Elemental Damage"
   },
   {
     "code": "dmg-elem-max",
-    "name": "dmg-elem-max",
-    "stat1": "+X to Maximum Fire Damage",
-    "stat2": "+X to Maximum Lightning Damage",
-    "stat3": "+X to Maximum Cold Damage"
+    "stat1": "+{X} to Maximum Fire Damage",
+    "stat2": "+{X} to Maximum Lightning Damage",
+    "stat3": "+{X} to Maximum Cold Damage",
+    "displayName": "Adds {X}-{Y} to MAximum Elemental Damage"
   },
   {
     "code": "all-stats",
-    "name": "all-stats",
-    "stat1": "+X to Strength",
-    "stat2": "+X to Energy",
-    "stat3": "+X to Dexterity",
-    "stat4": "+X to Vitality"
+    "stat1": "+{X} to Strength",
+    "stat2": "+{X} to Energy",
+    "stat3": "+{X} to Dexterity",
+    "stat4": "+{X} to Vitality",
+    "displayName": "+{X} to All Attributes"
   },
   {
     "code": "addxp",
-    "name": "item_addexperience",
-    "stat1": "+X% to Experience Gained"
+    "stat1": "+{X}% to Experience Gained",
+    "displayName": "+{X}% to Experience Gained"
   },
   {
     "code": "heal-kill",
-    "name": "item_healafterkill",
-    "stat1": "+X Life after each Kill"
+    "stat1": "+{X} Life after each Kill",
+    "displayName": "+{X} Life after each Kill"
   },
   {
     "code": "cheap",
-    "name": "item_reducedprices",
-    "stat1": "Reduces all Vendor Prices X%"
+    "stat1": "Reduces all Vendor Prices {X}%",
+    "displayName": "Reduces all Vendor Prices {X}%"
   },
   {
     "code": "rip",
-    "name": "item_restinpeace",
-    "stat1": "Slain Monsters Rest in Peace"
-  },
-  {
-    "code": "att-mon%",
-    "name": "attack_vs_montype",
-    "stat1": "+X% to Attack Rating versus <monster type>"
-  },
-  {
-    "code": "dmg-mon%",
-    "name": "damage_vs_montype",
-    "stat1": "+X% to Damage versus <monster type>"
-  },
-  {
-    "code": "kill-skill",
-    "name": "item_skillonkill",
-    "stat1": "X% Chance to cast level X <Skill> when you Kill an Enemy"
-  },
-  {
-    "code": "death-skill",
-    "name": "item_skillondeath",
-    "stat1": "X% Chance to cast level X <Skill> when you Die"
-  },
-  {
-    "code": "levelup-skill",
-    "name": "item_skillonlevelup",
-    "stat1": "X% Chance to cast level X <Skill> when you Level-Up"
-  },
-  {
-    "code": "skill-rand",
-    "name": "item_singleskill",
-    "stat1": "+X to <RandomClassSkill>"
-  },
-  {
-    "code": "oskill",
-    "name": "item_nonclassskill",
-    "stat1": "+X to <Skill>"
-  },
-  {
-    "code": "randclassskill3",
-    "name": "item_addclassskills",
-    "stat1": "+X to <RandomClass> Skills"
+    "stat1": "Slain Monsters Rest in Peace",
+    "displayName": "Slain Monsters Rest in Peace"
   },
   {
     "code": "splash",
-    "name": "item_splashonhit",
-    "stat1": "Melee Attacks Deal Splash Damage"
+    "stat1": "Melee Attacks Deal Splash Damage",
+    "displayName": "Melee Attacks Deal Splash Damage"
   },
   {
     "code": "corrupt",
-    "name": "corrupted",
-    "stat1": "Corrupted"
+    "stat1": "Corrupted",
+    "displayName": "Corrupted"
   },
   {
     "code": "corruptnum",
-    "name": "corruptor",
-    "stat1": "Corrupt"
-  },
-  {
-    "code": "randclassskill2",
-    "name": "item_addclassskills",
-    "stat1": "+X to <RandomClass> Skills"
+    "stat1": "Corrupt",
+    "displayName": "Corrupt"
   },
   {
     "code": "coldskill",
-    "name": "coldskill",
-    "stat1": "+X to Cold Skills"
+    "stat1": "+{X} to Cold Skills",
+    "displayName": "+{X} to Cold Skills"
   },
   {
     "code": "ltngskill",
-    "name": "ltngskill",
-    "stat1": "+X to Lightning Skills"
+    "stat1": "+{X} to Lightning Skills",
+    "displayName": "+{X} to Lightning Skills"
   },
   {
     "code": "poisskill",
-    "name": "poisskill",
-    "stat1": "+X to Poison Skills"
+    "stat1": "+{X} to Poison Skills",
+    "displayName": "+{X} to Poison Skills"
   },
   {
     "code": "magskill",
-    "name": "magskill",
-    "stat1": "+X to Magic Skills"
+    "stat1": "+{X} to Magic Skills",
+    "displayName": "+{X} to Magic Skills"
   },
   {
     "code": "mapdefense",
-    "name": "map_defense",
-    "stat1": "X% Corrupt"
+    "stat1": "{X}% Corrupt",
+    "displayName": "{X}% Corrupt"
   },
   {
     "code": "map-play-fireres",
-    "name": "map_play_fireresist",
-    "stat1": "Players have +X-X% Fire Resist"
+    "stat1": "Players have +{X}% Fire Resist",
+    "displayName": "Players have +{X}% Fire Resist"
   },
   {
     "code": "map-play-mag-gold%",
-    "name": "map-play-mag-gold%",
-    "stat1": "Magic Find: X%",
-    "stat2": "Gold Find: X%"
+    "stat1": "Magic Find: {X}%",
+    "stat2": "Gold Find: {X}%",
+    "displayName": "Magic Find: {X}%"
   },
   {
     "code": "map-glob-density",
-    "name": "map_glob_density",
-    "stat1": "Monster Density: X%"
+    "stat1": "Monster Density: {X}%",
+    "displayName": "Monster Density: {X}%"
   },
   {
     "code": "map-play-addxp",
-    "name": "map_play_addexperience",
-    "stat1": "Experience: X%"
+    "stat1": "Experience: {X}%",
+    "displayName": "Experience: {X}%"
   },
   {
     "code": "map-glob-arealevel",
-    "name": "map_glob_arealevel",
-    "stat1": "+X to Area Level"
+    "stat1": "+{X} to Area Level",
+    "displayName": "+{X} to Area Level"
   },
   {
     "code": "map-glob-monsterrarity",
-    "name": "map_glob_monsterrarity",
-    "stat1": "Monstery Rarity: X%"
+    "stat1": "Monstery Rarity: {X}%",
+    "displayName": "Monstery Rarity: {X}%"
   },
   {
     "code": "map-mon-fire-min",
-    "name": "map_mon_firemindam",
-    "stat1": "Monsters have +X-X to Minimum Fire Damage"
+    "stat1": "Monsters have +{X} to Minimum Fire Damage",
+    "displayName": "Monsters have +{X} to Minimum Fire Damage"
   },
   {
     "code": "map-mon-fire-max",
-    "name": "map_mon_firemaxdam",
-    "stat1": "Monsters have +X-X to Maximum Fire Damage"
+    "stat1": "Monsters have +{X} to Maximum Fire Damage",
+    "displayName": "Monsters have +{X} to Maximum Fire Damage"
   },
   {
     "code": "map-mon-ltng-min",
-    "name": "map_mon_lightmindam",
-    "stat1": "Monsters have +X-X to Minimum Lightning Damage"
+    "stat1": "Monsters have +{X} to Minimum Lightning Damage",
+    "displayName": "Monsters have +{X} to Minimum Lightning Damage"
   },
   {
     "code": "map-mon-ltng-max",
-    "name": "map_mon_lightmaxdam",
-    "stat1": "Monsters have +X-X to Maximum Lightning Damage"
+    "stat1": "Monsters have +{X} to Maximum Lightning Damage",
+    "displayName": "Monsters have +{X} to Maximum Lightning Damage"
   },
   {
     "code": "map-mon-mag-min",
-    "name": "map_mon_magicmindam",
-    "stat1": "Monsters have +X-X Magic Damage"
+    "stat1": "Monsters have +{X} Magic Damage",
+    "displayName": "Monsters have +{X} Magic Damage"
   },
   {
     "code": "map-mon-mag-max",
-    "name": "map_mon_magicmaxdam",
-    "stat1": "Monsters have +X-X Magic Damage"
+    "stat1": "Monsters have +{X} Magic Damage",
+    "displayName": "Monsters have +{X} Magic Damage"
   },
   {
     "code": "map-mon-dmg-cold",
-    "name": "map-mon-dmg-cold",
-    "stat1": "Monsters have +X-X to Minimum Cold Damage",
-    "stat2": "Monsters have +X-X to Maximum Cold Damage"
+    "stat1": "Monsters have +{X} to Minimum Cold Damage",
+    "stat2": "Monsters have +{X} to Maximum Cold Damage",
+    "displayName": "Monsters have +{X} to Cold Damage"
   },
   {
     "code": "map-mon-dmg-pois",
-    "name": "map-mon-dmg-pois",
-    "stat1": "Monsters have +X-X to Minimum Poison Damage",
-    "stat2": "Monsters have +X-X to Maximum Poison Damage"
+    "stat1": "Monsters have +{X} to Minimum Poison Damage",
+    "stat2": "Monsters have +{X} to Maximum Poison Damage",
+    "displayName": "Monsters have +{X} to Poison Damage"
   },
   {
     "code": "map-mon-extra-fire",
-    "name": "map_mon_passive_fire_mastery",
-    "stat1": "Monsters have +X-X% to Fire Skill Damage"
+    "stat1": "Monsters have +{X}% to Fire Skill Damage",
+    "displayName": "Monsters have +{X}% to Fire Skill Damage"
   },
   {
     "code": "map-mon-extra-ltng",
-    "name": "map_mon_passive_ltng_mastery",
-    "stat1": "Monsters have +X-X% to Lightning Skill Damage"
+    "stat1": "Monsters have +{X}% to Lightning Skill Damage",
+    "displayName": "Monsters have +{X}% to Lightning Skill Damage"
   },
   {
     "code": "map-mon-extra-cold",
-    "name": "map_mon_passive_cold_mastery",
-    "stat1": "Monsters have +X-X% to Cold Skill Damage"
+    "stat1": "Monsters have +{X}% to Cold Skill Damage",
+    "displayName": "Monsters have +{X}% to Cold Skill Damage"
   },
   {
     "code": "map-mon-extra-pois",
-    "name": "map_mon_passive_pois_mastery",
-    "stat1": "Monsters have +X-X% to Poison Skill Damage"
+    "stat1": "Monsters have +{X}% to Poison Skill Damage",
+    "displayName": "Monsters have +{X}% to Poison Skill Damage"
   },
   {
     "code": "map-mon-att-cast-speed",
-    "name": "map-mon-att-cast-speed",
-    "stat1": "Monsters have +X-X% Increased Attack Speed",
-    "stat2": "Monsters have +X-X% Faster Cast Rate"
+    "stat1": "Monsters have +{X}% Increased Attack Speed",
+    "stat2": "Monsters have +{X}% Faster Cast Rate",
+    "displayName": "Monsters have +{X}% Increased Attack Speed and Faster Cast Rate"
   },
   {
     "code": "map-mon-att-pierce",
-    "name": "map-mon-att-pierce",
-    "stat1": "Monsters have +X-X% to Attack Rating",
-    "stat2": "Monsters have +X-X% Chance to Pierce"
+    "stat1": "Monsters have +{X}% to Attack Rating",
+    "stat2": "Monsters have +{X}% Chance to Pierce",
+    "displayName": "Monsters have +{X}% to Attack Rating and Chance to Pierce"
   },
   {
     "code": "map-mon-ac%",
-    "name": "map_mon_ac%",
-    "stat1": "Monsters have +X-X% Enhanced Defense"
+    "stat1": "Monsters have +{X}% Enhanced Defense",
+    "displayName": "Monsters have +{X}% Enhanced Defense"
   },
   {
     "code": "map-mon-abs-fire%",
-    "name": "map_mon_absorbcold_percent",
-    "stat1": "Monsters have +X-X% Cold Absorb"
+    "stat1": "Monsters have +{X}% Cold Absorb",
+    "displayName": "Monsters have +{X}% Cold Absorb"
   },
   {
     "code": "map-mon-abs-ltng%",
-    "name": "map_mon_absorbmagic_percent",
-    "stat1": "Monsters have +X-X% Magic Absorb"
+    "stat1": "Monsters have +{X}% Magic Absorb",
+    "displayName": "Monsters have +{X}% Magic Absorb"
   },
   {
     "code": "map-mon-abs-mag%",
-    "name": "map_mon_absorblight_percent",
-    "stat1": "Monsters have +X-X% Lightning Absorb"
+    "stat1": "Monsters have +{X}% Lightning Absorb",
+    "displayName": "Monsters have +{X}% Lightning Absorb"
   },
   {
     "code": "map-mon-abs-cold%",
-    "name": "map_mon_absorbfire_percent",
-    "stat1": "Monsters have +X-X% Fire Absorb"
+    "stat1": "Monsters have +{X}% Fire Absorb",
+    "displayName": "Monsters have +{X}% Fire Absorb"
   },
   {
     "code": "map-mon-red-dmg",
-    "name": "map_mon_normal_damage_reduction",
-    "stat1": "Monsters take +X-X Reduced Physical Damage"
+    "stat1": "Monsters take +{X} Reduced Physical Damage",
+    "displayName": "Monsters take +{X} Reduced Physical Damage"
   },
   {
     "code": "map-mon-velocity%",
-    "name": "map_mon_velocitypercent",
-    "stat1": "Monsters have +X-X% increased Velocity"
+    "stat1": "Monsters have +{X}% increased Velocity",
+    "displayName": "Monsters have +{X}% increased Velocity"
   },
   {
     "code": "map-mon-regen",
-    "name": "map_mon_hpregen",
-    "stat1": "Monsters have +X-X Replenish Life"
+    "stat1": "Monsters have +{X} Replenish Life",
+    "displayName": "Monsters have +{X} Replenish Life"
   },
   {
     "code": "map-mon-lifesteal-hp%",
-    "name": "map-mon-lifesteal-hp%",
-    "stat1": "Monsters have +X-X% Life stolen per hit",
-    "stat2": "Monsters have +X-X% Increased Maximum Life"
+    "stat1": "Monsters have +{X}% Life stolen per hit",
+    "stat2": "Monsters have +{X}% Increased Maximum Life",
+    "displayName": "Monsters have +{X}% Life stolen per hit and Increased Maximum Life"
   },
   {
     "code": "map-mon-balance1",
-    "name": "map_mon_fastergethitrate",
-    "stat1": "Monsters have +X-X% Faster Hit Recovery"
+    "stat1": "Monsters have +{X}% Faster Hit Recovery",
+    "displayName": "Monsters have +{X}% Faster Hit Recovery"
   },
   {
     "code": "map-mon-hp%",
-    "name": "map_mon_maxhp_percent",
-    "stat1": "Monsters have +X-X% Increased Maximum Life"
+    "stat1": "Monsters have +{X}% Increased Maximum Life",
+    "displayName": "Monsters have +{X}% Increased Maximum Life"
   },
   {
     "code": "map-mon-openwounds",
-    "name": "map_mon_openwounds",
-    "stat1": "Monsters have +X-X% Chance of Open Wounds"
+    "stat1": "Monsters have +{X}% Chance of Open Wounds",
+    "displayName": "Monsters have +{X}% Chance of Open Wounds"
   },
   {
     "code": "map-mon-crush",
-    "name": "map_mon_crushingblow",
-    "stat1": "Monsters have +X-X% Chance of Crushing Blow"
+    "stat1": "Monsters have +{X}% Chance of Crushing Blow",
+    "displayName": "Monsters have +{X}% Chance of Crushing Blow"
   },
   {
     "code": "map-mon-curseresist-hp%",
-    "name": "map-mon-curseresist-hp%",
-    "stat1": "Monsters have +X-X% Curse Duration Reduction",
-    "stat2": "Monsters have +X-X% Increased Maximum Life"
+    "stat1": "Monsters have +{X}% Curse Duration Reduction",
+    "stat2": "Monsters have +{X}% Increased Maximum Life",
+    "displayName": "Monsters have +{X}% Curse Duration Reduction and Increased Maximum Life"
   },
   {
     "code": "map-play-ac%",
-    "name": "map_play_ac%",
-    "stat1": "Players have +X-X% Enhanced Defense"
+    "stat1": "Players have +{X}% Enhanced Defense",
+    "displayName": "Players have +{X}% Enhanced Defense"
   },
   {
     "code": "map-play-balance1",
-    "name": "map_play_fastergethitrate",
-    "stat1": "Players have +X-X% Faster Hit Recovery"
+    "stat1": "Players have +{X}% Faster Hit Recovery",
+    "displayName": "Players have +{X}% Faster Hit Recovery"
   },
   {
     "code": "map-play-block",
-    "name": "map_play_toblock",
-    "stat1": "Players have +X-X% Chance to Block"
+    "stat1": "Players have +{X}% Chance to Block",
+    "displayName": "Players have +{X}% Chance to Block"
   },
   {
     "code": "map-play-regen",
-    "name": "map_play_hpregen",
-    "stat1": "Players have +X-X Drain Life"
+    "stat1": "Players have +{X} Drain Life",
+    "displayName": "Players have +{X} Drain Life"
   },
   {
     "code": "map-mon-pierce-fire",
-    "name": "map_mon_passive_fire_pierce",
-    "stat1": "Monsters have -X%"
+    "stat1": "Monsters have -{X}%",
+    "displayName": "Monsters have -{X}%"
   },
   {
     "code": "map-mon-pierce-ltng",
-    "name": "map_mon_passive_ltng_pierce",
-    "stat1": "Monsters have -X%"
+    "stat1": "Monsters have -{X}%",
+    "displayName": "Monsters have -{X}%"
   },
   {
     "code": "map-mon-pierce-cold",
-    "name": "map_mon_passive_cold_pierce",
-    "stat1": "Monsters have -X%"
+    "stat1": "Monsters have -{X}%",
+    "displayName": "Monsters have -{X}%"
   },
   {
     "code": "map-mon-pierce-pois",
-    "name": "map_mon_passive_pois_pierce",
-    "stat1": "Monsters have -X%"
+    "stat1": "Monsters have -{X}%",
+    "displayName": "Monsters have -{X}%"
   },
   {
     "code": "map-play-res-all",
-    "name": "map-play-res-all",
-    "stat1": "Players have +X-X% Fire Resist",
-    "stat2": "Players have +X-X% Lightning Resist",
-    "stat3": "Players have +X-X% Cold Resist",
-    "stat4": "Players have +X-X% Poison Resist"
+    "stat1": "Players have +{X}% Fire Resist",
+    "stat2": "Players have +{X}% Lightning Resist",
+    "stat3": "Players have +{X}% Cold Resist",
+    "stat4": "Players have +{X}% Poison Resist",
+    "displayName": "Players have +{X}% to All Resistances"
   },
   {
     "code": "map-play-res-all-max",
-    "name": "map-play-res-all-max",
-    "stat1": "Players have +X-X% to Maximum Fire Resist",
-    "stat2": "Players have +X-X% to Maximum Lightning Resist",
-    "stat3": "Players have +X-X% to Maximum Cold Resist",
-    "stat4": "Players have +X-X% to Maximum Poison Resist"
+    "stat1": "Players have +{X}% to Maximum Fire Resist",
+    "stat2": "Players have +{X}% to Maximum Lightning Resist",
+    "stat3": "Players have +{X}% to Maximum Cold Resist",
+    "stat4": "Players have +{X}% to Maximum Poison Resist",
+    "displayName": "Players have +{X}% to All Maximum Resistances"
   },
   {
     "code": "map-mon-ed%",
-    "name": "map_mon_ed%",
-    "stat1": "Monsters have +X-X% Enhanced Physical Damage"
+    "stat1": "Monsters have +{X}% Enhanced Physical Damage",
+    "displayName": "Monsters have +{X}% Enhanced Physical Damage"
   },
   {
     "code": "map-mon-splash",
-    "name": "map_mon_splash",
-    "stat1": "Monster's Melee Attacks Deal Splash Damage"
+    "stat1": "Monster's Melee Attacks Deal Splash Damage",
+    "displayName": "Monster's Melee Attacks Deal Splash Damage"
   },
   {
     "code": "rep-charge",
-    "name": "item_replenish_charges",
-    "stat1": "Replenish 1 Charge in 8 Seconds"
+    "stat1": "Replenish 1 Charge in 8 Seconds",
+    "displayName": "Replenish 1 Charge in 8 Seconds"
   },
   {
     "code": "leapspeed",
-    "name": "item_leap_speed",
-    "stat1": "+X% to Leap and Leap Attack Movement Speed"
+    "stat1": "+{X}% to Leap and Leap Attack Movement Speed",
+    "displayName": "+{X}% to Leap and Leap Attack Movement Speed"
   },
   {
     "code": "maxcurse",
-    "name": "max_curses",
-    "stat1": "+X to Maximum Curses"
-  },
-  {
-    "code": "randelemskill",
-    "name": "item_elemskill",
-    "stat1": "+X to Fire Skills"
+    "stat1": "+{X} to Maximum Curses",
+    "displayName": "+{X} to Maximum Curses"
   },
   {
     "code": "curse-res",
-    "name": "curse_resistance",
-    "stat1": "X% Reduced Curse Duration"
+    "stat1": "{X}% Reduced Curse Duration",
+    "displayName": "{X}% Reduced Curse Duration"
   },
   {
     "code": "heal-hit",
-    "name": "item_healafterhit",
-    "stat1": "+X Life after each Hit"
-  },
-  {
-    "code": "randclassskill1",
-    "name": "item_addclassskills",
-    "stat1": "+X to <RandomClass> Skills"
+    "stat1": "+{X} Life after each Hit",
+    "displayName": "+{X} Life after each Hit"
   },
   {
     "code": "map-mon-phys-as-extra-ltng",
-    "name": "map_mon_phys_as_extra_ltng",
-    "stat1": "Monsters have +X-X% of Physical Damage as Extra Lightning Damage"
+    "stat1": "Monsters have +{X}% of Physical Damage as Extra Lightning Damage",
+    "displayName": "Monsters have +{X}% of Physical Damage as Extra Lightning Damage"
   },
   {
     "code": "map-mon-phys-as-extra-cold",
-    "name": "map_mon_phys_as_extra_cold",
-    "stat1": "Monsters have +X-X% of Physical Damage as Extra Cold Damage"
+    "stat1": "Monsters have +{X}% of Physical Damage as Extra Cold Damage",
+    "displayName": "Monsters have +{X}% of Physical Damage as Extra Cold Damage"
   },
   {
     "code": "map-mon-phys-as-extra-fire",
-    "name": "map_mon_phys_as_extra_fire",
-    "stat1": "Monsters have +X-X% of Physical Damage as Extra Fire Damage"
+    "stat1": "Monsters have +{X}% of Physical Damage as Extra Fire Damage",
+    "displayName": "Monsters have +{X}% of Physical Damage as Extra Fire Damage"
   },
   {
     "code": "map-mon-phys-as-extra-pois",
-    "name": "map_mon_phys_as_extra_pois",
-    "stat1": "Monsters have +X-X% of Physical Damage as Extra Poison Damage over 5 Seconds"
+    "stat1": "Monsters have +{X}% of Physical Damage as Extra Poison Damage over 5 Seconds",
+    "displayName": "Monsters have +{X}% of Physical Damage as Extra Poison Damage over 5 Seconds"
   },
   {
     "code": "map-mon-phys-as-extra-mag",
-    "name": "map_mon_phys_as_extra_mag",
-    "stat1": "Monsters have +X-X% of Physical Damage as Extra Magic Damage"
+    "stat1": "Monsters have +{X}% of Physical Damage as Extra Magic Damage",
+    "displayName": "Monsters have +{X}% of Physical Damage as Extra Magic Damage"
   },
   {
     "code": "map-glob-add-mon-doll",
-    "name": "map_glob_add_mon_doll",
-    "stat1": "Map contains Stygian Dolls"
+    "stat1": "Map contains Stygian Dolls",
+    "displayName": "Map contains Stygian Dolls"
   },
   {
     "code": "map-glob-add-mon-succ",
-    "name": "map_glob_add_mon_succ",
-    "stat1": "Map contains Succubus Witches"
+    "stat1": "Map contains Succubus Witches",
+    "displayName": "Map contains Succubus Witches"
   },
   {
     "code": "map-glob-add-mon-vamp",
-    "name": "map_glob_add_mon_vamp",
-    "stat1": "Map contains Vampire Lords"
+    "stat1": "Map contains Vampire Lords",
+    "displayName": "Map contains Vampire Lords"
   },
   {
     "code": "map-glob-add-mon-cow",
-    "name": "map_glob_add_mon_cow",
-    "stat1": "Map contains Hell Bovines"
+    "stat1": "Map contains Hell Bovines",
+    "displayName": "Map contains Hell Bovines"
   },
   {
     "code": "map-glob-add-mon-horde",
-    "name": "map_glob_add_mon_horde",
-    "stat1": "Map contains Reanimated Horde"
+    "stat1": "Map contains Reanimated Horde",
+    "displayName": "Map contains Reanimated Horde"
   },
   {
     "code": "map-glob-add-mon-ghost",
-    "name": "map_glob_add_mon_ghost",
-    "stat1": "Map contains Ghosts"
+    "stat1": "Map contains Ghosts",
+    "displayName": "Map contains Ghosts"
   },
   {
     "code": "extra-bonespears",
-    "name": "extra_bonespears",
-    "stat1": "Bonespear Now Fires +X-X Additional Spears"
+    "stat1": "Bonespear Now Fires +{X} Additional Spears",
+    "displayName": "Bonespear Now Fires +{X} Additional Spears"
   },
   {
     "code": "extra-revives",
-    "name": "extra_revives",
-    "stat1": "You May Now Summon +X-X Additional Revives"
+    "stat1": "You May Now Summon +{X} Additional Revives",
+    "displayName": "You May Now Summon +{X} Additional Revives"
   },
   {
     "code": "pierce-phys",
-    "name": "passive_phys_pierce",
-    "stat1": "-X% to Enemy Physical Resistance"
+    "stat1": "-{X}% to Enemy Physical Resistance",
+    "displayName": "-{X}% to Enemy Physical Resistance"
   },
   {
     "code": "immune-prop",
-    "name": "immune_stat",
-    "stat1": "+X% to Fire Skill Damage"
+    "stat1": "+{X}% to Fire Skill Damage",
+    "displayName": "+{X}% to Fire Skill Damage"
   },
   {
     "code": "map-mon-deadlystrike",
-    "name": "map_mon_deadlystrike",
-    "stat1": "Monsters have +X-X% Deadly Strike"
+    "stat1": "Monsters have +{X}% Deadly Strike",
+    "displayName": "Monsters have +{X}% Deadly Strike"
   },
   {
     "code": "map-mon-cannotbefrozen",
-    "name": "map_mon_cannotbefrozen",
-    "stat1": "Monsters have Cannot Be Frozen"
+    "stat1": "Monsters have Cannot Be Frozen",
+    "displayName": "Monsters have Cannot Be Frozen"
   },
   {
     "code": "map-play-fasterattackrate",
-    "name": "map_play_fasterattackrate",
-    "stat1": "Players have +X-X% Increased Attack Speed"
+    "stat1": "Players have +{X}% Increased Attack Speed",
+    "displayName": "Players have +{X}% Increased Attack Speed"
   },
   {
     "code": "map-play-fastercastrate",
-    "name": "map_play_fastercastrate",
-    "stat1": "Players have +X-X% Faster Cast Rate"
+    "stat1": "Players have +{X}% Faster Cast Rate",
+    "displayName": "Players have +{X}% Faster Cast Rate"
   },
   {
     "code": "map-mon-skillondeath",
-    "name": "map_mon_skillondeath",
-    "stat1": "X% Chance to cast level X <Skill> when you Die"
+    "stat1": "{X}% Chance to cast level {Y} {Skill} when you Die",
+    "displayName": "{X}% Chance to cast level {Y} {Skill} when you Die"
   },
   {
     "code": "map-play-maxhp-percent",
-    "name": "map_play_maxhp_percent",
-    "stat1": "Players have +X-X% Increase Maximum Life"
+    "stat1": "Players have +{X}% Increase Maximum Life",
+    "displayName": "Players have +{X}% Increase Maximum Life"
   },
   {
     "code": "map-play-maxmana-percent",
-    "name": "map_play_maxmana_percent",
-    "stat1": "Players have +X-X% Increase Maximum Mana"
+    "stat1": "Players have +{X}% Increase Maximum Mana",
+    "displayName": "Players have +{X}% Increase Maximum Mana"
   },
   {
     "code": "map-play-damageresist",
-    "name": "map_play_damageresist",
-    "stat1": "Players have +X-X% Physical Damage Taken Reduced by"
+    "stat1": "Players have +{X}% Physical Damage Taken Reduced by",
+    "displayName": "Players have +{X}% Physical Damage Taken Reduced by"
   },
   {
     "code": "map-play-velocitypercent",
-    "name": "map_play_velocitypercent",
-    "stat1": "Players have +X-X% to Velocity"
+    "stat1": "Players have +{X}% to Velocity",
+    "displayName": "Players have +{X}% to Velocity"
   },
   {
     "code": "map-mon-pierce-all",
-    "name": "map-mon-pierce-all",
-    "stat1": "Monsters have -X%",
-    "stat2": "Monsters have -X%",
-    "stat3": "Monsters have -X%",
-    "stat4": "Monsters have -X%"
+    "stat1": "Monsters have -{X}%",
+    "stat2": "Monsters have -{X}%",
+    "stat3": "Monsters have -{X}%",
+    "stat4": "Monsters have -{X}%",
+    "displayName": "Monsters have -{X}% All Elemental Resistances"
   },
   {
     "code": "map-mon-nofreeze-hp%",
-    "name": "map-mon-nofreeze-hp%",
     "stat1": "Monsters have Cannot Be Frozen",
-    "stat2": "Monsters have +X-X% Increased Maximum Life"
+    "stat2": "Monsters have +{X}% Increased Maximum Life",
+    "displayName": "Monsters have Cannot Be Frozen"
   },
   {
     "code": "map-play-swing-cast",
-    "name": "map-play-swing-cast",
-    "stat1": "Players have +X-X% Increased Attack Speed",
-    "stat2": "Players have +X-X% Faster Cast Rate"
+    "stat1": "Players have +{X}% Increased Attack Speed",
+    "stat2": "Players have +{X}% Faster Cast Rate",
+    "displayName": "Players have +{X}% Increased Attack Speed and Faster Cast Rate"
   },
   {
     "code": "map-play-hp%-mp%",
-    "name": "map-play-hp%-mp%",
-    "stat1": "Players have +X-X% Increase Maximum Life",
-    "stat2": "Players have +X-X% Increase Maximum Mana"
+    "stat1": "Players have +{X}% Increase Maximum Life",
+    "stat2": "Players have +{X}% Increase Maximum Mana",
+    "displayName": "Players have +{X}% Increase Maximum Life and Increase Maximum Mana"
   },
   {
     "code": "map-play-speed-all",
-    "name": "map-play-speed-all",
-    "stat1": "Players have +X-X% Increased Attack Speed",
-    "stat2": "Players have +X-X% Faster Cast Rate",
-    "stat3": "Players have +X-X% to Velocity"
+    "stat1": "Players have +{X}% Increased Attack Speed",
+    "stat2": "Players have +{X}% Faster Cast Rate",
+    "stat3": "Players have +{X}% to Velocity",
+    "displayName": "Players have +{X}% Increased Attack Speed, Faster Cast Rate, and Velocity"
   },
   {
     "code": "map-play-mag",
-    "name": "map_play_magicbonus",
-    "stat1": "Magic Find: X%"
+    "stat1": "Magic Find: {X}%",
+    "displayName": "Magic Find: {X}%"
   },
   {
     "code": "map-play-gold",
-    "name": "map_play_goldbonus",
-    "stat1": "Gold Find: X%"
+    "stat1": "Gold Find: {X}%",
+    "displayName": "Gold Find: {X}%"
+  },
+  {
+    "code": "skill-6",
+    "stat1": "+{X} to Magic Arrow (Amazon Only)",
+    "displayName": "+{X} to Magic Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-7",
+    "stat1": "+{X} to Fire Arrow (Amazon Only)",
+    "displayName": "+{X} to Fire Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-8",
+    "stat1": "+{X} to Inner Sight (Amazon Only)",
+    "displayName": "+{X} to Inner Sight (Amazon Only)"
+  },
+  {
+    "code": "skill-9",
+    "stat1": "+{X} to Critical Strike (Amazon Only)",
+    "displayName": "+{X} to Critical Strike (Amazon Only)"
+  },
+  {
+    "code": "skill-10",
+    "stat1": "+{X} to Jab (Amazon Only)",
+    "displayName": "+{X} to Jab (Amazon Only)"
+  },
+  {
+    "code": "skill-11",
+    "stat1": "+{X} to Cold Arrow (Amazon Only)",
+    "displayName": "+{X} to Cold Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-12",
+    "stat1": "+{X} to Multiple Shot (Amazon Only)",
+    "displayName": "+{X} to Multiple Shot (Amazon Only)"
+  },
+  {
+    "code": "skill-13",
+    "stat1": "+{X} to Dodge (Amazon Only)",
+    "displayName": "+{X} to Dodge (Amazon Only)"
+  },
+  {
+    "code": "skill-14",
+    "stat1": "+{X} to Power Strike (Amazon Only)",
+    "displayName": "+{X} to Power Strike (Amazon Only)"
+  },
+  {
+    "code": "skill-15",
+    "stat1": "+{X} to Poison Javelin (Amazon Only)",
+    "displayName": "+{X} to Poison Javelin (Amazon Only)"
+  },
+  {
+    "code": "skill-16",
+    "stat1": "+{X} to Exploding Arrow (Amazon Only)",
+    "displayName": "+{X} to Exploding Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-17",
+    "stat1": "+{X} to Slow Missiles (Amazon Only)",
+    "displayName": "+{X} to Slow Missiles (Amazon Only)"
+  },
+  {
+    "code": "skill-18",
+    "stat1": "+{X} to Avoid (Amazon Only)",
+    "displayName": "+{X} to Avoid (Amazon Only)"
+  },
+  {
+    "code": "skill-19",
+    "stat1": "+{X} to Javelin and Spear Mastery (Amazon Only)",
+    "displayName": "+{X} to Javelin and Spear Mastery (Amazon Only)"
+  },
+  {
+    "code": "skill-20",
+    "stat1": "+{X} to Lightning Bolt (Amazon Only)",
+    "displayName": "+{X} to Lightning Bolt (Amazon Only)"
+  },
+  {
+    "code": "skill-21",
+    "stat1": "+{X} to Ice Arrow (Amazon Only)",
+    "displayName": "+{X} to Ice Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-22",
+    "stat1": "+{X} to Guided Arrow (Amazon Only)",
+    "displayName": "+{X} to Guided Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-23",
+    "stat1": "+{X} to Penetrate (Amazon Only)",
+    "displayName": "+{X} to Penetrate (Amazon Only)"
+  },
+  {
+    "code": "skill-24",
+    "stat1": "+{X} to Charged Strike (Amazon Only)",
+    "displayName": "+{X} to Charged Strike (Amazon Only)"
+  },
+  {
+    "code": "skill-25",
+    "stat1": "+{X} to Plague Javelin (Amazon Only)",
+    "displayName": "+{X} to Plague Javelin (Amazon Only)"
+  },
+  {
+    "code": "skill-26",
+    "stat1": "+{X} to Strafe (Amazon Only)",
+    "displayName": "+{X} to Strafe (Amazon Only)"
+  },
+  {
+    "code": "skill-27",
+    "stat1": "+{X} to Immolation Arrow (Amazon Only)",
+    "displayName": "+{X} to Immolation Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-28",
+    "stat1": "+{X} to Decoy (Amazon Only)",
+    "displayName": "+{X} to Decoy (Amazon Only)"
+  },
+  {
+    "code": "skill-29",
+    "stat1": "+{X} to Evade (Amazon Only)",
+    "displayName": "+{X} to Evade (Amazon Only)"
+  },
+  {
+    "code": "skill-30",
+    "stat1": "+{X} to Fend (Amazon Only)",
+    "displayName": "+{X} to Fend (Amazon Only)"
+  },
+  {
+    "code": "skill-31",
+    "stat1": "+{X} to Freezing Arrow (Amazon Only)",
+    "displayName": "+{X} to Freezing Arrow (Amazon Only)"
+  },
+  {
+    "code": "skill-32",
+    "stat1": "+{X} to Valkyrie (Amazon Only)",
+    "displayName": "+{X} to Valkyrie (Amazon Only)"
+  },
+  {
+    "code": "skill-33",
+    "stat1": "+{X} to Pierce (Amazon Only)",
+    "displayName": "+{X} to Pierce (Amazon Only)"
+  },
+  {
+    "code": "skill-34",
+    "stat1": "+{X} to Lightning Strike (Amazon Only)",
+    "displayName": "+{X} to Lightning Strike (Amazon Only)"
+  },
+  {
+    "code": "skill-35",
+    "stat1": "+{X} to Lightning Fury (Amazon Only)",
+    "displayName": "+{X} to Lightning Fury (Amazon Only)"
+  },
+  {
+    "code": "skill-36",
+    "stat1": "+{X} to Fire Bolt (Sorceress Only)",
+    "displayName": "+{X} to Fire Bolt (Sorceress Only)"
+  },
+  {
+    "code": "skill-37",
+    "stat1": "+{X} to Warmth (Sorceress Only)",
+    "displayName": "+{X} to Warmth (Sorceress Only)"
+  },
+  {
+    "code": "skill-38",
+    "stat1": "+{X} to Charged Bolt (Sorceress Only)",
+    "displayName": "+{X} to Charged Bolt (Sorceress Only)"
+  },
+  {
+    "code": "skill-39",
+    "stat1": "+{X} to Ice Bolt (Sorceress Only)",
+    "displayName": "+{X} to Ice Bolt (Sorceress Only)"
+  },
+  {
+    "code": "skill-40",
+    "stat1": "+{X} to Cold Enchant (Sorceress Only)",
+    "displayName": "+{X} to Cold Enchant (Sorceress Only)"
+  },
+  {
+    "code": "skill-41",
+    "stat1": "+{X} to Inferno (Sorceress Only)",
+    "displayName": "+{X} to Inferno (Sorceress Only)"
+  },
+  {
+    "code": "skill-42",
+    "stat1": "+{X} to Static Field (Sorceress Only)",
+    "displayName": "+{X} to Static Field (Sorceress Only)"
+  },
+  {
+    "code": "skill-43",
+    "stat1": "+{X} to Telekinesis (Sorceress Only)",
+    "displayName": "+{X} to Telekinesis (Sorceress Only)"
+  },
+  {
+    "code": "skill-44",
+    "stat1": "+{X} to Frost Nova (Sorceress Only)",
+    "displayName": "+{X} to Frost Nova (Sorceress Only)"
+  },
+  {
+    "code": "skill-45",
+    "stat1": "+{X} to Ice Blast (Sorceress Only)",
+    "displayName": "+{X} to Ice Blast (Sorceress Only)"
+  },
+  {
+    "code": "skill-46",
+    "stat1": "+{X} to Blaze (Sorceress Only)",
+    "displayName": "+{X} to Blaze (Sorceress Only)"
+  },
+  {
+    "code": "skill-47",
+    "stat1": "+{X} to Fire Ball (Sorceress Only)",
+    "displayName": "+{X} to Fire Ball (Sorceress Only)"
+  },
+  {
+    "code": "skill-48",
+    "stat1": "+{X} to Nova (Sorceress Only)",
+    "displayName": "+{X} to Nova (Sorceress Only)"
+  },
+  {
+    "code": "skill-49",
+    "stat1": "+{X} to Lightning (Sorceress Only)",
+    "displayName": "+{X} to Lightning (Sorceress Only)"
+  },
+  {
+    "code": "skill-50",
+    "stat1": "+{X} to Shiver Armor (Sorceress Only)",
+    "displayName": "+{X} to Shiver Armor (Sorceress Only)"
+  },
+  {
+    "code": "skill-51",
+    "stat1": "+{X} to Fire Wall (Sorceress Only)",
+    "displayName": "+{X} to Fire Wall (Sorceress Only)"
+  },
+  {
+    "code": "skill-52",
+    "stat1": "+{X} to Enchant Fire (Sorceress Only)",
+    "displayName": "+{X} to Enchant Fire (Sorceress Only)"
+  },
+  {
+    "code": "skill-53",
+    "stat1": "+{X} to Chain Lightning (Sorceress Only)",
+    "displayName": "+{X} to Chain Lightning (Sorceress Only)"
+  },
+  {
+    "code": "skill-54",
+    "stat1": "+{X} to Teleport (Sorceress Only)",
+    "displayName": "+{X} to Teleport (Sorceress Only)"
+  },
+  {
+    "code": "skill-55",
+    "stat1": "+{X} to Glacial Spike (Sorceress Only)",
+    "displayName": "+{X} to Glacial Spike (Sorceress Only)"
+  },
+  {
+    "code": "skill-56",
+    "stat1": "+{X} to Meteor (Sorceress Only)",
+    "displayName": "+{X} to Meteor (Sorceress Only)"
+  },
+  {
+    "code": "skill-57",
+    "stat1": "+{X} to Thunder Storm (Sorceress Only)",
+    "displayName": "+{X} to Thunder Storm (Sorceress Only)"
+  },
+  {
+    "code": "skill-58",
+    "stat1": "+{X} to Energy Shield (Sorceress Only)",
+    "displayName": "+{X} to Energy Shield (Sorceress Only)"
+  },
+  {
+    "code": "skill-59",
+    "stat1": "+{X} to Blizzard (Sorceress Only)",
+    "displayName": "+{X} to Blizzard (Sorceress Only)"
+  },
+  {
+    "code": "skill-60",
+    "stat1": "+{X} to Chilling Armor (Sorceress Only)",
+    "displayName": "+{X} to Chilling Armor (Sorceress Only)"
+  },
+  {
+    "code": "skill-61",
+    "stat1": "+{X} to Fire Mastery (Sorceress Only)",
+    "displayName": "+{X} to Fire Mastery (Sorceress Only)"
+  },
+  {
+    "code": "skill-62",
+    "stat1": "+{X} to Hydra (Sorceress Only)",
+    "displayName": "+{X} to Hydra (Sorceress Only)"
+  },
+  {
+    "code": "skill-63",
+    "stat1": "+{X} to Lightning Mastery (Sorceress Only)",
+    "displayName": "+{X} to Lightning Mastery (Sorceress Only)"
+  },
+  {
+    "code": "skill-64",
+    "stat1": "+{X} to Frozen Orb (Sorceress Only)",
+    "displayName": "+{X} to Frozen Orb (Sorceress Only)"
+  },
+  {
+    "code": "skill-65",
+    "stat1": "+{X} to Cold Mastery (Sorceress Only)",
+    "displayName": "+{X} to Cold Mastery (Sorceress Only)"
+  },
+  {
+    "code": "skill-369",
+    "stat1": "+{X} to Ice Barrage (Sorceress Only)",
+    "displayName": "+{X} to Ice Barrage (Sorceress Only)"
+  },
+  {
+    "code": "skill-383",
+    "stat1": "+{X} to Lesser Hyrdra (Sorceress Only)",
+    "displayName": "+{X} to Lesser Hyrdra (Sorceress Only)"
+  },
+  {
+    "code": "skill-376",
+    "stat1": "+{X} to Combustion (Sorceress Only)",
+    "displayName": "+{X} to Combustion (Sorceress Only)"
+  },
+  {
+    "code": "skill-66",
+    "stat1": "+{X} to Amplify Damage (Necromancer Only)",
+    "displayName": "+{X} to Amplify Damage (Necromancer Only)"
+  },
+  {
+    "code": "skill-67",
+    "stat1": "+{X} to Teeth (Necromancer Only)",
+    "displayName": "+{X} to Teeth (Necromancer Only)"
+  },
+  {
+    "code": "skill-68",
+    "stat1": "+{X} to Bone Armor (Necromancer Only)",
+    "displayName": "+{X} to Bone Armor (Necromancer Only)"
+  },
+  {
+    "code": "skill-69",
+    "stat1": "+{X} to Skeleton Mastery (Necromancer Only)",
+    "displayName": "+{X} to Skeleton Mastery (Necromancer Only)"
+  },
+  {
+    "code": "skill-70",
+    "stat1": "+{X} to Raise Skeleton Warrior (Necromancer Only)",
+    "displayName": "+{X} to Raise Skeleton Warrior (Necromancer Only)"
+  },
+  {
+    "code": "skill-71",
+    "stat1": "+{X} to Dim Vision (Necromancer Only)",
+    "displayName": "+{X} to Dim Vision (Necromancer Only)"
+  },
+  {
+    "code": "skill-72",
+    "stat1": "+{X} to Weaken (Necromancer Only)",
+    "displayName": "+{X} to Weaken (Necromancer Only)"
+  },
+  {
+    "code": "skill-73",
+    "stat1": "+{X} to Poison Dagger (Necromancer Only)",
+    "displayName": "+{X} to Poison Dagger (Necromancer Only)"
+  },
+  {
+    "code": "skill-74",
+    "stat1": "+{X} to Corpse Explosion (Necromancer Only)",
+    "displayName": "+{X} to Corpse Explosion (Necromancer Only)"
+  },
+  {
+    "code": "skill-75",
+    "stat1": "+{X} to Clay Golem (Necromancer Only)",
+    "displayName": "+{X} to Clay Golem (Necromancer Only)"
+  },
+  {
+    "code": "skill-76",
+    "stat1": "+{X} to Iron Maiden (Necromancer Only)",
+    "displayName": "+{X} to Iron Maiden (Necromancer Only)"
+  },
+  {
+    "code": "skill-77",
+    "stat1": "+{X} to Terror (Necromancer Only)",
+    "displayName": "+{X} to Terror (Necromancer Only)"
+  },
+  {
+    "code": "skill-78",
+    "stat1": "+{X} to Bone Wall (Necromancer Only)",
+    "displayName": "+{X} to Bone Wall (Necromancer Only)"
+  },
+  {
+    "code": "skill-79",
+    "stat1": "+{X} to Golem Mastery (Necromancer Only)",
+    "displayName": "+{X} to Golem Mastery (Necromancer Only)"
+  },
+  {
+    "code": "skill-80",
+    "stat1": "+{X} to Raise Skeletal Mage (Necromancer Only)",
+    "displayName": "+{X} to Raise Skeletal Mage (Necromancer Only)"
+  },
+  {
+    "code": "skill-81",
+    "stat1": "+{X} to Confuse (Necromancer Only)",
+    "displayName": "+{X} to Confuse (Necromancer Only)"
+  },
+  {
+    "code": "skill-82",
+    "stat1": "+{X} to Life Tap (Necromancer Only)",
+    "displayName": "+{X} to Life Tap (Necromancer Only)"
+  },
+  {
+    "code": "skill-83",
+    "stat1": "+{X} to Desecrate (Necromancer Only)",
+    "displayName": "+{X} to Desecrate (Necromancer Only)"
+  },
+  {
+    "code": "skill-84",
+    "stat1": "+{X} to Bone Spear (Necromancer Only)",
+    "displayName": "+{X} to Bone Spear (Necromancer Only)"
+  },
+  {
+    "code": "skill-85",
+    "stat1": "+{X} to Blood Golem (Necromancer Only)",
+    "displayName": "+{X} to Blood Golem (Necromancer Only)"
+  },
+  {
+    "code": "skill-86",
+    "stat1": "+{X} to Attract (Necromancer Only)",
+    "displayName": "+{X} to Attract (Necromancer Only)"
+  },
+  {
+    "code": "skill-87",
+    "stat1": "+{X} to Decrepify (Necromancer Only)",
+    "displayName": "+{X} to Decrepify (Necromancer Only)"
+  },
+  {
+    "code": "skill-88",
+    "stat1": "+{X} to Bone Prison (Necromancer Only)",
+    "displayName": "+{X} to Bone Prison (Necromancer Only)"
+  },
+  {
+    "code": "skill-90",
+    "stat1": "+{X} to Iron Golem (Necromancer Only)",
+    "displayName": "+{X} to Iron Golem (Necromancer Only)"
+  },
+  {
+    "code": "skill-91",
+    "stat1": "+{X} to Lower Resist (Necromancer Only)",
+    "displayName": "+{X} to Lower Resist (Necromancer Only)"
+  },
+  {
+    "code": "skill-92",
+    "stat1": "+{X} to Poison Nova (Necromancer Only)",
+    "displayName": "+{X} to Poison Nova (Necromancer Only)"
+  },
+  {
+    "code": "skill-93",
+    "stat1": "+{X} to Bone Spirit (Necromancer Only)",
+    "displayName": "+{X} to Bone Spirit (Necromancer Only)"
+  },
+  {
+    "code": "skill-94",
+    "stat1": "+{X} to Fire Golem (Necromancer Only)",
+    "displayName": "+{X} to Fire Golem (Necromancer Only)"
+  },
+  {
+    "code": "skill-95",
+    "stat1": "+{X} to Revive (Necromancer Only)",
+    "displayName": "+{X} to Revive (Necromancer Only)"
+  },
+  {
+    "code": "skill-367",
+    "stat1": "+{X} to Blood Warp (Necromancer Only)",
+    "displayName": "+{X} to Blood Warp (Necromancer Only)"
+  },
+  {
+    "code": "skill-381",
+    "stat1": "+{X} to Dark Pact (Necromancer Only)",
+    "displayName": "+{X} to Dark Pact (Necromancer Only)"
+  },
+  {
+    "code": "skill-curs",
+    "stat1": "+{X} to Curse Mastery (Necromancer Only)",
+    "displayName": "+{X} to Curse Mastery (Necromancer Only)"
+  },
+  {
+    "code": "skill-96",
+    "stat1": "+{X} to Sacrifice (Paladin Only)",
+    "displayName": "+{X} to Sacrifice (Paladin Only)"
+  },
+  {
+    "code": "skill-97",
+    "stat1": "+{X} to Smite (Paladin Only)",
+    "displayName": "+{X} to Smite (Paladin Only)"
+  },
+  {
+    "code": "skill-98",
+    "stat1": "+{X} to Might (Paladin Only)",
+    "displayName": "+{X} to Might (Paladin Only)"
+  },
+  {
+    "code": "skill-99",
+    "stat1": "+{X} to Prayer (Paladin Only)",
+    "displayName": "+{X} to Prayer (Paladin Only)"
+  },
+  {
+    "code": "skill-100",
+    "stat1": "+{X} to Resist Fire (Paladin Only)",
+    "displayName": "+{X} to Resist Fire (Paladin Only)"
+  },
+  {
+    "code": "skill-101",
+    "stat1": "+{X} to Holy Bolt (Paladin Only)",
+    "displayName": "+{X} to Holy Bolt (Paladin Only)"
+  },
+  {
+    "code": "skill-102",
+    "stat1": "+{X} to Holy Fire (Paladin Only)",
+    "displayName": "+{X} to Holy Fire (Paladin Only)"
+  },
+  {
+    "code": "skill-103",
+    "stat1": "+{X} to Thorns (Paladin Only)",
+    "displayName": "+{X} to Thorns (Paladin Only)"
+  },
+  {
+    "code": "skill-104",
+    "stat1": "+{X} to Defiance (Paladin Only)",
+    "displayName": "+{X} to Defiance (Paladin Only)"
+  },
+  {
+    "code": "skill-105",
+    "stat1": "+{X} to Resist Cold (Paladin Only)",
+    "displayName": "+{X} to Resist Cold (Paladin Only)"
+  },
+  {
+    "code": "skill-106",
+    "stat1": "+{X} to Zeal (Paladin Only)",
+    "displayName": "+{X} to Zeal (Paladin Only)"
+  },
+  {
+    "code": "skill-107",
+    "stat1": "+{X} to Charge (Paladin Only)",
+    "displayName": "+{X} to Charge (Paladin Only)"
+  },
+  {
+    "code": "skill-108",
+    "stat1": "+{X} to Blessed Aim (Paladin Only)",
+    "displayName": "+{X} to Blessed Aim (Paladin Only)"
+  },
+  {
+    "code": "skill-109",
+    "stat1": "+{X} to Cleansing (Paladin Only)",
+    "displayName": "+{X} to Cleansing (Paladin Only)"
+  },
+  {
+    "code": "skill-110",
+    "stat1": "+{X} to Resist Lightning (Paladin Only)",
+    "displayName": "+{X} to Resist Lightning (Paladin Only)"
+  },
+  {
+    "code": "skill-111",
+    "stat1": "+{X} to Vengeance (Paladin Only)",
+    "displayName": "+{X} to Vengeance (Paladin Only)"
+  },
+  {
+    "code": "skill-112",
+    "stat1": "+{X} to Blessed Hammer (Paladin Only)",
+    "displayName": "+{X} to Blessed Hammer (Paladin Only)"
+  },
+  {
+    "code": "skill-113",
+    "stat1": "+{X} to Concentration (Paladin Only)",
+    "displayName": "+{X} to Concentration (Paladin Only)"
+  },
+  {
+    "code": "skill-114",
+    "stat1": "+{X} to Holy Freeze (Paladin Only)",
+    "displayName": "+{X} to Holy Freeze (Paladin Only)"
+  },
+  {
+    "code": "skill-115",
+    "stat1": "+{X} to Vigor (Paladin Only)",
+    "displayName": "+{X} to Vigor (Paladin Only)"
+  },
+  {
+    "code": "skill-116",
+    "stat1": "+{X} to Conversion (Paladin Only)",
+    "displayName": "+{X} to Conversion (Paladin Only)"
+  },
+  {
+    "code": "skill-117",
+    "stat1": "+{X} to Holy Shield (Paladin Only)",
+    "displayName": "+{X} to Holy Shield (Paladin Only)"
+  },
+  {
+    "code": "skill-118",
+    "stat1": "+{X} to Holy Shock (Paladin Only)",
+    "displayName": "+{X} to Holy Shock (Paladin Only)"
+  },
+  {
+    "code": "skill-119",
+    "stat1": "+{X} to Sanctuary (Paladin Only)",
+    "displayName": "+{X} to Sanctuary (Paladin Only)"
+  },
+  {
+    "code": "skill-120",
+    "stat1": "+{X} to Meditation (Paladin Only)",
+    "displayName": "+{X} to Meditation (Paladin Only)"
+  },
+  {
+    "code": "skill-121",
+    "stat1": "+{X} to Fist of the Heavens (Paladin Only)",
+    "displayName": "+{X} to Fist of the Heavens (Paladin Only)"
+  },
+  {
+    "code": "skill-122",
+    "stat1": "+{X} to Fanaticism (Paladin Only)",
+    "displayName": "+{X} to Fanaticism (Paladin Only)"
+  },
+  {
+    "code": "skill-123",
+    "stat1": "+{X} to Conviction (Paladin Only)",
+    "displayName": "+{X} to Conviction (Paladin Only)"
+  },
+  {
+    "code": "skill-124",
+    "stat1": "+{X} to Redemption (Paladin Only)",
+    "displayName": "+{X} to Redemption (Paladin Only)"
+  },
+  {
+    "code": "skill-125",
+    "stat1": "+{X} to Salvation (Paladin Only)",
+    "displayName": "+{X} to Salvation (Paladin Only)"
+  },
+  {
+    "code": "skill-364",
+    "stat1": "+{X} to Holy Nova (Paladin Only)",
+    "displayName": "+{X} to Holy Nova (Paladin Only)"
+  },
+  {
+    "code": "skill-371",
+    "stat1": "+{X} to Holy Light (Paladin Only)",
+    "displayName": "+{X} to Holy Light (Paladin Only)"
+  },
+  {
+    "code": "skill-jous",
+    "stat1": "+{X} to Joust (Paladin Only)",
+    "displayName": "+{X} to Joust (Paladin Only)"
+  },
+  {
+    "code": "skill-126",
+    "stat1": "+{X} to Bash (Barbarian Only)",
+    "displayName": "+{X} to Bash (Barbarian Only)"
+  },
+  {
+    "code": "skill-128",
+    "stat1": "+{X} to General Mastery (Barbarian Only)",
+    "displayName": "+{X} to General Mastery (Barbarian Only)"
+  },
+  {
+    "code": "skill-130",
+    "stat1": "+{X} to Howl (Barbarian Only)",
+    "displayName": "+{X} to Howl (Barbarian Only)"
+  },
+  {
+    "code": "skill-131",
+    "stat1": "+{X} to Find Potion (Barbarian Only)",
+    "displayName": "+{X} to Find Potion (Barbarian Only)"
+  },
+  {
+    "code": "skill-132",
+    "stat1": "+{X} to Leap (Barbarian Only)",
+    "displayName": "+{X} to Leap (Barbarian Only)"
+  },
+  {
+    "code": "skill-133",
+    "stat1": "+{X} to Double Swing (Barbarian Only)",
+    "displayName": "+{X} to Double Swing (Barbarian Only)"
+  },
+  {
+    "code": "skill-135",
+    "stat1": "+{X} to Throwing Mastery (Barbarian Only)",
+    "displayName": "+{X} to Throwing Mastery (Barbarian Only)"
+  },
+  {
+    "code": "skill-136",
+    "stat1": "+{X} to Polearm and Spear Mastery (Barbarian Only)",
+    "displayName": "+{X} to Polearm and Spear Mastery (Barbarian Only)"
+  },
+  {
+    "code": "skill-137",
+    "stat1": "+{X} to Taunt (Barbarian Only)",
+    "displayName": "+{X} to Taunt (Barbarian Only)"
+  },
+  {
+    "code": "skill-138",
+    "stat1": "+{X} to Shout (Barbarian Only)",
+    "displayName": "+{X} to Shout (Barbarian Only)"
+  },
+  {
+    "code": "skill-139",
+    "stat1": "+{X} to Stun (Barbarian Only)",
+    "displayName": "+{X} to Stun (Barbarian Only)"
+  },
+  {
+    "code": "skill-140",
+    "stat1": "+{X} to Double Throw (Barbarian Only)",
+    "displayName": "+{X} to Double Throw (Barbarian Only)"
+  },
+  {
+    "code": "skill-141",
+    "stat1": "+{X} to Combat Reflexes (Barbarian Only)",
+    "displayName": "+{X} to Combat Reflexes (Barbarian Only)"
+  },
+  {
+    "code": "skill-142",
+    "stat1": "+{X} to Find Item (Barbarian Only)",
+    "displayName": "+{X} to Find Item (Barbarian Only)"
+  },
+  {
+    "code": "skill-143",
+    "stat1": "+{X} to Leap Attack (Barbarian Only)",
+    "displayName": "+{X} to Leap Attack (Barbarian Only)"
+  },
+  {
+    "code": "skill-144",
+    "stat1": "+{X} to Concentrate (Barbarian Only)",
+    "displayName": "+{X} to Concentrate (Barbarian Only)"
+  },
+  {
+    "code": "skill-145",
+    "stat1": "+{X} to Iron Skin (Barbarian Only)",
+    "displayName": "+{X} to Iron Skin (Barbarian Only)"
+  },
+  {
+    "code": "skill-146",
+    "stat1": "+{X} to Battle Cry (Barbarian Only)",
+    "displayName": "+{X} to Battle Cry (Barbarian Only)"
+  },
+  {
+    "code": "skill-147",
+    "stat1": "+{X} to Frenzy (Barbarian Only)",
+    "displayName": "+{X} to Frenzy (Barbarian Only)"
+  },
+  {
+    "code": "skill-148",
+    "stat1": "+{X} to Increased Speed (Barbarian Only)",
+    "displayName": "+{X} to Increased Speed (Barbarian Only)"
+  },
+  {
+    "code": "skill-149",
+    "stat1": "+{X} to Battle Orders (Barbarian Only)",
+    "displayName": "+{X} to Battle Orders (Barbarian Only)"
+  },
+  {
+    "code": "skill-150",
+    "stat1": "+{X} to Grim Ward (Barbarian Only)",
+    "displayName": "+{X} to Grim Ward (Barbarian Only)"
+  },
+  {
+    "code": "skill-151",
+    "stat1": "+{X} to Whirlwind (Barbarian Only)",
+    "displayName": "+{X} to Whirlwind (Barbarian Only)"
+  },
+  {
+    "code": "skill-152",
+    "stat1": "+{X} to Berserk (Barbarian Only)",
+    "displayName": "+{X} to Berserk (Barbarian Only)"
+  },
+  {
+    "code": "skill-153",
+    "stat1": "+{X} to Natural Resistance (Barbarian Only)",
+    "displayName": "+{X} to Natural Resistance (Barbarian Only)"
+  },
+  {
+    "code": "skill-154",
+    "stat1": "+{X} to War Cry (Barbarian Only)",
+    "displayName": "+{X} to War Cry (Barbarian Only)"
+  },
+  {
+    "code": "skill-155",
+    "stat1": "+{X} to Battle Command (Barbarian Only)",
+    "displayName": "+{X} to Battle Command (Barbarian Only)"
+  },
+  {
+    "code": "skill-221",
+    "stat1": "+{X} to Raven (Druid Only)",
+    "displayName": "+{X} to Raven (Druid Only)"
+  },
+  {
+    "code": "skill-222",
+    "stat1": "+{X} to Poison Creeper (Druid Only)",
+    "displayName": "+{X} to Poison Creeper (Druid Only)"
+  },
+  {
+    "code": "skill-223",
+    "stat1": "+{X} to Werewolf (Druid Only)",
+    "displayName": "+{X} to Werewolf (Druid Only)"
+  },
+  {
+    "code": "skill-224",
+    "stat1": "+{X} to Lycanthropy (Druid Only)",
+    "displayName": "+{X} to Lycanthropy (Druid Only)"
+  },
+  {
+    "code": "skill-225",
+    "stat1": "+{X} to Firestorm (Druid Only)",
+    "displayName": "+{X} to Firestorm (Druid Only)"
+  },
+  {
+    "code": "skill-226",
+    "stat1": "+{X} to Oak Sage (Druid Only)",
+    "displayName": "+{X} to Oak Sage (Druid Only)"
+  },
+  {
+    "code": "skill-227",
+    "stat1": "+{X} to Summon Spirit Wolf (Druid Only)",
+    "displayName": "+{X} to Summon Spirit Wolf (Druid Only)"
+  },
+  {
+    "code": "skill-228",
+    "stat1": "+{X} to Werebear (Druid Only)",
+    "displayName": "+{X} to Werebear (Druid Only)"
+  },
+  {
+    "code": "skill-229",
+    "stat1": "+{X} to Molten Boulder (Druid Only)",
+    "displayName": "+{X} to Molten Boulder (Druid Only)"
+  },
+  {
+    "code": "skill-230",
+    "stat1": "+{X} to Arctic Blast (Druid Only)",
+    "displayName": "+{X} to Arctic Blast (Druid Only)"
+  },
+  {
+    "code": "skill-231",
+    "stat1": "+{X} to Carrion Vine (Druid Only)",
+    "displayName": "+{X} to Carrion Vine (Druid Only)"
+  },
+  {
+    "code": "skill-232",
+    "stat1": "+{X} to Feral Rage (Druid Only)",
+    "displayName": "+{X} to Feral Rage (Druid Only)"
+  },
+  {
+    "code": "skill-233",
+    "stat1": "+{X} to Maul (Druid Only)",
+    "displayName": "+{X} to Maul (Druid Only)"
+  },
+  {
+    "code": "skill-234",
+    "stat1": "+{X} to Fissure (Druid Only)",
+    "displayName": "+{X} to Fissure (Druid Only)"
+  },
+  {
+    "code": "skill-235",
+    "stat1": "+{X} to Cyclone Armor (Druid Only)",
+    "displayName": "+{X} to Cyclone Armor (Druid Only)"
+  },
+  {
+    "code": "skill-236",
+    "stat1": "+{X} to Heart of Wolverine (Druid Only)",
+    "displayName": "+{X} to Heart of Wolverine (Druid Only)"
+  },
+  {
+    "code": "skill-237",
+    "stat1": "+{X} to Summon Dire Wolf (Druid Only)",
+    "displayName": "+{X} to Summon Dire Wolf (Druid Only)"
+  },
+  {
+    "code": "skill-238",
+    "stat1": "+{X} to Rabies (Druid Only)",
+    "displayName": "+{X} to Rabies (Druid Only)"
+  },
+  {
+    "code": "skill-239",
+    "stat1": "+{X} to Fire Claws (Druid Only)",
+    "displayName": "+{X} to Fire Claws (Druid Only)"
+  },
+  {
+    "code": "skill-240",
+    "stat1": "+{X} to Twister (Druid Only)",
+    "displayName": "+{X} to Twister (Druid Only)"
+  },
+  {
+    "code": "skill-241",
+    "stat1": "+{X} to Solar Creeper (Druid Only)",
+    "displayName": "+{X} to Solar Creeper (Druid Only)"
+  },
+  {
+    "code": "skill-242",
+    "stat1": "+{X} to Hunger (Druid Only)",
+    "displayName": "+{X} to Hunger (Druid Only)"
+  },
+  {
+    "code": "skill-243",
+    "stat1": "+{X} to Shock Wave (Druid Only)",
+    "displayName": "+{X} to Shock Wave (Druid Only)"
+  },
+  {
+    "code": "skill-244",
+    "stat1": "+{X} to Volcano (Druid Only)",
+    "displayName": "+{X} to Volcano (Druid Only)"
+  },
+  {
+    "code": "skill-245",
+    "stat1": "+{X} to Tornado (Druid Only)",
+    "displayName": "+{X} to Tornado (Druid Only)"
+  },
+  {
+    "code": "skill-246",
+    "stat1": "+{X} to Spirit of Barbs (Druid Only)",
+    "displayName": "+{X} to Spirit of Barbs (Druid Only)"
+  },
+  {
+    "code": "skill-247",
+    "stat1": "+{X} to Summon Grizzly (Druid Only)",
+    "displayName": "+{X} to Summon Grizzly (Druid Only)"
+  },
+  {
+    "code": "skill-248",
+    "stat1": "+{X} to Fury (Druid Only)",
+    "displayName": "+{X} to Fury (Druid Only)"
+  },
+  {
+    "code": "skill-249",
+    "stat1": "+{X} to Armageddon (Druid Only)",
+    "displayName": "+{X} to Armageddon (Druid Only)"
+  },
+  {
+    "code": "skill-250",
+    "stat1": "+{X} to Hurricane (Druid Only)",
+    "displayName": "+{X} to Hurricane (Druid Only)"
+  },
+  {
+    "code": "skill-gust",
+    "stat1": "+{X} to Gust (Druid Only)",
+    "displayName": "+{X} to Gust (Druid Only)"
+  },
+  {
+    "code": "skill-251",
+    "stat1": "+{X} to Fire Blast (Assassin Only)",
+    "displayName": "+{X} to Fire Blast (Assassin Only)"
+  },
+  {
+    "code": "skill-252",
+    "stat1": "+{X} to Claw Mastery (Assassin Only)",
+    "displayName": "+{X} to Claw Mastery (Assassin Only)"
+  },
+  {
+    "code": "skill-253",
+    "stat1": "+{X} to Psychic Hammer (Assassin Only)",
+    "displayName": "+{X} to Psychic Hammer (Assassin Only)"
+  },
+  {
+    "code": "skill-254",
+    "stat1": "+{X} to Tiger Strike (Assassin Only)",
+    "displayName": "+{X} to Tiger Strike (Assassin Only)"
+  },
+  {
+    "code": "skill-255",
+    "stat1": "+{X} to Dragon Talon (Assassin Only)",
+    "displayName": "+{X} to Dragon Talon (Assassin Only)"
+  },
+  {
+    "code": "skill-256",
+    "stat1": "+{X} to Shock Web (Assassin Only)",
+    "displayName": "+{X} to Shock Web (Assassin Only)"
+  },
+  {
+    "code": "skill-257",
+    "stat1": "+{X} to Blade Sentinel (Assassin Only)",
+    "displayName": "+{X} to Blade Sentinel (Assassin Only)"
+  },
+  {
+    "code": "skill-258",
+    "stat1": "+{X} to Burst of Speed (Assassin Only)",
+    "displayName": "+{X} to Burst of Speed (Assassin Only)"
+  },
+  {
+    "code": "skill-259",
+    "stat1": "+{X} to Fists of Fire (Assassin Only)",
+    "displayName": "+{X} to Fists of Fire (Assassin Only)"
+  },
+  {
+    "code": "skill-260",
+    "stat1": "+{X} to Dragon Claw (Assassin Only)",
+    "displayName": "+{X} to Dragon Claw (Assassin Only)"
+  },
+  {
+    "code": "skill-261",
+    "stat1": "+{X} to Charged Bolt Sentry (Assassin Only)",
+    "displayName": "+{X} to Charged Bolt Sentry (Assassin Only)"
+  },
+  {
+    "code": "skill-262",
+    "stat1": "+{X} to Wake of Fire (Assassin Only)",
+    "displayName": "+{X} to Wake of Fire (Assassin Only)"
+  },
+  {
+    "code": "skill-263",
+    "stat1": "+{X} to Weapon Block (Assassin Only)",
+    "displayName": "+{X} to Weapon Block (Assassin Only)"
+  },
+  {
+    "code": "skill-264",
+    "stat1": "+{X} to Cloak of Shadows (Assassin Only)",
+    "displayName": "+{X} to Cloak of Shadows (Assassin Only)"
+  },
+  {
+    "code": "skill-265",
+    "stat1": "+{X} to Cobra Strike (Assassin Only)",
+    "displayName": "+{X} to Cobra Strike (Assassin Only)"
+  },
+  {
+    "code": "skill-266",
+    "stat1": "+{X} to Blade Fury (Assassin Only)",
+    "displayName": "+{X} to Blade Fury (Assassin Only)"
+  },
+  {
+    "code": "skill-267",
+    "stat1": "+{X} to Fade (Assassin Only)",
+    "displayName": "+{X} to Fade (Assassin Only)"
+  },
+  {
+    "code": "skill-268",
+    "stat1": "+{X} to Shadow Warrior (Assassin Only)",
+    "displayName": "+{X} to Shadow Warrior (Assassin Only)"
+  },
+  {
+    "code": "skill-269",
+    "stat1": "+{X} to Claws of Thunder (Assassin Only)",
+    "displayName": "+{X} to Claws of Thunder (Assassin Only)"
+  },
+  {
+    "code": "skill-270",
+    "stat1": "+{X} to Dragon Tail (Assassin Only)",
+    "displayName": "+{X} to Dragon Tail (Assassin Only)"
+  },
+  {
+    "code": "skill-271",
+    "stat1": "+{X} to Chain Lightning Sentry (Assassin Only)",
+    "displayName": "+{X} to Chain Lightning Sentry (Assassin Only)"
+  },
+  {
+    "code": "skill-272",
+    "stat1": "+{X} to Wake of Inferno (Assassin Only)",
+    "displayName": "+{X} to Wake of Inferno (Assassin Only)"
+  },
+  {
+    "code": "skill-273",
+    "stat1": "+{X} to Mind Blast (Assassin Only)",
+    "displayName": "+{X} to Mind Blast (Assassin Only)"
+  },
+  {
+    "code": "skill-274",
+    "stat1": "+{X} to Blades of Ice (Assassin Only)",
+    "displayName": "+{X} to Blades of Ice (Assassin Only)"
+  },
+  {
+    "code": "skill-275",
+    "stat1": "+{X} to Dragon Flight (Assassin Only)",
+    "displayName": "+{X} to Dragon Flight (Assassin Only)"
+  },
+  {
+    "code": "skill-276",
+    "stat1": "+{X} to Death Sentry (Assassin Only)",
+    "displayName": "+{X} to Death Sentry (Assassin Only)"
+  },
+  {
+    "code": "skill-277",
+    "stat1": "+{X} to Blade Shield (Assassin Only)",
+    "displayName": "+{X} to Blade Shield (Assassin Only)"
+  },
+  {
+    "code": "skill-278",
+    "stat1": "+{X} to Venom (Assassin Only)",
+    "displayName": "+{X} to Venom (Assassin Only)"
+  },
+  {
+    "code": "skill-279",
+    "stat1": "+{X} to Shadow Master (Assassin Only)",
+    "displayName": "+{X} to Shadow Master (Assassin Only)"
+  },
+  {
+    "code": "skill-280",
+    "stat1": "+{X} to Phoenix Strike (Assassin Only)",
+    "displayName": "+{X} to Phoenix Strike (Assassin Only)"
+  },
+  {
+    "code": "skill-ligh",
+    "stat1": "+{X} to Lightning Sentry (Assassin Only)",
+    "displayName": "+{X} to Lightning Sentry (Assassin Only)"
+  },
+  {
+    "code": "oskill-70",
+    "stat1": "+{X} to Raise Skeleton Warrior",
+    "displayName": "+{X} to Raise Skeleton Warrior"
+  },
+  {
+    "code": "oskill-80",
+    "stat1": "+{X} to Raise Skeletal Mage",
+    "displayName": "+{X} to Raise Skeletal Mage"
+  },
+  {
+    "code": "oskill-16",
+    "stat1": "+{X} to Exploding Arrow",
+    "displayName": "+{X} to Exploding Arrow"
+  },
+  {
+    "code": "oskill-68",
+    "stat1": "+{X} to Bone Armor",
+    "displayName": "+{X} to Bone Armor"
+  },
+  {
+    "code": "oskill-106",
+    "stat1": "+{X} to Zeal",
+    "displayName": "+{X} to Zeal"
+  },
+  {
+    "code": "oskill-19",
+    "stat1": "+{X} to Javelin and Spear Mastery",
+    "displayName": "+{X} to Javelin and Spear Mastery"
+  },
+  {
+    "code": "oskill-30",
+    "stat1": "+{X} to Fend",
+    "displayName": "+{X} to Fend"
+  },
+  {
+    "code": "oskill-10",
+    "stat1": "+{X} to Jab",
+    "displayName": "+{X} to Jab"
+  },
+  {
+    "code": "oskill-26",
+    "stat1": "+{X} to Strafe",
+    "displayName": "+{X} to Strafe"
+  },
+  {
+    "code": "oskill-264",
+    "stat1": "+{X} to Cloak of Shadows",
+    "displayName": "+{X} to Cloak of Shadows"
+  },
+  {
+    "code": "oskill-74",
+    "stat1": "+{X} to Corpse Explosion",
+    "displayName": "+{X} to Corpse Explosion"
+  },
+  {
+    "code": "oskill-226",
+    "stat1": "+{X} to Oak Sage",
+    "displayName": "+{X} to Oak Sage"
+  },
+  {
+    "code": "oskill-236",
+    "stat1": "+{X} to Heart of Wolverine",
+    "displayName": "+{X} to Heart of Wolverine"
+  },
+  {
+    "code": "oskill-246",
+    "stat1": "+{X} to Spirit of Barbs",
+    "displayName": "+{X} to Spirit of Barbs"
+  },
+  {
+    "code": "oskill-22",
+    "stat1": "+{X} to Guided Arrow",
+    "displayName": "+{X} to Guided Arrow"
+  },
+  {
+    "code": "oskill-12",
+    "stat1": "+{X} to Multiple Shot",
+    "displayName": "+{X} to Multiple Shot"
+  },
+  {
+    "code": "oskill-7",
+    "stat1": "+{X} to Fire Arrow",
+    "displayName": "+{X} to Fire Arrow"
+  },
+  {
+    "code": "oskill-62",
+    "stat1": "+{X} to Hydra",
+    "displayName": "+{X} to Hydra"
+  },
+  {
+    "code": "oskill-237",
+    "stat1": "+{X} to Summon Dire Wolf",
+    "displayName": "+{X} to Summon Dire Wolf"
+  },
+  {
+    "code": "oskill-248",
+    "stat1": "+{X} to Fury",
+    "displayName": "+{X} to Fury"
+  },
+  {
+    "code": "oskill-232",
+    "stat1": "+{X} to Feral Rage",
+    "displayName": "+{X} to Feral Rage"
+  },
+  {
+    "code": "oskill-223",
+    "stat1": "+{X} to Werewolf",
+    "displayName": "+{X} to Werewolf"
+  },
+  {
+    "code": "oskill-230",
+    "stat1": "+{X} to Arctic Blast",
+    "displayName": "+{X} to Arctic Blast"
+  },
+  {
+    "code": "oskill-90",
+    "stat1": "+{X} to Iron Golem",
+    "displayName": "+{X} to Iron Golem"
+  },
+  {
+    "code": "oskill-221",
+    "stat1": "+{X} to Raven",
+    "displayName": "+{X} to Raven"
+  },
+  {
+    "code": "oskill-73",
+    "stat1": "+{X} to Poison Dagger",
+    "displayName": "+{X} to Poison Dagger"
+  },
+  {
+    "code": "oskill-155",
+    "stat1": "+{X} to Battle Command",
+    "displayName": "+{X} to Battle Command"
+  },
+  {
+    "code": "oskill-149",
+    "stat1": "+{X} to Battle Orders",
+    "displayName": "+{X} to Battle Orders"
+  },
+  {
+    "code": "oskill-146",
+    "stat1": "+{X} to Battle Cry",
+    "displayName": "+{X} to Battle Cry"
+  },
+  {
+    "code": "oskill-95",
+    "stat1": "+{X} to Revive",
+    "displayName": "+{X} to Revive"
+  },
+  {
+    "code": "oskill-111",
+    "stat1": "+{X} to Vengeance",
+    "displayName": "+{X} to Vengeance"
+  },
+  {
+    "code": "oskill-152",
+    "stat1": "+{X} to Berserk",
+    "displayName": "+{X} to Berserk"
+  },
+  {
+    "code": "oskill-151",
+    "stat1": "+{X} to Whirlwind",
+    "displayName": "+{X} to Whirlwind"
+  },
+  {
+    "code": "oskill-242",
+    "stat1": "+{X} to Hunger",
+    "displayName": "+{X} to Hunger"
+  },
+  {
+    "code": "oskill-228",
+    "stat1": "+{X} to Werebear",
+    "displayName": "+{X} to Werebear"
+  },
+  {
+    "code": "oskill-233",
+    "stat1": "+{X} to Maul",
+    "displayName": "+{X} to Maul"
+  },
+  {
+    "code": "oskill-32",
+    "stat1": "+{X} to Valkyrie",
+    "displayName": "+{X} to Valkyrie"
+  },
+  {
+    "code": "oskill-85",
+    "stat1": "+{X} to Blood Golem",
+    "displayName": "+{X} to Blood Golem"
+  },
+  {
+    "code": "oskill-37",
+    "stat1": "+{X} to Warmth",
+    "displayName": "+{X} to Warmth"
+  },
+  {
+    "code": "oskill-9",
+    "stat1": "+{X} to Critical Strike",
+    "displayName": "+{X} to Critical Strike"
+  },
+  {
+    "code": "oskill-56",
+    "stat1": "+{X} to Meteor",
+    "displayName": "+{X} to Meteor"
+  },
+  {
+    "code": "oskill-47",
+    "stat1": "+{X} to Fire Ball",
+    "displayName": "+{X} to Fire Ball"
+  },
+  {
+    "code": "oskill-61",
+    "stat1": "+{X} to Fire Mastery",
+    "displayName": "+{X} to Fire Mastery"
+  },
+  {
+    "code": "oskill-51",
+    "stat1": "+{X} to Fire Wall",
+    "displayName": "+{X} to Fire Wall"
+  },
+  {
+    "code": "hit-skill-47",
+    "stat1": "{X}% Chance to cast level {Y} Fire Ball on striking",
+    "displayName": "{X}% Chance to cast level {Y} Fire Ball on striking"
+  },
+  {
+    "code": "hit-skill-56",
+    "stat1": "{X}% Chance to cast level {Y} Meteor on striking",
+    "displayName": "{X}% Chance to cast level {Y} Meteor on striking"
+  },
+  {
+    "code": "hit-skill-45",
+    "stat1": "{X}% Chance to cast level {Y} Ice Blast on striking",
+    "displayName": "{X}% Chance to cast level {Y} Ice Blast on striking"
+  },
+  {
+    "code": "hit-skill-44",
+    "stat1": "{X}% Chance to cast level {Y} Frost Nova on striking",
+    "displayName": "{X}% Chance to cast level {Y} Frost Nova on striking"
+  },
+  {
+    "code": "hit-skill-59",
+    "stat1": "{X}% Chance to cast level {Y} Blizzard on striking",
+    "displayName": "{X}% Chance to cast level {Y} Blizzard on striking"
+  },
+  {
+    "code": "hit-skill-91",
+    "stat1": "{X}% Chance to cast level {Y} Lower Resist on striking",
+    "displayName": "{X}% Chance to cast level {Y} Lower Resist on striking"
+  },
+  {
+    "code": "hit-skill-92",
+    "stat1": "{X}% Chance to cast level {Y} Poison Nova on striking",
+    "displayName": "{X}% Chance to cast level {Y} Poison Nova on striking"
+  },
+  {
+    "code": "hit-skill-87",
+    "stat1": "{X}% Chance to cast level {Y} Decrepify on striking",
+    "displayName": "{X}% Chance to cast level {Y} Decrepify on striking"
+  },
+  {
+    "code": "hit-skill-81",
+    "stat1": "{X}% Chance to cast level {Y} Confuse on striking",
+    "displayName": "{X}% Chance to cast level {Y} Confuse on striking"
+  },
+  {
+    "code": "hit-skill-66",
+    "stat1": "{X}% Chance to cast level {Y} Amplify Damage on striking",
+    "displayName": "{X}% Chance to cast level {Y} Amplify Damage on striking"
+  },
+  {
+    "code": "hit-skill-53",
+    "stat1": "{X}% Chance to cast level {Y} Chain Lightning on striking",
+    "displayName": "{X}% Chance to cast level {Y} Chain Lightning on striking"
+  },
+  {
+    "code": "hit-skill-38",
+    "stat1": "{X}% Chance to cast level {Y} Charged Bolt on striking",
+    "displayName": "{X}% Chance to cast level {Y} Charged Bolt on striking"
+  },
+  {
+    "code": "hit-skill-72",
+    "stat1": "{X}% Chance to cast level {Y} Weaken on striking",
+    "displayName": "{X}% Chance to cast level {Y} Weaken on striking"
+  },
+  {
+    "code": "hit-skill-234",
+    "stat1": "{X}% Chance to cast level {Y} Fissure on striking",
+    "displayName": "{X}% Chance to cast level {Y} Fissure on striking"
+  },
+  {
+    "code": "hit-skill-64",
+    "stat1": "{X}% Chance to cast level {Y} Frozen Orb on striking",
+    "displayName": "{X}% Chance to cast level {Y} Frozen Orb on striking"
+  },
+  {
+    "code": "hit-skill-229",
+    "stat1": "{X}% Chance to cast level {Y} Molten Boulder on striking",
+    "displayName": "{X}% Chance to cast level {Y} Molten Boulder on striking"
+  },
+  {
+    "code": "hit-skill-48",
+    "stat1": "{X}% Chance to cast level {Y} Nova on striking",
+    "displayName": "{X}% Chance to cast level {Y} Nova on striking"
+  },
+  {
+    "code": "hit-skill-76",
+    "stat1": "{X}% Chance to cast level {Y} Iron Maiden on striking",
+    "displayName": "{X}% Chance to cast level {Y} Iron Maiden on striking"
+  },
+  {
+    "code": "hit-skill-131",
+    "stat1": "{X}% Chance to cast level {Y} Fist of the Heavens on striking",
+    "displayName": "{X}% Chance to cast level {Y} Fist of the Heavens on striking"
+  },
+  {
+    "code": "hit-skill-245",
+    "stat1": "{X}% Chance to cast level {Y} Tornado on striking",
+    "displayName": "{X}% Chance to cast level {Y} Tornado on striking"
+  },
+  {
+    "code": "hit-skill-84",
+    "stat1": "{X}% Chance to cast level {Y} Bone Spear on striking",
+    "displayName": "{X}% Chance to cast level {Y} Bone Spear on striking"
+  },
+  {
+    "code": "hit-skill-240",
+    "stat1": "{X}% Chance to cast level {Y} Twister on striking",
+    "displayName": "{X}% Chance to cast level {Y} Twister on striking"
+  },
+  {
+    "code": "hit-skill-49",
+    "stat1": "{X}% Chance to cast level {Y} Lightning on striking",
+    "displayName": "{X}% Chance to cast level {Y} Lightning on striking"
+  },
+  {
+    "code": "hit-skill-83",
+    "stat1": "{X}% Chance to cast level {Y} Desecrate on striking",
+    "displayName": "{X}% Chance to cast level {Y} Desecrate on striking"
+  },
+  {
+    "code": "hit-skill-225",
+    "stat1": "{X}% Chance to cast level {Y} Firestorm on striking",
+    "displayName": "{X}% Chance to cast level {Y} Firestorm on striking"
+  },
+  {
+    "code": "hit-skill-42",
+    "stat1": "{X}% Chance to cast level {Y} Static Field on striking",
+    "displayName": "{X}% Chance to cast level {Y} Static Field on striking"
+  },
+  {
+    "code": "hit-skill-52",
+    "stat1": "{X}% Chance to cast level {Y} Enchant Fire on striking",
+    "displayName": "{X}% Chance to cast level {Y} Enchant Fire on striking"
+  },
+  {
+    "code": "hit-skill-101",
+    "stat1": "{X}% Chance to cast level {Y} Holy Bolt on striking",
+    "displayName": "{X}% Chance to cast level {Y} Holy Bolt on striking"
+  },
+  {
+    "code": "hit-skill-82",
+    "stat1": "{X}% Chance to cast level {Y} Life Tap on striking",
+    "displayName": "{X}% Chance to cast level {Y} Life Tap on striking"
+  },
+  {
+    "code": "hit-skill-244",
+    "stat1": "{X}% Chance to cast level {Y} Volcano on striking",
+    "displayName": "{X}% Chance to cast level {Y} Volcano on striking"
+  },
+  {
+    "code": "hit-skill-137",
+    "stat1": "{X}% Chance to cast level {Y} Taunt on striking",
+    "displayName": "{X}% Chance to cast level {Y} Taunt on striking"
+  },
+  {
+    "code": "hit-skill-32",
+    "stat1": "{X}% Chance to cast level {Y} Valkyrie on striking",
+    "displayName": "{X}% Chance to cast level {Y} Valkyrie on striking"
+  },
+  {
+    "code": "hit-skill-87",
+    "stat1": "{X}% Chance to cast level {Y} Decrepify on striking",
+    "displayName": "{X}% Chance to cast level {Y} Decrepify on striking"
+  },
+  {
+    "code": "hit-skill-278",
+    "stat1": "{X}% Chance to cast level {Y} Venom on striking",
+    "displayName": "{X}% Chance to cast level {Y} Venom on striking"
+  },
+  {
+    "code": "hit-skill-93",
+    "stat1": "{X}% Chance to cast level {Y} Bone Spirit on striking",
+    "displayName": "{X}% Chance to cast level {Y} Bone Spirit on striking"
+  },
+  {
+    "code": "hit-skill-62",
+    "stat1": "{X}% Chance to cast level {Y} Hydra on striking",
+    "displayName": "{X}% Chance to cast level {Y} Hydra on striking"
+  },
+  {
+    "code": "gethit-skill-71",
+    "stat1": "{X}% Chance to cast level {Y} Dim Vision when struck",
+    "displayName": "{X}% Chance to cast level {Y} Dim Vision when struck"
+  },
+  {
+    "code": "gethit-skill-92",
+    "stat1": "{X}% Chance to cast level {Y} Poison Nova when struck",
+    "displayName": "{X}% Chance to cast level {Y} Poison Nova when struck"
+  },
+  {
+    "code": "gethit-skill-76",
+    "stat1": "{X}% Chance to cast level {Y} Iron Maiden when struck",
+    "displayName": "{X}% Chance to cast level {Y} Iron Maiden when struck"
+  },
+  {
+    "code": "hit-skill-48",
+    "stat1": "{X}% Chance to cast level {Y} Nova when struck",
+    "displayName": "{X}% Chance to cast level {Y} Nova when struck"
+  },
+  {
+    "code": "gethit-skill-81",
+    "stat1": "{X}% Chance to cast level {Y} Confuse when struck",
+    "displayName": "{X}% Chance to cast level {Y} Confuse when struck"
+  },
+  {
+    "code": "hit-skill-51",
+    "stat1": "{X}% Chance to cast level {Y} Fire Wall when struck",
+    "displayName": "{X}% Chance to cast level {Y} Fire Wall when struck"
+  },
+  {
+    "code": "hit-skill-235",
+    "stat1": "{X}% Chance to cast level {Y} Cyclone Armor when struck",
+    "displayName": "{X}% Chance to cast level {Y} Cyclone Armor when struck"
+  },
+  {
+    "code": "gethit-skill-93",
+    "stat1": "{X}% Chance to cast level {Y} Bone Spirit when struck",
+    "displayName": "{X}% Chance to cast level {Y} Bone Spirit when struck"
+  },
+  {
+    "code": "gethit-skill-38",
+    "stat1": "{X}% Chance to cast level {Y} Charged Bolt when struck",
+    "displayName": "{X}% Chance to cast level {Y} Charged Bolt when struck"
+  },
+  {
+    "code": "gethit-skill-101",
+    "stat1": "{X}% Chance to cast level {Y} Holy Bolt when struck",
+    "displayName": "{X}% Chance to cast level {Y} Holy Bolt when struck"
+  },
+  {
+    "code": "hit-skill-54",
+    "stat1": "{X}% Chance to cast level {Y} Teleport when struck",
+    "displayName": "{X}% Chance to cast level {Y} Teleport when struck"
+  },
+  {
+    "code": "hit-skill-46",
+    "stat1": "{X}% Chance to cast level {Y} Blaze when struck",
+    "displayName": "{X}% Chance to cast level {Y} Blaze when struck"
+  },
+  {
+    "code": "hit-skill-59",
+    "stat1": "{X}% Chance to cast level {Y} Blizzard when struck",
+    "displayName": "{X}% Chance to cast level {Y} Blizzard when struck"
+  },
+  {
+    "code": "hit-skill-121",
+    "stat1": "{X}% Chance to cast level {Y} Fist of the Heavens when struck",
+    "displayName": "{X}% Chance to cast level {Y} Fist of the Heavens when struck"
+  },
+  {
+    "code": "hit-skill-245",
+    "stat1": "{X}% Chance to cast level {Y} Tornado when struck",
+    "displayName": "{X}% Chance to cast level {Y} Tornado when struck"
+  },
+  {
+    "code": "hit-skill-48",
+    "stat1": "{X}% Chance to cast level {Y} Nova when struck",
+    "displayName": "{X}% Chance to cast level {Y} Nova when struck"
+  },
+  {
+    "code": "hit-skill-130",
+    "stat1": "{X}% Chance to cast level {Y} Howl when struck",
+    "displayName": "{X}% Chance to cast level {Y} Howl when struck"
+  },
+  {
+    "code": "hit-skill-17",
+    "stat1": "{X}% Chance to cast level {Y} Slow Missiles when struck",
+    "displayName": "{X}% Chance to cast level {Y} Slow Missiles when struck"
+  },
+  {
+    "code": "hit-skill-62",
+    "stat1": "{X}% Chance to cast level {Y} Hydra when struck",
+    "displayName": "{X}% Chance to cast level {Y} Hydra when struck"
+  },
+  {
+    "code": "hit-skill-72",
+    "stat1": "{X}% Chance to cast level {Y} Weaken when struck",
+    "displayName": "{X}% Chance to cast level {Y} Weaken when struck"
+  },
+  {
+    "code": "hit-skill-less",
+    "stat1": "{X}% Chance to cast level {Y} Lesser Fade when struck",
+    "displayName": "{X}% Chance to cast level {Y} Lesser Fade when struck"
+  },
+  {
+    "code": "hit-skill-77",
+    "stat1": "{X}% Chance to cast level {Y} Terror when struck",
+    "displayName": "{X}% Chance to cast level {Y} Terror when struck"
+  },
+  {
+    "code": "hit-skill-deli",
+    "stat1": "{X}% Chance to cast level {Y} Delirium when struck",
+    "displayName": "{X}% Chance to cast level {Y} Delirium when struck"
+  },
+  {
+    "code": "hit-skill-250",
+    "stat1": "{X}% Chance to cast level {Y} Hurricane when struck",
+    "displayName": "{X}% Chance to cast level {Y} Hurricane when struck"
+  },
+  {
+    "code": "hit-skill-273",
+    "stat1": "{X}% Chance to cast level {Y} Mind Blast when struck",
+    "displayName": "{X}% Chance to cast level {Y} Mind Blast when struck"
+  },
+  {
+    "code": "hit-skill-91",
+    "stat1": "{X}% Chance to cast level {Y} Lower Resist when struck",
+    "displayName": "{X}% Chance to cast level {Y} Lower Resist when struck"
+  },
+  {
+    "code": "hit-skill-267",
+    "stat1": "{X}% Chance to cast level {Y} Fade when struck",
+    "displayName": "{X}% Chance to cast level {Y} Fade when struck"
+  },
+  {
+    "code": "att-skill-376",
+    "stat1": "{X}% Chance to cast level {Y} Combustion on attack",
+    "displayName": "{X}% Chance to cast level {Y} Combustion on attack"
+  },
+  {
+    "code": "att-skill-53",
+    "stat1": "{X}% Chance to cast level {Y} Chain Lightning on attack",
+    "displayName": "{X}% Chance to cast level {Y} Chain Lightning on attack"
+  },
+  {
+    "code": "att-skill-66",
+    "stat1": "{X}% Chance to cast level {Y} Amplify Damage on attack",
+    "displayName": "{X}% Chance to cast level {Y} Amplify Damage on attack"
+  },
+  {
+    "code": "att-skill-64",
+    "stat1": "{X}% Chance to cast level {Y} Frozen Orb on attack",
+    "displayName": "{X}% Chance to cast level {Y} Frozen Orb on attack"
+  },
+  {
+    "code": "att-skill-55",
+    "stat1": "{X}% Chance to cast level {Y} Glacial Spike on attack",
+    "displayName": "{X}% Chance to cast level {Y} Glacial Spike on attack"
+  },
+  {
+    "code": "att-skill-48",
+    "stat1": "{X}% Chance to cast level {Y} Nova on attack",
+    "displayName": "{X}% Chance to cast level {Y} Nova on attack"
+  },
+  {
+    "code": "att-skill-38",
+    "stat1": "{X}% Chance to cast level {Y} Charged Bolt on attack",
+    "displayName": "{X}% Chance to cast level {Y} Charged Bolt on attack"
+  },
+  {
+    "code": "aura-103",
+    "stat1": "Level {X} Thorns Aura When Equipped",
+    "displayName": "Level {X} Thorns Aura When Equipped"
+  },
+  {
+    "code": "aura-120",
+    "stat1": "Level {X} Meditation Aura When Equipped",
+    "displayName": "Level {X} Meditation Aura When Equipped"
+  },
+  {
+    "code": "aura-115",
+    "stat1": "Level {X} Vigor Aura When Equipped",
+    "displayName": "Level {X} Vigor Aura When Equipped"
+  },
+  {
+    "code": "aura-119",
+    "stat1": "Level {X} Sanctuary Aura When Equipped",
+    "displayName": "Level {X} Sanctuary Aura When Equipped"
+  },
+  {
+    "code": "aura-122",
+    "stat1": "Level {X} Fanaticism Aura When Equipped",
+    "displayName": "Level {X} Fanaticism Aura When Equipped"
+  },
+  {
+    "code": "aura-104",
+    "stat1": "Level {X} Defiance Aura When Equipped",
+    "displayName": "Level {X} Defiance Aura When Equipped"
+  },
+  {
+    "code": "aura-102",
+    "stat1": "Level {X} Holy Fire Aura When Equipped",
+    "displayName": "Level {X} Holy Fire Aura When Equipped"
+  },
+  {
+    "code": "aura-123",
+    "stat1": "Level {X} Conviction Aura When Equipped",
+    "displayName": "Level {X} Conviction Aura When Equipped"
+  },
+  {
+    "code": "aura-118",
+    "stat1": "Level {X} Holy Shock Aura When Equipped",
+    "displayName": "Level {X} Holy Shock Aura When Equipped"
+  },
+  {
+    "code": "aura-114",
+    "stat1": "Level {X} Holy Freeze Aura When Equipped",
+    "displayName": "Level {X} Holy Freeze Aura When Equipped"
+  },
+  {
+    "code": "aura-98",
+    "stat1": "Level {X} Might Aura When Equipped",
+    "displayName": "Level {X} Might Aura When Equipped"
+  },
+  {
+    "code": "aura-124",
+    "stat1": "Level {X} Redemption Aura When Equipped",
+    "displayName": "Level {X} Redemption Aura When Equipped"
+  },
+  {
+    "code": "aura-109",
+    "stat1": "Level {X} Cleansing Aura When Equipped",
+    "displayName": "Level {X} Cleansing Aura When Equipped"
+  },
+  {
+    "code": "aura-113",
+    "stat1": "Level {X} Concentration Aura When Equipped",
+    "displayName": "Level {X} Concentration Aura When Equipped"
+  },
+  {
+    "code": "kill-skill-66",
+    "stat1": "{X}% Chance to cast level {Y} Amplify Damage when you Kill an Enemy",
+    "displayName": "{X}% Chance to cast level {Y} Amplify Damage when you Kill an Enemy"
+  },
+  {
+    "code": "kill-skill-52",
+    "stat1": "{X}% Chance to cast level {Y} Enchant Fire when you Kill an Enemy",
+    "displayName": "{X}% Chance to cast level {Y} Enchant Fire when you Kill an Enemy"
+  },
+  {
+    "code": "kill-skill-92",
+    "stat1": "{X}% Chance to cast level {Y} Poison Nova when you Kill an Enemy",
+    "displayName": "{X}% Chance to cast level {Y} Poison Nova when you Kill an Enemy"
+  },
+  {
+    "code": "kill-skill-53",
+    "stat1": "{X}% Chance to cast level {Y} Chain Lightning when you Kill an Enemy",
+    "displayName": "{X}% Chance to cast level {Y} Chain Lightning when you Kill an Enemy"
+  },
+  {
+    "code": "levelup-skill-59",
+    "stat1": "{X}% Chance to cast level {Y} Blizzard when you Level-Up",
+    "displayName": "{X}% Chance to cast level {Y} Blizzard when you Level-Up"
+  },
+  {
+    "code": "levelup-skill-46",
+    "stat1": "{X}% Chance to cast level {Y} Blaze when you Level-Up",
+    "displayName": "{X}% Chance to cast level {Y} Blaze when you Level-Up"
+  },
+  {
+    "code": "levelup-skill-44",
+    "stat1": "{X}% Chance to cast level {Y} Frost Nova when you Level-Up",
+    "displayName": "{X}% Chance to cast level {Y} Frost Nova when you Level-Up"
+  },
+  {
+    "code": "levelup-skill-48",
+    "stat1": "{X}% Chance to cast level {Y} Nova when you Level-Up",
+    "displayName": "{X}% Chance to cast level {Y} Nova when you Level-Up"
+  },
+  {
+    "code": "levelup-skill-278",
+    "stat1": "{X}% Chance to cast level {Y} Venom when you Level-Up",
+    "displayName": "{X}% Chance to cast level {Y} Venom when you Level-Up"
+  },
+  {
+    "code": "death-skill-56",
+    "stat1": "{X}% Chance to cast level {Y} Meteor when you Die",
+    "displayName": "{X}% Chance to cast level {Y} Meteor when you Die"
+  },
+  {
+    "code": "death-skill-53",
+    "stat1": "{X}% Chance to cast level {Y} Chain Lightning when you Die",
+    "displayName": "{X}% Chance to cast level {Y} Chain Lightning when you Die"
+  },
+  {
+    "code": "death-skill-59",
+    "stat1": "{X}% Chance to cast level {Y} Blizzard when you Die",
+    "displayName": "{X}% Chance to cast level {Y} Blizzard when you Die"
+  },
+  {
+    "code": "death-skill-92",
+    "stat1": "{X}% Chance to cast level {Y} Poison Nova when you Die",
+    "displayName": "{X}% Chance to cast level {Y} Poison Nova when you Die"
+  },
+  {
+    "code": "skilltab-0",
+    "stat1": "+X to Bow and Crossbow Skills (Amazon Only)",
+    "displayName": "+X to Bow and Crossbow Skills (Amazon Only)"
+  },
+  {
+    "code": "skilltab-1",
+    "stat1": "+X to Passive and Magic Skills (Amazon Only)",
+    "displayName": "+X to Passive and Magic Skills (Amazon Only)"
+  },
+  {
+    "code": "skilltab-2",
+    "stat1": "+X to Javelin and Spear Skills (Amazon Only)",
+    "displayName": "+X to Javelin and Spear Skills (Amazon Only)"
+  },
+  {
+    "code": "skilltab-3",
+    "stat1": "+X to Fire Skills (Sorceress Only)",
+    "displayName": "+X to Fire Skills (Sorceress Only)"
+  },
+  {
+    "code": "skilltab-4",
+    "stat1": "+X to Cold Skills (Sorceress Only)",
+    "displayName": "+X to Cold Skills (Sorceress Only)"
+  },
+  {
+    "code": "skilltab-5",
+    "stat1": "+X to Lightning Skills (Sorceress Only)",
+    "displayName": "+X to Lightning Skills (Sorceress Only)"
+  },
+  {
+    "code": "skilltab-6",
+    "stat1": "+X to Curses Skills (Necromancer Only)",
+    "displayName": "+X to Curses Skills (Necromancer Only)"
+  },
+  {
+    "code": "skilltab-7",
+    "stat1": "+X to Poison and Bone Skills (Necromancer Only)",
+    "displayName": "+X to Poison and Bone Skills (Necromancer Only)"
+  },
+  {
+    "code": "skilltab-8",
+    "stat1": "+X to Summoning Skills (Necromancer Only)",
+    "displayName": "+X to Summoning Skills (Necromancer Only)"
+  },
+  {
+    "code": "skilltab-9",
+    "stat1": "+X to Combat Skills (Paladin Only)",
+    "displayName": "+X to Combat Skills (Paladin Only)"
+  },
+  {
+    "code": "skilltab-10",
+    "stat1": "+X to Defensive Auras Skills (Paladin Only)",
+    "displayName": "+X to Defensive Auras Skills (Paladin Only)"
+  },
+  {
+    "code": "skilltab-11",
+    "stat1": "+X to Offensive Auras Skills (Paladin Only)",
+    "displayName": "+X to Offensive Auras Skills (Paladin Only)"
+  },
+  {
+    "code": "skilltab-12",
+    "stat1": "+X to Combat Skills (Barbarian Only)",
+    "displayName": "+X to Combat Skills (Barbarian Only)"
+  },
+  {
+    "code": "skilltab-13",
+    "stat1": "+X to Masteries Skills (Barbarian Only)",
+    "displayName": "+X to Masteries Skills (Barbarian Only)"
+  },
+  {
+    "code": "skilltab-14",
+    "stat1": "+X to Warcries Skills (Barbarian Only)",
+    "displayName": "+X to Warcries Skills (Barbarian Only)"
+  },
+  {
+    "code": "skilltab-15",
+    "stat1": "+X to Summoning Skills (Druid Only)",
+    "displayName": "+X to Summoning Skills (Druid Only)"
+  },
+  {
+    "code": "skilltab-16",
+    "stat1": "+X to Shape Shifting Skills (Druid Only)",
+    "displayName": "+X to Shape Shifting Skills (Druid Only)"
+  },
+  {
+    "code": "skilltab-17",
+    "stat1": "+X to Elemental Skills (Druid Only)",
+    "displayName": "+X to Elemental Skills (Druid Only)"
+  },
+  {
+    "code": "skilltab-18",
+    "stat1": "+X to Traps Skills (Assassin Only)",
+    "displayName": "+X to Traps Skills (Assassin Only)"
+  },
+  {
+    "code": "skilltab-19",
+    "stat1": "+X to Shadow Disciplines Skills (Assassin Only)",
+    "displayName": "+X to Shadow Disciplines Skills (Assassin Only)"
+  },
+  {
+    "code": "skilltab-20",
+    "stat1": "+X to Martial Arts Skills (Assassin Only)",
+    "displayName": "+X to Martial Arts Skills (Assassin Only)"
   }
 ]
