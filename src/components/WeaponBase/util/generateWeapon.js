@@ -1,5 +1,7 @@
 import allStrings from "../../../assets/utility/json/allStrings.json";
 
+// more bs that needs to be cleaned up
+
 const getTypeProps = (type, two_handed) => {
   if (type === "axe") {
     if (two_handed) {
@@ -19,13 +21,13 @@ const getTypeProps = (type, two_handed) => {
     if (two_handed) {
       return {
         class_specific: null,
-        type: "2hsword",
+        type: "2hswor",
         s3: "two_swords",
       };
     } else {
       return {
         class_specific: null,
-        type: "1hsword",
+        type: "1hswor",
         s3: "one_swords",
       };
     }
@@ -38,7 +40,7 @@ const getTypeProps = (type, two_handed) => {
   } else if (type === "scep") {
     return {
       class_specific: null,
-      type: "scepter",
+      type: "scep",
       s3: "scepters",
     };
   } else if (type === "mace") {
@@ -50,43 +52,43 @@ const getTypeProps = (type, two_handed) => {
   } else if (type === "hamm") {
     return {
       class_specific: null,
-      type: "hammer",
+      type: "hamm",
       s3: "hammers",
     };
   } else if (type === "knif") {
     return {
       class_specific: null,
-      type: "dagger",
+      type: "knif",
       s3: "daggers",
     };
   } else if (type === "spea" || type === "aspe") {
     return {
-      class_specific: type === "aspe" ? "amazon" : null,
-      type: "spear",
+      class_specific: type === "aspe" ? "Amazon" : null,
+      type: type === "aspe" ? "aspe" : "spea",
       s3: "spears",
     };
   } else if (type === "pole") {
     return {
       class_specific: null,
-      type: "polearm",
+      type: "pole",
       s3: "polearms",
     };
   } else if (type === "staf") {
     return {
       class_specific: null,
-      type: "staff",
+      type: "staf",
       s3: "staves",
     };
   } else if (type === "bow" || type === "abow") {
     return {
-      class_specific: type === "abow" ? "amazon" : null,
-      type: "bow",
+      class_specific: type === "abow" ? "Amazon" : null,
+      type: type === "abow" ? "abow" : "bow",
       s3: "bows",
     };
   } else if (type === "xbow") {
     return {
       class_specific: null,
-      type: "crossbow",
+      type: "xbow",
       s3: "crossbows",
     };
   } else if (type === "wand") {
@@ -97,26 +99,26 @@ const getTypeProps = (type, two_handed) => {
     };
   } else if (type === "orb") {
     return {
-      class_specific: null,
+      class_specific: "Sorceress",
       type: "orb",
       s3: "sorc_orbs",
     };
   } else if (type === "h2h" || type === "h2h2") {
     return {
-      class_specific: "assassin",
-      type: "claw",
+      class_specific: "Assassin",
+      type: type === "h2h" ? "h2h" : "h2h2",
       s3: "claws",
     };
   } else if (type === "tkni" || type === "taxe") {
     return {
       class_specific: null,
-      type: "throwing",
+      type: type === "tkni" ? "tkni" : "taxe",
       s3: "throwing",
     };
   } else if (type === "jave" || type === "ajav") {
     return {
-      class_specific: type === "ajav" ? "amazon" : null,
-      type: "javelin",
+      class_specific: type === "ajav" ? "Amazon" : null,
+      type: type === "jave" ? "jave" : "ajav",
       s3: "javelins",
     };
   }
@@ -128,64 +130,59 @@ export const generateWeapon = (json) => {
     const item_name = str_obj_name !== undefined ? str_obj_name.str : item.name;
     const item_code = item.code;
     const level_req = parseInt(item.levelreq);
-    const durability =
-      item.nodurability === "1" ? null : parseInt(item.durability);
+    const durability = item.nodurability === "1" ? null : parseInt(item.durability);
     const max_sockets = parseInt(item.gemsockets);
     const inventory_height = parseInt(item.invheight);
     const inventory_width = parseInt(item.invwidth);
     const strength_requirement = item.reqstr !== "" ? parseInt(item.reqstr) : 0;
-    const dexterity_requirement =
-      item.reqdex !== "" ? parseInt(item.reqstr) : 0;
-    const range_adder = item.rangeadder !== "" ? parseInt(item.rangeadder) : 0;
-    const weapon_speed = item.speed !== "" ? parseInt(item.speed) : 0;
+    const dexterity_requirement = item.reqdex !== "" ? parseInt(item.reqstr) : 0;
+    const range = item.rangeadder !== "" ? parseInt(item.rangeadder) : 0;
+    const speed = item.speed !== "" ? parseInt(item.speed) : 0;
     const two_handed = item[`2handed`] === "1" ? true : false;
     const one_two_handed = item[`1or2handed`] === "1" ? true : false;
-    const can_be_thrown = item.minmisdam !== "" ? true : false;
+    const throwable = item.minmisdam !== "" ? true : false;
     const type_props = getTypeProps(item.type, two_handed);
-    let property_strings = [];
 
     let special_props = {};
-    let item_mods = {};
+    let stats = [];
 
     if (item[`auto prefix`] === "308") {
-      item_mods = Object.assign(item_mods, {
-        item_splashonhit: {
-          min: 100,
-          max: 1,
-        },
-      });
-      property_strings.push({
-        order: "160",
+      stats.push({
+        code: "splash",
+        min: 100,
+        max: 1,
+        order: 160,
         string: "Melee Attacks Deal Splash Damage",
       });
     }
 
     if (
       type_props.type === "mace" ||
-      type_props.type === "hammer" ||
-      type_props.type === "scepter" ||
+      type_props.type === "hamm" ||
+      type_props.type === "scep" ||
       type_props.type === "club" ||
       type_props.type === "wand" ||
-      type_props.type === "staff"
+      type_props.type === "staf"
     ) {
-      item_mods = Object.assign(item_mods, {
-        item_undeaddamage_percent: {
-          min: 50,
-          max: 50,
-        },
+      stats.push({
+        code: "dmg-undead",
+        min: 50,
+        max: 50,
+        order: 108,
+        string: "+50% Damage To Undead",
       });
     }
 
     if (one_two_handed) {
       special_props = {
-        one_hand_barb: {
+        barb1h: {
           min: parseInt(item.mindam),
           max: parseInt(item.maxdam),
         },
       };
     } else if (item.minmisdam !== "") {
       special_props = {
-        thrown: {
+        throw: {
           min: parseInt(item.minmisdam),
           max: parseInt(item.maxmisdam),
         },
@@ -193,74 +190,73 @@ export const generateWeapon = (json) => {
     }
 
     // normcode, ubercode, ultracode
-    let item_tier = 1;
+    let item_tier = "norm";
     if (item.code === item.ubercode) {
-      item_tier = 2;
+      item_tier = "exc";
     } else if (item.code === item.ultracode) {
-      item_tier = 3;
+      item_tier = "elt";
     }
 
-    let upgrade = null;
-    if (item_tier === 1) {
-      upgrade = item.ubercode;
-    } else if (item_tier === 2) {
-      upgrade = item.ultracode;
+    let upgrade_code = null;
+    let upgrade_name = "";
+    if (item_tier === "norm") {
+      upgrade_code = item.ubercode === "" ? null : item.ubercode;
+      upgrade_name = upgrade_code ? allStrings.find((obj) => obj.id === item.ubercode).str : null;
+    } else if (item_tier === "exc") {
+      upgrade_code = item.ubercode === "" ? null : item.ultracode;
+      upgrade_name = upgrade_code ? allStrings.find((obj) => obj.id === item.ultracode).str : null;
     }
 
     return {
-      item_name,
-      item_type: "weapon",
-      item_image: `https://pd2itemimages.s3.amazonaws.com/${type_props.s3}/${item.normcode}.png`,
-      item_props: {
-        item_base_code: item_code,
-        upgrade,
-        sub_type: type_props.type,
-        class_specific: type_props.class_specific,
-        damage: {
-          min: two_handed
-            ? parseInt(item[`2handmindam`])
-            : parseInt(item.mindam),
-          max: two_handed
-            ? parseInt(item[`2handmaxdam`])
-            : parseInt(item.maxdam),
+      name: item_name,
+      group: "weapon",
+      type: type_props.type,
+      code: item_code,
+      image: `https://pd2itemimages.s3.amazonaws.com/${type_props.s3}/${item.normcode}.png`,
+      props: {
+        tier: item_tier,
+        rarity: "nmag",
+        class_only: type_props.class_specific,
+        level_req,
+        str_req: strength_requirement,
+        dex_req: dexterity_requirement,
+        speed,
+        range,
+        durability,
+        sockets: parseInt(max_sockets) > 0 ? parseInt(max_sockets) : null,
+        upgrade: {
+          code: upgrade_code,
+          name: upgrade_name,
         },
-        damage_bonus: {
+      },
+      damage: {
+        is2h: two_handed,
+        has_barb_1h: one_two_handed,
+        throwable,
+        bonus: {
           str: item.StrBonus !== "" ? parseInt(item.StrBonus) : 0,
           dex: item.DexBonus !== "" ? parseInt(item.DexBonus) : 0,
         },
-        weapon_speed,
-        range_adder,
-        two_handed,
-        one_two_handed,
-        can_be_thrown,
-        durability,
-        str_req: strength_requirement,
-        dex_req: dexterity_requirement,
-        level_req,
-        item_tier: item_tier,
-        rarity: 1,
-        sockets: {
-          socketable: parseInt(max_sockets) > 0 ? true : false,
-          max: parseInt(max_sockets),
-          used: 0,
+        main: {
+          min: two_handed ? parseInt(item[`2handmindam`]) : parseInt(item.mindam),
+          max: two_handed ? parseInt(item[`2handmaxdam`]) : parseInt(item.maxdam),
         },
-        quality: {
-          low_quality: false,
-          superior: false,
-          ethereal: false,
-        },
+        ...special_props,
       },
-      inventory_props: {
+      quality: {
+        inferior: false,
+        superior: false,
+        ethereal: false,
+      },
+      inventory: {
         height: parseInt(inventory_height),
         width: parseInt(inventory_width),
       },
-      body_props: {
-        equip1: 2,
-        equip2: 4,
+      equip: {
+        one: "larm",
+        two: "rarm",
       },
-      special_props,
-      item_mods,
-      property_strings,
+      stats,
     };
   });
 };

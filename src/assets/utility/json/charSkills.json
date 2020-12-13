@@ -1,875 +1,1093 @@
 [
   {
     "skill": "Magic Arrow",
-    "id": "6"
+    "id": "6",
+    "char": "Amazon"
   },
   {
     "skill": "Fire Arrow",
-    "id": "7"
+    "id": "7",
+    "char": "Amazon"
   },
   {
     "skill": "Inner Sight",
-    "id": "8"
+    "id": "8",
+    "char": "Amazon"
   },
   {
     "skill": "Critical Strike",
-    "id": "9"
+    "id": "9",
+    "char": "Amazon"
   },
   {
     "skill": "Jab",
-    "id": "10"
+    "id": "10",
+    "char": "Amazon"
   },
   {
     "skill": "Cold Arrow",
-    "id": "11"
+    "id": "11",
+    "char": "Amazon"
   },
   {
     "skill": "Multiple Shot",
-    "id": "12"
+    "id": "12",
+    "char": "Amazon"
   },
   {
     "skill": "Dodge",
-    "id": "13"
+    "id": "13",
+    "char": "Amazon"
   },
   {
     "skill": "Power Strike",
-    "id": "14"
+    "id": "14",
+    "char": "Amazon"
   },
   {
     "skill": "Poison Javelin",
-    "id": "15"
+    "id": "15",
+    "char": "Amazon"
   },
   {
     "skill": "Exploding Arrow",
-    "id": "16"
+    "id": "16",
+    "char": "Amazon"
   },
   {
     "skill": "Slow Missiles",
-    "id": "17"
+    "id": "17",
+    "char": "Amazon"
   },
   {
     "skill": "Avoid",
-    "id": "18"
+    "id": "18",
+    "char": "Amazon"
   },
   {
     "skill": "Javelin and Spear Mastery",
-    "id": "19"
+    "id": "19",
+    "char": "Amazon"
   },
   {
     "skill": "Lightning Bolt",
-    "id": "20"
+    "id": "20",
+    "char": "Amazon"
   },
   {
     "skill": "Ice Arrow",
-    "id": "21"
+    "id": "21",
+    "char": "Amazon"
   },
   {
     "skill": "Guided Arrow",
-    "id": "22"
+    "id": "22",
+    "char": "Amazon"
   },
   {
     "skill": "Penetrate",
-    "id": "23"
+    "id": "23",
+    "char": "Amazon"
   },
   {
     "skill": "Charged Strike",
-    "id": "24"
+    "id": "24",
+    "char": "Amazon"
   },
   {
     "skill": "Plague Javelin",
-    "id": "25"
+    "id": "25",
+    "char": "Amazon"
   },
   {
     "skill": "Strafe",
-    "id": "26"
+    "id": "26",
+    "char": "Amazon"
   },
   {
     "skill": "Immolation Arrow",
-    "id": "27"
+    "id": "27",
+    "char": "Amazon"
   },
   {
     "skill": "Decoy",
-    "id": "28"
+    "id": "28",
+    "char": "Amazon"
   },
   {
     "skill": "Evade",
-    "id": "29"
+    "id": "29",
+    "char": "Amazon"
   },
   {
     "skill": "Fend",
-    "id": "30"
+    "id": "30",
+    "char": "Amazon"
   },
   {
     "skill": "Freezing Arrow",
-    "id": "31"
+    "id": "31",
+    "char": "Amazon"
   },
   {
     "skill": "Valkyrie",
-    "id": "32"
+    "id": "32",
+    "char": "Amazon"
   },
   {
     "skill": "Pierce",
-    "id": "33"
+    "id": "33",
+    "char": "Amazon"
   },
   {
     "skill": "Lightning Strike",
-    "id": "34"
+    "id": "34",
+    "char": "Amazon"
   },
   {
     "skill": "Lightning Fury",
-    "id": "35"
+    "id": "35",
+    "char": "Amazon"
   },
   {
     "skill": "Fire Bolt",
-    "id": "36"
+    "id": "36",
+    "char": "Sorceress"
   },
   {
     "skill": "Warmth",
-    "id": "37"
+    "id": "37",
+    "char": "Sorceress"
   },
   {
     "skill": "Charged Bolt",
-    "id": "38"
+    "id": "38",
+    "char": "Sorceress"
   },
   {
     "skill": "Ice Bolt",
-    "id": "39"
+    "id": "39",
+    "char": "Sorceress"
   },
   {
     "skill": "Cold Enchant",
-    "id": "40"
+    "id": "40",
+    "char": "Sorceress"
   },
   {
     "skill": "Inferno",
-    "id": "41"
+    "id": "41",
+    "char": "Sorceress"
   },
   {
     "skill": "Static Field",
-    "id": "42"
+    "id": "42",
+    "char": "Sorceress"
   },
   {
     "skill": "Telekinesis",
-    "id": "43"
+    "id": "43",
+    "char": "Sorceress"
   },
   {
     "skill": "Frost Nova",
-    "id": "44"
+    "id": "44",
+    "char": "Sorceress"
   },
   {
     "skill": "Ice Blast",
-    "id": "45"
+    "id": "45",
+    "char": "Sorceress"
   },
   {
     "skill": "Blaze",
-    "id": "46"
+    "id": "46",
+    "char": "Sorceress"
   },
   {
     "skill": "Fire Ball",
-    "id": "47"
+    "id": "47",
+    "char": "Sorceress"
   },
   {
     "skill": "Nova",
-    "id": "48"
+    "id": "48",
+    "char": "Sorceress"
   },
   {
     "skill": "Lightning",
-    "id": "49"
+    "id": "49",
+    "char": "Sorceress"
   },
   {
     "skill": "Shiver Armor",
-    "id": "50"
+    "id": "50",
+    "char": "Sorceress"
   },
   {
     "skill": "Fire Wall",
-    "id": "51"
+    "id": "51",
+    "char": "Sorceress"
   },
   {
     "skill": "Enchant Fire",
-    "id": "52"
+    "id": "52",
+    "char": "Sorceress"
   },
   {
     "skill": "Chain Lightning",
-    "id": "53"
+    "id": "53",
+    "char": "Sorceress"
   },
   {
     "skill": "Teleport",
-    "id": "54"
+    "id": "54",
+    "char": "Sorceress"
   },
   {
     "skill": "Glacial Spike",
-    "id": "55"
+    "id": "55",
+    "char": "Sorceress"
   },
   {
     "skill": "Meteor",
-    "id": "56"
+    "id": "56",
+    "char": "Sorceress"
   },
   {
     "skill": "Thunder Storm",
-    "id": "57"
+    "id": "57",
+    "char": "Sorceress"
   },
   {
     "skill": "Energy Shield",
-    "id": "58"
+    "id": "58",
+    "char": "Sorceress"
   },
   {
     "skill": "Blizzard",
-    "id": "59"
+    "id": "59",
+    "char": "Sorceress"
   },
   {
     "skill": "Chilling Armor",
-    "id": "60"
+    "id": "60",
+    "char": "Sorceress"
   },
   {
     "skill": "Fire Mastery",
-    "id": "61"
+    "id": "61",
+    "char": "Sorceress"
   },
   {
     "skill": "Hydra",
-    "id": "62"
+    "id": "62",
+    "char": "Sorceress"
   },
   {
     "skill": "Lightning Mastery",
-    "id": "63"
+    "id": "63",
+    "char": "Sorceress"
   },
   {
     "skill": "Frozen Orb",
-    "id": "64"
+    "id": "64",
+    "char": "Sorceress"
   },
   {
     "skill": "Cold Mastery",
-    "id": "65"
+    "id": "65",
+    "char": "Sorceress"
   },
   {
     "skill": "Ice Barrage",
-    "id": "369"
+    "id": "369",
+    "char": "Sorceress"
   },
   {
     "skill": "Lesser Hyrdra",
-    "id": "383"
+    "id": "383",
+    "char": "Sorceress"
   },
   {
     "skill": "Combustion",
-    "id": "376"
+    "id": "376",
+    "char": "Sorceress"
   },
   {
     "skill": "Amplify Damage",
-    "id": "66"
+    "id": "66",
+    "char": "Necromancer"
   },
   {
     "skill": "Teeth",
-    "id": "67"
+    "id": "67",
+    "char": "Necromancer"
   },
   {
     "skill": "Bone Armor",
-    "id": "68"
+    "id": "68",
+    "char": "Necromancer"
   },
   {
     "skill": "Skeleton Mastery",
-    "id": "69"
+    "id": "69",
+    "char": "Necromancer"
   },
   {
     "skill": "Raise Skeleton Warrior",
-    "id": "70"
+    "id": "70",
+    "char": "Necromancer"
   },
   {
     "skill": "Dim Vision",
-    "id": "71"
+    "id": "71",
+    "char": "Necromancer"
   },
   {
     "skill": "Weaken",
-    "id": "72"
+    "id": "72",
+    "char": "Necromancer"
   },
   {
     "skill": "Poison Dagger",
-    "id": "73"
+    "id": "73",
+    "char": "Necromancer"
   },
   {
     "skill": "Corpse Explosion",
-    "id": "74"
+    "id": "74",
+    "char": "Necromancer"
   },
   {
     "skill": "Clay Golem",
-    "id": "75"
+    "id": "75",
+    "char": "Necromancer"
   },
   {
     "skill": "Iron Maiden",
-    "id": "76"
+    "id": "76",
+    "char": "Necromancer"
   },
   {
     "skill": "Terror",
-    "id": "77"
+    "id": "77",
+    "char": "Necromancer"
   },
   {
     "skill": "Bone Wall",
-    "id": "78"
+    "id": "78",
+    "char": "Necromancer"
   },
   {
     "skill": "Golem Mastery",
-    "id": "79"
+    "id": "79",
+    "char": "Necromancer"
   },
   {
     "skill": "Raise Skeletal Mage",
-    "id": "80"
+    "id": "80",
+    "char": "Necromancer"
   },
   {
     "skill": "Confuse",
-    "id": "81"
+    "id": "81",
+    "char": "Necromancer"
   },
   {
     "skill": "Life Tap",
-    "id": "82"
+    "id": "82",
+    "char": "Necromancer"
   },
   {
     "skill": "Desecrate",
-    "id": "83"
+    "id": "83",
+    "char": "Necromancer"
   },
   {
     "skill": "Bone Spear",
-    "id": "84"
+    "id": "84",
+    "char": "Necromancer"
   },
   {
     "skill": "Blood Golem",
-    "id": "85"
+    "id": "85",
+    "char": "Necromancer"
   },
   {
     "skill": "Attract",
-    "id": "86"
+    "id": "86",
+    "char": "Necromancer"
   },
   {
     "skill": "Decrepify",
-    "id": "87"
+    "id": "87",
+    "char": "Necromancer"
   },
   {
     "skill": "Bone Prison",
-    "id": "88"
+    "id": "88",
+    "char": "Necromancer"
   },
   {
     "skill": "Iron Golem",
-    "id": "90"
+    "id": "90",
+    "char": "Necromancer"
   },
   {
     "skill": "Lower Resist",
-    "id": "91"
+    "id": "91",
+    "char": "Necromancer"
   },
   {
     "skill": "Poison Nova",
-    "id": "92"
+    "id": "92",
+    "char": "Necromancer"
   },
   {
     "skill": "Bone Spirit",
-    "id": "93"
+    "id": "93",
+    "char": "Necromancer"
   },
   {
     "skill": "Fire Golem",
-    "id": "94"
+    "id": "94",
+    "char": "Necromancer"
   },
   {
     "skill": "Revive",
-    "id": "95"
+    "id": "95",
+    "char": "Necromancer"
   },
   {
     "skill": "Blood Warp",
-    "id": "367"
+    "id": "367",
+    "char": "Necromancer"
   },
   {
     "skill": "Dark Pact",
-    "id": "381"
+    "id": "381",
+    "char": "Necromancer"
   },
   {
     "skill": "Curse Mastery",
-    "id": "curs"
+    "id": "curs",
+    "char": "Necromancer"
   },
   {
     "skill": "Sacrifice",
-    "id": "96"
+    "id": "96",
+    "char": "Paladin"
   },
   {
     "skill": "Smite",
-    "id": "97"
+    "id": "97",
+    "char": "Paladin"
   },
   {
     "skill": "Might",
-    "id": "98"
+    "id": "98",
+    "char": "Paladin"
   },
   {
     "skill": "Prayer",
-    "id": "99"
+    "id": "99",
+    "char": "Paladin"
   },
   {
     "skill": "Resist Fire",
-    "id": "100"
+    "id": "100",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Bolt",
-    "id": "101"
+    "id": "101",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Fire",
-    "id": "102"
+    "id": "102",
+    "char": "Paladin"
   },
   {
     "skill": "Thorns",
-    "id": "103"
+    "id": "103",
+    "char": "Paladin"
   },
   {
     "skill": "Defiance",
-    "id": "104"
+    "id": "104",
+    "char": "Paladin"
   },
   {
     "skill": "Resist Cold",
-    "id": "105"
+    "id": "105",
+    "char": "Paladin"
   },
   {
     "skill": "Zeal",
-    "id": "106"
+    "id": "106",
+    "char": "Paladin"
   },
   {
     "skill": "Charge",
-    "id": "107"
+    "id": "107",
+    "char": "Paladin"
   },
   {
     "skill": "Blessed Aim",
-    "id": "108"
+    "id": "108",
+    "char": "Paladin"
   },
   {
     "skill": "Cleansing",
-    "id": "109"
+    "id": "109",
+    "char": "Paladin"
   },
   {
     "skill": "Resist Lightning",
-    "id": "110"
+    "id": "110",
+    "char": "Paladin"
   },
   {
     "skill": "Vengeance",
-    "id": "111"
+    "id": "111",
+    "char": "Paladin"
   },
   {
     "skill": "Blessed Hammer",
-    "id": "112"
+    "id": "112",
+    "char": "Paladin"
   },
   {
     "skill": "Concentration",
-    "id": "113"
+    "id": "113",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Freeze",
-    "id": "114"
+    "id": "114",
+    "char": "Paladin"
   },
   {
     "skill": "Vigor",
-    "id": "115"
+    "id": "115",
+    "char": "Paladin"
   },
   {
     "skill": "Conversion",
-    "id": "116"
+    "id": "116",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Shield",
-    "id": "117"
+    "id": "117",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Shock",
-    "id": "118"
+    "id": "118",
+    "char": "Paladin"
   },
   {
     "skill": "Sanctuary",
-    "id": "119"
+    "id": "119",
+    "char": "Paladin"
   },
   {
     "skill": "Meditation",
-    "id": "120"
+    "id": "120",
+    "char": "Paladin"
   },
   {
     "skill": "Fist of the Heavens",
-    "id": "121"
+    "id": "121",
+    "char": "Paladin"
   },
   {
     "skill": "Fanaticism",
-    "id": "122"
+    "id": "122",
+    "char": "Paladin"
   },
   {
     "skill": "Conviction",
-    "id": "123"
+    "id": "123",
+    "char": "Paladin"
   },
   {
     "skill": "Redemption",
-    "id": "124"
+    "id": "124",
+    "char": "Paladin"
   },
   {
     "skill": "Salvation",
-    "id": "125"
+    "id": "125",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Nova",
-    "id": "364"
+    "id": "364",
+    "char": "Paladin"
   },
   {
     "skill": "Holy Light",
-    "id": "371"
+    "id": "371",
+    "char": "Paladin"
   },
   {
     "skill": "Joust",
-    "id": "jous"
+    "id": "jous",
+    "char": "Paladin"
   },
   {
     "skill": "Bash",
-    "id": "126"
+    "id": "126",
+    "char": "Barbarian"
   },
   {
     "skill": "General Mastery",
-    "id": "128"
+    "id": "128",
+    "char": "Barbarian"
   },
   {
     "skill": "Howl",
-    "id": "130"
+    "id": "130",
+    "char": "Barbarian"
   },
   {
     "skill": "Find Potion",
-    "id": "131"
+    "id": "131",
+    "char": "Barbarian"
   },
   {
     "skill": "Leap",
-    "id": "132"
+    "id": "132",
+    "char": "Barbarian"
   },
   {
     "skill": "Double Swing",
-    "id": "133"
+    "id": "133",
+    "char": "Barbarian"
   },
   {
     "skill": "Throwing Mastery",
-    "id": "135"
+    "id": "135",
+    "char": "Barbarian"
   },
   {
     "skill": "Polearm and Spear Mastery",
-    "id": "136"
+    "id": "136",
+    "char": "Barbarian"
   },
   {
     "skill": "Taunt",
-    "id": "137"
+    "id": "137",
+    "char": "Barbarian"
   },
   {
     "skill": "Shout",
-    "id": "138"
+    "id": "138",
+    "char": "Barbarian"
   },
   {
     "skill": "Stun",
-    "id": "139"
+    "id": "139",
+    "char": "Barbarian"
   },
   {
     "skill": "Double Throw",
-    "id": "140"
+    "id": "140",
+    "char": "Barbarian"
   },
   {
     "skill": "Combat Reflexes",
-    "id": "141"
+    "id": "141",
+    "char": "Barbarian"
   },
   {
     "skill": "Find Item",
-    "id": "142"
+    "id": "142",
+    "char": "Barbarian"
   },
   {
     "skill": "Leap Attack",
-    "id": "143"
+    "id": "143",
+    "char": "Barbarian"
   },
   {
     "skill": "Concentrate",
-    "id": "144"
+    "id": "144",
+    "char": "Barbarian"
   },
   {
     "skill": "Iron Skin",
-    "id": "145"
+    "id": "145",
+    "char": "Barbarian"
   },
   {
     "skill": "Battle Cry",
-    "id": "146"
+    "id": "146",
+    "char": "Barbarian"
   },
   {
     "skill": "Frenzy",
-    "id": "147"
+    "id": "147",
+    "char": "Barbarian"
   },
   {
     "skill": "Increased Speed",
-    "id": "148"
+    "id": "148",
+    "char": "Barbarian"
   },
   {
     "skill": "Battle Orders",
-    "id": "149"
+    "id": "149",
+    "char": "Barbarian"
   },
   {
     "skill": "Grim Ward",
-    "id": "150"
+    "id": "150",
+    "char": "Barbarian"
   },
   {
     "skill": "Whirlwind",
-    "id": "151"
+    "id": "151",
+    "char": "Barbarian"
   },
   {
     "skill": "Berserk",
-    "id": "152"
+    "id": "152",
+    "char": "Barbarian"
   },
   {
     "skill": "Natural Resistance",
-    "id": "153"
+    "id": "153",
+    "char": "Barbarian"
   },
   {
     "skill": "War Cry",
-    "id": "154"
+    "id": "154",
+    "char": "Barbarian"
   },
   {
     "skill": "Battle Command",
-    "id": "155"
+    "id": "155",
+    "char": "Barbarian"
   },
   {
     "skill": "Raven",
-    "id": "221"
+    "id": "221",
+    "char": "Druid"
   },
   {
     "skill": "Poison Creeper",
-    "id": "222"
+    "id": "222",
+    "char": "Druid"
   },
   {
     "skill": "Werewolf",
-    "id": "223"
+    "id": "223",
+    "char": "Druid"
   },
   {
     "skill": "Lycanthropy",
-    "id": "224"
+    "id": "224",
+    "char": "Druid"
   },
   {
     "skill": "Firestorm",
-    "id": "225"
+    "id": "225",
+    "char": "Druid"
   },
   {
     "skill": "Oak Sage",
-    "id": "226"
+    "id": "226",
+    "char": "Druid"
   },
   {
     "skill": "Summon Spirit Wolf",
-    "id": "227"
+    "id": "227",
+    "char": "Druid"
   },
   {
     "skill": "Werebear",
-    "id": "228"
+    "id": "228",
+    "char": "Druid"
   },
   {
     "skill": "Molten Boulder",
-    "id": "229"
+    "id": "229",
+    "char": "Druid"
   },
   {
     "skill": "Arctic Blast",
-    "id": "230"
+    "id": "230",
+    "char": "Druid"
   },
   {
     "skill": "Carrion Vine",
-    "id": "231"
+    "id": "231",
+    "char": "Druid"
   },
   {
     "skill": "Feral Rage",
-    "id": "232"
+    "id": "232",
+    "char": "Druid"
   },
   {
     "skill": "Maul",
-    "id": "233"
+    "id": "233",
+    "char": "Druid"
   },
   {
     "skill": "Fissure",
-    "id": "234"
+    "id": "234",
+    "char": "Druid"
   },
   {
     "skill": "Cyclone Armor",
-    "id": "235"
+    "id": "235",
+    "char": "Druid"
   },
   {
     "skill": "Heart of Wolverine",
-    "id": "236"
+    "id": "236",
+    "char": "Druid"
   },
   {
     "skill": "Summon Dire Wolf",
-    "id": "237"
+    "id": "237",
+    "char": "Druid"
   },
   {
     "skill": "Rabies",
-    "id": "238"
+    "id": "238",
+    "char": "Druid"
   },
   {
     "skill": "Fire Claws",
-    "id": "239"
+    "id": "239",
+    "char": "Druid"
   },
   {
     "skill": "Twister",
-    "id": "240"
+    "id": "240",
+    "char": "Druid"
   },
   {
     "skill": "Solar Creeper",
-    "id": "241"
+    "id": "241",
+    "char": "Druid"
   },
   {
     "skill": "Hunger",
-    "id": "242"
+    "id": "242",
+    "char": "Druid"
   },
   {
     "skill": "Shock Wave",
-    "id": "243"
+    "id": "243",
+    "char": "Druid"
   },
   {
     "skill": "Volcano",
-    "id": "244"
+    "id": "244",
+    "char": "Druid"
   },
   {
     "skill": "Tornado",
-    "id": "245"
+    "id": "245",
+    "char": "Druid"
   },
   {
     "skill": "Spirit of Barbs",
-    "id": "246"
+    "id": "246",
+    "char": "Druid"
   },
   {
     "skill": "Summon Grizzly",
-    "id": "247"
+    "id": "247",
+    "char": "Druid"
   },
   {
     "skill": "Fury",
-    "id": "248"
+    "id": "248",
+    "char": "Druid"
   },
   {
     "skill": "Armageddon",
-    "id": "249"
+    "id": "249",
+    "char": "Druid"
   },
   {
     "skill": "Hurricane",
-    "id": "250"
+    "id": "250",
+    "char": "Druid"
   },
   {
     "skill": "Gust",
-    "id": "gust"
+    "id": "gust",
+    "char": "Druid"
   },
   {
     "skill": "Fire Blast",
-    "id": "251"
+    "id": "251",
+    "char": "Assassin"
   },
   {
     "skill": "Claw Mastery",
-    "id": "252"
+    "id": "252",
+    "char": "Assassin"
   },
   {
     "skill": "Psychic Hammer",
-    "id": "253"
+    "id": "253",
+    "char": "Assassin"
   },
   {
     "skill": "Tiger Strike",
-    "id": "254"
+    "id": "254",
+    "char": "Assassin"
   },
   {
     "skill": "Dragon Talon",
-    "id": "255"
+    "id": "255",
+    "char": "Assassin"
   },
   {
     "skill": "Shock Web",
-    "id": "256"
+    "id": "256",
+    "char": "Assassin"
   },
   {
     "skill": "Blade Sentinel",
-    "id": "257"
+    "id": "257",
+    "char": "Assassin"
   },
   {
     "skill": "Burst of Speed",
-    "id": "258"
+    "id": "258",
+    "char": "Assassin"
   },
   {
     "skill": "Fists of Fire",
-    "id": "259"
+    "id": "259",
+    "char": "Assassin"
   },
   {
     "skill": "Dragon Claw",
-    "id": "260"
+    "id": "260",
+    "char": "Assassin"
   },
   {
     "skill": "Charged Bolt Sentry",
-    "id": "261"
+    "id": "261",
+    "char": "Assassin"
   },
   {
     "skill": "Wake of Fire",
-    "id": "262"
+    "id": "262",
+    "char": "Assassin"
   },
   {
     "skill": "Weapon Block",
-    "id": "263"
+    "id": "263",
+    "char": "Assassin"
   },
   {
     "skill": "Cloak of Shadows",
-    "id": "264"
+    "id": "264",
+    "char": "Assassin"
   },
   {
     "skill": "Cobra Strike",
-    "id": "265"
+    "id": "265",
+    "char": "Assassin"
   },
   {
     "skill": "Blade Fury",
-    "id": "266"
+    "id": "266",
+    "char": "Assassin"
   },
   {
     "skill": "Fade",
-    "id": "267"
+    "id": "267",
+    "char": "Assassin"
   },
   {
     "skill": "Shadow Warrior",
-    "id": "268"
+    "id": "268",
+    "char": "Assassin"
   },
   {
     "skill": "Claws of Thunder",
-    "id": "269"
+    "id": "269",
+    "char": "Assassin"
   },
   {
     "skill": "Dragon Tail",
-    "id": "270"
+    "id": "270",
+    "char": "Assassin"
   },
   {
     "skill": "Chain Lightning Sentry",
-    "id": "271"
+    "id": "271",
+    "char": "Assassin"
   },
   {
     "skill": "Wake of Inferno",
-    "id": "272"
+    "id": "272",
+    "char": "Assassin"
   },
   {
     "skill": "Mind Blast",
-    "id": "273"
+    "id": "273",
+    "char": "Assassin"
   },
   {
     "skill": "Blades of Ice",
-    "id": "274"
+    "id": "274",
+    "char": "Assassin"
   },
   {
     "skill": "Dragon Flight",
-    "id": "275"
+    "id": "275",
+    "char": "Assassin"
   },
   {
     "skill": "Death Sentry",
-    "id": "276"
+    "id": "276",
+    "char": "Assassin"
   },
   {
     "skill": "Blade Shield",
-    "id": "277"
+    "id": "277",
+    "char": "Assassin"
   },
   {
     "skill": "Venom",
-    "id": "278"
+    "id": "278",
+    "char": "Assassin"
   },
   {
     "skill": "Shadow Master",
-    "id": "279"
+    "id": "279",
+    "char": "Assassin"
   },
   {
     "skill": "Phoenix Strike",
-    "id": "280"
+    "id": "280",
+    "char": "Assassin"
   },
   {
     "skill": "Lightning Sentry",
-    "id": "ligh"
+    "id": "ligh",
+    "char": "Assassin"
   },
   {
     "skill": "Wake Of Destruction Sentry",
-    "id": "281"
+    "id": "281",
+    "char": "Assassin"
   },
   {
     "skill": "Blink",
@@ -877,14 +1095,17 @@
   },
   {
     "skill": "Inferno Sentry",
-    "id": "311"
+    "id": "311",
+    "char": "Assassin"
   },
   {
     "skill": "Death Sentry",
-    "id": "312"
+    "id": "312",
+    "char": "Assassin"
   },
   {
     "skill": "Sentry Lightning",
-    "id": "313"
+    "id": "313",
+    "char": "Assassin"
   }
 ]

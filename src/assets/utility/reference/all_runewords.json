@@ -1,0 +1,7848 @@
+[
+  {
+    "item_name": "Ancients' Pledge",
+    "rune_string": "Ral Ort Tal",
+    "base_types": [
+      "shield"
+    ],
+    "level_requirement": 21,
+    "socket_requirement": 3,
+    "item_mods": {
+      "coldresist": {
+        "min": 30,
+        "max": 30
+      },
+      "all_resist": {
+        "min": 13,
+        "max": 13
+      },
+      "item_armor_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damagetomana": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "socket_mods": {
+      "fireresist": {
+        "min": 35,
+        "max": 35,
+        "base_type": "shield"
+      },
+      "lightresist": {
+        "min": 35,
+        "max": 35,
+        "base_type": "shield"
+      },
+      "poisonresist": {
+        "min": 35,
+        "max": 35,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +13"
+      },
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +30%"
+      },
+      {
+        "order": "11",
+        "string": "10% Damage Taken Gained as Mana when Hit"
+      },
+      {
+        "order": "38",
+        "string": "shield: \n Lightning Resist +35%"
+      },
+      {
+        "order": "36",
+        "string": "shield: \n Fire Resist +35%"
+      },
+      {
+        "order": "34",
+        "string": "shield: \n Poison Resist +35%"
+      }
+    ]
+  },
+  {
+    "item_name": "Black",
+    "rune_string": "Thul Io Nef",
+    "base_types": [
+      "club",
+      "hammer",
+      "mace"
+    ],
+    "level_requirement": 35,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_crushingblow": {
+        "min": 40,
+        "max": 40
+      },
+      "item_damage_percent": {
+        "min": 120,
+        "max": 120
+      },
+      "item_fasterattackrate": {
+        "min": 15,
+        "max": 15
+      },
+      "magic_damage_reduction": {
+        "min": 2,
+        "max": 2
+      },
+      "tohit": {
+        "min": 200,
+        "max": 200
+      },
+      "item_charged_skill": {
+        "min": 12,
+        "max": 4
+      }
+    },
+    "socket_mods": {
+      "cold_damage": {
+        "min": 3,
+        "max": 14,
+        "base_type": "weapon"
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_knockback": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+120% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+15% Increased Attack Speed"
+      },
+      {
+        "order": "115",
+        "string": "+200 to Attack Rating"
+      },
+      {
+        "order": "87",
+        "string": "40% Chance of Crushing Blow"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Taken Reduced by 2"
+      },
+      {
+        "order": "1",
+        "string": "Level 4 Corpse Explosion (12 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +3-14 Cold Damage"
+      },
+      {
+        "order": "76",
+        "string": "weapon: \n Knockback"
+      },
+      {
+        "order": "63",
+        "string": "weapon: \n +10 to Vitality"
+      }
+    ]
+  },
+  {
+    "item_name": "Fury",
+    "rune_string": "Jah Gul Eth",
+    "base_types": [
+      "melee"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 209,
+        "max": 269
+      },
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_openwounds": {
+        "min": 33,
+        "max": 66
+      },
+      "lifedrainmindam": {
+        "min": 6,
+        "max": 6
+      },
+      "item_deadlystrike": {
+        "min": 33,
+        "max": 66
+      },
+      "frenzy": {
+        "min": 5,
+        "max": 5
+      }
+    },
+    "socket_mods": {
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_tohit_percent": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+209-269% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "6% Life stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "33-66% Deadly Strike"
+      },
+      {
+        "order": "83",
+        "string": "33-66% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "81",
+        "string": "+5 to Frenzy"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      },
+      {
+        "order": "117",
+        "string": "weapon: \n 20% Bonus to Attack Rating"
+      }
+    ]
+  },
+  {
+    "item_name": "Holy Thunder",
+    "rune_string": "Eth Ral Ort Tal",
+    "base_types": [
+      "scepter"
+    ],
+    "level_requirement": 21,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 60,
+        "max": 60
+      },
+      "lightning_damage": {
+        "min": 20,
+        "max": 60
+      },
+      "damage_max": {
+        "min": 10,
+        "max": 10
+      },
+      "lightresist": {
+        "min": 60,
+        "max": 60
+      },
+      "maxlightresist": {
+        "min": 5,
+        "max": 5
+      },
+      "holy_shock": {
+        "min": 3,
+        "max": 3
+      },
+      "item_charged_skill": {
+        "min": 60,
+        "max": 7
+      }
+    },
+    "socket_mods": {
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "fire_damage": {
+        "min": 5,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "poison_damage": {
+        "min": 154,
+        "max": 154,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+60% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "+20-60 Lightning Damage"
+      },
+      {
+        "order": "160",
+        "string": "+10 to Maximum Damage"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Holy Shock"
+      },
+      {
+        "order": "43",
+        "string": "+5% to Maximum Lightning Resist"
+      },
+      {
+        "order": "38",
+        "string": "Lightning Resist +60%"
+      },
+      {
+        "order": "1",
+        "string": "Level 7 Chain Lightning (60 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +5-30 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +154 Poison Damage"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Honor",
+    "rune_string": "Amn El Ith Tir Sol",
+    "base_types": [
+      "melee"
+    ],
+    "level_requirement": 27,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 160,
+        "max": 160
+      },
+      "hpregen": {
+        "min": 10,
+        "max": 10
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "tohit": {
+        "min": 200,
+        "max": 200
+      },
+      "item_deadlystrike": {
+        "min": 25,
+        "max": 25
+      },
+      "strength": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "damage_max": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "damage_min": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+160% Enhanced Damage"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "115",
+        "string": "+200 to Attack Rating"
+      },
+      {
+        "order": "85",
+        "string": "25% Deadly Strike"
+      },
+      {
+        "order": "67",
+        "string": "+10 to Strength"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Maximum Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Minimum Damage"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "King's Grace",
+    "rune_string": "Amn Ral Thul",
+    "base_types": [
+      "sword",
+      "scepter"
+    ],
+    "level_requirement": 25,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 100,
+        "max": 100
+      },
+      "tohit": {
+        "min": 150,
+        "max": 150
+      },
+      "item_demondamage_percent": {
+        "min": 100,
+        "max": 100
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_demon_tohit": {
+        "min": 100,
+        "max": 100
+      },
+      "item_undead_tohit": {
+        "min": 100,
+        "max": 100
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "fire_damage": {
+        "min": 5,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "cold_damage": {
+        "min": 3,
+        "max": 14,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+100% Enhanced Damage"
+      },
+      {
+        "order": "115",
+        "string": "+150 to Attack Rating"
+      },
+      {
+        "order": "112",
+        "string": "+100% Damage to Demons"
+      },
+      {
+        "order": "110",
+        "string": "+100 to Attack Rating against Demons"
+      },
+      {
+        "order": "108",
+        "string": "+50% Damage to Undead"
+      },
+      {
+        "order": "106",
+        "string": "+100 to Attack Rating against Undead"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +5-30 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +3-14 Cold Damage"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      }
+    ]
+  },
+  {
+    "item_name": "Leaf",
+    "rune_string": "Tir Ral",
+    "base_types": [
+      "staff"
+    ],
+    "level_requirement": 19,
+    "socket_requirement": 2,
+    "item_mods": {
+      "fire_skills": {
+        "min": 1,
+        "max": 2
+      },
+      "item_armor_perlevel": {
+        "min": 2,
+        "max": 2
+      },
+      "coldresist": {
+        "min": 33,
+        "max": 33
+      },
+      "inferno": {
+        "min": 3,
+        "max": 3
+      },
+      "fire_bolt": {
+        "min": 3,
+        "max": 3
+      },
+      "warmth": {
+        "min": 3,
+        "max": 3
+      }
+    },
+    "socket_mods": {
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "fire_damage": {
+        "min": 5,
+        "max": 30,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "157",
+        "string": "+1-2 to Fire Skills"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Inferno"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Fire Bolt"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Warmth"
+      },
+      {
+        "order": "72",
+        "string": "+2-200 Defense (+2 Based On Character level)"
+      },
+      {
+        "order": "40",
+        "string": "Cold Resist +33%"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +5-30 Fire Damage"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Lionheart",
+    "rune_string": "Hel Lum Fal",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 41,
+    "socket_requirement": 3,
+    "item_mods": {
+      "strength": {
+        "min": 0,
+        "max": 15
+      },
+      "vitality": {
+        "min": 10,
+        "max": 20
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 15
+      },
+      "item_damage_percent": {
+        "min": 80,
+        "max": 110
+      },
+      "maxhp": {
+        "min": 50,
+        "max": 50
+      },
+      "all_resist": {
+        "min": 20,
+        "max": 30
+      }
+    },
+    "socket_mods": {
+      "item_req_percent": {
+        "min": -15,
+        "max": -15,
+        "base_type": "armor"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      },
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+80-110% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "67",
+        "string": "+0-15 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+10-15 to Dexterity"
+      },
+      {
+        "order": "63",
+        "string": "+10-20 to Vitality"
+      },
+      {
+        "order": "59",
+        "string": "+50 to Life"
+      },
+      {
+        "order": "67",
+        "string": "armor: \n +10 to Strength"
+      },
+      {
+        "order": "61",
+        "string": "armor: \n +10 to Energy"
+      },
+      {
+        "order": "0",
+        "string": "armor: \n Requirements -15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Lore",
+    "rune_string": "Ort Sol",
+    "base_types": [
+      "helm"
+    ],
+    "level_requirement": 27,
+    "socket_requirement": 2,
+    "item_mods": {
+      "energy": {
+        "min": 5,
+        "max": 10
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "item_lightradius": {
+        "min": 2,
+        "max": 2
+      },
+      "item_manaafterkill": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "lightresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "normal_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "61",
+        "string": "+5-10 to Energy"
+      },
+      {
+        "order": "16",
+        "string": "+1 to Mana after each Kill"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      },
+      {
+        "order": "38",
+        "string": "armor: \n Lightning Resist +30%"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Malice",
+    "rune_string": "Ith El Eth",
+    "base_types": [
+      "melee"
+    ],
+    "level_requirement": 15,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_openwounds": {
+        "min": 100,
+        "max": 100
+      },
+      "item_damagetargetac": {
+        "min": -100,
+        "max": -100
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_damage_percent": {
+        "min": 33,
+        "max": 33
+      },
+      "item_lightradius": {
+        "min": -1,
+        "max": -1
+      },
+      "hpregen": {
+        "min": -5,
+        "max": -5
+      },
+      "item_healafterhit": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "socket_mods": {
+      "damage_max": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+33% Enhanced Damage"
+      },
+      {
+        "order": "83",
+        "string": "100% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "75",
+        "string": "-100 to Monster Defense Per Hit"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +-5"
+      },
+      {
+        "order": "16",
+        "string": "+2 Life after each Hit"
+      },
+      {
+        "order": "6",
+        "string": "-1 to Light Radius"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Maximum Damage"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Melody",
+    "rune_string": "Shael Ko Nef",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 39,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "bow_and_crossbow": {
+        "min": 3,
+        "max": 3
+      },
+      "critical_strike": {
+        "min": 3,
+        "max": 3
+      },
+      "dodge": {
+        "min": 3,
+        "max": 3
+      },
+      "slow_missiles": {
+        "min": 3,
+        "max": 3
+      },
+      "item_undeaddamage_percent": {
+        "min": 300,
+        "max": 300
+      }
+    },
+    "socket_mods": {
+      "item_fasterattackrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_knockback": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+50% Enhanced Damage"
+      },
+      {
+        "order": "151",
+        "string": "+3 to Bow and Crossbow"
+      },
+      {
+        "order": "108",
+        "string": "+300% Damage to Undead"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Critical Strike"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Dodge"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Slow Missiles"
+      },
+      {
+        "order": "145",
+        "string": "weapon: \n +20% Increased Attack Speed"
+      },
+      {
+        "order": "76",
+        "string": "weapon: \n Knockback"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Memory",
+    "rune_string": "Lum Io Sol Eth",
+    "base_types": [
+      "staff"
+    ],
+    "level_requirement": 37,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_maxmana_percent": {
+        "min": 20,
+        "max": 20
+      },
+      "magic_damage_reduction": {
+        "min": 7,
+        "max": 7
+      },
+      "item_armor_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "item_fastercastrate": {
+        "min": 33,
+        "max": 33
+      },
+      "sorceress_skills": {
+        "min": 3,
+        "max": 3
+      },
+      "energy_shield": {
+        "min": 3,
+        "max": 3
+      },
+      "static_field": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "socket_mods": {
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "damage_min": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "150",
+        "string": "+3 to Sorceress Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+33% Faster Cast Rate"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Energy Shield"
+      },
+      {
+        "order": "81",
+        "string": "+2 to Static Field"
+      },
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 20%"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Taken Reduced by 7"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Minimum Damage"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      },
+      {
+        "order": "63",
+        "string": "weapon: \n +10 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "weapon: \n +10 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Nadir",
+    "rune_string": "Nef Tir",
+    "base_types": [
+      "helm"
+    ],
+    "level_requirement": 13,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 50,
+        "max": 50
+      },
+      "armorclass": {
+        "min": 10,
+        "max": 10
+      },
+      "item_lightradius": {
+        "min": -3,
+        "max": -3
+      },
+      "item_charged_skill": {
+        "min": 9,
+        "max": 13
+      },
+      "item_goldbonus": {
+        "min": -33,
+        "max": -33
+      },
+      "strength": {
+        "min": 5,
+        "max": 5
+      },
+      "item_manaafterkill": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    "socket_mods": {
+      "armorclass_vs_missile": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "74",
+        "string": "+50% Enhanced Defense"
+      },
+      {
+        "order": "71",
+        "string": "+10 Defense"
+      },
+      {
+        "order": "67",
+        "string": "+5 to Strength"
+      },
+      {
+        "order": "16",
+        "string": "+1-3 to Mana after each Kill"
+      },
+      {
+        "order": "10",
+        "string": "-33% Extra Gold from Monsters"
+      },
+      {
+        "order": "6",
+        "string": "-3 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Cloak of Shadows (9 Charges)"
+      },
+      {
+        "order": "69",
+        "string": "armor: \n +30 Defense vs. Missile"
+      },
+      {
+        "order": "16",
+        "string": "armor: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Radiance",
+    "rune_string": "Nef Sol Ith",
+    "base_types": [
+      "helm"
+    ],
+    "level_requirement": 27,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_lightradius": {
+        "min": 5,
+        "max": 5
+      },
+      "energy": {
+        "min": 10,
+        "max": 10
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10
+      },
+      "item_damage_percent": {
+        "min": 20,
+        "max": 40
+      },
+      "maxmana": {
+        "min": 33,
+        "max": 33
+      },
+      "item_armor_percent": {
+        "min": 75,
+        "max": 75
+      }
+    },
+    "socket_mods": {
+      "armorclass_vs_missile": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "normal_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "item_damagetomana": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+20-40% Enhanced Damage"
+      },
+      {
+        "order": "74",
+        "string": "+75% Enhanced Defense"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      },
+      {
+        "order": "61",
+        "string": "+10 to Energy"
+      },
+      {
+        "order": "55",
+        "string": "+33 to Mana"
+      },
+      {
+        "order": "6",
+        "string": "+5 to Light Radius"
+      },
+      {
+        "order": "69",
+        "string": "armor: \n +30 Defense vs. Missile"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 7"
+      },
+      {
+        "order": "11",
+        "string": "armor: \n 15% Damage Taken Gained as Mana when Hit"
+      }
+    ]
+  },
+  {
+    "item_name": "Rhyme",
+    "rune_string": "Shael Eth",
+    "base_types": [
+      "shield"
+    ],
+    "level_requirement": 29,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20
+      },
+      "toblock": {
+        "min": 20,
+        "max": 20
+      },
+      "all_resist": {
+        "min": 25,
+        "max": 25
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      },
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50
+      },
+      "item_magicbonus": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "socket_mods": {
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "shield"
+      },
+      "manarecoverybonus": {
+        "min": 15,
+        "max": 15,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +25"
+      },
+      {
+        "order": "136",
+        "string": "+20% Faster Block Rate"
+      },
+      {
+        "order": "134",
+        "string": "20% Increased Chance of Blocking"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "10",
+        "string": "50% Extra Gold from Monsters"
+      },
+      {
+        "order": "8",
+        "string": "25% Better Chance of Getting Magic Items"
+      },
+      {
+        "order": "136",
+        "string": "shield: \n +20% Faster Block Rate"
+      },
+      {
+        "order": "52",
+        "string": "shield: \n Regenerate Mana 15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Silence",
+    "rune_string": "Dol Eld Hel Ist Tir Vex",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 55,
+    "socket_requirement": 6,
+    "item_mods": {
+      "manadrainmindam": {
+        "min": 4,
+        "max": 4
+      },
+      "item_stupidity": {
+        "min": 33,
+        "max": 33
+      },
+      "item_damage_percent": {
+        "min": 200,
+        "max": 200
+      },
+      "item_fasterattackrate": {
+        "min": 20,
+        "max": 20
+      },
+      "all_resist": {
+        "min": 75,
+        "max": 75
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "item_howl": {
+        "min": 32,
+        "max": 32,
+        "base_type": "weapon"
+      },
+      "item_undead_tohit": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_req_percent": {
+        "min": -20,
+        "max": -20,
+        "base_type": "weapon"
+      },
+      "item_magicbonus": {
+        "min": 30,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+200% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +75"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+20% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "89",
+        "string": "4% Mana stolen per hit"
+      },
+      {
+        "order": "80",
+        "string": "Hit Blinds Target +33"
+      },
+      {
+        "order": "106",
+        "string": "weapon: \n +50 to Attack Rating against Undead"
+      },
+      {
+        "order": "89",
+        "string": "weapon: \n 7% Mana stolen per hit"
+      },
+      {
+        "order": "79",
+        "string": "weapon: \n Hit Causes Monster to Flee 32%"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      },
+      {
+        "order": "8",
+        "string": "weapon: \n 30% Better Chance of Getting Magic Items"
+      },
+      {
+        "order": "0",
+        "string": "weapon: \n Requirements -20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Smoke",
+    "rune_string": "Nef Lum",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 37,
+    "socket_requirement": 2,
+    "item_mods": {
+      "armorclass_vs_missile": {
+        "min": 250,
+        "max": 250
+      },
+      "item_armor_percent": {
+        "min": 75,
+        "max": 75
+      },
+      "all_resist": {
+        "min": 30,
+        "max": 45
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_lightradius": {
+        "min": -1,
+        "max": -1
+      },
+      "item_charged_skill": {
+        "min": 18,
+        "max": 6
+      }
+    },
+    "socket_mods": {
+      "armorclass_vs_missile": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +30-45"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+75% Enhanced Defense"
+      },
+      {
+        "order": "69",
+        "string": "+250 Defense vs. Missile"
+      },
+      {
+        "order": "6",
+        "string": "-1 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 6 Weaken (18 Charges)"
+      },
+      {
+        "order": "69",
+        "string": "armor: \n +30 Defense vs. Missile"
+      },
+      {
+        "order": "61",
+        "string": "armor: \n +10 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Stealth",
+    "rune_string": "Tal Eth",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 17,
+    "socket_requirement": 2,
+    "item_mods": {
+      "magic_damage_reduction": {
+        "min": 3,
+        "max": 3
+      },
+      "dexterity": {
+        "min": 6,
+        "max": 6
+      },
+      "maxstamina": {
+        "min": 15,
+        "max": 15
+      },
+      "item_fastermovevelocity": {
+        "min": 10,
+        "max": 10
+      },
+      "item_fastercastrate": {
+        "min": 10,
+        "max": 10
+      },
+      "item_fastergethitrate": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "socket_mods": {
+      "poisonresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "manarecoverybonus": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "148",
+        "string": "+10% Faster Run/Walk"
+      },
+      {
+        "order": "142",
+        "string": "+10% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+10% Faster Hit Recovery"
+      },
+      {
+        "order": "65",
+        "string": "+6 to Dexterity"
+      },
+      {
+        "order": "51",
+        "string": "+15 Maximum Stamina"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Taken Reduced by 3"
+      },
+      {
+        "order": "52",
+        "string": "armor: \n Regenerate Mana 15%"
+      },
+      {
+        "order": "34",
+        "string": "armor: \n Poison Resist +30%"
+      }
+    ]
+  },
+  {
+    "item_name": "Steel",
+    "rune_string": "Tir El",
+    "base_types": [
+      "sword",
+      "axe",
+      "mace"
+    ],
+    "level_requirement": 13,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 25,
+        "max": 25
+      },
+      "damage_min": {
+        "min": 3,
+        "max": 3
+      },
+      "damage_max": {
+        "min": 3,
+        "max": 3
+      },
+      "item_openwounds": {
+        "min": 50,
+        "max": 50
+      },
+      "item_damage_percent": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+3 to Minimum Damage"
+      },
+      {
+        "order": "160",
+        "string": "+3 to Maximum Damage"
+      },
+      {
+        "order": "160",
+        "string": "+20% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+25% Increased Attack Speed"
+      },
+      {
+        "order": "83",
+        "string": "50% Chance of Open Wounds"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Strength",
+    "rune_string": "Amn Tir",
+    "base_types": [
+      "melee"
+    ],
+    "level_requirement": 25,
+    "socket_requirement": 2,
+    "item_mods": {
+      "strength": {
+        "min": 20,
+        "max": 20
+      },
+      "item_damage_percent": {
+        "min": 65,
+        "max": 95
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10
+      },
+      "item_crushingblow": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+65-95% Enhanced Damage"
+      },
+      {
+        "order": "87",
+        "string": "25% Chance of Crushing Blow"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10 to Vitality"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Venom",
+    "rune_string": "Tal Dol Mal",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 49,
+    "socket_requirement": 3,
+    "item_mods": {
+      "poison_dagger": {
+        "min": 2,
+        "max": 3
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "item_charged_skill": {
+        "min": 27,
+        "max": 15
+      },
+      "item_skillonkill": {
+        "min": 20,
+        "max": 23
+      },
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7
+      },
+      "passive_pois_pierce": {
+        "min": 10,
+        "max": 30
+      }
+    },
+    "socket_mods": {
+      "poison_damage": {
+        "min": 154,
+        "max": 154,
+        "base_type": "weapon"
+      },
+      "item_howl": {
+        "min": 32,
+        "max": 32,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 23 Poison Nova when you Kill an Enemy"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "89",
+        "string": "7% Mana stolen per hit"
+      },
+      {
+        "order": "88",
+        "string": "-10-30% to Enemy Poison Resistance"
+      },
+      {
+        "order": "81",
+        "string": "+2-3 to Poison Dagger"
+      },
+      {
+        "order": "1",
+        "string": "Level 15 Desecrate (27 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +154 Poison Damage"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "79",
+        "string": "weapon: \n Hit Causes Monster to Flee 32%"
+      }
+    ]
+  },
+  {
+    "item_name": "Wealth",
+    "rune_string": "Lem Ko Tir",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 43,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_goldbonus": {
+        "min": 250,
+        "max": 250
+      },
+      "item_magicbonus": {
+        "min": 100,
+        "max": 100
+      }
+    },
+    "socket_mods": {
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50,
+        "base_type": "armor"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "10",
+        "string": "250% Extra Gold from Monsters"
+      },
+      {
+        "order": "8",
+        "string": "100% Better Chance of Getting Magic Items"
+      },
+      {
+        "order": "65",
+        "string": "armor: \n +10 to Dexterity"
+      },
+      {
+        "order": "16",
+        "string": "armor: \n +2 to Mana after each Kill"
+      },
+      {
+        "order": "10",
+        "string": "armor: \n 50% Extra Gold from Monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "White",
+    "rune_string": "Dol Io",
+    "base_types": [
+      "wand"
+    ],
+    "level_requirement": 35,
+    "socket_requirement": 2,
+    "item_mods": {
+      "poison_and_bone": {
+        "min": 1,
+        "max": 1
+      },
+      "magic_damage_reduction": {
+        "min": 4,
+        "max": 4
+      },
+      "item_fastercastrate": {
+        "min": 20,
+        "max": 20
+      },
+      "maxmana": {
+        "min": 13,
+        "max": 13
+      },
+      "bone_armor": {
+        "min": 1,
+        "max": 3
+      },
+      "skeleton_mastery": {
+        "min": 4,
+        "max": 4
+      }
+    },
+    "socket_mods": {
+      "item_howl": {
+        "min": 32,
+        "max": 32,
+        "base_type": "weapon"
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "151",
+        "string": "+1 to Poison and Bone"
+      },
+      {
+        "order": "142",
+        "string": "+20% Faster Cast Rate"
+      },
+      {
+        "order": "81",
+        "string": "+1-3 to Bone Armor"
+      },
+      {
+        "order": "81",
+        "string": "+4 to Skeleton Mastery"
+      },
+      {
+        "order": "55",
+        "string": "+13 to Mana"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Taken Reduced by 4"
+      },
+      {
+        "order": "79",
+        "string": "weapon: \n Hit Causes Monster to Flee 32%"
+      },
+      {
+        "order": "63",
+        "string": "weapon: \n +10 to Vitality"
+      }
+    ]
+  },
+  {
+    "item_name": "Zephyr",
+    "rune_string": "Ort Eth",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 21,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_fastermovevelocity": {
+        "min": 25,
+        "max": 25
+      },
+      "item_fasterattackrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_damage_percent": {
+        "min": 33,
+        "max": 66
+      },
+      "tohit": {
+        "min": 66,
+        "max": 66
+      },
+      "item_skillongethit": {
+        "min": 7,
+        "max": 1
+      },
+      "armorclass": {
+        "min": 25,
+        "max": 25
+      }
+    },
+    "socket_mods": {
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+33-66% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "7% Chance to cast level 1 Twister when struck"
+      },
+      {
+        "order": "148",
+        "string": "+25% Faster Run/Walk"
+      },
+      {
+        "order": "145",
+        "string": "+25% Increased Attack Speed"
+      },
+      {
+        "order": "115",
+        "string": "+66 to Attack Rating"
+      },
+      {
+        "order": "71",
+        "string": "+25 Defense"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      }
+    ]
+  },
+  {
+    "item_name": "Chains of Honor",
+    "rune_string": "Dol Um Ber Ist",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 63,
+    "socket_requirement": 4,
+    "item_mods": {
+      "all_resist": {
+        "min": 50,
+        "max": 50
+      },
+      "item_armor_percent": {
+        "min": 70,
+        "max": 70
+      },
+      "item_demondamage_percent": {
+        "min": 200,
+        "max": 200
+      },
+      "item_undeaddamage_percent": {
+        "min": 100,
+        "max": 100
+      },
+      "lifedrainmindam": {
+        "min": 8,
+        "max": 8
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "strength": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "hpregen": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      },
+      "damageresist": {
+        "min": 8,
+        "max": 8,
+        "base_type": "armor"
+      },
+      "item_magicbonus": {
+        "min": 25,
+        "max": 25,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +50"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "112",
+        "string": "+200% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+100% Damage to Undead"
+      },
+      {
+        "order": "88",
+        "string": "8% Life stolen per hit"
+      },
+      {
+        "order": "74",
+        "string": "+70% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+20 to Strength"
+      },
+      {
+        "order": "160",
+        "string": "armor: \n All Resistances +15"
+      },
+      {
+        "order": "56",
+        "string": "armor: \n Replenish Life +7"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 8%"
+      },
+      {
+        "order": "8",
+        "string": "armor: \n 25% Better Chance of Getting Magic Items"
+      }
+    ]
+  },
+  {
+    "item_name": "Bramble",
+    "rune_string": "Ral Ohm Sur Eth",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 61,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fastergethitrate": {
+        "min": 50,
+        "max": 50
+      },
+      "armorclass": {
+        "min": 300,
+        "max": 300
+      },
+      "item_aura": {
+        "min": 15,
+        "max": 21
+      },
+      "item_healafterkill": {
+        "min": 13,
+        "max": 13
+      },
+      "passive_pois_mastery": {
+        "min": 25,
+        "max": 50
+      },
+      "poisonresist": {
+        "min": 100,
+        "max": 100
+      },
+      "item_charged_skill": {
+        "min": 33,
+        "max": 13
+      }
+    },
+    "socket_mods": {
+      "fireresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "maxcoldresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "armor"
+      },
+      "item_maxmana_percent": {
+        "min": 5,
+        "max": 5,
+        "base_type": "armor"
+      },
+      "manarecoverybonus": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Level 15-21 Thorns Aura When Equipped"
+      },
+      {
+        "order": "139",
+        "string": "+50% Faster Hit Recovery"
+      },
+      {
+        "order": "88",
+        "string": "+25-50% to Poison Skill Damage"
+      },
+      {
+        "order": "71",
+        "string": "+300 Defense"
+      },
+      {
+        "order": "34",
+        "string": "Poison Resist +100%"
+      },
+      {
+        "order": "16",
+        "string": "+13 Life after each Kill"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Spirit of Barbs (33 Charges)"
+      },
+      {
+        "order": "54",
+        "string": "armor: \n Increase Maximum Mana 5%"
+      },
+      {
+        "order": "52",
+        "string": "armor: \n Regenerate Mana 15%"
+      },
+      {
+        "order": "44",
+        "string": "armor: \n +4% to Maximum Cold Resist"
+      },
+      {
+        "order": "36",
+        "string": "armor: \n Fire Resist +30%"
+      }
+    ]
+  },
+  {
+    "item_name": "Breath of the Dying",
+    "rune_string": "Vex Hel El Eld Zod Eth",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 69,
+    "socket_requirement": 6,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 60,
+        "max": 60
+      },
+      "item_undeaddamage_percent": {
+        "min": 125,
+        "max": 125
+      },
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 9
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_skillonkill": {
+        "min": 50,
+        "max": 20
+      },
+      "item_damage_percent": {
+        "min": 330,
+        "max": 360
+      },
+      "strength": {
+        "min": 10,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_req_percent": {
+        "min": -20,
+        "max": -20,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_undead_tohit": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "undefined": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "50% Chance to cast level 20 Poison Nova when you Kill an Enemy"
+      },
+      {
+        "order": "160",
+        "string": "+330-360% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+60% Increased Attack Speed"
+      },
+      {
+        "order": "108",
+        "string": "+125% Damage to Undead"
+      },
+      {
+        "order": "88",
+        "string": "7-9% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "67",
+        "string": "+10-20 to Strength"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      },
+      {
+        "order": "106",
+        "string": "weapon: \n +50 to Attack Rating against Undead"
+      },
+      {
+        "order": "89",
+        "string": "weapon: \n 7% Mana stolen per hit"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "weapon: \n Requirements -20%"
+      },
+      {
+        "string": "weapon: \n "
+      }
+    ]
+  },
+  {
+    "item_name": "Call to Arms",
+    "rune_string": "Amn Ral Mal Ist Ohm",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 57,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_damage_percent": {
+        "min": 200,
+        "max": 240
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "battle_command": {
+        "min": 2,
+        "max": 6
+      },
+      "battle_orders": {
+        "min": 1,
+        "max": 6
+      },
+      "battle_cry": {
+        "min": 1,
+        "max": 4
+      },
+      "hpregen": {
+        "min": 12,
+        "max": 12
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "fire_damage": {
+        "min": 5,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_magicbonus": {
+        "min": 30,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+200-240% Enhanced Damage"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "81",
+        "string": "+2-6 to Battle Command"
+      },
+      {
+        "order": "81",
+        "string": "+1-6 to Battle Orders"
+      },
+      {
+        "order": "81",
+        "string": "+1-4 to Battle Cry"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +12"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +5-30 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +50% Enhanced Damage"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "8",
+        "string": "weapon: \n 30% Better Chance of Getting Magic Items"
+      }
+    ]
+  },
+  {
+    "item_name": "Crescent Moon",
+    "rune_string": "Shael Um Tir",
+    "base_types": [
+      "axe",
+      "sword",
+      "polearm"
+    ],
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "passive_ltng_pierce": {
+        "min": 35,
+        "max": 35
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "item_damage_percent": {
+        "min": 180,
+        "max": 220
+      },
+      "item_absorbmagic": {
+        "min": 9,
+        "max": 11
+      },
+      "item_charged_skill": {
+        "min": 30,
+        "max": 18
+      },
+      "item_skillonhit": {
+        "min": 10,
+        "max": 27
+      }
+    },
+    "socket_mods": {
+      "item_fasterattackrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+180-220% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "7% Chance to cast level 13 Static Field on striking"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance to cast level 27 Chain Lightning on striking"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "88",
+        "string": "-35% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "33",
+        "string": "+9-11 Magic Absorb"
+      },
+      {
+        "order": "1",
+        "string": "Level 18 Summon Spirit Wolf (30 Charges)"
+      },
+      {
+        "order": "145",
+        "string": "weapon: \n +20% Increased Attack Speed"
+      },
+      {
+        "order": "83",
+        "string": "weapon: \n 25% Chance of Open Wounds"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Delerium",
+    "rune_string": "Lem Ist Io",
+    "base_types": [
+      "helm"
+    ],
+    "level_requirement": 51,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 11,
+        "max": 18
+      },
+      "item_charged_skill": {
+        "min": 60,
+        "max": 17
+      },
+      "item_skillongethit": {
+        "min": 1,
+        "max": 50
+      },
+      "armorclass": {
+        "min": 261,
+        "max": 261
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "socket_mods": {
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50,
+        "base_type": "armor"
+      },
+      "item_magicbonus": {
+        "min": 25,
+        "max": 25,
+        "base_type": "armor"
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "11% Chance to cast level 18 Confuse on striking"
+      },
+      {
+        "order": "160",
+        "string": "14% Chance to cast level 13 Terror when struck"
+      },
+      {
+        "order": "160",
+        "string": "6% Chance to cast level 14 Mind Blast when struck"
+      },
+      {
+        "order": "160",
+        "string": "1% Chance to cast level 50 Delerium Change when struck"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "71",
+        "string": "+261 Defense"
+      },
+      {
+        "order": "1",
+        "string": "Level 17 Attract (60 Charges)"
+      },
+      {
+        "order": "63",
+        "string": "armor: \n +10 to Vitality"
+      },
+      {
+        "order": "10",
+        "string": "armor: \n 50% Extra Gold from Monsters"
+      },
+      {
+        "order": "8",
+        "string": "armor: \n 25% Better Chance of Getting Magic Items"
+      }
+    ]
+  },
+  {
+    "item_name": "Doom",
+    "rune_string": "Hel Ohm Um Lo Cham",
+    "base_types": [
+      "axe",
+      "polearm",
+      "hammer"
+    ],
+    "level_requirement": 67,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 280,
+        "max": 320
+      },
+      "item_aura": {
+        "min": 12,
+        "max": 12
+      },
+      "item_fasterattackrate": {
+        "min": 45,
+        "max": 45
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "passive_cold_pierce": {
+        "min": 40,
+        "max": 60
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_skillonhit": {
+        "min": 5,
+        "max": 18
+      }
+    },
+    "socket_mods": {
+      "item_req_percent": {
+        "min": -20,
+        "max": -20,
+        "base_type": "weapon"
+      },
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_freeze": {
+        "min": 3,
+        "max": 3,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+280-320% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 18 Volcano on striking"
+      },
+      {
+        "order": "159",
+        "string": "Level 12 Holy Freeze Aura When Equipped"
+      },
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "145",
+        "string": "+45% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "-40-60% to Enemy Cold Resistance"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +50% Enhanced Damage"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "83",
+        "string": "weapon: \n 25% Chance of Open Wounds"
+      },
+      {
+        "order": "78",
+        "string": "weapon: \n Freezes target +3"
+      },
+      {
+        "order": "0",
+        "string": "weapon: \n Requirements -20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Enigma",
+    "rune_string": "Jah Ith Ber",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 3,
+    "item_mods": {
+      "armorclass": {
+        "min": 500,
+        "max": 775
+      },
+      "item_allskills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_fastermovevelocity": {
+        "min": 25,
+        "max": 25
+      },
+      "item_strength_perlevel": {
+        "min": 0.5,
+        "max": 0.75
+      },
+      "item_replenish_charges": {
+        "min": null,
+        "max": null
+      },
+      "item_find_magic_perlevel": {
+        "min": 0.5,
+        "max": 0.75
+      },
+      "item_charged_skill": {
+        "min": 3,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "item_maxhp_percent": {
+        "min": 5,
+        "max": 5,
+        "base_type": "armor"
+      },
+      "item_damagetomana": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      },
+      "damageresist": {
+        "min": 8,
+        "max": 8,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+2 to All Skills"
+      },
+      {
+        "order": "148",
+        "string": "+25% Faster Run/Walk"
+      },
+      {
+        "order": "71",
+        "string": "+500-775 Defense"
+      },
+      {
+        "order": "66",
+        "string": "+0.5-75 to Strength (+0.5-0.75 Based On Character level)"
+      },
+      {
+        "order": "7",
+        "string": "0.5-75% Better Chance of Getting Magic Items (+0.5-0.75 Based On Character level)"
+      },
+      {
+        "order": "1",
+        "string": "Replenish 1 Charge in 8 Seconds"
+      },
+      {
+        "order": "1",
+        "string": "Level 1 Blink (3 Charges)"
+      },
+      {
+        "order": "58",
+        "string": "armor: \n Increase Maximum Life 5%"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 8%"
+      },
+      {
+        "order": "11",
+        "string": "armor: \n 15% Damage Taken Gained as Mana when Hit"
+      }
+    ]
+  },
+  {
+    "item_name": "Stone",
+    "rune_string": "Shael Um Pul Lum",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 47,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 200,
+        "max": 290
+      },
+      "item_charged_skill": {
+        "min": 36,
+        "max": 16
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      },
+      "strength": {
+        "min": 10,
+        "max": 16
+      },
+      "vitality": {
+        "min": 10,
+        "max": 16
+      },
+      "item_fastergethitrate": {
+        "min": 40,
+        "max": 40
+      }
+    },
+    "socket_mods": {
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "armor"
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      },
+      "item_armor_percent": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "139",
+        "string": "+40% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+200-290% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "+10-16 to Strength"
+      },
+      {
+        "order": "63",
+        "string": "+10-16 to Vitality"
+      },
+      {
+        "order": "1",
+        "string": "Level 16 Clay Golem (36 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "armor: \n All Resistances +15"
+      },
+      {
+        "order": "139",
+        "string": "armor: \n +20% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "armor: \n +30% Enhanced Defense"
+      },
+      {
+        "order": "61",
+        "string": "armor: \n +10 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Eternity",
+    "rune_string": "Amn Ber Ist Sol Sur",
+    "base_types": [
+      "melee"
+    ],
+    "level_requirement": 63,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 260,
+        "max": 310
+      },
+      "revive": {
+        "min": 3,
+        "max": 3
+      },
+      "item_reanimate": {
+        "min": 10,
+        "max": 10
+      },
+      "damage_flat": {
+        "min": 61,
+        "max": 71
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_crushingblow": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_magicbonus": {
+        "min": 30,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "damage_min": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "item_healafterkill": {
+        "min": 4,
+        "max": 4,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+260-310% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "160",
+        "string": "+61-71 Damage"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Revive"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "17",
+        "string": "10% Reanimate as: Returned"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Minimum Damage"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "87",
+        "string": "weapon: \n 20% Chance of Crushing Blow"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +4 Life after each Kill"
+      },
+      {
+        "order": "8",
+        "string": "weapon: \n 30% Better Chance of Getting Magic Items"
+      }
+    ]
+  },
+  {
+    "item_name": "Exile",
+    "rune_string": "Vex Ohm Ist Dol",
+    "base_types": [
+      "pally shield"
+    ],
+    "level_requirement": 57,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fasterblockrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_freeze": {
+        "min": 1,
+        "max": 1
+      },
+      "item_armor_percent": {
+        "min": 220,
+        "max": 260
+      },
+      "item_aura": {
+        "min": 13,
+        "max": 16
+      },
+      "defensive_auras": {
+        "min": 2,
+        "max": 2
+      },
+      "item_skillonhit": {
+        "min": 15,
+        "max": 15
+      },
+      "item_replenish_durability": {
+        "min": null,
+        "max": null
+      }
+    },
+    "socket_mods": {
+      "maxfireresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "shield"
+      },
+      "maxcoldresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "shield"
+      },
+      "item_magicbonus": {
+        "min": 25,
+        "max": 25,
+        "base_type": "shield"
+      },
+      "hpregen": {
+        "min": 7,
+        "max": 7,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance to cast level 15 AmpDmg on striking"
+      },
+      {
+        "order": "159",
+        "string": "Level 13-16 Defiance Aura When Equipped"
+      },
+      {
+        "order": "151",
+        "string": "+2 to Defensive Auras"
+      },
+      {
+        "order": "136",
+        "string": "+30% Faster Block Rate"
+      },
+      {
+        "order": "78",
+        "string": "Freezes target +1"
+      },
+      {
+        "order": "74",
+        "string": "+220-260% Enhanced Defense"
+      },
+      {
+        "order": "1",
+        "string": "Repairs durability over time"
+      },
+      {
+        "order": "56",
+        "string": "shield: \n Replenish Life +7"
+      },
+      {
+        "order": "44",
+        "string": "shield: \n +4% to Maximum Cold Resist"
+      },
+      {
+        "order": "42",
+        "string": "shield: \n +4% to Maximum Fire Resist"
+      },
+      {
+        "order": "8",
+        "string": "shield: \n 25% Better Chance of Getting Magic Items"
+      }
+    ]
+  },
+  {
+    "item_name": "Famine",
+    "rune_string": "Fal Ohm Ort Jah",
+    "base_types": [
+      "axe",
+      "hammer",
+      "sword"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 270,
+        "max": 320
+      },
+      "passive_cold_pierce": {
+        "min": 10,
+        "max": 20
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 30
+      },
+      "passive_fire_pierce": {
+        "min": 10,
+        "max": 20
+      },
+      "passive_ltng_pierce": {
+        "min": 10,
+        "max": 20
+      },
+      "eledmg_flat": {
+        "min": 150,
+        "max": 300
+      }
+    },
+    "socket_mods": {
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+270-320% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "+150-300 Elemental Damage"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "88",
+        "string": "-10-20% to Enemy Cold Resistance"
+      },
+      {
+        "order": "88",
+        "string": "-10-20% to Enemy Fire Resistance"
+      },
+      {
+        "order": "88",
+        "string": "-10-20% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +50% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "67",
+        "string": "weapon: \n +10 to Strength"
+      }
+    ]
+  },
+  {
+    "item_name": "Hand of Justice",
+    "rune_string": "Sur Cham Amn Lo",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 67,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 33,
+        "max": 33
+      },
+      "item_damage_percent": {
+        "min": 280,
+        "max": 330
+      },
+      "item_aura": {
+        "min": 16,
+        "max": 16
+      },
+      "item_skillonlevelup": {
+        "min": 100,
+        "max": 36
+      },
+      "item_skillondeath": {
+        "min": 100,
+        "max": 48
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1
+      },
+      "passive_fire_pierce": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "item_healafterkill": {
+        "min": 4,
+        "max": 4,
+        "base_type": "weapon"
+      },
+      "item_freeze": {
+        "min": 3,
+        "max": 3,
+        "base_type": "weapon"
+      },
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+280-330% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 36 Blaze when you Level-Up"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 48 Meteor when you Die"
+      },
+      {
+        "order": "159",
+        "string": "Level 16 Holy Fire Aura When Equipped"
+      },
+      {
+        "order": "145",
+        "string": "+33% Increased Attack Speed"
+      },
+      {
+        "order": "119",
+        "string": "Ignore Target's Defense"
+      },
+      {
+        "order": "88",
+        "string": "-20% to Enemy Fire Resistance"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "78",
+        "string": "weapon: \n Freezes target +3"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +4 Life after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Heart of the Oak",
+    "rune_string": "Ko Vex Pul Thul",
+    "base_types": [
+      "staff",
+      "mace"
+    ],
+    "level_requirement": 55,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fastercastrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_charged_skill": {
+        "min": 60,
+        "max": 14
+      },
+      "item_maxmana_percent": {
+        "min": 15,
+        "max": 15
+      },
+      "item_allskills": {
+        "min": 3,
+        "max": 3
+      },
+      "hpregen": {
+        "min": 20,
+        "max": 20
+      },
+      "all_resist": {
+        "min": 20,
+        "max": 30
+      }
+    },
+    "socket_mods": {
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_demon_tohit": {
+        "min": 100,
+        "max": 100,
+        "base_type": "weapon"
+      },
+      "cold_damage": {
+        "min": 3,
+        "max": 14,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "158",
+        "string": "+3 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+30% Faster Cast Rate"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +20"
+      },
+      {
+        "order": "54",
+        "string": "Increase Maximum Mana 15%"
+      },
+      {
+        "order": "1",
+        "string": "Level 14 Raven (60 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +3-14 Cold Damage"
+      },
+      {
+        "order": "110",
+        "string": "weapon: \n +100 to Attack Rating against Demons"
+      },
+      {
+        "order": "89",
+        "string": "weapon: \n 7% Mana stolen per hit"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Kingslayer",
+    "rune_string": "Mal Um Gul Fal",
+    "base_types": [
+      "sword",
+      "axe"
+    ],
+    "level_requirement": 53,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_damage_percent": {
+        "min": 230,
+        "max": 270
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25
+      },
+      "item_crushingblow": {
+        "min": 33,
+        "max": 33
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25
+      },
+      "vengeance": {
+        "min": 10,
+        "max": 10
+      },
+      "item_replenish_durability": {
+        "min": null,
+        "max": null
+      }
+    },
+    "socket_mods": {
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "item_tohit_percent": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+230-270% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "118",
+        "string": "-25% Target Defense"
+      },
+      {
+        "order": "87",
+        "string": "33% Chance of Crushing Blow"
+      },
+      {
+        "order": "83",
+        "string": "25% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "+10 to Vengeance"
+      },
+      {
+        "order": "1",
+        "string": "Repairs durability over time"
+      },
+      {
+        "order": "117",
+        "string": "weapon: \n 20% Bonus to Attack Rating"
+      },
+      {
+        "order": "83",
+        "string": "weapon: \n 25% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "67",
+        "string": "weapon: \n +10 to Strength"
+      }
+    ]
+  },
+  {
+    "item_name": "Passion",
+    "rune_string": "Dol Ort Eld Lem",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 43,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 160,
+        "max": 210
+      },
+      "zeal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_tohit_percent": {
+        "min": 50,
+        "max": 80
+      },
+      "berserk": {
+        "min": 1,
+        "max": 1
+      },
+      "item_fasterattackrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_charged_skill": {
+        "min": 36,
+        "max": 8
+      },
+      "item_stupidity": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "socket_mods": {
+      "item_howl": {
+        "min": 32,
+        "max": 32,
+        "base_type": "weapon"
+      },
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_undead_tohit": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_goldbonus": {
+        "min": 75,
+        "max": 75,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+160-210% Enhanced Damage"
+      },
+      {
+        "order": "145",
+        "string": "+25% Increased Attack Speed"
+      },
+      {
+        "order": "117",
+        "string": "50-80% Bonus to Attack Rating"
+      },
+      {
+        "order": "81",
+        "string": "+1 to Zeal"
+      },
+      {
+        "order": "81",
+        "string": "+1 to Berserk"
+      },
+      {
+        "order": "80",
+        "string": "Hit Blinds Target +10"
+      },
+      {
+        "order": "1",
+        "string": "Level 8 Heart of Wolverine (36 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "106",
+        "string": "weapon: \n +50 to Attack Rating against Undead"
+      },
+      {
+        "order": "79",
+        "string": "weapon: \n Hit Causes Monster to Flee 32%"
+      },
+      {
+        "order": "10",
+        "string": "weapon: \n 75% Extra Gold from Monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "Gloom",
+    "rune_string": "Fal Um Pul",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 170,
+        "max": 230
+      },
+      "all_resist": {
+        "min": 30,
+        "max": 30
+      },
+      "item_skillongethit": {
+        "min": 15,
+        "max": 9
+      },
+      "item_fastergethitrate": {
+        "min": 10,
+        "max": 30
+      },
+      "item_damagetomana": {
+        "min": 5,
+        "max": 5
+      },
+      "magic_damage_reduction": {
+        "min": 4,
+        "max": 10
+      },
+      "item_halffreezeduration": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "armor"
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      },
+      "item_armor_percent": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +30"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance to cast level 9 Dim Vision when struck"
+      },
+      {
+        "order": "139",
+        "string": "+10-30% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+170-230% Enhanced Defense"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Taken Reduced by 4-10"
+      },
+      {
+        "order": "19",
+        "string": "Half Freeze Duration"
+      },
+      {
+        "order": "11",
+        "string": "5% Damage Taken Gained as Mana when Hit"
+      },
+      {
+        "order": "160",
+        "string": "armor: \n All Resistances +15"
+      },
+      {
+        "order": "74",
+        "string": "armor: \n +30% Enhanced Defense"
+      },
+      {
+        "order": "67",
+        "string": "armor: \n +10 to Strength"
+      }
+    ]
+  },
+  {
+    "item_name": "Sanctuary",
+    "rune_string": "Ko Ko Mal",
+    "base_types": [
+      "shield"
+    ],
+    "level_requirement": 49,
+    "socket_requirement": 3,
+    "item_mods": {
+      "toblock": {
+        "min": 20,
+        "max": 20
+      },
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_armor_percent": {
+        "min": 130,
+        "max": 160
+      },
+      "item_charged_skill": {
+        "min": 60,
+        "max": 12
+      },
+      "all_resist": {
+        "min": 35,
+        "max": 50
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "shield"
+      },
+      "magic_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +35-50"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "136",
+        "string": "+20% Faster Block Rate"
+      },
+      {
+        "order": "134",
+        "string": "20% Increased Chance of Blocking"
+      },
+      {
+        "order": "74",
+        "string": "+130-160% Enhanced Defense"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "1",
+        "string": "Level 12 Slow Movement (60 Charges)"
+      },
+      {
+        "order": "65",
+        "string": "shield: \n +10 to Dexterity"
+      },
+      {
+        "order": "21",
+        "string": "shield: \n Magic Damage Taken Reduced by 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Chaos",
+    "rune_string": "Fal Ohm Um",
+    "base_types": [
+      "claw"
+    ],
+    "level_requirement": 57,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_healafterdemonkill": {
+        "min": 15,
+        "max": 15
+      },
+      "item_damage_percent": {
+        "min": 240,
+        "max": 290
+      },
+      "magic_damage": {
+        "min": 216,
+        "max": 471
+      },
+      "whirlwind": {
+        "min": 1,
+        "max": 1
+      },
+      "item_skillonhit": {
+        "min": 9,
+        "max": 21
+      },
+      "item_replenish_durability": {
+        "min": null,
+        "max": null
+      }
+    },
+    "socket_mods": {
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+240-290% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "+216-471 Magic Damage"
+      },
+      {
+        "order": "160",
+        "string": "11% Chance to cast level 29 Charged Bolt on striking"
+      },
+      {
+        "order": "160",
+        "string": "9% Chance to cast level 21 Frozen Orb on striking"
+      },
+      {
+        "order": "81",
+        "string": "+1 to Whirlwind"
+      },
+      {
+        "order": "15",
+        "string": "+15 Life after each Demon Kill"
+      },
+      {
+        "order": "1",
+        "string": "Repairs durability over time"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +50% Enhanced Damage"
+      },
+      {
+        "order": "83",
+        "string": "weapon: \n 25% Chance of Open Wounds"
+      },
+      {
+        "order": "67",
+        "string": "weapon: \n +10 to Strength"
+      }
+    ]
+  },
+  {
+    "item_name": "Beast",
+    "rune_string": "Ber Tir Um Mal Lum",
+    "base_types": [
+      "axe",
+      "scepter",
+      "hammer"
+    ],
+    "level_requirement": 63,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_aura": {
+        "min": 8,
+        "max": 10
+      },
+      "item_damage_percent": {
+        "min": 260,
+        "max": 290
+      },
+      "hunger": {
+        "min": 3,
+        "max": 3
+      },
+      "item_charged_skill": {
+        "min": 35,
+        "max": 13
+      },
+      "wearbear": {
+        "min": 3,
+        "max": 3
+      },
+      "maul": {
+        "min": 3,
+        "max": 3
+      }
+    },
+    "socket_mods": {
+      "item_crushingblow": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+260-290% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Level 8-10 Fanaticism Aura When Equipped"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Hunger"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Wearbear"
+      },
+      {
+        "order": "81",
+        "string": "+3 to Maul"
+      },
+      {
+        "order": "1",
+        "string": "Level 13 Summon Grizzly (35 Charges)"
+      },
+      {
+        "order": "87",
+        "string": "weapon: \n 20% Chance of Crushing Blow"
+      },
+      {
+        "order": "83",
+        "string": "weapon: \n 25% Chance of Open Wounds"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "61",
+        "string": "weapon: \n +10 to Energy"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Spirit",
+    "rune_string": "Tal Thul Ort Amn",
+    "base_types": [
+      "sword",
+      "shield"
+    ],
+    "level_requirement": 25,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_fastergethitrate": {
+        "min": 25,
+        "max": 25
+      },
+      "maxmana": {
+        "min": 59,
+        "max": 82
+      },
+      "armorclass_vs_missile": {
+        "min": 250,
+        "max": 250
+      },
+      "vitality": {
+        "min": 11,
+        "max": 22
+      },
+      "item_fastercastrate": {
+        "min": 25,
+        "max": 35
+      },
+      "item_absorbmagic": {
+        "min": 3,
+        "max": 8
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "poison_damage": {
+        "min": 154,
+        "max": 154,
+        "base_type": "weapon"
+      },
+      "poisonresist": {
+        "min": 35,
+        "max": 35,
+        "base_type": "shield"
+      },
+      "cold_damage": {
+        "min": 3,
+        "max": 14,
+        "base_type": "weapon"
+      },
+      "coldresist": {
+        "min": 35,
+        "max": 35,
+        "base_type": "shield"
+      },
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "lightresist": {
+        "min": 35,
+        "max": 35,
+        "base_type": "shield"
+      },
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_attackertakesdamage": {
+        "min": 14,
+        "max": 14,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+25-35% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+25% Faster Hit Recovery"
+      },
+      {
+        "order": "69",
+        "string": "+250 Defense vs. Missile"
+      },
+      {
+        "order": "63",
+        "string": "+11-22 to Vitality"
+      },
+      {
+        "order": "55",
+        "string": "+59-82 to Mana"
+      },
+      {
+        "order": "33",
+        "string": "+3-8 Magic Absorb"
+      },
+      {
+        "order": "40",
+        "string": "shield: \n Cold Resist +35%"
+      },
+      {
+        "order": "38",
+        "string": "shield: \n Lightning Resist +35%"
+      },
+      {
+        "order": "34",
+        "string": "shield: \n Poison Resist +35%"
+      },
+      {
+        "order": "13",
+        "string": "shield: \n Attacker Takes Damage of 14"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +154 Poison Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +3-14 Cold Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      }
+    ]
+  },
+  {
+    "item_name": "Splendor",
+    "rune_string": "Eth Lum",
+    "base_types": [
+      "shield"
+    ],
+    "level_requirement": 37,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_lightradius": {
+        "min": 3,
+        "max": 3
+      },
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50
+      },
+      "item_magicbonus": {
+        "min": 15,
+        "max": 30
+      },
+      "item_armor_percent": {
+        "min": 60,
+        "max": 100
+      },
+      "item_fasterblockrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_fastercastrate": {
+        "min": 20,
+        "max": 35
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "manarecoverybonus": {
+        "min": 15,
+        "max": 15,
+        "base_type": "shield"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "158",
+        "string": "+1 to All Skills"
+      },
+      {
+        "order": "142",
+        "string": "+20-35% Faster Cast Rate"
+      },
+      {
+        "order": "136",
+        "string": "+20% Faster Block Rate"
+      },
+      {
+        "order": "74",
+        "string": "+60-100% Enhanced Defense"
+      },
+      {
+        "order": "10",
+        "string": "50% Extra Gold from Monsters"
+      },
+      {
+        "order": "8",
+        "string": "15-30% Better Chance of Getting Magic Items"
+      },
+      {
+        "order": "6",
+        "string": "+3 to Light Radius"
+      },
+      {
+        "order": "61",
+        "string": "shield: \n +10 to Energy"
+      },
+      {
+        "order": "52",
+        "string": "shield: \n Regenerate Mana 15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Duress",
+    "rune_string": "Shael Um Thul",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "cold_damage": {
+        "min": 37,
+        "max": 133
+      },
+      "item_damage_percent": {
+        "min": 40,
+        "max": 80
+      },
+      "item_armor_percent": {
+        "min": 150,
+        "max": 200
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20
+      },
+      "item_openwounds": {
+        "min": 33,
+        "max": 33
+      },
+      "item_crushingblow": {
+        "min": 15,
+        "max": 15
+      },
+      "item_staminadrainpct": {
+        "min": -20,
+        "max": -20
+      }
+    },
+    "socket_mods": {
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "armor"
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      },
+      "coldresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+37-133 Cold Damage"
+      },
+      {
+        "order": "160",
+        "string": "+40-80% Enhanced Damage"
+      },
+      {
+        "order": "139",
+        "string": "+20% Faster Hit Recovery"
+      },
+      {
+        "order": "87",
+        "string": "15% Chance of Crushing Blow"
+      },
+      {
+        "order": "83",
+        "string": "33% Chance of Open Wounds"
+      },
+      {
+        "order": "74",
+        "string": "+150-200% Enhanced Defense"
+      },
+      {
+        "order": "49",
+        "string": "-20% Slower Stamina Drain"
+      },
+      {
+        "order": "160",
+        "string": "armor: \n All Resistances +15"
+      },
+      {
+        "order": "139",
+        "string": "armor: \n +20% Faster Hit Recovery"
+      },
+      {
+        "order": "40",
+        "string": "armor: \n Cold Resist +30%"
+      }
+    ]
+  },
+  {
+    "item_name": "Oath",
+    "rune_string": "Shael Pul Mal Lum",
+    "base_types": [
+      "sword",
+      "axe",
+      "mace"
+    ],
+    "level_requirement": 49,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 210,
+        "max": 340
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 30
+      },
+      "item_skillonhit": {
+        "min": 30,
+        "max": 20
+      },
+      "irongolem": {
+        "min": 8,
+        "max": 8
+      },
+      "heart_of_wolverine": {
+        "min": 8,
+        "max": 8
+      },
+      "item_absorbmagic": {
+        "min": 10,
+        "max": 15
+      }
+    },
+    "socket_mods": {
+      "item_fasterattackrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_demon_tohit": {
+        "min": 100,
+        "max": 100,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+210-340% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "30% Chance to cast level 20 Bone Spirit on striking"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "145",
+        "string": "+30% Increased Attack Speed"
+      },
+      {
+        "order": "81",
+        "string": "+8 to IronGolem"
+      },
+      {
+        "order": "81",
+        "string": "+8 to Heart of Wolverine"
+      },
+      {
+        "order": "33",
+        "string": "+10-15 Magic Absorb"
+      },
+      {
+        "order": "145",
+        "string": "weapon: \n +20% Increased Attack Speed"
+      },
+      {
+        "order": "110",
+        "string": "weapon: \n +100 to Attack Rating against Demons"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "61",
+        "string": "weapon: \n +10 to Energy"
+      }
+    ]
+  },
+  {
+    "item_name": "Obedience",
+    "rune_string": "Hel Ko Thul Eth Fal",
+    "base_types": [
+      "polearm",
+      "spear"
+    ],
+    "level_requirement": 41,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 370,
+        "max": 370
+      },
+      "item_crushingblow": {
+        "min": 40,
+        "max": 40
+      },
+      "item_skillonkill": {
+        "min": 30,
+        "max": 21
+      },
+      "passive_fire_pierce": {
+        "min": 25,
+        "max": 25
+      },
+      "armorclass": {
+        "min": 200,
+        "max": 300
+      },
+      "item_fastergethitrate": {
+        "min": 40,
+        "max": 40
+      },
+      "all_resist": {
+        "min": 20,
+        "max": 30
+      }
+    },
+    "socket_mods": {
+      "item_req_percent": {
+        "min": -20,
+        "max": -20,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "cold_damage": {
+        "min": 3,
+        "max": 14,
+        "base_type": "weapon"
+      },
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+370% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "30% Chance to cast level 21 enchant when you Kill an Enemy"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +20-30"
+      },
+      {
+        "order": "139",
+        "string": "+40% Faster Hit Recovery"
+      },
+      {
+        "order": "88",
+        "string": "-25% to Enemy Fire Resistance"
+      },
+      {
+        "order": "87",
+        "string": "40% Chance of Crushing Blow"
+      },
+      {
+        "order": "71",
+        "string": "+200-300 Defense"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +3-14 Cold Damage"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      },
+      {
+        "order": "67",
+        "string": "weapon: \n +10 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      },
+      {
+        "order": "0",
+        "string": "weapon: \n Requirements -20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Harmony",
+    "rune_string": "Tir Ith Sol Ko",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 39,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 200,
+        "max": 275
+      },
+      "eledmg_flat": {
+        "min": 55,
+        "max": 160
+      },
+      "item_charged_skill": {
+        "min": 25,
+        "max": 20
+      },
+      "item_aura": {
+        "min": 10,
+        "max": 10
+      },
+      "valkyrie": {
+        "min": 2,
+        "max": 6
+      },
+      "manarecoverybonus": {
+        "min": 20,
+        "max": 20
+      },
+      "item_lightradius": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "socket_mods": {
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "damage_max": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "damage_min": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+200-275% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "+55-160 Elemental Damage"
+      },
+      {
+        "order": "159",
+        "string": "Level 10 Vigor Aura When Equipped"
+      },
+      {
+        "order": "81",
+        "string": "+2-6 to Valkyrie"
+      },
+      {
+        "order": "52",
+        "string": "Regenerate Mana 20%"
+      },
+      {
+        "order": "6",
+        "string": "+2 to Light Radius"
+      },
+      {
+        "order": "1",
+        "string": "Level 20 Revive (25 Charges)"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Maximum Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Minimum Damage"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Fortitude",
+    "rune_string": "El Sol Dol Lo",
+    "base_types": [
+      "weapon",
+      "body armor"
+    ],
+    "level_requirement": 59,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 200,
+        "max": 200
+      },
+      "item_damage_percent": {
+        "min": 200,
+        "max": 200
+      },
+      "item_fastercastrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_damagetomana": {
+        "min": 12,
+        "max": 12
+      },
+      "item_hp_perlevel": {
+        "min": 1,
+        "max": 1.5
+      },
+      "all_resist": {
+        "min": 25,
+        "max": 30
+      }
+    },
+    "socket_mods": {
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "armor"
+      },
+      "damage_min": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      },
+      "normal_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "item_howl": {
+        "min": 32,
+        "max": 32,
+        "base_type": "weapon"
+      },
+      "hpregen": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "maxlightresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+200% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +25-30"
+      },
+      {
+        "order": "142",
+        "string": "+25% Faster Cast Rate"
+      },
+      {
+        "order": "74",
+        "string": "+200% Enhanced Defense"
+      },
+      {
+        "order": "57",
+        "string": "+1-150 to Life (+1-1.5 Based On Character level)"
+      },
+      {
+        "order": "11",
+        "string": "12% Damage Taken Gained as Mana when Hit"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Minimum Damage"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "79",
+        "string": "weapon: \n Hit Causes Monster to Flee 32%"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      },
+      {
+        "order": "56",
+        "string": "armor: \n Replenish Life +7"
+      },
+      {
+        "order": "43",
+        "string": "armor: \n +4% to Maximum Lightning Resist"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 7"
+      },
+      {
+        "order": "6",
+        "string": "armor: \n +1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Faith",
+    "rune_string": "Ohm Jah Lem Eld",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 130,
+        "max": 180
+      },
+      "item_tohit_percent": {
+        "min": 300,
+        "max": 300
+      },
+      "fire_damage": {
+        "min": 120,
+        "max": 120
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15
+      },
+      "item_aura": {
+        "min": 12,
+        "max": 15
+      },
+      "item_reanimate": {
+        "min": 4,
+        "max": 4
+      }
+    },
+    "socket_mods": {
+      "item_damage_percent": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_goldbonus": {
+        "min": 75,
+        "max": 75,
+        "base_type": "weapon"
+      },
+      "item_undead_tohit": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+130-180% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "+120 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +15"
+      },
+      {
+        "order": "159",
+        "string": "Level 12-15 fanaticism Aura When Equipped"
+      },
+      {
+        "order": "117",
+        "string": "300% Bonus to Attack Rating"
+      },
+      {
+        "order": "17",
+        "string": "4% Reanimate as: <insert monster name>"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +50% Enhanced Damage"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "106",
+        "string": "weapon: \n +50 to Attack Rating against Undead"
+      },
+      {
+        "order": "10",
+        "string": "weapon: \n 75% Extra Gold from Monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "Bone",
+    "rune_string": "Sol Um Um",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 47,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 15,
+        "max": 10
+      },
+      "item_skillongethit": {
+        "min": 15,
+        "max": 10
+      },
+      "necromancer_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "maxmana": {
+        "min": 100,
+        "max": 150
+      }
+    },
+    "socket_mods": {
+      "normal_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "15% Chance to cast level 10 Bone Spear on striking"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance to cast level 10 Bone Armor when struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Necromancer Skill Levels"
+      },
+      {
+        "order": "55",
+        "string": "+100-150 to Mana"
+      },
+      {
+        "order": "160",
+        "string": "armor: \n All Resistances +15"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Brand",
+    "rune_string": "Jah Lo Mal Gul",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 260,
+        "max": 340
+      },
+      "item_demondamage_percent": {
+        "min": 280,
+        "max": 330
+      },
+      "item_skillonhit": {
+        "min": 100,
+        "max": 25
+      },
+      "item_skillongethit": {
+        "min": 35,
+        "max": 14
+      },
+      "item_knockback": {
+        "min": 1,
+        "max": 1
+      },
+      "extra_bonespears": {
+        "min": 2,
+        "max": 2
+      },
+      "item_explosivearrow": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "socket_mods": {
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_tohit_percent": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+260-340% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 25 Bone Spear on striking"
+      },
+      {
+        "order": "160",
+        "string": "35% Chance to cast level 14 AmpDmg when struck"
+      },
+      {
+        "order": "133",
+        "string": "Fires Explosive Arrows or Bolts"
+      },
+      {
+        "order": "120",
+        "string": "Bonespear Now Fires 2-200 (+2 Based On Character level)"
+      },
+      {
+        "order": "112",
+        "string": "+280-330% Damage to Demons"
+      },
+      {
+        "order": "76",
+        "string": "Knockback"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "117",
+        "string": "weapon: \n 20% Bonus to Attack Rating"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      }
+    ]
+  },
+  {
+    "item_name": "Death",
+    "rune_string": "Hel El Vex Ort Gul",
+    "base_types": [
+      "sword",
+      "axe"
+    ],
+    "level_requirement": 55,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 300,
+        "max": 355
+      },
+      "item_deadlystrike_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      },
+      "bloodgolem": {
+        "min": 12,
+        "max": 12
+      },
+      "item_skillonattack": {
+        "min": 25,
+        "max": 18
+      },
+      "item_skillondeath": {
+        "min": 100,
+        "max": 44
+      },
+      "item_crushingblow": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "socket_mods": {
+      "item_req_percent": {
+        "min": -20,
+        "max": -20,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_tohit_percent": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+300-355% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "25% Chance to cast level 18 Glacial Spike on attack"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 44 Chain Lightning when you Die"
+      },
+      {
+        "order": "160",
+        "string": "Indestructible"
+      },
+      {
+        "order": "87",
+        "string": "50% Chance of Crushing Blow"
+      },
+      {
+        "order": "84",
+        "string": "0.5-50% Deadly Strike (+0.5 Based On Character level)"
+      },
+      {
+        "order": "81",
+        "string": "+12 to BloodGolem"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "117",
+        "string": "weapon: \n 20% Bonus to Attack Rating"
+      },
+      {
+        "order": "89",
+        "string": "weapon: \n 7% Mana stolen per hit"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      },
+      {
+        "order": "0",
+        "string": "weapon: \n Requirements -20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Destruction",
+    "rune_string": "Vex Lo Ber Jah Ko",
+    "base_types": [
+      "polearm",
+      "sword",
+      "spear"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 300,
+        "max": 300
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 40
+      },
+      "item_skillonhit": {
+        "min": 23,
+        "max": 22
+      },
+      "item_skillonattack": {
+        "min": 15,
+        "max": 32
+      }
+    },
+    "socket_mods": {
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_crushingblow": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+300% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 33 Molten Boulder on striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 45 Meteor on striking"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance to cast level 32 Nova on attack"
+      },
+      {
+        "order": "160",
+        "string": "23% Chance to cast level 22 Frost Nova on striking"
+      },
+      {
+        "order": "145",
+        "string": "+30-40% Increased Attack Speed"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "89",
+        "string": "weapon: \n 7% Mana stolen per hit"
+      },
+      {
+        "order": "87",
+        "string": "weapon: \n 20% Chance of Crushing Blow"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      }
+    ]
+  },
+  {
+    "item_name": "Dragon",
+    "rune_string": "Sur Lo Sol",
+    "base_types": [
+      "body armor",
+      "shield"
+    ],
+    "level_requirement": 61,
+    "socket_requirement": 3,
+    "item_mods": {
+      "armorclass": {
+        "min": 360,
+        "max": 360
+      },
+      "armorclass_vs_missile": {
+        "min": 230,
+        "max": 230
+      },
+      "item_strength_perlevel": {
+        "min": 0.375,
+        "max": 0.375
+      },
+      "item_skillonhit": {
+        "min": 12,
+        "max": 15
+      },
+      "item_skillongethit": {
+        "min": 20,
+        "max": 18
+      },
+      "item_aura": {
+        "min": 14,
+        "max": 14
+      },
+      "strength": {
+        "min": 3,
+        "max": 5
+      }
+    },
+    "socket_mods": {
+      "item_maxmana_percent": {
+        "min": 5,
+        "max": 5,
+        "base_type": "armor"
+      },
+      "maxmana": {
+        "min": 50,
+        "max": 50,
+        "base_type": "shield"
+      },
+      "maxlightresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "shield"
+      },
+      "normal_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "12% Chance to cast level 15 Hydra on striking"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 18 Venom when struck"
+      },
+      {
+        "order": "159",
+        "string": "Level 14 Holy Fire Aura When Equipped"
+      },
+      {
+        "order": "71",
+        "string": "+360 Defense"
+      },
+      {
+        "order": "69",
+        "string": "+230 Defense vs. Missile"
+      },
+      {
+        "order": "67",
+        "string": "+3-5 to Strength"
+      },
+      {
+        "order": "66",
+        "string": "+0.375-38 to Strength (+0.375 Based On Character level)"
+      },
+      {
+        "order": "55",
+        "string": "shield: \n +50 to Mana"
+      },
+      {
+        "order": "43",
+        "string": "shield: \n +4% to Maximum Lightning Resist"
+      },
+      {
+        "order": "22",
+        "string": "shield: \n Physical Damage Taken Reduced by 7"
+      },
+      {
+        "order": "54",
+        "string": "armor: \n Increase Maximum Mana 5%"
+      },
+      {
+        "order": "43",
+        "string": "armor: \n +4% to Maximum Lightning Resist"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Dream",
+    "rune_string": "Io Jah Pul",
+    "base_types": [
+      "helm",
+      "shield"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 3,
+    "item_mods": {
+      "armorclass": {
+        "min": 150,
+        "max": 220
+      },
+      "item_skillongethit": {
+        "min": 10,
+        "max": 15
+      },
+      "item_mana_perlevel": {
+        "min": 0.625,
+        "max": 0.625
+      },
+      "all_resist": {
+        "min": 5,
+        "max": 20
+      },
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 30
+      },
+      "item_aura": {
+        "min": 15,
+        "max": 15
+      },
+      "item_magicbonus": {
+        "min": 12,
+        "max": 25
+      }
+    },
+    "socket_mods": {
+      "vitality": {
+        "min": 10,
+        "max": 10,
+        "base_type": "shield"
+      },
+      "item_maxhp_percent": {
+        "min": 5,
+        "max": 5,
+        "base_type": "armor"
+      },
+      "maxhp": {
+        "min": 50,
+        "max": 50,
+        "base_type": "shield"
+      },
+      "item_armor_percent": {
+        "min": 30,
+        "max": 30,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "10% Chance to cast level 15 Confuse when struck"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +5-20"
+      },
+      {
+        "order": "159",
+        "string": "Level 15 Holy Shock Aura When Equipped"
+      },
+      {
+        "order": "139",
+        "string": "+20-30% Faster Hit Recovery"
+      },
+      {
+        "order": "71",
+        "string": "+150-220 Defense"
+      },
+      {
+        "order": "53",
+        "string": "+0.625-63 to Mana (+0.625 Based On Character level)"
+      },
+      {
+        "order": "8",
+        "string": "12-25% Better Chance of Getting Magic Items"
+      },
+      {
+        "order": "74",
+        "string": "shield: \n +30% Enhanced Defense"
+      },
+      {
+        "order": "63",
+        "string": "shield: \n +10 to Vitality"
+      },
+      {
+        "order": "59",
+        "string": "shield: \n +50 to Life"
+      },
+      {
+        "order": "74",
+        "string": "armor: \n +30% Enhanced Defense"
+      },
+      {
+        "order": "63",
+        "string": "armor: \n +10 to Vitality"
+      },
+      {
+        "order": "58",
+        "string": "armor: \n Increase Maximum Life 5%"
+      }
+    ]
+  },
+  {
+    "item_name": "Edge",
+    "rune_string": "Tir Tal Amn",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 25,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 320,
+        "max": 380
+      },
+      "item_undeaddamage_percent": {
+        "min": 280,
+        "max": 280
+      },
+      "item_fasterattackrate": {
+        "min": 35,
+        "max": 35
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1
+      },
+      "item_aura": {
+        "min": 15,
+        "max": 15
+      },
+      "strength": {
+        "min": 5,
+        "max": 10
+      },
+      "item_reducedprices": {
+        "min": 15,
+        "max": 15
+      }
+    },
+    "socket_mods": {
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "poison_damage": {
+        "min": 154,
+        "max": 154,
+        "base_type": "weapon"
+      },
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "159",
+        "string": "Level 15 Thorns Aura When Equipped"
+      },
+      {
+        "order": "145",
+        "string": "+35% Increased Attack Speed"
+      },
+      {
+        "order": "112",
+        "string": "+320-380% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+280% Damage to Undead"
+      },
+      {
+        "order": "81",
+        "string": "Prevent Monster Heal"
+      },
+      {
+        "order": "67",
+        "string": "+5-10 to Strength"
+      },
+      {
+        "order": "8",
+        "string": "Reduces all Vendor Prices 15%"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +154 Poison Damage"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Enlightenment",
+    "rune_string": "Pul Ral Sol",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 45,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 5,
+        "max": 15
+      },
+      "item_skillongethit": {
+        "min": 5,
+        "max": 15
+      },
+      "sorceress_skills": {
+        "min": 1,
+        "max": 2
+      },
+      "warmth": {
+        "min": 1,
+        "max": 1
+      },
+      "item_fastercastrate": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "socket_mods": {
+      "item_armor_percent": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "fireresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "normal_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 15 Fire Ball on striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 15 Blaze when struck"
+      },
+      {
+        "order": "150",
+        "string": "+1-2 to Sorceress Skill Levels"
+      },
+      {
+        "order": "142",
+        "string": "+10% Faster Cast Rate"
+      },
+      {
+        "order": "81",
+        "string": "+1 to Warmth"
+      },
+      {
+        "order": "74",
+        "string": "armor: \n +30% Enhanced Defense"
+      },
+      {
+        "order": "36",
+        "string": "armor: \n Fire Resist +30%"
+      },
+      {
+        "order": "22",
+        "string": "armor: \n Physical Damage Taken Reduced by 7"
+      }
+    ]
+  },
+  {
+    "item_name": "Ice",
+    "rune_string": "Amn Shael Jah Lo",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 140,
+        "max": 210
+      },
+      "item_aura": {
+        "min": 18,
+        "max": 18
+      },
+      "passive_cold_mastery": {
+        "min": 25,
+        "max": 30
+      },
+      "item_skillonhit": {
+        "min": 20,
+        "max": 32
+      },
+      "item_skillonlevelup": {
+        "min": 100,
+        "max": 40
+      },
+      "passive_cold_pierce": {
+        "min": 20,
+        "max": 20
+      },
+      "item_find_gold_perlevel": {
+        "min": 3.125,
+        "max": 3.125
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_fasterattackrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+140-210% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 32 Frost Nova on striking"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 40 Blizzard when you Level-Up"
+      },
+      {
+        "order": "159",
+        "string": "Level 18 Holy Freeze Aura When Equipped"
+      },
+      {
+        "order": "88",
+        "string": "+25-30% to Cold Skill Damage"
+      },
+      {
+        "order": "88",
+        "string": "-20% to Enemy Cold Resistance"
+      },
+      {
+        "order": "9",
+        "string": "3.125-313% Extra Gold from Monsters (+3.125 Based On Character level)"
+      },
+      {
+        "order": "145",
+        "string": "weapon: \n +20% Increased Attack Speed"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      }
+    ]
+  },
+  {
+    "item_name": "Infinity",
+    "rune_string": "Ber Mal Ber Ist",
+    "base_types": [
+      "polearm",
+      "spear"
+    ],
+    "level_requirement": 63,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 255,
+        "max": 325
+      },
+      "item_fastermovevelocity": {
+        "min": 35,
+        "max": 35
+      },
+      "item_vitality_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      },
+      "item_aura": {
+        "min": 12,
+        "max": 12
+      },
+      "item_skillonkill": {
+        "min": 50,
+        "max": 20
+      },
+      "passive_ltng_pierce": {
+        "min": 45,
+        "max": 55
+      },
+      "item_charged_skill": {
+        "min": 30,
+        "max": 21
+      }
+    },
+    "socket_mods": {
+      "item_crushingblow": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_magicbonus": {
+        "min": 30,
+        "max": 30,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+255-325% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "50% Chance to cast level 20 Chain Lightning when you Kill an Enemy"
+      },
+      {
+        "order": "159",
+        "string": "Level 12 Conviction Aura When Equipped"
+      },
+      {
+        "order": "148",
+        "string": "+35% Faster Run/Walk"
+      },
+      {
+        "order": "88",
+        "string": "-45-55% to Enemy Lightning Resistance"
+      },
+      {
+        "order": "62",
+        "string": "+0.5-50 to Vitality (+0.5 Based On Character level)"
+      },
+      {
+        "order": "1",
+        "string": "Level 21 Cyclone Armor (30 Charges)"
+      },
+      {
+        "order": "87",
+        "string": "weapon: \n 20% Chance of Crushing Blow"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "8",
+        "string": "weapon: \n 30% Better Chance of Getting Magic Items"
+      }
+    ]
+  },
+  {
+    "item_name": "Insight",
+    "rune_string": "Ral Tir Tal Sol",
+    "base_types": [
+      "polearm",
+      "staff",
+      "spear"
+    ],
+    "level_requirement": 27,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 200,
+        "max": 260
+      },
+      "item_tohit_percent": {
+        "min": 180,
+        "max": 250
+      },
+      "item_magicbonus": {
+        "min": 23,
+        "max": 23
+      },
+      "critical_strike": {
+        "min": 1,
+        "max": 6
+      },
+      "item_fastercastrate": {
+        "min": 35,
+        "max": 35
+      },
+      "item_aura": {
+        "min": 12,
+        "max": 17
+      },
+      "strength": {
+        "min": 5,
+        "max": 5
+      }
+    },
+    "socket_mods": {
+      "fire_damage": {
+        "min": 5,
+        "max": 30,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "poison_damage": {
+        "min": 154,
+        "max": 154,
+        "base_type": "weapon"
+      },
+      "damage_min": {
+        "min": 9,
+        "max": 9,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+200-260% Enhanced Damage"
+      },
+      {
+        "order": "159",
+        "string": "Level 12-17 Meditation Aura When Equipped"
+      },
+      {
+        "order": "142",
+        "string": "+35% Faster Cast Rate"
+      },
+      {
+        "order": "117",
+        "string": "180-250% Bonus to Attack Rating"
+      },
+      {
+        "order": "81",
+        "string": "+1-6 to Critical Strike"
+      },
+      {
+        "order": "67",
+        "string": "+5 to Strength"
+      },
+      {
+        "order": "8",
+        "string": "23% Better Chance of Getting Magic Items"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +5-30 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +154 Poison Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +9 to Minimum Damage"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Last Wish",
+    "rune_string": "Jah Mal Jah Sur Jah Ber",
+    "base_types": [
+      "sword",
+      "hammer",
+      "axe"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 6,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 330,
+        "max": 375
+      },
+      "item_skillonattack": {
+        "min": 20,
+        "max": 20
+      },
+      "item_skillonhit": {
+        "min": 10,
+        "max": 18
+      },
+      "item_skillongethit": {
+        "min": 6,
+        "max": 11
+      },
+      "item_crushingblow": {
+        "min": 40,
+        "max": 50
+      },
+      "item_find_magic_perlevel": {
+        "min": 0.5,
+        "max": 0.5
+      },
+      "item_aura": {
+        "min": 17,
+        "max": 17
+      }
+    },
+    "socket_mods": {
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_healafterkill": {
+        "min": 4,
+        "max": 4,
+        "base_type": "weapon"
+      },
+      "item_crushingblow": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+330-375% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 20 Charged Bolt on attack"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance to cast level 18 Life Tap on striking"
+      },
+      {
+        "order": "160",
+        "string": "6% Chance to cast level 11 Fade when struck"
+      },
+      {
+        "order": "159",
+        "string": "Level 17 Might Aura When Equipped"
+      },
+      {
+        "order": "87",
+        "string": "40-50% Chance of Crushing Blow"
+      },
+      {
+        "order": "7",
+        "string": "0.5-50% Better Chance of Getting Magic Items (+0.5 Based On Character level)"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "87",
+        "string": "weapon: \n 20% Chance of Crushing Blow"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +4 Life after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Lawbringer",
+    "rune_string": "Amn Lem Ko",
+    "base_types": [
+      "sword",
+      "hammer",
+      "scepter"
+    ],
+    "level_requirement": 43,
+    "socket_requirement": 3,
+    "item_mods": {
+      "cold_damage": {
+        "min": 130,
+        "max": 180
+      },
+      "fire_damage": {
+        "min": 150,
+        "max": 210
+      },
+      "item_aura": {
+        "min": 16,
+        "max": 18
+      },
+      "item_skillonhit": {
+        "min": 20,
+        "max": 15
+      },
+      "armorclass_vs_missile": {
+        "min": 200,
+        "max": 250
+      },
+      "item_restinpeace": {
+        "min": 1,
+        "max": 1
+      },
+      "item_fractionaltargetac": {
+        "min": 50,
+        "max": 50
+      }
+    },
+    "socket_mods": {
+      "lifedrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "item_goldbonus": {
+        "min": 75,
+        "max": 75,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+130-180 Cold Damage"
+      },
+      {
+        "order": "160",
+        "string": "+150-210 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 15 Decrepify on striking"
+      },
+      {
+        "order": "159",
+        "string": "Level 16-18 Sanctuary Aura When Equipped"
+      },
+      {
+        "order": "118",
+        "string": "-50% Target Defense"
+      },
+      {
+        "order": "81",
+        "string": "Slain Monsters Rest in Peace"
+      },
+      {
+        "order": "69",
+        "string": "+200-250 Defense vs. Missile"
+      },
+      {
+        "order": "88",
+        "string": "weapon: \n 7% Life stolen per hit"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      },
+      {
+        "order": "10",
+        "string": "weapon: \n 75% Extra Gold from Monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "Myth",
+    "rune_string": "Hel Amn Nef",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 25,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 10,
+        "max": 1
+      },
+      "item_skillongethit": {
+        "min": 3,
+        "max": 1
+      },
+      "barbarian_skills": {
+        "min": 1,
+        "max": 2
+      },
+      "hpregen": {
+        "min": 10,
+        "max": 10
+      },
+      "item_thorns_perlevel": {
+        "min": 2,
+        "max": 3
+      },
+      "item_manaafterkill": {
+        "min": 1,
+        "max": 3
+      }
+    },
+    "socket_mods": {
+      "item_req_percent": {
+        "min": -15,
+        "max": -15,
+        "base_type": "armor"
+      },
+      "item_attackertakesdamage": {
+        "min": 14,
+        "max": 14,
+        "base_type": "armor"
+      },
+      "armorclass_vs_missile": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "10% Chance to cast level 1 Taunt on striking"
+      },
+      {
+        "order": "160",
+        "string": "3% Chance to cast level 1 Howl when struck"
+      },
+      {
+        "order": "150",
+        "string": "+1-2 to Barbarian Skill Levels"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +10"
+      },
+      {
+        "order": "16",
+        "string": "+1-3 to Mana after each Kill"
+      },
+      {
+        "order": "12",
+        "string": "Attacker Takes Damage of 2-300\n       (+2-3 Based On Character level)"
+      },
+      {
+        "order": "69",
+        "string": "armor: \n +30 Defense vs. Missile"
+      },
+      {
+        "order": "13",
+        "string": "armor: \n Attacker Takes Damage of 14"
+      },
+      {
+        "order": "0",
+        "string": "armor: \n Requirements -15%"
+      }
+    ]
+  },
+  {
+    "item_name": "Patter",
+    "rune_string": "Tal Ort Tir",
+    "base_types": [
+      "claw"
+    ],
+    "level_requirement": 21,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_tohit_percent": {
+        "min": 10,
+        "max": 10
+      },
+      "item_damage_percent": {
+        "min": 40,
+        "max": 80
+      },
+      "fire_damage": {
+        "min": 12,
+        "max": 32
+      },
+      "all_resist": {
+        "min": 15,
+        "max": 15
+      },
+      "strength": {
+        "min": 6,
+        "max": 6
+      },
+      "dexterity": {
+        "min": 6,
+        "max": 6
+      },
+      "item_fasterblockrate": {
+        "min": 30,
+        "max": 30
+      }
+    },
+    "socket_mods": {
+      "poison_damage": {
+        "min": 154,
+        "max": 154,
+        "base_type": "weapon"
+      },
+      "lightning_damage": {
+        "min": 1,
+        "max": 50,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+40-80% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "+12-32 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "All Resistances +15"
+      },
+      {
+        "order": "136",
+        "string": "+30% Faster Block Rate"
+      },
+      {
+        "order": "117",
+        "string": "10% Bonus to Attack Rating"
+      },
+      {
+        "order": "67",
+        "string": "+6 to Strength"
+      },
+      {
+        "order": "65",
+        "string": "+6 to Dexterity"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +154 Poison Damage"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +1-50 Lightning Damage"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Peace",
+    "rune_string": "Shael Thul Amn",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 29,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 2,
+        "max": 15
+      },
+      "item_skillongethit": {
+        "min": 4,
+        "max": 5
+      },
+      "amazon_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "critical_strike": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    "socket_mods": {
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "armor"
+      },
+      "coldresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "item_attackertakesdamage": {
+        "min": 14,
+        "max": 14,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "2% Chance to cast level 15 Valkyrie on striking"
+      },
+      {
+        "order": "160",
+        "string": "4% Chance to cast level 5 Slow Missiles when struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Amazon Skill Levels"
+      },
+      {
+        "order": "81",
+        "string": "+2 to Critical Strike"
+      },
+      {
+        "order": "139",
+        "string": "armor: \n +20% Faster Hit Recovery"
+      },
+      {
+        "order": "40",
+        "string": "armor: \n Cold Resist +30%"
+      },
+      {
+        "order": "13",
+        "string": "armor: \n Attacker Takes Damage of 14"
+      }
+    ]
+  },
+  {
+    "item_name": "Phoenix",
+    "rune_string": "Vex Vex Lo Jah",
+    "base_types": [
+      "weapon",
+      "shield"
+    ],
+    "level_requirement": 65,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 300,
+        "max": 350
+      },
+      "armorclass_vs_missile": {
+        "min": 350,
+        "max": 400
+      },
+      "item_skillonhit": {
+        "min": 10,
+        "max": 22
+      },
+      "item_skillonlevelup": {
+        "min": 100,
+        "max": 40
+      },
+      "passive_fire_pierce": {
+        "min": 28,
+        "max": 28
+      },
+      "item_aura": {
+        "min": 10,
+        "max": 15
+      },
+      "item_absorbfire": {
+        "min": 15,
+        "max": 21
+      }
+    },
+    "socket_mods": {
+      "manadrainmindam": {
+        "min": 7,
+        "max": 7,
+        "base_type": "weapon"
+      },
+      "maxfireresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "shield"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "maxlightresist": {
+        "min": 4,
+        "max": 4,
+        "base_type": "shield"
+      },
+      "item_ignoretargetac": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "maxhp": {
+        "min": 50,
+        "max": 50,
+        "base_type": "shield"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+300-350% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "10% Chance to cast level 22 Fire Ball on striking"
+      },
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 40 Blaze when you Level-Up"
+      },
+      {
+        "order": "159",
+        "string": "Level 10-15 Redemption Aura When Equipped"
+      },
+      {
+        "order": "88",
+        "string": "-28% to Enemy Fire Resistance"
+      },
+      {
+        "order": "69",
+        "string": "+350-400 Defense vs. Missile"
+      },
+      {
+        "order": "27",
+        "string": "+15-21 Fire Absorb"
+      },
+      {
+        "order": "59",
+        "string": "shield: \n +50 to Life"
+      },
+      {
+        "order": "43",
+        "string": "shield: \n +4% to Maximum Lightning Resist"
+      },
+      {
+        "order": "42",
+        "string": "shield: \n +4% to Maximum Fire Resist"
+      },
+      {
+        "order": "119",
+        "string": "weapon: \n Ignore Target's Defense"
+      },
+      {
+        "order": "89",
+        "string": "weapon: \n 7% Mana stolen per hit"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      }
+    ]
+  },
+  {
+    "item_name": "Plague",
+    "rune_string": "Cham Fal Um",
+    "base_types": [
+      "weapon"
+    ],
+    "level_requirement": 67,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 260,
+        "max": 380
+      },
+      "item_skillongethit": {
+        "min": 20,
+        "max": 12
+      },
+      "item_skillonhit": {
+        "min": 25,
+        "max": 15
+      },
+      "passive_pois_pierce": {
+        "min": 23,
+        "max": 23
+      },
+      "item_deadlystrike_perlevel": {
+        "min": 0.375,
+        "max": 0.375
+      },
+      "item_aura": {
+        "min": 13,
+        "max": 17
+      },
+      "item_allskills": {
+        "min": 1,
+        "max": 2
+      }
+    },
+    "socket_mods": {
+      "item_freeze": {
+        "min": 3,
+        "max": 3,
+        "base_type": "weapon"
+      },
+      "strength": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_openwounds": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 12 LowRes when struck"
+      },
+      {
+        "order": "160",
+        "string": "25% Chance to cast level 15 Poison Nova on striking"
+      },
+      {
+        "order": "159",
+        "string": "Level 13-17 Cleansing Aura When Equipped"
+      },
+      {
+        "order": "158",
+        "string": "+1-2 to All Skills"
+      },
+      {
+        "order": "112",
+        "string": "+260-380% Damage to Demons"
+      },
+      {
+        "order": "88",
+        "string": "-23% to Enemy Poison Resistance"
+      },
+      {
+        "order": "84",
+        "string": "0.375-38% Deadly Strike (+0.375 Based On Character level)"
+      },
+      {
+        "order": "83",
+        "string": "weapon: \n 25% Chance of Open Wounds"
+      },
+      {
+        "order": "78",
+        "string": "weapon: \n Freezes target +3"
+      },
+      {
+        "order": "67",
+        "string": "weapon: \n +10 to Strength"
+      }
+    ]
+  },
+  {
+    "item_name": "Pride",
+    "rune_string": "Cham Sur Io Lo",
+    "base_types": [
+      "polearm",
+      "spear"
+    ],
+    "level_requirement": 67,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_damage_demon_perlevel": {
+        "min": 4,
+        "max": 4
+      },
+      "lightning_damage": {
+        "min": 50,
+        "max": 280
+      },
+      "item_tohit_percent": {
+        "min": 260,
+        "max": 300
+      },
+      "item_aura": {
+        "min": 16,
+        "max": 20
+      },
+      "item_skillongethit": {
+        "min": 25,
+        "max": 17
+      },
+      "hpregen": {
+        "min": 8,
+        "max": 8
+      },
+      "item_find_gold_perlevel": {
+        "min": 1.875,
+        "max": 1.875
+      }
+    },
+    "socket_mods": {
+      "item_freeze": {
+        "min": 3,
+        "max": 3,
+        "base_type": "weapon"
+      },
+      "item_healafterkill": {
+        "min": 4,
+        "max": 4,
+        "base_type": "weapon"
+      },
+      "vitality": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+50-280 Lightning Damage"
+      },
+      {
+        "order": "160",
+        "string": "25% Chance to cast level 17 Fire Wall when struck"
+      },
+      {
+        "order": "159",
+        "string": "Level 16-20 Concentration Aura When Equipped"
+      },
+      {
+        "order": "117",
+        "string": "260-300% Bonus to Attack Rating"
+      },
+      {
+        "order": "111",
+        "string": "+4-400% Damage to Demons (+4 Based On Character level)"
+      },
+      {
+        "order": "56",
+        "string": "Replenish Life +8"
+      },
+      {
+        "order": "9",
+        "string": "1.875-188% Extra Gold from Monsters (+1.875 Based On Character level)"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "78",
+        "string": "weapon: \n Freezes target +3"
+      },
+      {
+        "order": "63",
+        "string": "weapon: \n +10 to Vitality"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +4 Life after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Principle",
+    "rune_string": "Ral Pul Eld",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 45,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 100,
+        "max": 5
+      },
+      "paladin_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "maxhp": {
+        "min": 50,
+        "max": 100
+      },
+      "item_undeaddamage_percent": {
+        "min": 50,
+        "max": 80
+      },
+      "item_demondamage_percent": {
+        "min": 50,
+        "max": 80
+      }
+    },
+    "socket_mods": {
+      "fireresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "item_armor_percent": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "item_staminadrainpct": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "100% Chance to cast level 5 Holy Bolt on striking"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Paladin Skill Levels"
+      },
+      {
+        "order": "112",
+        "string": "+50-80% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+50-80% Damage to Undead"
+      },
+      {
+        "order": "59",
+        "string": "+50-100 to Life"
+      },
+      {
+        "order": "74",
+        "string": "armor: \n +30% Enhanced Defense"
+      },
+      {
+        "order": "49",
+        "string": "armor: \n 15% Slower Stamina Drain"
+      },
+      {
+        "order": "36",
+        "string": "armor: \n Fire Resist +30%"
+      }
+    ]
+  },
+  {
+    "item_name": "Prudence",
+    "rune_string": "Mal Tir",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 49,
+    "socket_requirement": 2,
+    "item_mods": {
+      "item_armor_percent": {
+        "min": 140,
+        "max": 170
+      },
+      "magic_damage_reduction": {
+        "min": 6,
+        "max": 10
+      },
+      "normal_damage_reduction": {
+        "min": 5,
+        "max": 13
+      },
+      "all_resist": {
+        "min": 25,
+        "max": 35
+      },
+      "item_fastergethitrate": {
+        "min": 25,
+        "max": 25
+      },
+      "item_replenish_durability": {
+        "min": null,
+        "max": null
+      },
+      "item_fastercastrate": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "magic_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "All Resistances +25-35"
+      },
+      {
+        "order": "142",
+        "string": "+20% Faster Cast Rate"
+      },
+      {
+        "order": "139",
+        "string": "+25% Faster Hit Recovery"
+      },
+      {
+        "order": "74",
+        "string": "+140-170% Enhanced Defense"
+      },
+      {
+        "order": "22",
+        "string": "Physical Damage Taken Reduced by 5-13"
+      },
+      {
+        "order": "21",
+        "string": "Magic Damage Taken Reduced by 6-10"
+      },
+      {
+        "order": "1",
+        "string": "Repairs durability over time"
+      },
+      {
+        "order": "21",
+        "string": "armor: \n Magic Damage Taken Reduced by 7"
+      },
+      {
+        "order": "16",
+        "string": "armor: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Rain",
+    "rune_string": "Ort Mal Ith",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 49,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 5,
+        "max": 15
+      },
+      "item_skillongethit": {
+        "min": 5,
+        "max": 15
+      },
+      "druid_skills": {
+        "min": 1,
+        "max": 2
+      },
+      "maxmana": {
+        "min": 100,
+        "max": 150
+      },
+      "summoning_druid": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "lightresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "magic_damage_reduction": {
+        "min": 7,
+        "max": 7,
+        "base_type": "armor"
+      },
+      "item_damagetomana": {
+        "min": 15,
+        "max": 15,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 15 Twister on striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 15 Cyclone Armor when struck"
+      },
+      {
+        "order": "151",
+        "string": "+1 to Summoning Druid"
+      },
+      {
+        "order": "150",
+        "string": "+1-2 to Druid Skill Levels"
+      },
+      {
+        "order": "55",
+        "string": "+100-150 to Mana"
+      },
+      {
+        "order": "38",
+        "string": "armor: \n Lightning Resist +30%"
+      },
+      {
+        "order": "21",
+        "string": "armor: \n Magic Damage Taken Reduced by 7"
+      },
+      {
+        "order": "11",
+        "string": "armor: \n 15% Damage Taken Gained as Mana when Hit"
+      }
+    ]
+  },
+  {
+    "item_name": "Rift",
+    "rune_string": "Hel Ko Lem Gul",
+    "base_types": [
+      "polearm",
+      "scepter",
+      "spear"
+    ],
+    "level_requirement": 53,
+    "socket_requirement": 4,
+    "item_mods": {
+      "magic_damage": {
+        "min": 160,
+        "max": 250
+      },
+      "fire_damage": {
+        "min": 60,
+        "max": 180
+      },
+      "item_damagetomana": {
+        "min": 38,
+        "max": 38
+      },
+      "item_skillonhit": {
+        "min": 20,
+        "max": 21
+      },
+      "item_skillonattack": {
+        "min": 16,
+        "max": 21
+      },
+      "item_charged_skill": {
+        "min": 40,
+        "max": 15
+      },
+      "strength": {
+        "min": 15,
+        "max": 20
+      }
+    },
+    "socket_mods": {
+      "item_req_percent": {
+        "min": -20,
+        "max": -20,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_goldbonus": {
+        "min": 75,
+        "max": 75,
+        "base_type": "weapon"
+      },
+      "item_tohit_percent": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+160-250 Magic Damage"
+      },
+      {
+        "order": "160",
+        "string": "+60-180 Fire Damage"
+      },
+      {
+        "order": "160",
+        "string": "20% Chance to cast level 21 Tornado on striking"
+      },
+      {
+        "order": "160",
+        "string": "16% Chance to cast level 21 Frozen Orb on attack"
+      },
+      {
+        "order": "67",
+        "string": "+15-20 to Strength"
+      },
+      {
+        "order": "11",
+        "string": "38% Damage Taken Gained as Mana when Hit"
+      },
+      {
+        "order": "1",
+        "string": "Level 15 Iron Maiden (40 Charges)"
+      },
+      {
+        "order": "117",
+        "string": "weapon: \n 20% Bonus to Attack Rating"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      },
+      {
+        "order": "10",
+        "string": "weapon: \n 75% Extra Gold from Monsters"
+      },
+      {
+        "order": "0",
+        "string": "weapon: \n Requirements -20%"
+      }
+    ]
+  },
+  {
+    "item_name": "Treachery",
+    "rune_string": "Shael Thul Lem",
+    "base_types": [
+      "body armor"
+    ],
+    "level_requirement": 43,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_skillonhit": {
+        "min": 25,
+        "max": 15
+      },
+      "item_skillongethit": {
+        "min": 30,
+        "max": 15
+      },
+      "assassin_skills": {
+        "min": 2,
+        "max": 2
+      },
+      "item_fasterattackrate": {
+        "min": 45,
+        "max": 45
+      }
+    },
+    "socket_mods": {
+      "item_fastergethitrate": {
+        "min": 20,
+        "max": 20,
+        "base_type": "armor"
+      },
+      "coldresist": {
+        "min": 30,
+        "max": 30,
+        "base_type": "armor"
+      },
+      "item_goldbonus": {
+        "min": 50,
+        "max": 50,
+        "base_type": "armor"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "25% Chance to cast level 15 Venom on striking"
+      },
+      {
+        "order": "160",
+        "string": "30% Chance to cast level 15 Lesser Fade when struck"
+      },
+      {
+        "order": "150",
+        "string": "+2 to Assassin Skill Levels"
+      },
+      {
+        "order": "145",
+        "string": "+45% Increased Attack Speed"
+      },
+      {
+        "order": "139",
+        "string": "armor: \n +20% Faster Hit Recovery"
+      },
+      {
+        "order": "40",
+        "string": "armor: \n Cold Resist +30%"
+      },
+      {
+        "order": "10",
+        "string": "armor: \n 50% Extra Gold from Monsters"
+      }
+    ]
+  },
+  {
+    "item_name": "Grief",
+    "rune_string": "Eth Tir Lo Mal Ral",
+    "base_types": [
+      "sword",
+      "axe"
+    ],
+    "level_requirement": 59,
+    "socket_requirement": 5,
+    "item_mods": {
+      "item_damage_demon_perlevel": {
+        "min": 1.875,
+        "max": 1.875
+      },
+      "damage_min": {
+        "min": 180,
+        "max": 220
+      },
+      "damage_max": {
+        "min": 240,
+        "max": 280
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 40
+      },
+      "item_skillonhit": {
+        "min": 35,
+        "max": 15
+      },
+      "passive_pois_pierce": {
+        "min": 20,
+        "max": 25
+      },
+      "item_healafterkill": {
+        "min": 10,
+        "max": 15
+      }
+    },
+    "socket_mods": {
+      "item_fractionaltargetac": {
+        "min": 25,
+        "max": 25,
+        "base_type": "weapon"
+      },
+      "item_manaafterkill": {
+        "min": 2,
+        "max": 2,
+        "base_type": "weapon"
+      },
+      "item_deadlystrike": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "fire_damage": {
+        "min": 5,
+        "max": 30,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+180-220 to Minimum Damage"
+      },
+      {
+        "order": "160",
+        "string": "+240-280 to Maximum Damage"
+      },
+      {
+        "order": "160",
+        "string": "35% Chance to cast level 15 Venom on striking"
+      },
+      {
+        "order": "145",
+        "string": "+30-40% Increased Attack Speed"
+      },
+      {
+        "order": "111",
+        "string": "+1.875-188% Damage to Demons (+1.875 Based On Character level)"
+      },
+      {
+        "order": "88",
+        "string": "-20-25% to Enemy Poison Resistance"
+      },
+      {
+        "order": "16",
+        "string": "+10-15 Life after each Kill"
+      },
+      {
+        "order": "160",
+        "string": "weapon: \n +5-30 Fire Damage"
+      },
+      {
+        "order": "118",
+        "string": "weapon: \n -25% Target Defense"
+      },
+      {
+        "order": "85",
+        "string": "weapon: \n 20% Deadly Strike"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +2 to Mana after each Kill"
+      }
+    ]
+  },
+  {
+    "item_name": "Wind",
+    "rune_string": "Sur Sur El",
+    "base_types": [
+      "melee"
+    ],
+    "level_requirement": 61,
+    "socket_requirement": 3,
+    "item_mods": {
+      "item_damage_percent": {
+        "min": 160,
+        "max": 240
+      },
+      "item_fasterattackrate": {
+        "min": 40,
+        "max": 40
+      },
+      "item_fastermovevelocity": {
+        "min": 20,
+        "max": 30
+      },
+      "item_skillongethit": {
+        "min": 5,
+        "max": 9
+      },
+      "item_skillonhit": {
+        "min": 8,
+        "max": 25
+      }
+    },
+    "socket_mods": {
+      "item_healafterkill": {
+        "min": 4,
+        "max": 4,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+160-240% Enhanced Damage"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 9 Hurricane when struck"
+      },
+      {
+        "order": "160",
+        "string": "8% Chance to cast level 29 Tornado on striking"
+      },
+      {
+        "order": "160",
+        "string": "8% Chance to cast level 25 Twister on striking"
+      },
+      {
+        "order": "160",
+        "string": "5% Chance to cast level 9 Cyclone Armor when struck"
+      },
+      {
+        "order": "148",
+        "string": "+20-30% Faster Run/Walk"
+      },
+      {
+        "order": "145",
+        "string": "+40% Increased Attack Speed"
+      },
+      {
+        "order": "16",
+        "string": "weapon: \n +4 Life after each Kill"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Voice of Reason",
+    "rune_string": "Lem Ko El Eld",
+    "base_types": [
+      "sword",
+      "mace"
+    ],
+    "level_requirement": 43,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 220,
+        "max": 350
+      },
+      "item_undeaddamage_percent": {
+        "min": 280,
+        "max": 300
+      },
+      "cold_damage": {
+        "min": 200,
+        "max": 320
+      },
+      "passive_cold_pierce": {
+        "min": 24,
+        "max": 24
+      },
+      "item_skillonhit": {
+        "min": 15,
+        "max": 16
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "item_goldbonus": {
+        "min": 75,
+        "max": 75,
+        "base_type": "weapon"
+      },
+      "dexterity": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_lightradius": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      },
+      "item_undead_tohit": {
+        "min": 50,
+        "max": 50,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+200-320 Cold Damage"
+      },
+      {
+        "order": "160",
+        "string": "18% Chance to cast level 20 Ice Blast on striking"
+      },
+      {
+        "order": "160",
+        "string": "15% Chance to cast level 16 Frozen Orb on striking"
+      },
+      {
+        "order": "112",
+        "string": "+220-350% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+280-300% Damage to Undead"
+      },
+      {
+        "order": "88",
+        "string": "-24% to Enemy Cold Resistance"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "106",
+        "string": "weapon: \n +50 to Attack Rating against Undead"
+      },
+      {
+        "order": "65",
+        "string": "weapon: \n +10 to Dexterity"
+      },
+      {
+        "order": "10",
+        "string": "weapon: \n 75% Extra Gold from Monsters"
+      },
+      {
+        "order": "6",
+        "string": "weapon: \n +1 to Light Radius"
+      }
+    ]
+  },
+  {
+    "item_name": "Wrath",
+    "rune_string": "Pul Lum Ber Mal",
+    "base_types": [
+      "bow"
+    ],
+    "level_requirement": 63,
+    "socket_requirement": 4,
+    "item_mods": {
+      "item_demondamage_percent": {
+        "min": 300,
+        "max": 300
+      },
+      "item_undeaddamage_percent": {
+        "min": 250,
+        "max": 300
+      },
+      "lightning_damage": {
+        "min": 41,
+        "max": 240
+      },
+      "magic_damage": {
+        "min": 85,
+        "max": 120
+      },
+      "item_fasterattackrate": {
+        "min": 30,
+        "max": 45
+      },
+      "item_skillonhit": {
+        "min": 30,
+        "max": 18
+      },
+      "item_cannotbefrozen": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "socket_mods": {
+      "item_demon_tohit": {
+        "min": 100,
+        "max": 100,
+        "base_type": "weapon"
+      },
+      "energy": {
+        "min": 10,
+        "max": 10,
+        "base_type": "weapon"
+      },
+      "item_crushingblow": {
+        "min": 20,
+        "max": 20,
+        "base_type": "weapon"
+      },
+      "item_preventheal": {
+        "min": 1,
+        "max": 1,
+        "base_type": "weapon"
+      }
+    },
+    "property_strings": [
+      {
+        "order": "160",
+        "string": "+41-240 Lightning Damage"
+      },
+      {
+        "order": "160",
+        "string": "+85-120 Magic Damage"
+      },
+      {
+        "order": "160",
+        "string": "30% Chance to cast level 18 AmpDmg on striking"
+      },
+      {
+        "order": "145",
+        "string": "+30-45% Increased Attack Speed"
+      },
+      {
+        "order": "112",
+        "string": "+300% Damage to Demons"
+      },
+      {
+        "order": "108",
+        "string": "+250-300% Damage to Undead"
+      },
+      {
+        "order": "20",
+        "string": "Cannot Be Frozen"
+      },
+      {
+        "order": "110",
+        "string": "weapon: \n +100 to Attack Rating against Demons"
+      },
+      {
+        "order": "87",
+        "string": "weapon: \n 20% Chance of Crushing Blow"
+      },
+      {
+        "order": "81",
+        "string": "weapon: \n Prevent Monster Heal"
+      },
+      {
+        "order": "61",
+        "string": "weapon: \n +10 to Energy"
+      }
+    ]
+  }
+]

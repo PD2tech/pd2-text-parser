@@ -6,13 +6,11 @@ import { descval2 } from "../descfuncs/descval2";
 import { nodescval } from "../descfuncs/nodescval";
 import { fixStat } from "../descfuncs/fixStat";
 
+// Don't even want to talk about this. Should never have to use this again.
+
 const getProps = (codeval) => {
   const allProps = properties.map((obj) => {
-    if (
-      obj.code === "dmg-min" ||
-      obj.code === "dmg-max" ||
-      obj.code === "dmg%"
-    ) {
+    if (obj.code === "dmg-min" || obj.code === "dmg-max" || obj.code === "dmg%") {
       return { code: obj.code };
     } else {
       const entries = Object.entries(obj);
@@ -33,6 +31,7 @@ export const statEnum = () => {
     const propCode = obj.code;
     const stat = Object.entries(obj).reduce((acc, [key, val]) => {
       if (key.includes("stat")) {
+        const statNum = key.slice(4);
         let string = "";
         const statObj = itemStat.find((obj) => obj.Stat === val);
         if (statObj === undefined) {
@@ -47,17 +46,18 @@ export const statEnum = () => {
           } else {
             string = nodescval(statObj, propCode);
           }
-
-          acc[key] = string;
+          acc["name"] = obj[`stat${statNum}`];
+          acc[`display`] = string;
+          acc[`stat${statNum}`] = obj[`stat${statNum}`];
+          acc[`descstr${statNum}`] = string;
         }
       } else {
         acc[key] = val;
-        if (
-          propCode === "dmg-min" ||
-          propCode === "dmg-max" ||
-          propCode === "dmg%"
-        ) {
-          acc["stat1"] = fixStat(propCode);
+        if (propCode === "dmg-min" || propCode === "dmg-max" || propCode === "dmg%") {
+          acc["name"] = propCode;
+          acc[`display`] = fixStat(propCode);
+          acc["stat1"] = propCode;
+          acc["descstr1"] = fixStat(propCode);
         }
       }
       return acc;
@@ -75,7 +75,10 @@ export const statEnum = () => {
       ) {
         return {
           code: stat.code,
+          name: stat.name,
+          display: stat.descstr2,
           stat1: stat.stat2,
+          descstr1: stat.descstr2,
         };
       }
       return stat;
@@ -86,86 +89,109 @@ export const statEnum = () => {
     if (stat.code === "all-stats") {
       return {
         ...stat,
-        displayName: "+{X} to All Attributes",
+        name: "all-stats",
+        display: "+{X} to All Attributes",
       };
     }
     if (stat.code === "res-all") {
       return {
         ...stat,
-        displayName: "All Resistances +{X}",
+        name: stat.code,
+        display: "All Resistances +{X}",
       };
     }
     if (stat.code === "res-all-max") {
       return {
         ...stat,
-        displayName: "All Maximum Resistances +{X}",
+        name: stat.code,
+        display: "All Maximum Resistances +{X}",
       };
     }
     if (stat.code === "dmg-fire") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Fire Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Fire Damage",
       };
     }
     if (stat.code === "dmg-cold") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Cold Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Cold Damage",
       };
     }
     if (stat.code === "dmg-ltng") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Lightning Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Lightning Damage",
       };
     }
     if (stat.code === "dmg-pois") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Poison Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Poison Damage",
       };
     }
     if (stat.code === "dmg-mag") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Magic Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Magic Damage",
       };
     }
     if (stat.code === "dmg-norm") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Damage",
-      };
-    }
-    if (stat.code === "dmg-fire") {
-      return {
-        ...stat,
-        displayName: "Adds {X}-{Y} Fire Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Damage",
       };
     }
     if (stat.code === "dmg-elem") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} Elemental Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} Elemental Damage",
       };
     }
     if (stat.code === "dmg-elem-min") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} to Minimum Elemental Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} to Minimum Elemental Damage",
       };
     }
     if (stat.code === "dmg-elem-max") {
       return {
         ...stat,
-        displayName: "Adds {X}-{Y} to Maximum Elemental Damage",
+        name: stat.code,
+        display: "Adds {X}-{Y} to Maximum Elemental Damage",
       };
     }
     return {
       ...stat,
-      displayName: stat.stat1,
+    };
+  });
+  const statArr = fixDisplayString.map((stat) => {
+    const statKeys = Object.keys(stat).filter((key) => key.includes("stat"));
+    const statsArr = [];
+    for (let i = 0; i < statKeys.length; i++) {
+      const num = i + 1;
+      statsArr.push({ stat: stat[`stat${num}`], descstr: stat[`descstr${num}`] });
+    }
+    return {
+      code: stat.code,
+      name: stat.name,
+      display: stat.display,
+      stats: statsArr,
     };
   });
 
-  return fixDisplayString;
+  const filterUnused = statArr
+    .map((obj) => (obj.display === undefined ? null : obj))
+    .filter((obj) => obj);
+
+  return filterUnused;
 };

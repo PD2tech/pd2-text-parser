@@ -1,39 +1,12 @@
 const descFuncs = {
-  mindmg: (
-    string,
-    string2,
-    Stat,
-    min = "{X}",
-    max = "{X}",
-    skill = "{Skill}"
-  ) => {
-    return min !== max
-      ? `+${min}-${max} to Minimum Damage`
-      : `+${min} to Minimum Damage`;
+  mindmg: (min = "{X}", max = "{X}") => {
+    return min !== max ? `+${min}-${max} to Minimum Damage` : `+${min} to Minimum Damage`;
   },
-  maxdmg: (
-    string,
-    string2,
-    Stat,
-    min = "{X}",
-    max = "{X}",
-    skill = "{Skill}"
-  ) => {
-    return min !== max
-      ? `+${min}-${max} to Maximum Damage`
-      : `+${min} to Maximum Damage`;
+  maxdmg: (min = "{X}", max = "{X}") => {
+    return min !== max ? `+${min}-${max} to Maximum Damage` : `+${min} to Maximum Damage`;
   },
-  enhanceddmg: (
-    string,
-    string2,
-    Stat,
-    min = "{X}",
-    max = "{X}",
-    skill = "{Skill}"
-  ) => {
-    return min !== max
-      ? `+${min}-${max}% Enhanced Damage`
-      : `+${min}% Enhanced Damage`;
+  enhanceddmg: (min = "{X}", max = "{X}") => {
+    return min !== max ? `+${min}-${max}% Enhanced Damage` : `+${min}% Enhanced Damage`;
   },
   indestruct: () => {
     return "Indestructible";
@@ -51,8 +24,19 @@ const fixStats = [
   { code: "ethereal", descfunc: "ethereal" },
 ];
 
-export const fixStat = (propCode) => {
-  const func = fixStats.find((obj) => obj.code === propCode).descfunc;
-  const handler = descFuncs[`${func}`];
-  return handler();
+export const fixStat = (propCode, min, max) => {
+  if (propCode === "pois-len" || propCode === "cold-len") {
+    return;
+  }
+  const func = fixStats.find((obj) => obj.code === propCode);
+  const handler = descFuncs[`${func.descfunc}`];
+  return {
+    code: propCode,
+    name: propCode,
+    display: handler(min, max),
+    min: min,
+    max: min,
+    order: 160,
+    sub_stats: [],
+  };
 };

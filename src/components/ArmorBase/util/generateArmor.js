@@ -1,93 +1,95 @@
 import allStrings from "../../../assets/utility/json/allStrings.json";
 
+// bs that needs to be cleaned up
+
 const getTypeProps = (type) => {
   if (type === "tors") {
     return {
       class_specific: null,
-      type: "body armor",
+      type: "tors",
       s3: "armor",
-      equip1: 3,
-      equip2: null,
+      one: "tors",
+      two: null,
     };
   } else if (type === "shie") {
     return {
       class_specific: null,
-      type: "shield",
+      type: "shie",
       s3: "shields",
-      equip1: 2,
-      equip2: 4,
+      one: "larm",
+      two: "rarm",
     };
   } else if (type === "glov") {
     return {
       class_specific: null,
-      type: "gloves",
+      type: "glov",
       s3: "gloves",
-      equip1: 5,
-      equip2: null,
+      one: "glov",
+      two: null,
     };
   } else if (type === "boot") {
     return {
       class_specific: null,
-      type: "boots",
+      type: "boot",
       s3: "boots",
-      equip1: 9,
-      equip2: null,
+      one: "feet",
+      two: null,
     };
   } else if (type === "pelt") {
     return {
-      class_specific: "druid",
+      class_specific: "Druid",
       type: "pelt",
       s3: "druid_helms",
-      equip1: 0,
-      equip2: null,
+      one: "head",
+      two: null,
     };
   } else if (type === "phlm") {
     return {
-      class_specific: "barbarian",
-      type: "barb",
+      class_specific: "Barbarian",
+      type: "phlm",
       s3: "barb_helms",
-      equip1: 0,
-      equip2: null,
+      one: "head",
+      two: null,
     };
   } else if (type === "ashd") {
     return {
-      class_specific: "paladin",
-      type: "pally",
+      class_specific: "Paladin",
+      type: "ashd",
       s3: "pally_shields",
-      equip1: 2,
-      equip2: 4,
+      one: "larm",
+      two: "rarm",
     };
   } else if (type === "head") {
     return {
-      class_specific: "necromancer",
-      type: "necro",
+      class_specific: "Necromancer",
+      type: "head",
       s3: "necro_heads",
-      equip1: 2,
-      equip2: 4,
+      one: "larm",
+      two: "rarm",
     };
   } else if (type === "circ") {
     return {
       class_specific: null,
-      type: "circlet",
+      type: "circ",
       s3: "circlets",
-      equip1: 0,
-      equip2: null,
+      one: "head",
+      two: null,
     };
   } else if (type === "helm") {
     return {
       class_specific: null,
       type: "helm",
       s3: "helms",
-      equip1: 0,
-      equip2: null,
+      one: "head",
+      two: null,
     };
   } else if (type === "belt") {
     return {
       class_specific: null,
       type: "belt",
       s3: "belts",
-      equip1: 7,
-      equip2: null,
+      one: "belt",
+      two: null,
     };
   }
 };
@@ -104,90 +106,99 @@ export const generateArmor = (json) => {
     const inventory_width = parseInt(item.invwidth);
     const type_props = getTypeProps(item.type);
     const strength_requirement = parseInt(item.reqstr);
-    const body_props = {
-      equip1: type_props.equip1,
-      equip2: type_props.equip2,
+    const equip = {
+      one: type_props.one,
+      two: type_props.two,
     };
 
     let special_props = {};
 
     // normcode, ubercode, ultracode
-    let item_tier = 1;
+    let item_tier = "norm";
     if (item.code === item.ubercode) {
-      item_tier = 2;
+      item_tier = "exc";
     } else if (item.code === item.ultracode) {
-      item_tier = 3;
+      item_tier = "elt";
     }
 
-    let upgrade = null;
-    if (item_tier === 1) {
-      upgrade = item.ubercode;
-    } else if (item_tier === 2) {
-      upgrade = item.ultracode;
+    let upgrade_code = null;
+    let upgrade_name = "";
+    if (item_tier === "norm") {
+      upgrade_code = item.ubercode === "" ? null : item.ubercode;
+      upgrade_name = upgrade_code ? allStrings.find((obj) => obj.id === item.ubercode).str : null;
+    } else if (item_tier === "exc") {
+      upgrade_code = item.ubercode === "" ? null : item.ultracode;
+      upgrade_name = upgrade_code ? allStrings.find((obj) => obj.id === item.ultracode).str : null;
     }
 
-    if (type_props.type === "shield" || type_props.type === "pally") {
+    let block = null;
+
+    if (type_props.type === "shie" || type_props.type === "ashd") {
+      block = parseInt(item.block);
       special_props = {
+        bonus: {
+          str: 1,
+          dex: 0,
+        },
         smite: {
           min: parseInt(item.mindam),
           max: parseInt(item.maxdam),
         },
-        damage_bonus: {
-          strength_bonus: 1,
-          dexterity_bonus: 0,
-        },
-        block: parseInt(item.block),
       };
-    } else if (type_props.type === "boots") {
+    } else if (type_props.type === "boot") {
       special_props = {
+        bonus: {
+          str: 1.2,
+          dex: 0,
+        },
         kick: {
           min: parseInt(item.mindam),
           max: parseInt(item.maxdam),
-        },
-        damage_bonus: {
-          strength_bonus: 1.2,
-          dexterity_bonus: 0,
         },
       };
     }
 
     return {
-      item_name,
-      item_type: "armor",
-      item_image: `https://pd2itemimages.s3.amazonaws.com/${type_props.s3}/${item.normcode}.png`,
-      item_props: {
-        item_base_code: item_code,
-        upgrade,
-        sub_type: type_props.type,
-        class_specific: type_props.class_specific,
-        defense: {
-          min: parseInt(item.minac),
-          max: parseInt(item.maxac),
-        },
-        durability,
+      name: item_name,
+      group: "armor",
+      type: type_props.type,
+      code: item_code,
+      image: `https://pd2itemimages.s3.amazonaws.com/${type_props.s3}/${item.normcode}.png`,
+      props: {
+        tier: item_tier,
+        rarity: "nmag",
+        class_only: type_props.class_specific,
+        level_req,
         str_req: strength_requirement,
         dex_req: 0,
-        level_req,
-        item_tier: item_tier,
-        rarity: 1,
-        sockets: {
-          socketable: parseInt(max_sockets) > 0 ? true : false,
-          max: parseInt(max_sockets),
-          used: 0,
-        },
-        quality: {
-          low_quality: false,
-          superior: false,
-          ethereal: false,
+        durability,
+        sockets: parseInt(max_sockets) > 0 ? parseInt(max_sockets) : null,
+        upgrade: {
+          code: upgrade_code,
+          name: upgrade_name,
         },
       },
-      inv_props: {
+      defense: {
+        min: parseInt(item.minac),
+        max: parseInt(item.maxac),
+        block,
+      },
+      damage:
+        Object.keys(special_props).length > 0
+          ? {
+              ...special_props,
+            }
+          : null,
+      quality: {
+        inferior: false,
+        superior: false,
+        ethereal: false,
+      },
+      inventory: {
         height: parseInt(inventory_height),
         width: parseInt(inventory_width),
       },
-      body_props,
-      special_props,
-      item_mods: {},
+      equip,
     };
   });
 };

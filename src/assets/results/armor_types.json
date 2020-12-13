@@ -1,0 +1,876 @@
+[
+  {
+    "type_name": "Helms",
+    "type_code": "helm",
+    "bases": [
+      {
+        "item_code": "cap",
+        "item_name": "Cap"
+      },
+      {
+        "item_code": "skp",
+        "item_name": "Skull Cap"
+      },
+      {
+        "item_code": "hlm",
+        "item_name": "Helm"
+      },
+      {
+        "item_code": "fhl",
+        "item_name": "Full Helm"
+      },
+      {
+        "item_code": "ghm",
+        "item_name": "Great Helm"
+      },
+      {
+        "item_code": "crn",
+        "item_name": "Crown"
+      },
+      {
+        "item_code": "msk",
+        "item_name": "Mask"
+      },
+      {
+        "item_code": "bhm",
+        "item_name": "Bone Helm"
+      },
+      {
+        "item_code": "xap",
+        "item_name": "War Hat"
+      },
+      {
+        "item_code": "xkp",
+        "item_name": "Sallet"
+      },
+      {
+        "item_code": "xlm",
+        "item_name": "Casque"
+      },
+      {
+        "item_code": "xhl",
+        "item_name": "Basinet"
+      },
+      {
+        "item_code": "xhm",
+        "item_name": "Winged Helm"
+      },
+      {
+        "item_code": "xrn",
+        "item_name": "Grand Crown"
+      },
+      {
+        "item_code": "xsk",
+        "item_name": "Death Mask"
+      },
+      {
+        "item_code": "xh9",
+        "item_name": "Grim Helm"
+      },
+      {
+        "item_code": "uap",
+        "item_name": "Shako"
+      },
+      {
+        "item_code": "ukp",
+        "item_name": "Hydraskull"
+      },
+      {
+        "item_code": "ulm",
+        "item_name": "Armet"
+      },
+      {
+        "item_code": "uhl",
+        "item_name": "Giant Conch"
+      },
+      {
+        "item_code": "uhm",
+        "item_name": "Spired Helm"
+      },
+      {
+        "item_code": "urn",
+        "item_name": "Corona"
+      },
+      {
+        "item_code": "usk",
+        "item_name": "Demonhead"
+      },
+      {
+        "item_code": "uh9",
+        "item_name": "Bone Visage"
+      }
+    ]
+  },
+  {
+    "type_name": "Barb Helms",
+    "type_code": "phlm",
+    "bases": [
+      {
+        "item_code": "ba1",
+        "item_name": "Jawbone Cap"
+      },
+      {
+        "item_code": "ba2",
+        "item_name": "Fanged Helm"
+      },
+      {
+        "item_code": "ba3",
+        "item_name": "Horned Helm"
+      },
+      {
+        "item_code": "ba4",
+        "item_name": "Assault Helmet"
+      },
+      {
+        "item_code": "ba5",
+        "item_name": "Avenger Guard"
+      },
+      {
+        "item_code": "ba6",
+        "item_name": "Jawbone Visor"
+      },
+      {
+        "item_code": "ba7",
+        "item_name": "Lion Helm"
+      },
+      {
+        "item_code": "ba8",
+        "item_name": "Rage Mask"
+      },
+      {
+        "item_code": "ba9",
+        "item_name": "Savage Helmet"
+      },
+      {
+        "item_code": "baa",
+        "item_name": "Slayer Guard"
+      },
+      {
+        "item_code": "bab",
+        "item_name": "Carnage Helm"
+      },
+      {
+        "item_code": "bac",
+        "item_name": "Fury Visor"
+      },
+      {
+        "item_code": "bad",
+        "item_name": "Destroyer Helm"
+      },
+      {
+        "item_code": "bae",
+        "item_name": "Conqueror Crown"
+      },
+      {
+        "item_code": "baf",
+        "item_name": "Guardian Crown"
+      }
+    ]
+  },
+  {
+    "type_name": "Druid Pelts",
+    "type_code": "pelt",
+    "bases": [
+      {
+        "item_code": "dr1",
+        "item_name": "Wolf Head"
+      },
+      {
+        "item_code": "dr2",
+        "item_name": "Hawk Helm"
+      },
+      {
+        "item_code": "dr3",
+        "item_name": "Antlers"
+      },
+      {
+        "item_code": "dr4",
+        "item_name": "Falcon Mask"
+      },
+      {
+        "item_code": "dr5",
+        "item_name": "Spirit Mask"
+      },
+      {
+        "item_code": "dr6",
+        "item_name": "Alpha Helm"
+      },
+      {
+        "item_code": "dr7",
+        "item_name": "Griffon Headdress"
+      },
+      {
+        "item_code": "dr8",
+        "item_name": "Hunter's Guise"
+      },
+      {
+        "item_code": "dr9",
+        "item_name": "Sacred Feathers"
+      },
+      {
+        "item_code": "dra",
+        "item_name": "Totemic Mask"
+      },
+      {
+        "item_code": "drb",
+        "item_name": "Blood Spirit"
+      },
+      {
+        "item_code": "drc",
+        "item_name": "Sun Spirit"
+      },
+      {
+        "item_code": "drd",
+        "item_name": "Earth Spirit"
+      },
+      {
+        "item_code": "dre",
+        "item_name": "Sky Spirit"
+      },
+      {
+        "item_code": "drf",
+        "item_name": "Dream Spirit"
+      }
+    ]
+  },
+  {
+    "type_name": "Circlets",
+    "type_code": "circ",
+    "bases": [
+      {
+        "item_code": "ci0",
+        "item_name": "Circlet"
+      },
+      {
+        "item_code": "ci1",
+        "item_name": "Coronet"
+      },
+      {
+        "item_code": "ci2",
+        "item_name": "Tiara"
+      },
+      {
+        "item_code": "ci3",
+        "item_name": "Diadem"
+      }
+    ]
+  },
+  {
+    "type_name": "Armors",
+    "type_code": "tors",
+    "bases": [
+      {
+        "item_code": "qui",
+        "item_name": "Quilted Armor"
+      },
+      {
+        "item_code": "lea",
+        "item_name": "Leather Armor"
+      },
+      {
+        "item_code": "hla",
+        "item_name": "Hard Leather Armor"
+      },
+      {
+        "item_code": "stu",
+        "item_name": "Studded Leather"
+      },
+      {
+        "item_code": "rng",
+        "item_name": "Ring Mail"
+      },
+      {
+        "item_code": "scl",
+        "item_name": "Scale Mail"
+      },
+      {
+        "item_code": "chn",
+        "item_name": "Chain Mail"
+      },
+      {
+        "item_code": "brs",
+        "item_name": "Breast Plate"
+      },
+      {
+        "item_code": "spl",
+        "item_name": "Splint Mail"
+      },
+      {
+        "item_code": "plt",
+        "item_name": "Plate Mail"
+      },
+      {
+        "item_code": "fld",
+        "item_name": "Field Plate"
+      },
+      {
+        "item_code": "gth",
+        "item_name": "Gothic Plate"
+      },
+      {
+        "item_code": "ful",
+        "item_name": "Full Plate Mail"
+      },
+      {
+        "item_code": "aar",
+        "item_name": "Ancient Armor"
+      },
+      {
+        "item_code": "ltp",
+        "item_name": "Light Plate"
+      },
+      {
+        "item_code": "xui",
+        "item_name": "Ghost Armor"
+      },
+      {
+        "item_code": "xea",
+        "item_name": "Serpentskin Armor"
+      },
+      {
+        "item_code": "xla",
+        "item_name": "Demonhide Armor"
+      },
+      {
+        "item_code": "xtu",
+        "item_name": "Trellised Armor"
+      },
+      {
+        "item_code": "xng",
+        "item_name": "Linked Mail"
+      },
+      {
+        "item_code": "xcl",
+        "item_name": "Tigulated Mail"
+      },
+      {
+        "item_code": "xhn",
+        "item_name": "Mesh Armor"
+      },
+      {
+        "item_code": "xrs",
+        "item_name": "Cuirass"
+      },
+      {
+        "item_code": "xpl",
+        "item_name": "Russet Armor"
+      },
+      {
+        "item_code": "xlt",
+        "item_name": "Templar Coat"
+      },
+      {
+        "item_code": "xld",
+        "item_name": "Sharktooth Armor"
+      },
+      {
+        "item_code": "xth",
+        "item_name": "Embossed Plate"
+      },
+      {
+        "item_code": "xul",
+        "item_name": "Chaos Armor"
+      },
+      {
+        "item_code": "xar",
+        "item_name": "Ornate Plate"
+      },
+      {
+        "item_code": "xtp",
+        "item_name": "Mage Plate"
+      },
+      {
+        "item_code": "uui",
+        "item_name": "Dusk Shroud"
+      },
+      {
+        "item_code": "uea",
+        "item_name": "Wyrmhide"
+      },
+      {
+        "item_code": "ula",
+        "item_name": "Scarab Husk"
+      },
+      {
+        "item_code": "utu",
+        "item_name": "Wire Fleece"
+      },
+      {
+        "item_code": "ung",
+        "item_name": "Diamond Mail"
+      },
+      {
+        "item_code": "ucl",
+        "item_name": "Loricated Mail"
+      },
+      {
+        "item_code": "uhn",
+        "item_name": "Boneweave"
+      },
+      {
+        "item_code": "urs",
+        "item_name": "Great Hauberk"
+      },
+      {
+        "item_code": "upl",
+        "item_name": "Balrog Skin"
+      },
+      {
+        "item_code": "ult",
+        "item_name": "Hellforge Plate"
+      },
+      {
+        "item_code": "uld",
+        "item_name": "Kraken Shell"
+      },
+      {
+        "item_code": "uth",
+        "item_name": "Lacquered Plate"
+      },
+      {
+        "item_code": "uul",
+        "item_name": "Shadow Plate"
+      },
+      {
+        "item_code": "uar",
+        "item_name": "Sacred Armor"
+      },
+      {
+        "item_code": "utp",
+        "item_name": "Archon Plate"
+      }
+    ]
+  },
+  {
+    "type_name": "Gloves",
+    "type_code": "glov",
+    "bases": [
+      {
+        "item_code": "lgl",
+        "item_name": "Leather Gloves"
+      },
+      {
+        "item_code": "vgl",
+        "item_name": "Heavy Gloves"
+      },
+      {
+        "item_code": "mgl",
+        "item_name": "Chain Gloves"
+      },
+      {
+        "item_code": "tgl",
+        "item_name": "Light Gauntlets"
+      },
+      {
+        "item_code": "hgl",
+        "item_name": "Gauntlets"
+      },
+      {
+        "item_code": "xlg",
+        "item_name": "Demonhide Gloves"
+      },
+      {
+        "item_code": "xvg",
+        "item_name": "Sharkskin Gloves"
+      },
+      {
+        "item_code": "xmg",
+        "item_name": "Heavy Bracers"
+      },
+      {
+        "item_code": "xtg",
+        "item_name": "Battle Gauntlets"
+      },
+      {
+        "item_code": "xhg",
+        "item_name": "War Gauntlets"
+      },
+      {
+        "item_code": "ulg",
+        "item_name": "Bramble Mitts"
+      },
+      {
+        "item_code": "uvg",
+        "item_name": "Vampirebone Gloves"
+      },
+      {
+        "item_code": "umg",
+        "item_name": "Vambraces"
+      },
+      {
+        "item_code": "utg",
+        "item_name": "Crusader Gauntlets"
+      },
+      {
+        "item_code": "uhg",
+        "item_name": "Ogre Gauntlets"
+      }
+    ]
+  },
+  {
+    "type_name": "Boots",
+    "type_code": "boot",
+    "bases": [
+      {
+        "item_code": "lbt",
+        "item_name": "Boots"
+      },
+      {
+        "item_code": "vbt",
+        "item_name": "Heavy Boots"
+      },
+      {
+        "item_code": "mbt",
+        "item_name": "Chain Boots"
+      },
+      {
+        "item_code": "tbt",
+        "item_name": "Light Plated Boots"
+      },
+      {
+        "item_code": "hbt",
+        "item_name": "Greaves"
+      },
+      {
+        "item_code": "xlb",
+        "item_name": "Demonhide Boots"
+      },
+      {
+        "item_code": "xvb",
+        "item_name": "Sharkskin Boots"
+      },
+      {
+        "item_code": "xmb",
+        "item_name": "Mesh Boots"
+      },
+      {
+        "item_code": "xtb",
+        "item_name": "Battle Boots"
+      },
+      {
+        "item_code": "xhb",
+        "item_name": "War Boots"
+      },
+      {
+        "item_code": "ulb",
+        "item_name": "Wyrmhide Boots"
+      },
+      {
+        "item_code": "uvb",
+        "item_name": "Scarabshell Boots"
+      },
+      {
+        "item_code": "umb",
+        "item_name": "Boneweave Boots"
+      },
+      {
+        "item_code": "utb",
+        "item_name": "Mirrored Boots"
+      },
+      {
+        "item_code": "uhb",
+        "item_name": "Myrmidon Greaves"
+      }
+    ]
+  },
+  {
+    "type_name": "Belts",
+    "type_code": "belt",
+    "bases": [
+      {
+        "item_code": "lbl",
+        "item_name": "Sash"
+      },
+      {
+        "item_code": "vbl",
+        "item_name": "Light Belt"
+      },
+      {
+        "item_code": "mbl",
+        "item_name": "Belt"
+      },
+      {
+        "item_code": "tbl",
+        "item_name": "Heavy Belt"
+      },
+      {
+        "item_code": "hbl",
+        "item_name": "Plated Belt"
+      },
+      {
+        "item_code": "zlb",
+        "item_name": "Demonhide Sash"
+      },
+      {
+        "item_code": "zvb",
+        "item_name": "Sharkskin Belt"
+      },
+      {
+        "item_code": "zmb",
+        "item_name": "Mesh Belt"
+      },
+      {
+        "item_code": "ztb",
+        "item_name": "Battle Belt"
+      },
+      {
+        "item_code": "zhb",
+        "item_name": "War Belt"
+      },
+      {
+        "item_code": "ulc",
+        "item_name": "Spiderweb Sash"
+      },
+      {
+        "item_code": "uvc",
+        "item_name": "Vampirefang Belt"
+      },
+      {
+        "item_code": "umc",
+        "item_name": "Mithril Coil"
+      },
+      {
+        "item_code": "utc",
+        "item_name": "Troll Belt"
+      },
+      {
+        "item_code": "uhc",
+        "item_name": "Colossus Girdle"
+      }
+    ]
+  },
+  {
+    "type_name": "Shields",
+    "type_code": "shie",
+    "bases": [
+      {
+        "item_code": "buc",
+        "item_name": "Buckler"
+      },
+      {
+        "item_code": "sml",
+        "item_name": "Small Shield"
+      },
+      {
+        "item_code": "lrg",
+        "item_name": "Large Shield"
+      },
+      {
+        "item_code": "kit",
+        "item_name": "Kite Shield"
+      },
+      {
+        "item_code": "tow",
+        "item_name": "Tower Shield"
+      },
+      {
+        "item_code": "gts",
+        "item_name": "Gothic Shield"
+      },
+      {
+        "item_code": "bsh",
+        "item_name": "Bone Shield"
+      },
+      {
+        "item_code": "spk",
+        "item_name": "Spiked Shield"
+      },
+      {
+        "item_code": "xuc",
+        "item_name": "Defender"
+      },
+      {
+        "item_code": "xml",
+        "item_name": "Round Shield"
+      },
+      {
+        "item_code": "xrg",
+        "item_name": "Scutum"
+      },
+      {
+        "item_code": "xit",
+        "item_name": "Dragon Shield"
+      },
+      {
+        "item_code": "xow",
+        "item_name": "Pavise"
+      },
+      {
+        "item_code": "xts",
+        "item_name": "Ancient Shield"
+      },
+      {
+        "item_code": "xsh",
+        "item_name": "Grim Shield"
+      },
+      {
+        "item_code": "xpk",
+        "item_name": "Barbed Shield"
+      },
+      {
+        "item_code": "uuc",
+        "item_name": "Heater"
+      },
+      {
+        "item_code": "uml",
+        "item_name": "Luna"
+      },
+      {
+        "item_code": "urg",
+        "item_name": "Hyperion"
+      },
+      {
+        "item_code": "uit",
+        "item_name": "Monarch"
+      },
+      {
+        "item_code": "uow",
+        "item_name": "Aegis"
+      },
+      {
+        "item_code": "uts",
+        "item_name": "Ward"
+      },
+      {
+        "item_code": "ush",
+        "item_name": "Troll Nest"
+      },
+      {
+        "item_code": "upk",
+        "item_name": "Blade Barrier"
+      }
+    ]
+  },
+  {
+    "type_name": "Pally Shields",
+    "type_code": "ashd",
+    "bases": [
+      {
+        "item_code": "pa1",
+        "item_name": "Targe"
+      },
+      {
+        "item_code": "pa2",
+        "item_name": "Rondache"
+      },
+      {
+        "item_code": "pa3",
+        "item_name": "Heraldic Shield"
+      },
+      {
+        "item_code": "pa4",
+        "item_name": "Aerin Shield"
+      },
+      {
+        "item_code": "pa5",
+        "item_name": "Crown Shield"
+      },
+      {
+        "item_code": "pa6",
+        "item_name": "Akaran Targe"
+      },
+      {
+        "item_code": "pa7",
+        "item_name": "Akaran Rondache"
+      },
+      {
+        "item_code": "pa8",
+        "item_name": "Protector Shield"
+      },
+      {
+        "item_code": "pa9",
+        "item_name": "Gilded Shield"
+      },
+      {
+        "item_code": "paa",
+        "item_name": "Royal Shield"
+      },
+      {
+        "item_code": "pab",
+        "item_name": "Sacred Targe"
+      },
+      {
+        "item_code": "pac",
+        "item_name": "Sacred Rondache"
+      },
+      {
+        "item_code": "pad",
+        "item_name": "Kurast Shield"
+      },
+      {
+        "item_code": "pae",
+        "item_name": "Zakarum Shield"
+      },
+      {
+        "item_code": "paf",
+        "item_name": "Vortex Shield"
+      }
+    ]
+  },
+  {
+    "type_name": "Necro Heads",
+    "type_code": "head",
+    "bases": [
+      {
+        "item_code": "ne1",
+        "item_name": "Preserved Head"
+      },
+      {
+        "item_code": "ne2",
+        "item_name": "Zombie Head"
+      },
+      {
+        "item_code": "ne3",
+        "item_name": "Unraveller Head"
+      },
+      {
+        "item_code": "ne4",
+        "item_name": "Gargoyle Head"
+      },
+      {
+        "item_code": "ne5",
+        "item_name": "Demon Head"
+      },
+      {
+        "item_code": "ne6",
+        "item_name": "Mummified Trophy"
+      },
+      {
+        "item_code": "ne7",
+        "item_name": "Fetish Trophy"
+      },
+      {
+        "item_code": "ne8",
+        "item_name": "Sexton Trophy"
+      },
+      {
+        "item_code": "ne9",
+        "item_name": "Cantor Trophy"
+      },
+      {
+        "item_code": "nea",
+        "item_name": "Hierophant Trophy"
+      },
+      {
+        "item_code": "neb",
+        "item_name": "Minion Skull"
+      },
+      {
+        "item_code": "neg",
+        "item_name": "Hellspawn Skull"
+      },
+      {
+        "item_code": "ned",
+        "item_name": "Overseer Skull"
+      },
+      {
+        "item_code": "nee",
+        "item_name": "Succubus Skull"
+      },
+      {
+        "item_code": "nef",
+        "item_name": "Bloodlord Skull"
+      }
+    ]
+  }
+]
