@@ -1,76 +1,194 @@
 [
   {
-    "item_name": "Ring",
-    "item_type": "ring",
-    "item_image": "https://pd2itemimages.s3.amazonaws.com/rings/rin1.png",
-    "item_props": {
-      "item_base": "rin",
-      "upgrade": null,
-      "sub_type": null,
-      "class_specific": null,
-      "durability": null,
+    "name": "Ring",
+    "group": "misc",
+    "type": "ring",
+    "code": "rin",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin1.png",
+    "props": {
+      "tier": null,
+      "rarity": "mag",
+      "class_only": null,
+      "level_req": 1,
       "str_req": 0,
       "dex_req": 0,
-      "level_req": 1,
-      "item_tier": null,
-      "rarity": 3,
-      "sockets": {
-        "socketable": false,
-        "max": 0,
-        "used": 0
-      },
-      "quality": {
-        "low_quality": false,
-        "superior": false,
-        "ethereal": false
+      "durability": null,
+      "sockets": null,
+      "upgrade": {
+        "code": null,
+        "name": ""
       }
     },
-    "inventory_props": {
+    "defense": null,
+    "damage": null,
+    "quality": null,
+    "inventory": {
       "height": 1,
       "width": 1
     },
-    "body_props": {
-      "equip1": 6,
-      "equip2": 8
-    },
-    "special_props": {},
-    "item_mods": {}
+    "equip": {
+      "one": "rrin",
+      "two": "lring"
+    }
   },
   {
-    "item_name": "Amulet",
-    "item_type": "amulet",
-    "item_image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu.png",
-    "item_props": {
-      "item_base": "amu",
-      "upgrade": null,
-      "sub_type": null,
-      "class_specific": null,
-      "durability": null,
+    "name": "Amulet",
+    "group": "misc",
+    "type": "amul",
+    "code": "amu",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu.png",
+    "props": {
+      "tier": null,
+      "rarity": "mag",
+      "class_only": null,
+      "level_req": 1,
       "str_req": 0,
       "dex_req": 0,
-      "level_req": 1,
-      "item_tier": null,
-      "rarity": 3,
-      "sockets": {
-        "socketable": false,
-        "max": 0,
-        "used": 0
-      },
-      "quality": {
-        "low_quality": false,
-        "superior": false,
-        "ethereal": false
+      "durability": null,
+      "sockets": null,
+      "upgrade": {
+        "code": null,
+        "name": ""
       }
     },
-    "inventory_props": {
+    "defense": null,
+    "damage": null,
+    "quality": null,
+    "inventory": {
       "height": 1,
       "width": 1
     },
-    "body_props": {
-      "equip1": 1,
-      "equip2": null
+    "equip": {
+      "one": "neck",
+      "two": null
+    }
+  },
+  {
+    "name": "Grand Charm",
+    "group": "misc",
+    "type": "char",
+    "code": "cm3",
+    "image": "https://pd2itemimages.s3.amazonaws.com/charms/cm31.png",
+    "props": {
+      "tier": null,
+      "rarity": "mag",
+      "class_only": null,
+      "level_req": 1,
+      "str_req": 0,
+      "dex_req": 0,
+      "durability": null,
+      "sockets": null,
+      "upgrade": {
+        "code": null,
+        "name": ""
+      }
     },
-    "special_props": {},
-    "item_mods": {}
+    "defense": null,
+    "damage": null,
+    "quality": null,
+    "inventory": {
+      "height": 3,
+      "width": 1
+    },
+    "equip": {
+      "one": "inv",
+      "two": null
+    }
+  },
+  {
+    "name": "Large Charm",
+    "group": "misc",
+    "type": "char",
+    "code": "cm2",
+    "image": "https://pd2itemimages.s3.amazonaws.com/charms/cm21.png",
+    "props": {
+      "tier": null,
+      "rarity": "mag",
+      "class_only": null,
+      "level_req": 1,
+      "str_req": 0,
+      "dex_req": 0,
+      "durability": null,
+      "sockets": null,
+      "upgrade": {
+        "code": null,
+        "name": ""
+      }
+    },
+    "defense": null,
+    "damage": null,
+    "quality": null,
+    "inventory": {
+      "height": 2,
+      "width": 1
+    },
+    "equip": {
+      "one": "inv",
+      "two": null
+    }
+  },
+  {
+    "name": "Small Charm",
+    "group": "misc",
+    "type": "char",
+    "code": "cm1",
+    "image": "https://pd2itemimages.s3.amazonaws.com/charms/cm11.png",
+    "props": {
+      "tier": null,
+      "rarity": "mag",
+      "class_only": null,
+      "level_req": 1,
+      "str_req": 0,
+      "dex_req": 0,
+      "durability": null,
+      "sockets": null,
+      "upgrade": {
+        "code": null,
+        "name": ""
+      }
+    },
+    "defense": null,
+    "damage": null,
+    "quality": null,
+    "inventory": {
+      "height": 1,
+      "width": 1
+    },
+    "equip": {
+      "one": "inv",
+      "two": null
+    }
+  },
+  {
+    "name": "Jewel",
+    "group": "misc",
+    "type": "jewl",
+    "code": "jew",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew1.png",
+    "props": {
+      "tier": null,
+      "rarity": "mag",
+      "class_only": null,
+      "level_req": 1,
+      "str_req": 0,
+      "dex_req": 0,
+      "durability": null,
+      "sockets": null,
+      "upgrade": {
+        "code": null,
+        "name": ""
+      }
+    },
+    "defense": null,
+    "damage": null,
+    "quality": null,
+    "inventory": {
+      "height": 1,
+      "width": 1
+    },
+    "equip": {
+      "one": "sock",
+      "two": null
+    }
   }
 ]

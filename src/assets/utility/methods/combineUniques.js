@@ -31,25 +31,15 @@ const calcDef = (base, item) => {
   min2 = fixNum(min2);
   max = fixNum(max);
   max2 = fixNum(max2);
-  return min !== min2
-    ? `(${min}-${min2}) to (${max}-${max2})`
-    : `${min}-${max}`;
+  return min !== min2 ? `(${min}-${min2}) to (${max}-${max2})` : `${min}-${max}`;
 };
 
 const calcDmg = (base, item) => {
   let isThrown = base.special_props.hasOwnProperty("thrown");
-  let min = isThrown
-    ? base.special_props.thrown.min
-    : base.item_props.damage.min;
-  let min2 = isThrown
-    ? base.special_props.thrown.min
-    : base.item_props.damage.min;
-  let max = isThrown
-    ? base.special_props.thrown.max
-    : base.item_props.damage.max;
-  let max2 = isThrown
-    ? base.special_props.thrown.max
-    : base.item_props.damage.max;
+  let min = isThrown ? base.special_props.thrown.min : base.item_props.damage.min;
+  let min2 = isThrown ? base.special_props.thrown.min : base.item_props.damage.min;
+  let max = isThrown ? base.special_props.thrown.max : base.item_props.damage.max;
+  let max2 = isThrown ? base.special_props.thrown.max : base.item_props.damage.max;
   if (item.item_mods.hasOwnProperty("ethereal")) {
     min = min * 1.5;
     min2 = min2 * 1.5;
@@ -80,9 +70,7 @@ const calcDmg = (base, item) => {
   min2 = fixNum(min2);
   max = fixNum(max);
   max2 = fixNum(max2);
-  return min !== min2
-    ? `(${min}-${min2}) to (${max}-${max2})`
-    : `${min}-${max}`;
+  return min !== min2 ? `(${min}-${min2}) to (${max}-${max2})` : `${min}-${max}`;
 };
 
 const randomInt = (max) => {
@@ -103,9 +91,7 @@ export const combineUniques = () => {
     } else {
       // fix for weird names from txt files
       let name = item.item_name;
-      if (name === "Gravenspine") {
-        name = "Gravespine";
-      } else if (name === "Warpspear") {
+      if (name === "Warpspear") {
         name = "Warspear";
       } else if (name === "Whichwild String") {
         name = "Witchwild String";
@@ -162,9 +148,7 @@ export const combineUniques = () => {
           },
         };
         const string =
-          min !== max
-            ? `+${min}-${max}% Damage To Undead`
-            : `+${min}% Damage To Undead`;
+          min !== max ? `+${min}-${max}% Damage To Undead` : `+${min}% Damage To Undead`;
         allPropertyStrings.push({ order: "108", string: string });
       } else if (
         base.item_mods &&
@@ -181,9 +165,7 @@ export const combineUniques = () => {
           },
         };
         const string =
-          min !== max
-            ? `+${min}-${max}% Damage To Undead`
-            : `+${min}% Damage To Undead`;
+          min !== max ? `+${min}-${max}% Damage To Undead` : `+${min}% Damage To Undead`;
         allPropertyStrings.push({ order: "108", string: string });
       } else if (
         base.item_mods &&
@@ -200,9 +182,7 @@ export const combineUniques = () => {
           },
         };
         const string =
-          min !== max
-            ? `+${min}-${max}% Damage To Undead`
-            : `+${min}% Damage To Undead`;
+          min !== max ? `+${min}-${max}% Damage To Undead` : `+${min}% Damage To Undead`;
         allPropertyStrings.push({ order: "108", string: string });
       }
 
@@ -213,10 +193,6 @@ export const combineUniques = () => {
         ...item.item_mods,
         ...combineUndeadOnBlunt,
       };
-
-      if (item.item_name === "Nightwing's Veil") {
-        debugger;
-      }
 
       result.push({ ...base, property_strings: [...allPropertyStrings] });
     }

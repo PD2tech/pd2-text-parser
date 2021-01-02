@@ -1,8 +1,19 @@
+// item_numsockets (sock)
+
+// item_singleskill
+// skill-rand, skill
+
+// res-all
+// stat 1,2,3,4
+
 export const isMissingData = (val) => {
   if (
+    // first 4 have no stat1
     val === "dmg-min" ||
     val === "dmg-max" ||
     val === "dmg%" ||
+    val === "sock" ||
+    // have multiple stat#
     val === "res-all" ||
     val === "res-all-max" ||
     val === "dmg-fire" ||
@@ -11,7 +22,8 @@ export const isMissingData = (val) => {
     val === "dmg-cold" ||
     val === "dmg-pois" ||
     val === "dmg-norm" ||
-    val === "dmg-elem"
+    val === "dmg-elem" ||
+    val === "all-stats"
   ) {
     return true;
   } else {

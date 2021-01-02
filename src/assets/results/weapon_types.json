@@ -1,0 +1,1251 @@
+[
+  {
+    "type_name": "One-Handed Axes",
+    "type_code": "1haxe",
+    "bases": [
+      {
+        "item_code": "hax",
+        "item_name": "Hand Axe"
+      },
+      {
+        "item_code": "axe",
+        "item_name": "Axe"
+      },
+      {
+        "item_code": "2ax",
+        "item_name": "Double Axe"
+      },
+      {
+        "item_code": "mpi",
+        "item_name": "Military Pick"
+      },
+      {
+        "item_code": "wax",
+        "item_name": "War Axe"
+      },
+      {
+        "item_code": "9ha",
+        "item_name": "Hatchet"
+      },
+      {
+        "item_code": "9ax",
+        "item_name": "Cleaver"
+      },
+      {
+        "item_code": "92a",
+        "item_name": "Twin Axe"
+      },
+      {
+        "item_code": "9mp",
+        "item_name": "Crowbill"
+      },
+      {
+        "item_code": "9wa",
+        "item_name": "Naga"
+      },
+      {
+        "item_code": "7ha",
+        "item_name": "Tomahawk"
+      },
+      {
+        "item_code": "7ax",
+        "item_name": "Small Crescent"
+      },
+      {
+        "item_code": "72a",
+        "item_name": "Ettin Axe"
+      },
+      {
+        "item_code": "7mp",
+        "item_name": "War Spike"
+      },
+      {
+        "item_code": "7wa",
+        "item_name": "Berserker Axe"
+      }
+    ]
+  },
+  {
+    "type_name": "Two-Handed Axes",
+    "type_code": "2haxe",
+    "bases": [
+      {
+        "item_code": "lax",
+        "item_name": "Large Axe"
+      },
+      {
+        "item_code": "bax",
+        "item_name": "Broad Axe"
+      },
+      {
+        "item_code": "btx",
+        "item_name": "Battle Axe"
+      },
+      {
+        "item_code": "gax",
+        "item_name": "Great Axe"
+      },
+      {
+        "item_code": "gix",
+        "item_name": "Giant Axe"
+      },
+      {
+        "item_code": "9la",
+        "item_name": "Military Axe"
+      },
+      {
+        "item_code": "9ba",
+        "item_name": "Bearded Axe"
+      },
+      {
+        "item_code": "9bt",
+        "item_name": "Tabar"
+      },
+      {
+        "item_code": "9ga",
+        "item_name": "Gothic Axe"
+      },
+      {
+        "item_code": "9gi",
+        "item_name": "Ancient Axe"
+      },
+      {
+        "item_code": "7la",
+        "item_name": "Feral Axe"
+      },
+      {
+        "item_code": "7ba",
+        "item_name": "Silver-edged Axe"
+      },
+      {
+        "item_code": "7bt",
+        "item_name": "Decapitator"
+      },
+      {
+        "item_code": "7ga",
+        "item_name": "Champion Axe"
+      },
+      {
+        "item_code": "7gi",
+        "item_name": "Glorious Axe"
+      }
+    ]
+  },
+  {
+    "type_name": "One-Handed Swords",
+    "type_code": "1hswor",
+    "bases": [
+      {
+        "item_code": "ssd",
+        "item_name": "Short Sword"
+      },
+      {
+        "item_code": "scm",
+        "item_name": "Scimitar"
+      },
+      {
+        "item_code": "sbr",
+        "item_name": "Sabre"
+      },
+      {
+        "item_code": "flc",
+        "item_name": "Falchion"
+      },
+      {
+        "item_code": "crs",
+        "item_name": "Crystal Sword"
+      },
+      {
+        "item_code": "bsd",
+        "item_name": "Broad Sword"
+      },
+      {
+        "item_code": "lsd",
+        "item_name": "Long Sword"
+      },
+      {
+        "item_code": "wsd",
+        "item_name": "War Sword"
+      },
+      {
+        "item_code": "9ss",
+        "item_name": "Gladius"
+      },
+      {
+        "item_code": "9sm",
+        "item_name": "Cutlass"
+      },
+      {
+        "item_code": "9sb",
+        "item_name": "Shamshir"
+      },
+      {
+        "item_code": "9fc",
+        "item_name": "Tulwar"
+      },
+      {
+        "item_code": "9cr",
+        "item_name": "Dimensional Blade"
+      },
+      {
+        "item_code": "9bs",
+        "item_name": "Battle Sword"
+      },
+      {
+        "item_code": "9ls",
+        "item_name": "Rune Sword"
+      },
+      {
+        "item_code": "9wd",
+        "item_name": "Ancient Sword"
+      },
+      {
+        "item_code": "7ss",
+        "item_name": "Falcata"
+      },
+      {
+        "item_code": "7sm",
+        "item_name": "Ataghan"
+      },
+      {
+        "item_code": "7sb",
+        "item_name": "Elegant Blade"
+      },
+      {
+        "item_code": "7fc",
+        "item_name": "Hydra Edge"
+      },
+      {
+        "item_code": "7cr",
+        "item_name": "Phase Blade"
+      },
+      {
+        "item_code": "7bs",
+        "item_name": "Conquest Sword"
+      },
+      {
+        "item_code": "7ls",
+        "item_name": "Cryptic Sword"
+      },
+      {
+        "item_code": "7wd",
+        "item_name": "Mythical Sword"
+      }
+    ]
+  },
+  {
+    "type_name": "Two-Handed Swords",
+    "type_code": "2hswor",
+    "bases": [
+      {
+        "item_code": "2hs",
+        "item_name": "Two-Handed Sword"
+      },
+      {
+        "item_code": "clm",
+        "item_name": "Claymore"
+      },
+      {
+        "item_code": "gis",
+        "item_name": "Giant Sword"
+      },
+      {
+        "item_code": "bsw",
+        "item_name": "Bastard Sword"
+      },
+      {
+        "item_code": "flb",
+        "item_name": "Flamberge"
+      },
+      {
+        "item_code": "gsd",
+        "item_name": "Great Sword"
+      },
+      {
+        "item_code": "92h",
+        "item_name": "Espandon"
+      },
+      {
+        "item_code": "9cm",
+        "item_name": "Dacian Falx"
+      },
+      {
+        "item_code": "9gs",
+        "item_name": "Tusk Sword"
+      },
+      {
+        "item_code": "9b9",
+        "item_name": "Gothic Sword"
+      },
+      {
+        "item_code": "9fb",
+        "item_name": "Zweihander"
+      },
+      {
+        "item_code": "9gd",
+        "item_name": "Executioner Sword"
+      },
+      {
+        "item_code": "72h",
+        "item_name": "Legend Sword"
+      },
+      {
+        "item_code": "7cm",
+        "item_name": "Highland Blade"
+      },
+      {
+        "item_code": "7gs",
+        "item_name": "Balrog Blade"
+      },
+      {
+        "item_code": "7b7",
+        "item_name": "Champion Sword"
+      },
+      {
+        "item_code": "7fb",
+        "item_name": "Colossus Sword"
+      },
+      {
+        "item_code": "7gd",
+        "item_name": "Colossus Blade"
+      }
+    ]
+  },
+  {
+    "type_name": "Maces",
+    "type_code": "mace",
+    "bases": [
+      {
+        "item_code": "mac",
+        "item_name": "Mace"
+      },
+      {
+        "item_code": "mst",
+        "item_name": "Morning Star"
+      },
+      {
+        "item_code": "fla",
+        "item_name": "Flail"
+      },
+      {
+        "item_code": "9ma",
+        "item_name": "Flanged Mace"
+      },
+      {
+        "item_code": "9mt",
+        "item_name": "Jagged Star"
+      },
+      {
+        "item_code": "9fl",
+        "item_name": "Knout"
+      },
+      {
+        "item_code": "qf1",
+        "item_name": "Khalim's Flail"
+      },
+      {
+        "item_code": "qf2",
+        "item_name": "Khalim's Will"
+      },
+      {
+        "item_code": "7ma",
+        "item_name": "Reinforced Mace"
+      },
+      {
+        "item_code": "7mt",
+        "item_name": "Devil Star"
+      },
+      {
+        "item_code": "7fl",
+        "item_name": "Scourge"
+      }
+    ]
+  },
+  {
+    "type_name": "Scepters",
+    "type_code": "scep",
+    "bases": [
+      {
+        "item_code": "scp",
+        "item_name": "Scepter"
+      },
+      {
+        "item_code": "gsc",
+        "item_name": "Grand Scepter"
+      },
+      {
+        "item_code": "wsp",
+        "item_name": "War Scepter"
+      },
+      {
+        "item_code": "9sc",
+        "item_name": "Rune Scepter"
+      },
+      {
+        "item_code": "9qs",
+        "item_name": "Holy Water Sprinkler"
+      },
+      {
+        "item_code": "9ws",
+        "item_name": "Divine Scepter"
+      },
+      {
+        "item_code": "7sc",
+        "item_name": "Mighty Scepter"
+      },
+      {
+        "item_code": "7qs",
+        "item_name": "Seraph Rod"
+      },
+      {
+        "item_code": "7ws",
+        "item_name": "Caduceus"
+      }
+    ]
+  },
+  {
+    "type_name": "Clubs",
+    "type_code": "club",
+    "bases": [
+      {
+        "item_code": "clb",
+        "item_name": "Club"
+      },
+      {
+        "item_code": "spc",
+        "item_name": "Spiked Club"
+      },
+      {
+        "item_code": "9cl",
+        "item_name": "Cudgel"
+      },
+      {
+        "item_code": "9sp",
+        "item_name": "Barbed Club"
+      },
+      {
+        "item_code": "7cl",
+        "item_name": "Truncheon"
+      },
+      {
+        "item_code": "7sp",
+        "item_name": "Tyrant Club"
+      }
+    ]
+  },
+  {
+    "type_name": "Hammers",
+    "type_code": "hamm",
+    "bases": [
+      {
+        "item_code": "whm",
+        "item_name": "War Hammer"
+      },
+      {
+        "item_code": "mau",
+        "item_name": "Maul"
+      },
+      {
+        "item_code": "gma",
+        "item_name": "Great Maul"
+      },
+      {
+        "item_code": "9wh",
+        "item_name": "Battle Hammer"
+      },
+      {
+        "item_code": "9m9",
+        "item_name": "War Club"
+      },
+      {
+        "item_code": "9gm",
+        "item_name": "Martel de Fer"
+      },
+      {
+        "item_code": "7wh",
+        "item_name": "Legendary Mallet"
+      },
+      {
+        "item_code": "7m7",
+        "item_name": "Ogre Maul"
+      },
+      {
+        "item_code": "7gm",
+        "item_name": "Thunder Maul"
+      }
+    ]
+  },
+  {
+    "type_name": "Daggers",
+    "type_code": "knif",
+    "bases": [
+      {
+        "item_code": "dgr",
+        "item_name": "Dagger"
+      },
+      {
+        "item_code": "dir",
+        "item_name": "Dirk"
+      },
+      {
+        "item_code": "kri",
+        "item_name": "Kris"
+      },
+      {
+        "item_code": "bld",
+        "item_name": "Blade"
+      },
+      {
+        "item_code": "9dg",
+        "item_name": "Poignard"
+      },
+      {
+        "item_code": "9di",
+        "item_name": "Rondel"
+      },
+      {
+        "item_code": "9kr",
+        "item_name": "Cinquedeas"
+      },
+      {
+        "item_code": "9bl",
+        "item_name": "Stiletto"
+      },
+      {
+        "item_code": "7dg",
+        "item_name": "Bone Knife"
+      },
+      {
+        "item_code": "7di",
+        "item_name": "Mithril Point"
+      },
+      {
+        "item_code": "7kr",
+        "item_name": "Fanged Knife"
+      },
+      {
+        "item_code": "7bl",
+        "item_name": "Legend Spike"
+      }
+    ]
+  },
+  {
+    "type_name": "Throwing Knives",
+    "type_code": "tkni",
+    "bases": [
+      {
+        "item_code": "tkf",
+        "item_name": "Throwing Knife"
+      },
+      {
+        "item_code": "bkf",
+        "item_name": "Balanced Knife"
+      },
+      {
+        "item_code": "9tk",
+        "item_name": "Battle Dart"
+      },
+      {
+        "item_code": "9bk",
+        "item_name": "War Dart"
+      },
+      {
+        "item_code": "7tk",
+        "item_name": "Flying Knife"
+      },
+      {
+        "item_code": "7bk",
+        "item_name": "Winged Knife"
+      }
+    ]
+  },
+  {
+    "type_name": "Throwing Axes",
+    "type_code": "taxe",
+    "bases": [
+      {
+        "item_code": "tax",
+        "item_name": "Throwing Axe"
+      },
+      {
+        "item_code": "bal",
+        "item_name": "Balanced Axe"
+      },
+      {
+        "item_code": "9ta",
+        "item_name": "Francisca"
+      },
+      {
+        "item_code": "9b8",
+        "item_name": "Hurlbat"
+      },
+      {
+        "item_code": "7ta",
+        "item_name": "Flying Axe"
+      },
+      {
+        "item_code": "7b8",
+        "item_name": "Winged Axe"
+      }
+    ]
+  },
+  {
+    "type_name": "Javelins",
+    "type_code": "jave",
+    "bases": [
+      {
+        "item_code": "jav",
+        "item_name": "Javelin"
+      },
+      {
+        "item_code": "pil",
+        "item_name": "Pilum"
+      },
+      {
+        "item_code": "ssp",
+        "item_name": "Short Spear"
+      },
+      {
+        "item_code": "glv",
+        "item_name": "Glaive"
+      },
+      {
+        "item_code": "tsp",
+        "item_name": "Throwing Spear"
+      },
+      {
+        "item_code": "9ja",
+        "item_name": "War Javelin"
+      },
+      {
+        "item_code": "9pi",
+        "item_name": "Great Pilum"
+      },
+      {
+        "item_code": "9s9",
+        "item_name": "Simbilan"
+      },
+      {
+        "item_code": "9gl",
+        "item_name": "Spiculum"
+      },
+      {
+        "item_code": "9ts",
+        "item_name": "Harpoon"
+      },
+      {
+        "item_code": "7ja",
+        "item_name": "Hyperion Javelin"
+      },
+      {
+        "item_code": "7pi",
+        "item_name": "Stygian Pilum"
+      },
+      {
+        "item_code": "7s7",
+        "item_name": "Balrog Spear"
+      },
+      {
+        "item_code": "7gl",
+        "item_name": "Ghost Glaive"
+      },
+      {
+        "item_code": "7ts",
+        "item_name": "Winged Harpoon"
+      }
+    ]
+  },
+  {
+    "type_name": "Spears",
+    "type_code": "spea",
+    "bases": [
+      {
+        "item_code": "spr",
+        "item_name": "Spear"
+      },
+      {
+        "item_code": "tri",
+        "item_name": "Trident"
+      },
+      {
+        "item_code": "brn",
+        "item_name": "Brandistock"
+      },
+      {
+        "item_code": "spt",
+        "item_name": "Spetum"
+      },
+      {
+        "item_code": "pik",
+        "item_name": "Pike"
+      },
+      {
+        "item_code": "9sr",
+        "item_name": "War Spear"
+      },
+      {
+        "item_code": "9tr",
+        "item_name": "Fuscina"
+      },
+      {
+        "item_code": "9br",
+        "item_name": "War Fork"
+      },
+      {
+        "item_code": "9st",
+        "item_name": "Yari"
+      },
+      {
+        "item_code": "9p9",
+        "item_name": "Lance"
+      },
+      {
+        "item_code": "7sr",
+        "item_name": "Hyperion Spear"
+      },
+      {
+        "item_code": "7tr",
+        "item_name": "Stygian Pike"
+      },
+      {
+        "item_code": "7br",
+        "item_name": "Mancatcher"
+      },
+      {
+        "item_code": "7st",
+        "item_name": "Ghost Spear"
+      },
+      {
+        "item_code": "7p7",
+        "item_name": "War Pike"
+      }
+    ]
+  },
+  {
+    "type_name": "Polearms",
+    "type_code": "pole",
+    "bases": [
+      {
+        "item_code": "bar",
+        "item_name": "Bardiche"
+      },
+      {
+        "item_code": "vou",
+        "item_name": "Voulge"
+      },
+      {
+        "item_code": "scy",
+        "item_name": "Scythe"
+      },
+      {
+        "item_code": "pax",
+        "item_name": "Poleaxe"
+      },
+      {
+        "item_code": "hal",
+        "item_name": "Halberd"
+      },
+      {
+        "item_code": "wsc",
+        "item_name": "War Scythe"
+      },
+      {
+        "item_code": "9b7",
+        "item_name": "Lochaber Axe"
+      },
+      {
+        "item_code": "9vo",
+        "item_name": "Bill"
+      },
+      {
+        "item_code": "9s8",
+        "item_name": "Battle Scythe"
+      },
+      {
+        "item_code": "9pa",
+        "item_name": "Partizan"
+      },
+      {
+        "item_code": "9h9",
+        "item_name": "Bec-de-Corbin"
+      },
+      {
+        "item_code": "9wc",
+        "item_name": "Grim Scythe"
+      },
+      {
+        "item_code": "7o7",
+        "item_name": "Ogre Axe"
+      },
+      {
+        "item_code": "7vo",
+        "item_name": "Colossus Voulge"
+      },
+      {
+        "item_code": "7s8",
+        "item_name": "Thresher"
+      },
+      {
+        "item_code": "7pa",
+        "item_name": "Cryptic Axe"
+      },
+      {
+        "item_code": "7h7",
+        "item_name": "Great Poleaxe"
+      },
+      {
+        "item_code": "7wc",
+        "item_name": "Giant Thresher"
+      }
+    ]
+  },
+  {
+    "type_name": "Staves",
+    "type_code": "staf",
+    "bases": []
+  },
+  {
+    "type_name": "Bows",
+    "type_code": "bow",
+    "bases": [
+      {
+        "item_code": "sbw",
+        "item_name": "Short Bow"
+      },
+      {
+        "item_code": "hbw",
+        "item_name": "Hunter's Bow"
+      },
+      {
+        "item_code": "lbw",
+        "item_name": "Long Bow"
+      },
+      {
+        "item_code": "cbw",
+        "item_name": "Composite Bow"
+      },
+      {
+        "item_code": "sbb",
+        "item_name": "Short Battle Bow"
+      },
+      {
+        "item_code": "lbb",
+        "item_name": "Long Battle Bow"
+      },
+      {
+        "item_code": "swb",
+        "item_name": "Short War Bow"
+      },
+      {
+        "item_code": "lwb",
+        "item_name": "Long War Bow"
+      },
+      {
+        "item_code": "8sb",
+        "item_name": "Edge Bow"
+      },
+      {
+        "item_code": "8hb",
+        "item_name": "Razor Bow"
+      },
+      {
+        "item_code": "8lb",
+        "item_name": "Cedar Bow"
+      },
+      {
+        "item_code": "8cb",
+        "item_name": "Double Bow"
+      },
+      {
+        "item_code": "8s8",
+        "item_name": "Short Siege Bow"
+      },
+      {
+        "item_code": "8l8",
+        "item_name": "Large Siege Bow"
+      },
+      {
+        "item_code": "8sw",
+        "item_name": "Rune Bow"
+      },
+      {
+        "item_code": "8lw",
+        "item_name": "Gothic Bow"
+      },
+      {
+        "item_code": "6sb",
+        "item_name": "Spider Bow"
+      },
+      {
+        "item_code": "6hb",
+        "item_name": "Blade Bow"
+      },
+      {
+        "item_code": "6lb",
+        "item_name": "Shadow Bow"
+      },
+      {
+        "item_code": "6cb",
+        "item_name": "Great Bow"
+      },
+      {
+        "item_code": "6s7",
+        "item_name": "Diamond Bow"
+      },
+      {
+        "item_code": "6l7",
+        "item_name": "Crusader Bow"
+      },
+      {
+        "item_code": "6sw",
+        "item_name": "Ward Bow"
+      },
+      {
+        "item_code": "6lw",
+        "item_name": "Hydra Bow"
+      }
+    ]
+  },
+  {
+    "type_name": "Crossbows",
+    "type_code": "xbow",
+    "bases": [
+      {
+        "item_code": "lxb",
+        "item_name": "Light Crossbow"
+      },
+      {
+        "item_code": "mxb",
+        "item_name": "Crossbow"
+      },
+      {
+        "item_code": "hxb",
+        "item_name": "Heavy Crossbow"
+      },
+      {
+        "item_code": "rxb",
+        "item_name": "Repeating Crossbow"
+      },
+      {
+        "item_code": "8lx",
+        "item_name": "Arbalest"
+      },
+      {
+        "item_code": "8mx",
+        "item_name": "Siege Crossbow"
+      },
+      {
+        "item_code": "8hx",
+        "item_name": "Ballista"
+      },
+      {
+        "item_code": "8rx",
+        "item_name": "Chu-Ko-Nu"
+      },
+      {
+        "item_code": "6lx",
+        "item_name": "Pellet Bow"
+      },
+      {
+        "item_code": "6mx",
+        "item_name": "Gorgon Crossbow"
+      },
+      {
+        "item_code": "6hx",
+        "item_name": "Colossus Crossbow"
+      },
+      {
+        "item_code": "6rx",
+        "item_name": "Demon Crossbow"
+      }
+    ]
+  },
+  {
+    "type_name": "Wands",
+    "type_code": "wand",
+    "bases": [
+      {
+        "item_code": "wnd",
+        "item_name": "Wand"
+      },
+      {
+        "item_code": "ywn",
+        "item_name": "Yew Wand"
+      },
+      {
+        "item_code": "bwn",
+        "item_name": "Bone Wand"
+      },
+      {
+        "item_code": "gwn",
+        "item_name": "Grim Wand"
+      },
+      {
+        "item_code": "9wn",
+        "item_name": "Burnt Wand"
+      },
+      {
+        "item_code": "9yw",
+        "item_name": "Petrified Wand"
+      },
+      {
+        "item_code": "9bw",
+        "item_name": "Tomb Wand"
+      },
+      {
+        "item_code": "9gw",
+        "item_name": "Grave Wand"
+      },
+      {
+        "item_code": "7wn",
+        "item_name": "Polished Wand"
+      },
+      {
+        "item_code": "7yw",
+        "item_name": "Ghost Wand"
+      },
+      {
+        "item_code": "7bw",
+        "item_name": "Lich Wand"
+      },
+      {
+        "item_code": "7gw",
+        "item_name": "Unearthed Wand"
+      }
+    ]
+  },
+  {
+    "type_name": "Claws",
+    "type_code": "h2h",
+    "bases": [
+      {
+        "item_code": "ktr",
+        "item_name": "Katar"
+      },
+      {
+        "item_code": "wrb",
+        "item_name": "Wrist Blade"
+      },
+      {
+        "item_code": "axf",
+        "item_name": "Hatchet Hands"
+      },
+      {
+        "item_code": "ces",
+        "item_name": "Cestus"
+      },
+      {
+        "item_code": "clw",
+        "item_name": "Claws"
+      },
+      {
+        "item_code": "btl",
+        "item_name": "Blade Talons"
+      },
+      {
+        "item_code": "skr",
+        "item_name": "Scissors Katar"
+      },
+      {
+        "item_code": "9ar",
+        "item_name": "Quhab"
+      },
+      {
+        "item_code": "9wb",
+        "item_name": "Wrist Spike"
+      },
+      {
+        "item_code": "9xf",
+        "item_name": "Fascia"
+      },
+      {
+        "item_code": "9cs",
+        "item_name": "Hand Scythe"
+      },
+      {
+        "item_code": "9lw",
+        "item_name": "Greater Claws"
+      },
+      {
+        "item_code": "9tw",
+        "item_name": "Greater Talons"
+      },
+      {
+        "item_code": "9qr",
+        "item_name": "Scissors Quhab"
+      },
+      {
+        "item_code": "7ar",
+        "item_name": "Suwayyah"
+      },
+      {
+        "item_code": "7wb",
+        "item_name": "Wrist Sword"
+      },
+      {
+        "item_code": "7xf",
+        "item_name": "War Fist"
+      },
+      {
+        "item_code": "7cs",
+        "item_name": "Battle Cestus"
+      },
+      {
+        "item_code": "7lw",
+        "item_name": "Feral Claws"
+      },
+      {
+        "item_code": "7tw",
+        "item_name": "Runic Talons"
+      },
+      {
+        "item_code": "7qr",
+        "item_name": "Scissors Suwayyah"
+      }
+    ]
+  },
+  {
+    "type_name": "Orbs",
+    "type_code": "orb",
+    "bases": [
+      {
+        "item_code": "ob1",
+        "item_name": "Eagle Orb"
+      },
+      {
+        "item_code": "ob2",
+        "item_name": "Sacred Globe"
+      },
+      {
+        "item_code": "ob3",
+        "item_name": "Smoked Sphere"
+      },
+      {
+        "item_code": "ob4",
+        "item_name": "Clasped Orb"
+      },
+      {
+        "item_code": "ob5",
+        "item_name": "Jared's Stone"
+      },
+      {
+        "item_code": "ob6",
+        "item_name": "Glowing Orb"
+      },
+      {
+        "item_code": "ob7",
+        "item_name": "Crystalline Globe"
+      },
+      {
+        "item_code": "ob8",
+        "item_name": "Cloudy Sphere"
+      },
+      {
+        "item_code": "ob9",
+        "item_name": "Sparkling Ball"
+      },
+      {
+        "item_code": "oba",
+        "item_name": "Swirling Crystal"
+      },
+      {
+        "item_code": "obb",
+        "item_name": "Heavenly Stone"
+      },
+      {
+        "item_code": "obc",
+        "item_name": "Eldritch Orb"
+      },
+      {
+        "item_code": "obd",
+        "item_name": "Demon Heart"
+      },
+      {
+        "item_code": "obe",
+        "item_name": "Vortex Orb"
+      },
+      {
+        "item_code": "obf",
+        "item_name": "Dimensional Shard"
+      }
+    ]
+  },
+  {
+    "type_name": "Amazon Bows",
+    "type_code": "abow",
+    "bases": [
+      {
+        "item_code": "am1",
+        "item_name": "Stag Bow"
+      },
+      {
+        "item_code": "am2",
+        "item_name": "Reflex Bow"
+      },
+      {
+        "item_code": "am6",
+        "item_name": "Ashwood Bow"
+      },
+      {
+        "item_code": "am7",
+        "item_name": "Ceremonial Bow"
+      },
+      {
+        "item_code": "amb",
+        "item_name": "Matriarchal Bow"
+      },
+      {
+        "item_code": "amc",
+        "item_name": "Grand Matron Bow"
+      }
+    ]
+  },
+  {
+    "type_name": "Amazon Spears",
+    "type_code": "aspe",
+    "bases": [
+      {
+        "item_code": "am3",
+        "item_name": "Maiden Spear"
+      },
+      {
+        "item_code": "am4",
+        "item_name": "Maiden Pike"
+      },
+      {
+        "item_code": "am8",
+        "item_name": "Ceremonial Spear"
+      },
+      {
+        "item_code": "am9",
+        "item_name": "Ceremonial Pike"
+      },
+      {
+        "item_code": "amd",
+        "item_name": "Matriarchal Spear"
+      },
+      {
+        "item_code": "ame",
+        "item_name": "Matriarchal Pike"
+      }
+    ]
+  },
+  {
+    "type_name": "Amazon Javelins",
+    "type_code": "ajav",
+    "bases": [
+      {
+        "item_code": "am5",
+        "item_name": "Maiden Javelin"
+      },
+      {
+        "item_code": "ama",
+        "item_name": "Ceremonial Javelin"
+      },
+      {
+        "item_code": "amf",
+        "item_name": "Matriarchal Javelin"
+      }
+    ]
+  }
+]

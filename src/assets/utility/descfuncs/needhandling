@@ -1,0 +1,36 @@
+all-stats "+X-Y to All Attributes"
+
+res-all "All Resistances +X"
+res-all-max "All Maximum Resistances +X"
+
+dmg-fire "Adds X-Y Fire Damage"
+dmg-cold "Adds X-Y Cold Damage"
+dmg-ltng
+dmg-pois
+dmg-mag
+dmg-norm
+
+dmg-elem: 
+"Adds X-Y Fire Damamge"
+"Adds X-Y Cold Damage"
+"Adds X-Y Lightning Damage"
+
+dmg-elem-min
+"Adds X-Y to Minimum Fire Damamge"
+"Adds X-Y to Minimum Cold Damage"
+"Adds X-Y to Minimum Lightning Damage"
+
+dmg-elem-max
+"Adds X-Y to Maximum Fire Damamge"
+"Adds X-Y to Maximum Cold Damage"
+"Adds X-Y to Maximum Lightning Damage"
+
+a bunch of map mods that also have escape characters with color names
+
+reanimate
+CTC
+skills
+skilltab (skill trees)
+skill-rand
+oskill
+aura

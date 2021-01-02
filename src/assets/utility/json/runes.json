@@ -4,230 +4,263 @@
     "level": "11",
     "levelreq": "11",
     "rarity": "1",
-    "code": "r01"
+    "code": "r01",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r01.png"
   },
   {
     "name": "Eld",
     "level": "11",
     "levelreq": "11",
     "rarity": "1",
-    "code": "r02"
+    "code": "r02",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r02.png"
   },
   {
     "name": "Tir",
     "level": "13",
     "levelreq": "13",
     "rarity": "2",
-    "code": "r03"
+    "code": "r03",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r03.png"
   },
   {
     "name": "Nef",
     "level": "13",
     "levelreq": "13",
     "rarity": "2",
-    "code": "r04"
+    "code": "r04",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r04.png"
   },
   {
     "name": "Eth",
     "level": "15",
     "levelreq": "15",
     "rarity": "3",
-    "code": "r05"
+    "code": "r05",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r05.png"
   },
   {
     "name": "Ith",
     "level": "15",
     "levelreq": "15",
     "rarity": "3",
-    "code": "r06"
+    "code": "r06",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r06.png"
   },
   {
     "name": "Tal",
     "level": "17",
     "levelreq": "17",
     "rarity": "4",
-    "code": "r07"
+    "code": "r07",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r07.png"
   },
   {
     "name": "Ral",
     "level": "19",
     "levelreq": "19",
     "rarity": "5",
-    "code": "r08"
+    "code": "r08",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r08.png"
   },
   {
     "name": "Ort",
     "level": "21",
     "levelreq": "21",
     "rarity": "6",
-    "code": "r09"
+    "code": "r09",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r09.png"
   },
   {
     "name": "Thul",
     "level": "23",
     "levelreq": "23",
     "rarity": "7",
-    "code": "r10"
+    "code": "r10",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r10.png"
   },
   {
     "name": "Amn",
     "level": "25",
     "levelreq": "25",
     "rarity": "8",
-    "code": "r11"
+    "code": "r11",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r11.png"
   },
   {
     "name": "Sol",
     "level": "27",
     "levelreq": "27",
     "rarity": "9",
-    "code": "r12"
+    "code": "r12",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r12.png"
   },
   {
     "name": "Shael",
     "level": "29",
     "levelreq": "29",
     "rarity": "10",
-    "code": "r13"
+    "code": "r13",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r13.png"
   },
   {
     "name": "Dol",
     "level": "31",
     "levelreq": "31",
     "rarity": "11",
-    "code": "r14"
+    "code": "r14",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r14.png"
   },
   {
     "name": "Hel",
     "level": "33",
     "levelreq": "0",
     "rarity": "12",
-    "code": "r15"
+    "code": "r15",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r15.png"
   },
   {
     "name": "Io",
     "level": "35",
     "levelreq": "35",
     "rarity": "13",
-    "code": "r16"
+    "code": "r16",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r16.png"
   },
   {
     "name": "Lum",
     "level": "37",
     "levelreq": "37",
     "rarity": "14",
-    "code": "r17"
+    "code": "r17",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r17.png"
   },
   {
     "name": "Ko",
     "level": "39",
     "levelreq": "39",
     "rarity": "15",
-    "code": "r18"
+    "code": "r18",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r18.png"
   },
   {
     "name": "Fal",
     "level": "41",
     "levelreq": "41",
     "rarity": "16",
-    "code": "r19"
+    "code": "r19",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r19.png"
   },
   {
     "name": "Lem",
     "level": "43",
     "levelreq": "43",
     "rarity": "17",
-    "code": "r20"
+    "code": "r20",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r20.png"
   },
   {
     "name": "Pul",
     "level": "45",
     "levelreq": "45",
     "rarity": "18",
-    "code": "r21"
+    "code": "r21",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r21.png"
   },
   {
     "name": "Um",
     "level": "47",
     "levelreq": "47",
     "rarity": "19",
-    "code": "r22"
+    "code": "r22",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r22.png"
   },
   {
     "name": "Mal",
     "level": "49",
     "levelreq": "49",
     "rarity": "20",
-    "code": "r23"
+    "code": "r23",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r23.png"
   },
   {
     "name": "Ist",
     "level": "51",
     "levelreq": "51",
     "rarity": "21",
-    "code": "r24"
+    "code": "r24",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r24.png"
   },
   {
     "name": "Gul",
     "level": "53",
     "levelreq": "53",
     "rarity": "22",
-    "code": "r25"
+    "code": "r25",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r25.png"
   },
   {
     "name": "Vex",
     "level": "55",
     "levelreq": "55",
     "rarity": "23",
-    "code": "r26"
+    "code": "r26",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r26.png"
   },
   {
     "name": "Ohm",
     "level": "57",
     "levelreq": "57",
     "rarity": "24",
-    "code": "r27"
+    "code": "r27",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r27.png"
   },
   {
     "name": "Lo",
     "level": "59",
     "levelreq": "59",
     "rarity": "25",
-    "code": "r28"
+    "code": "r28",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r28.png"
   },
   {
     "name": "Sur",
     "level": "61",
     "levelreq": "61",
     "rarity": "26",
-    "code": "r29"
+    "code": "r29",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r29.png"
   },
   {
     "name": "Ber",
     "level": "63",
     "levelreq": "63",
     "rarity": "27",
-    "code": "r30"
+    "code": "r30",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r30.png"
   },
   {
     "name": "Jah",
     "level": "65",
     "levelreq": "65",
     "rarity": "28",
-    "code": "r31"
+    "code": "r31",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r31.png"
   },
   {
     "name": "Cham",
     "level": "67",
     "levelreq": "67",
     "rarity": "29",
-    "code": "r32"
+    "code": "r32",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r32.png"
   },
   {
     "name": "Zod",
     "level": "69",
     "levelreq": "69",
     "rarity": "30",
-    "code": "r33"
+    "code": "r33",
+    "item_image": "https://pd2itemimages.s3.amazonaws.com/runes/r33.png"
   }
 ]
