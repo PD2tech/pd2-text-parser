@@ -9,7 +9,7 @@ import {
 } from "../../components/components_index";
 
 import { parseUniques } from "../../assets/utility/methods/parseUniquesv2";
-import { parseRunewords } from "../../assets/utility/methods/parseRunewords";
+import { parseRunewords } from "../../assets/utility/methods/parseRunewordsv2";
 import { combineUnique } from "../../assets/utility/methods/combineUniquev2";
 
 export const App = () => {
@@ -94,13 +94,7 @@ export const App = () => {
         ) : null}
         {jsonFiles.rune_items ? (
           <div>
-            <button
-              onClick={() =>
-                setResults(
-                  parseRunewords(jsonFiles.rune_items, jsonFiles.item_stat, jsonFiles.properties)
-                )
-              }
-            >
+            <button onClick={() => setResults(parseRunewords(jsonFiles.rune_items))}>
               Gen Runewords
             </button>
             <pre>{JSON.stringify(results, null, 2)}</pre>

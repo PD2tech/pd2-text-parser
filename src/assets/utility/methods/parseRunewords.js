@@ -18,59 +18,42 @@ const defineItemTypes = (item) => {
   if (item.hasOwnProperty("itype3")) {
     result.push(item["itype3"]);
   }
-  let result2 = [];
   let runeModTypes = [];
   for (let i = 0; i < result.length; i++) {
     if (result[i] === "weap") {
-      result2.push("weapon");
       runeModTypes.push("weapon");
     } else if (result[i] === "tors") {
-      result2.push("body armor");
       runeModTypes.push("armor");
     } else if (result[i] === "miss") {
-      result2.push("bow");
-      // result.push("crossbow");
       runeModTypes.push("weapon");
     } else if (result[i] === "mele") {
-      result2.push("melee");
       runeModTypes.push("weapon");
     } else if (result[i] === "pala") {
-      result2.push("pally shield");
       runeModTypes.push("shield");
     } else if (result[i] === "staf") {
-      result2.push("staff");
       runeModTypes.push("weapon");
     } else if (result[i] === "h2h") {
-      result2.push("claw");
       runeModTypes.push("weapon");
     } else if (result[i] === "pole") {
-      result2.push("polearm");
       runeModTypes.push("weapon");
     } else if (result[i] === "scep") {
-      result2.push("scepter");
       runeModTypes.push("weapon");
     } else if (result[i] === "hamm") {
-      result2.push("hammer");
       runeModTypes.push("weapon");
     } else if (result[i] === "shld") {
-      result2.push("shield");
       runeModTypes.push("shield");
     } else if (result[i] === "swor") {
-      result2.push("sword");
       runeModTypes.push("weapon");
     } else if (result[i] === "helm") {
-      result2.push("helm");
       runeModTypes.push("armor");
     } else if (result[i] === "spea") {
-      result2.push("spear");
       runeModTypes.push("weapon");
     } else {
-      result2.push(result[i]);
       runeModTypes.push("weapon");
     }
   }
   const removeDups = [...new Set(runeModTypes)];
-  return { base_types: result2, mod_types: removeDups };
+  return { base_types: result, mod_types: removeDups };
 };
 
 const getRuneProps = (item) => {
@@ -132,8 +115,7 @@ const getRuneProps = (item) => {
 export const parseRunewords = (runewords, item_stat, properties) => {
   return runewords.map((item) => {
     const str_obj_name = allStrings.find((str) => str.id === item.Name);
-    const item_name =
-      str_obj_name !== undefined ? str_obj_name.str : item["Rune Name"];
+    const item_name = str_obj_name !== undefined ? str_obj_name.str : item["Rune Name"];
     const itemTypes = defineItemTypes(item);
     const base_types = itemTypes.base_types;
     const runeModTypes = itemTypes.mod_types;
@@ -202,10 +184,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               min: min,
               max: max,
             };
-            const string =
-              min !== max
-                ? `+${min}-${max} to ${objVal}`
-                : `+${min} to ${objVal}`;
+            const string = min !== max ? `+${min}-${max} to ${objVal}` : `+${min} to ${objVal}`;
             property_strings.push({ order: "157", string: string });
           }
           // sockets as affix
@@ -227,8 +206,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
                 min: min,
                 max: max,
               };
-              const string =
-                min !== max ? `Sockets (${min}-${max})` : `Sockets (${min})`;
+              const string = min !== max ? `Sockets (${min}-${max})` : `Sockets (${min})`;
               property_strings.push({ order: "0", string: string });
             }
           }
@@ -237,9 +215,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
             itemStatObj.Stat === "item_singleskill" ||
             itemStatObj.Stat === "item_nonclassskill"
           ) {
-            let found = skillIds.find(
-              (s) => s.Id === item[`T1Param${propNum}`]
-            );
+            let found = skillIds.find((s) => s.Id === item[`T1Param${propNum}`]);
             let skillName = "";
             if (found === undefined) {
               skillName = item[`T1Param${propNum}`];
@@ -253,13 +229,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               min: parseInt(min),
               max: parseInt(max),
             };
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             property_strings.push(stringObj);
           }
           // skill trees
@@ -279,13 +249,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               max: parseInt(max),
             };
 
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              treeName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, treeName);
             property_strings.push(stringObj);
           } else if (itemStatObj.Stat === undefined) {
             console.log("prop with * commenting in column value");
@@ -305,13 +269,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               min: min,
               max: max,
             };
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             property_strings.push(stringObj);
           }
           //
@@ -331,13 +289,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               min: min,
               max: max,
             };
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             property_strings.push(stringObj);
           } else {
             const name = itemStatObj.Stat;
@@ -347,9 +299,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               itemStatObj.descfunc === "15" ||
               itemStatObj.descfunc === "16"
             ) {
-              let found = skillIds.find(
-                (s) => s.Id === item[`T1Param${propNum}`]
-              );
+              let found = skillIds.find((s) => s.Id === item[`T1Param${propNum}`]);
               if (found === undefined) {
                 skillName = item[`T1Param${propNum}`];
               } else {
@@ -362,13 +312,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
               min: min,
               max: max,
             };
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             property_strings.push(stringObj);
           }
         }
@@ -418,13 +362,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
                 base_type: type,
               },
             });
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             const newStringObj = {
               order: stringObj.order,
               string: `${type}: \n ${stringObj.string}`,
@@ -463,13 +401,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
                 base_type: type,
               },
             });
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             const newStringObj = {
               order: stringObj.order,
               string: `${type}: \n ${stringObj.string}`,
@@ -508,13 +440,7 @@ export const parseRunewords = (runewords, item_stat, properties) => {
                 base_type: type,
               },
             });
-            const stringObj = descFuncUtil(
-              itemStatObj,
-              allStrings,
-              min,
-              max,
-              skillName
-            );
+            const stringObj = descFuncUtil(itemStatObj, allStrings, min, max, skillName);
             const newStringObj = {
               order: stringObj.order,
               string: `${type}: \n ${stringObj.string}`,

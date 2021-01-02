@@ -199,6 +199,7 @@ export const generateArmor = (json) => {
         width: parseInt(inventory_width),
       },
       equip,
+      stats: [],
     };
   });
 };

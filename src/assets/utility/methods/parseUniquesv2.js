@@ -18,6 +18,8 @@ const isMulti = (propObj) => {
 export const parseUniques = (uniqueItems) => {
   return uniqueItems.map((item) => {
     const str_obj_name = allStrings.find((str) => str.id === item.index);
+    const base_name_obj = allStrings.find((str) => str.id === item.code);
+    const base_name = base_name_obj !== undefined ? base_name_obj.str : item[`*type`];
     const item_name = str_obj_name !== undefined ? str_obj_name.str : item.index;
     const item_base_code = item.code;
     const level_requirement = parseInt(item["lvl req"]);
@@ -76,6 +78,7 @@ export const parseUniques = (uniqueItems) => {
     return {
       name: item_name,
       base_code: item_base_code,
+      base_name,
       level_requirement: level_requirement,
       mods: modArr,
     };

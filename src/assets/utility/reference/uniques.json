@@ -2,6 +2,7 @@
   {
     "name": "The Gnasher",
     "base_code": "hax",
+    "base_name": "Hand Axe",
     "level_requirement": 5,
     "mods": [
       {
@@ -36,7 +37,7 @@
         "name": "dmg%",
         "display": "+60-70% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -54,6 +55,7 @@
   {
     "name": "Deathspade",
     "base_code": "axe",
+    "base_name": "Axe",
     "level_requirement": 9,
     "mods": [
       {
@@ -97,7 +99,7 @@
         "name": "dmg%",
         "display": "+60-70% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -115,6 +117,7 @@
   {
     "name": "Bladebone",
     "base_code": "2ax",
+    "base_name": "Double Axe",
     "level_requirement": 15,
     "mods": [
       {
@@ -176,7 +179,7 @@
         "name": "dmg%",
         "display": "+30-50% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -194,6 +197,7 @@
   {
     "name": "Skull Splitter",
     "base_code": "mpi",
+    "base_name": "Military Pick",
     "level_requirement": 21,
     "mods": [
       {
@@ -246,7 +250,7 @@
         "name": "dmg%",
         "display": "+60-100% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -273,6 +277,7 @@
   {
     "name": "Rakescar",
     "base_code": "wax",
+    "base_name": "War Axe",
     "level_requirement": 27,
     "mods": [
       {
@@ -316,7 +321,7 @@
         "name": "dmg%",
         "display": "+75-150% Enhanced Damage",
         "min": 75,
-        "max": 75,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -343,6 +348,7 @@
   {
     "name": "Axe of Fechmar",
     "base_code": "lax",
+    "base_name": "Large Axe",
     "level_requirement": 8,
     "mods": [
       {
@@ -350,7 +356,7 @@
         "name": "dmg%",
         "display": "+70-90% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 90,
         "order": 160,
         "sub_stats": []
       },
@@ -395,6 +401,7 @@
   {
     "name": "Goreshovel",
     "base_code": "bax",
+    "base_name": "Broad Axe",
     "level_requirement": 14,
     "mods": [
       {
@@ -429,7 +436,7 @@
         "name": "dmg%",
         "display": "+50-70% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -456,6 +463,7 @@
   {
     "name": "The Chieftain",
     "base_code": "btx",
+    "base_name": "Battle Axe",
     "level_requirement": 19,
     "mods": [
       {
@@ -543,6 +551,7 @@
   {
     "name": "Brainhew",
     "base_code": "gax",
+    "base_name": "Great Axe",
     "level_requirement": 25,
     "mods": [
       {
@@ -586,7 +595,7 @@
         "name": "dmg%",
         "display": "+50-80% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -631,6 +640,7 @@
   {
     "name": "Humongous",
     "base_code": "gix",
+    "base_name": "Giant Axe",
     "level_requirement": 29,
     "mods": [
       {
@@ -656,7 +666,7 @@
         "name": "dmg-max",
         "display": "+15-25 to Maximum Damage",
         "min": 15,
-        "max": 15,
+        "max": 25,
         "order": 160,
         "sub_stats": []
       },
@@ -683,7 +693,7 @@
         "name": "dmg%",
         "display": "+180-240% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -701,6 +711,7 @@
   {
     "name": "Torch of Iro",
     "base_code": "wnd",
+    "base_name": "Wand",
     "level_requirement": 5,
     "mods": [
       {
@@ -780,6 +791,7 @@
   {
     "name": "Maelstrom",
     "base_code": "ywn",
+    "base_name": "Yew Wand",
     "level_requirement": 14,
     "mods": [
       {
@@ -863,6 +875,7 @@
   {
     "name": "Gravenspine",
     "base_code": "bwn",
+    "base_name": "Bone Wand",
     "level_requirement": 20,
     "mods": [
       {
@@ -953,6 +966,7 @@
   {
     "name": "Ume's Lament",
     "base_code": "gwn",
+    "base_name": "Grim Wand",
     "level_requirement": 28,
     "mods": [
       {
@@ -1016,6 +1030,7 @@
   {
     "name": "Felloak",
     "base_code": "clb",
+    "base_name": "Club",
     "level_requirement": 3,
     "mods": [
       {
@@ -1068,7 +1083,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -1096,6 +1111,7 @@
   {
     "name": "Knell Striker",
     "base_code": "scp",
+    "base_name": "Scepter",
     "level_requirement": 5,
     "mods": [
       {
@@ -1148,7 +1164,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -1166,6 +1182,7 @@
   {
     "name": "Rusthandle",
     "base_code": "gsc",
+    "base_name": "Grand Scepter",
     "level_requirement": 17,
     "mods": [
       {
@@ -1218,7 +1235,7 @@
         "name": "dmg%",
         "display": "+50-60% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -1265,6 +1282,7 @@
   {
     "name": "Stormeye",
     "base_code": "wsp",
+    "base_name": "War Scepter",
     "level_requirement": 23,
     "mods": [
       {
@@ -1317,7 +1335,7 @@
         "name": "dmg%",
         "display": "+80-120% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -1365,6 +1383,7 @@
   {
     "name": "Stoutnail",
     "base_code": "spc",
+    "base_name": "Spiked Club",
     "level_requirement": 5,
     "mods": [
       {
@@ -1427,6 +1446,7 @@
   {
     "name": "Crushflange",
     "base_code": "mac",
+    "base_name": "Mace",
     "level_requirement": 9,
     "mods": [
       {
@@ -1461,7 +1481,7 @@
         "name": "dmg%",
         "display": "+50-100% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -1488,6 +1508,7 @@
   {
     "name": "Bloodrise",
     "base_code": "mst",
+    "base_name": "Morning Star",
     "level_requirement": 15,
     "mods": [
       {
@@ -1568,6 +1589,7 @@
   {
     "name": "The General's Tan Do Li Ga",
     "base_code": "fla",
+    "base_name": "Flail",
     "level_requirement": 21,
     "mods": [
       {
@@ -1584,7 +1606,7 @@
         "name": "dmg-max",
         "display": "+20-30 to Maximum Damage",
         "min": 20,
-        "max": 20,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -1620,7 +1642,7 @@
         "name": "dmg%",
         "display": "+50-60% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -1647,6 +1669,7 @@
   {
     "name": "Ironstone",
     "base_code": "whm",
+    "base_name": "War Hammer",
     "level_requirement": 27,
     "mods": [
       {
@@ -1663,7 +1686,7 @@
         "name": "dmg%",
         "display": "+100-150% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -1708,6 +1731,7 @@
   {
     "name": "Bonesnap",
     "base_code": "mau",
+    "base_name": "Maul",
     "level_requirement": 24,
     "mods": [
       {
@@ -1715,7 +1739,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -1769,6 +1793,7 @@
   {
     "name": "Steeldriver",
     "base_code": "gma",
+    "base_name": "Great Maul",
     "level_requirement": 29,
     "mods": [
       {
@@ -1803,7 +1828,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -1821,6 +1846,7 @@
   {
     "name": "Rixot's Keen",
     "base_code": "ssd",
+    "base_name": "Short Sword",
     "level_requirement": 2,
     "mods": [
       {
@@ -1891,6 +1917,7 @@
   {
     "name": "Blood Crescent",
     "base_code": "scm",
+    "base_name": "Scimitar",
     "level_requirement": 7,
     "mods": [
       {
@@ -1924,7 +1951,7 @@
         "name": "dmg%",
         "display": "+60-80% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -1987,6 +2014,7 @@
   {
     "name": "Skewer of Krintiz",
     "base_code": "sbr",
+    "base_name": "Sabre",
     "level_requirement": 10,
     "mods": [
       {
@@ -2030,7 +2058,7 @@
         "name": "dmg%",
         "display": "+50-70% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -2066,6 +2094,7 @@
   {
     "name": "Gleamscythe",
     "base_code": "flc",
+    "base_name": "Falchion",
     "level_requirement": 13,
     "mods": [
       {
@@ -2109,7 +2138,7 @@
         "name": "dmg%",
         "display": "+60-100% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -2145,6 +2174,7 @@
   {
     "name": "Griswold's Edge",
     "base_code": "bsd",
+    "base_name": "Broad Sword",
     "level_requirement": 17,
     "mods": [
       {
@@ -2188,7 +2218,7 @@
         "name": "dmg%",
         "display": "+80-120% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -2215,6 +2245,7 @@
   {
     "name": "Hellplague",
     "base_code": "lsd",
+    "base_name": "Long Sword",
     "level_requirement": 22,
     "mods": [
       {
@@ -2258,7 +2289,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -2308,6 +2339,7 @@
   {
     "name": "Culwen's Point",
     "base_code": "wsd",
+    "base_name": "War Sword",
     "level_requirement": 29,
     "mods": [
       {
@@ -2360,7 +2392,7 @@
         "name": "dmg%",
         "display": "+90-150% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -2378,6 +2410,7 @@
   {
     "name": "Shadowfang",
     "base_code": "2hs",
+    "base_name": "Two-Handed Sword",
     "level_requirement": 12,
     "mods": [
       {
@@ -2430,7 +2463,7 @@
         "name": "dmg%",
         "display": "+90-130% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 130,
         "order": 160,
         "sub_stats": []
       },
@@ -2457,6 +2490,7 @@
   {
     "name": "Soulflay",
     "base_code": "clm",
+    "base_name": "Claymore",
     "level_requirement": 19,
     "mods": [
       {
@@ -2482,7 +2516,7 @@
         "name": "dmg%",
         "display": "+70-100% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -2535,6 +2569,7 @@
   {
     "name": "Kinemil's Awl",
     "base_code": "gis",
+    "base_name": "Giant Sword",
     "level_requirement": 23,
     "mods": [
       {
@@ -2578,7 +2613,7 @@
         "name": "dmg%",
         "display": "+80-100% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -2606,6 +2641,7 @@
   {
     "name": "Blacktongue",
     "base_code": "bsw",
+    "base_name": "Bastard Sword",
     "level_requirement": 26,
     "mods": [
       {
@@ -2658,7 +2694,7 @@
         "name": "dmg%",
         "display": "+50-80% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -2676,6 +2712,7 @@
   {
     "name": "Ripsaw",
     "base_code": "flb",
+    "base_name": "Flamberge",
     "level_requirement": 26,
     "mods": [
       {
@@ -2710,7 +2747,7 @@
         "name": "dmg%",
         "display": "+100-150% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -2728,6 +2765,7 @@
   {
     "name": "The Patriarch",
     "base_code": "gsd",
+    "base_name": "Great Sword",
     "level_requirement": 29,
     "mods": [
       {
@@ -2771,7 +2809,7 @@
         "name": "dmg%",
         "display": "+180-240% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -2807,6 +2845,7 @@
   {
     "name": "Gull",
     "base_code": "dgr",
+    "base_name": "Dagger",
     "level_requirement": 4,
     "mods": [
       {
@@ -2859,6 +2898,7 @@
   {
     "name": "The Diggler",
     "base_code": "dir",
+    "base_name": "Dirk",
     "level_requirement": 11,
     "mods": [
       {
@@ -2929,6 +2969,7 @@
   {
     "name": "The Jade Tan Do",
     "base_code": "kri",
+    "base_name": "Kris",
     "level_requirement": 19,
     "mods": [
       {
@@ -3009,6 +3050,7 @@
   {
     "name": "Spectral Shard",
     "base_code": "bld",
+    "base_name": "Blade",
     "level_requirement": 25,
     "mods": [
       {
@@ -3078,6 +3120,7 @@
   {
     "name": "The Dragon Chang",
     "base_code": "spr",
+    "base_name": "Spear",
     "level_requirement": 8,
     "mods": [
       {
@@ -3158,6 +3201,7 @@
   {
     "name": "Razortine",
     "base_code": "tri",
+    "base_name": "Trident",
     "level_requirement": 12,
     "mods": [
       {
@@ -3210,7 +3254,7 @@
         "name": "dmg%",
         "display": "+30-50% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -3228,6 +3272,7 @@
   {
     "name": "Bloodthief",
     "base_code": "brn",
+    "base_name": "Brandistock",
     "level_requirement": 17,
     "mods": [
       {
@@ -3271,7 +3316,7 @@
         "name": "dmg%",
         "display": "+50-110% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 110,
         "order": 160,
         "sub_stats": []
       },
@@ -3289,6 +3334,7 @@
   {
     "name": "Lance of Yaggai",
     "base_code": "spt",
+    "base_name": "Spetum",
     "level_requirement": 22,
     "mods": [
       {
@@ -3387,6 +3433,7 @@
   {
     "name": "The Tannr Gorerod",
     "base_code": "pik",
+    "base_name": "Pike",
     "level_requirement": 27,
     "mods": [
       {
@@ -3457,7 +3504,7 @@
         "name": "dmg%",
         "display": "+140-160% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -3475,6 +3522,7 @@
   {
     "name": "Dimoak's Hew",
     "base_code": "bar",
+    "base_name": "Bardiche",
     "level_requirement": 8,
     "mods": [
       {
@@ -3527,6 +3575,7 @@
   {
     "name": "Steelgoad",
     "base_code": "vou",
+    "base_name": "Voulge",
     "level_requirement": 14,
     "mods": [
       {
@@ -3587,7 +3636,7 @@
         "name": "dmg%",
         "display": "+60-80% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -3605,6 +3654,7 @@
   {
     "name": "Soul Harvest",
     "base_code": "scy",
+    "base_name": "Scythe",
     "level_requirement": 19,
     "mods": [
       {
@@ -3656,7 +3706,7 @@
         "name": "dmg%",
         "display": "+50-90% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 90,
         "order": 160,
         "sub_stats": []
       },
@@ -3693,6 +3743,7 @@
   {
     "name": "The Battlebranch",
     "base_code": "pax",
+    "base_name": "Poleaxe",
     "level_requirement": 25,
     "mods": [
       {
@@ -3718,7 +3769,7 @@
         "name": "dmg%",
         "display": "+70-130% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 130,
         "order": 160,
         "sub_stats": []
       },
@@ -3754,6 +3805,7 @@
   {
     "name": "Woestave",
     "base_code": "hal",
+    "base_name": "Halberd",
     "level_requirement": 28,
     "mods": [
       {
@@ -3824,7 +3876,7 @@
         "name": "dmg%",
         "display": "+40-80% Enhanced Damage",
         "min": 40,
-        "max": 40,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -3842,6 +3894,7 @@
   {
     "name": "The Grim Reaper",
     "base_code": "wsc",
+    "base_name": "War Scythe",
     "level_requirement": 29,
     "mods": [
       {
@@ -3887,7 +3940,7 @@
         "name": "dmg%",
         "display": "+50-100% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -3914,6 +3967,7 @@
   {
     "name": "Bane Ash",
     "base_code": "sst",
+    "base_name": "Short Staff",
     "level_requirement": 5,
     "mods": [
       {
@@ -3966,7 +4020,7 @@
         "name": "dmg%",
         "display": "+50-60% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -4004,6 +4058,7 @@
   {
     "name": "Serpent Lord",
     "base_code": "lst",
+    "base_name": "Long Staff",
     "level_requirement": 9,
     "mods": [
       {
@@ -4057,7 +4112,7 @@
         "name": "dmg%",
         "display": "+30-40% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 40,
         "order": 160,
         "sub_stats": []
       },
@@ -4103,6 +4158,7 @@
   {
     "name": "Spire of Lazarus",
     "base_code": "cst",
+    "base_name": "Gnarled Staff",
     "level_requirement": 18,
     "mods": [
       {
@@ -4212,6 +4268,7 @@
   {
     "name": "The Salamander",
     "base_code": "bst",
+    "base_name": "Battle Staff",
     "level_requirement": 21,
     "mods": [
       {
@@ -4309,6 +4366,7 @@
   {
     "name": "The Iron Jang Bong",
     "base_code": "wst",
+    "base_name": "War Staff",
     "level_requirement": 28,
     "mods": [
       {
@@ -4400,6 +4458,7 @@
   {
     "name": "Pluckeye",
     "base_code": "sbw",
+    "base_name": "Short Bow",
     "level_requirement": 7,
     "mods": [
       {
@@ -4471,6 +4530,7 @@
   {
     "name": "Witherstring",
     "base_code": "hbw",
+    "base_name": "Hunter's Bow",
     "level_requirement": 13,
     "mods": [
       {
@@ -4523,7 +4583,7 @@
         "name": "dmg%",
         "display": "+40-50% Enhanced Damage",
         "min": 40,
-        "max": 40,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       }
@@ -4532,6 +4592,7 @@
   {
     "name": "Raven Claw",
     "base_code": "lbw",
+    "base_name": "Long Bow",
     "level_requirement": 15,
     "mods": [
       {
@@ -4575,7 +4636,7 @@
         "name": "dmg%",
         "display": "+60-70% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       }
@@ -4584,6 +4645,7 @@
   {
     "name": "Rogue's Bow",
     "base_code": "cbw",
+    "base_name": "Composite Bow",
     "level_requirement": 20,
     "mods": [
       {
@@ -4644,7 +4706,7 @@
         "name": "dmg%",
         "display": "+80-120% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -4672,6 +4734,7 @@
   {
     "name": "Stormstrike",
     "base_code": "sbb",
+    "base_name": "Short Battle Bow",
     "level_requirement": 25,
     "mods": [
       {
@@ -4733,7 +4796,7 @@
         "name": "dmg%",
         "display": "+120-160% Enhanced Damage",
         "min": 120,
-        "max": 120,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       }
@@ -4742,6 +4805,7 @@
   {
     "name": "Wizendraw",
     "base_code": "lbb",
+    "base_name": "Long Battle Bow",
     "level_requirement": 26,
     "mods": [
       {
@@ -4794,7 +4858,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -4821,6 +4885,7 @@
   {
     "name": "Hellclap",
     "base_code": "swb",
+    "base_name": "Short War Bow",
     "level_requirement": 27,
     "mods": [
       {
@@ -4882,7 +4947,7 @@
         "name": "dmg%",
         "display": "+120-160% Enhanced Damage",
         "min": 120,
-        "max": 120,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -4905,6 +4970,7 @@
   {
     "name": "Blastbark",
     "base_code": "lwb",
+    "base_name": "Long War Bow",
     "level_requirement": 28,
     "mods": [
       {
@@ -4912,7 +4978,7 @@
         "name": "dmg%",
         "display": "+90-150% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -4958,6 +5024,7 @@
   {
     "name": "Leadcrow",
     "base_code": "lxb",
+    "base_name": "Light Crossbow",
     "level_requirement": 9,
     "mods": [
       {
@@ -5019,6 +5086,7 @@
   {
     "name": "Ichorsting",
     "base_code": "mxb",
+    "base_name": "Crossbow",
     "level_requirement": 18,
     "mods": [
       {
@@ -5071,7 +5139,7 @@
         "name": "dmg%",
         "display": "+50-80% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -5089,6 +5157,7 @@
   {
     "name": "Hellcast",
     "base_code": "hxb",
+    "base_name": "Heavy Crossbow",
     "level_requirement": 27,
     "mods": [
       {
@@ -5141,7 +5210,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -5168,6 +5237,7 @@
   {
     "name": "Doomslinger",
     "base_code": "rxb",
+    "base_name": "Repeating Crossbow",
     "level_requirement": 28,
     "mods": [
       {
@@ -5211,7 +5281,7 @@
         "name": "dmg%",
         "display": "+90-140% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 140,
         "order": 160,
         "sub_stats": []
       },
@@ -5230,6 +5300,7 @@
   {
     "name": "Biggin's Bonnet",
     "base_code": "cap",
+    "base_name": "Cap",
     "level_requirement": 3,
     "mods": [
       {
@@ -5282,6 +5353,7 @@
   {
     "name": "Tarnhelm",
     "base_code": "skp",
+    "base_name": "Skull Cap",
     "level_requirement": 15,
     "mods": [
       {
@@ -5325,6 +5397,7 @@
   {
     "name": "Coif of Glory",
     "base_code": "hlm",
+    "base_name": "Helm",
     "level_requirement": 14,
     "mods": [
       {
@@ -5386,6 +5459,7 @@
   {
     "name": "Duskdeep",
     "base_code": "fhl",
+    "base_name": "Full Helm",
     "level_requirement": 17,
     "mods": [
       {
@@ -5464,6 +5538,7 @@
   {
     "name": "Wormskull",
     "base_code": "bhm",
+    "base_name": "Bone Helm",
     "level_requirement": 21,
     "mods": [
       {
@@ -5516,6 +5591,7 @@
   {
     "name": "Howltusk",
     "base_code": "ghm",
+    "base_name": "Great Helm",
     "level_requirement": 25,
     "mods": [
       {
@@ -5586,6 +5662,7 @@
   {
     "name": "Undead Crown",
     "base_code": "crn",
+    "base_name": "Crown",
     "level_requirement": 29,
     "mods": [
       {
@@ -5667,6 +5744,7 @@
   {
     "name": "The Face of Horror",
     "base_code": "msk",
+    "base_name": "Mask",
     "level_requirement": 20,
     "mods": [
       {
@@ -5736,6 +5814,7 @@
   {
     "name": "Greyform",
     "base_code": "qui",
+    "base_name": "Quilted Armor",
     "level_requirement": 7,
     "mods": [
       {
@@ -5797,6 +5876,7 @@
   {
     "name": "Blinkbat's Form",
     "base_code": "lea",
+    "base_name": "Leather Armor",
     "level_requirement": 12,
     "mods": [
       {
@@ -5858,6 +5938,7 @@
   {
     "name": "The Centurion",
     "base_code": "hla",
+    "base_name": "Hard Leather Armor",
     "level_requirement": 14,
     "mods": [
       {
@@ -5928,7 +6009,7 @@
         "name": "dmg%",
         "display": "+15-25% Enhanced Damage",
         "min": 15,
-        "max": 15,
+        "max": 25,
         "order": 160,
         "sub_stats": []
       }
@@ -5937,6 +6018,7 @@
   {
     "name": "Twitchthroe",
     "base_code": "stu",
+    "base_name": "Studded Leather",
     "level_requirement": 16,
     "mods": [
       {
@@ -5998,6 +6080,7 @@
   {
     "name": "Darkglow",
     "base_code": "rng",
+    "base_name": "Ring Mail",
     "level_requirement": 14,
     "mods": [
       {
@@ -6093,6 +6176,7 @@
   {
     "name": "Hawkmail",
     "base_code": "scl",
+    "base_name": "Scale Mail",
     "level_requirement": 15,
     "mods": [
       {
@@ -6155,6 +6239,7 @@
   {
     "name": "Sparking Mail",
     "base_code": "chn",
+    "base_name": "Chain Mail",
     "level_requirement": 17,
     "mods": [
       {
@@ -6216,6 +6301,7 @@
   {
     "name": "Venom Ward",
     "base_code": "brs",
+    "base_name": "Breast Plate",
     "level_requirement": 20,
     "mods": [
       {
@@ -6277,6 +6363,7 @@
   {
     "name": "Iceblink",
     "base_code": "spl",
+    "base_name": "Splint Mail",
     "level_requirement": 22,
     "mods": [
       {
@@ -6343,6 +6430,7 @@
   {
     "name": "Boneflesh",
     "base_code": "plt",
+    "base_name": "Plate Mail",
     "level_requirement": 26,
     "mods": [
       {
@@ -6396,6 +6484,7 @@
   {
     "name": "Rockfleece",
     "base_code": "fld",
+    "base_name": "Field Plate",
     "level_requirement": 28,
     "mods": [
       {
@@ -6448,6 +6537,7 @@
   {
     "name": "Rattlecage",
     "base_code": "gth",
+    "base_name": "Gothic Plate",
     "level_requirement": 29,
     "mods": [
       {
@@ -6491,7 +6581,7 @@
         "name": "dmg%",
         "display": "+35-70% Enhanced Damage",
         "min": 35,
-        "max": 35,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       }
@@ -6500,6 +6590,7 @@
   {
     "name": "Goldskin",
     "base_code": "ful",
+    "base_name": "Full Plate Mail",
     "level_requirement": 28,
     "mods": [
       {
@@ -6569,6 +6660,7 @@
   {
     "name": "Silks of the Victor",
     "base_code": "aar",
+    "base_name": "Ancient Armor",
     "level_requirement": 28,
     "mods": [
       {
@@ -6630,6 +6722,7 @@
   {
     "name": "Heavenly Garb",
     "base_code": "ltp",
+    "base_name": "Light Plate",
     "level_requirement": 29,
     "mods": [
       {
@@ -6732,6 +6825,7 @@
   {
     "name": "Pelta Lunata",
     "base_code": "buc",
+    "base_name": "Buckler",
     "level_requirement": 2,
     "mods": [
       {
@@ -6802,6 +6896,7 @@
   {
     "name": "Umbral Disk",
     "base_code": "sml",
+    "base_name": "Small Shield",
     "level_requirement": 9,
     "mods": [
       {
@@ -6881,6 +6976,7 @@
   {
     "name": "Stormguild",
     "base_code": "lrg",
+    "base_name": "Large Shield",
     "level_requirement": 13,
     "mods": [
       {
@@ -6960,6 +7056,7 @@
   {
     "name": "Wall of the Eyeless",
     "base_code": "bsh",
+    "base_name": "Bone Shield",
     "level_requirement": 20,
     "mods": [
       {
@@ -7039,6 +7136,7 @@
   {
     "name": "Swordback Hold",
     "base_code": "spk",
+    "base_name": "Spiked Shield",
     "level_requirement": 15,
     "mods": [
       {
@@ -7100,6 +7198,7 @@
   {
     "name": "Steelclash",
     "base_code": "kit",
+    "base_name": "Kite Shield",
     "level_requirement": 17,
     "mods": [
       {
@@ -7187,6 +7286,7 @@
   {
     "name": "Bverrit Keep",
     "base_code": "tow",
+    "base_name": "Tower Shield",
     "level_requirement": 19,
     "mods": [
       {
@@ -7257,6 +7357,7 @@
   {
     "name": "The Ward",
     "base_code": "gts",
+    "base_name": "Gothic Shield",
     "level_requirement": 26,
     "mods": [
       {
@@ -7335,6 +7436,7 @@
   {
     "name": "The Hand of Broc",
     "base_code": "lgl",
+    "base_name": "Leather Gloves",
     "level_requirement": 5,
     "mods": [
       {
@@ -7396,7 +7498,7 @@
         "name": "dmg%",
         "display": "+20-30% Enhanced Damage",
         "min": 20,
-        "max": 20,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       }
@@ -7405,6 +7507,7 @@
   {
     "name": "Bloodfist",
     "base_code": "vgl",
+    "base_name": "Heavy Gloves",
     "level_requirement": 9,
     "mods": [
       {
@@ -7412,7 +7515,7 @@
         "name": "dmg-max",
         "display": "+5-10 to Maximum Damage",
         "min": 5,
-        "max": 5,
+        "max": 10,
         "order": 160,
         "sub_stats": []
       },
@@ -7466,6 +7569,7 @@
   {
     "name": "Chance Guards",
     "base_code": "mgl",
+    "base_name": "Chain Gloves",
     "level_requirement": 15,
     "mods": [
       {
@@ -7536,6 +7640,7 @@
   {
     "name": "Magefist",
     "base_code": "tgl",
+    "base_name": "Light Gauntlets",
     "level_requirement": 23,
     "mods": [
       {
@@ -7611,6 +7716,7 @@
   {
     "name": "Frostburn",
     "base_code": "hgl",
+    "base_name": "Gauntlets",
     "level_requirement": 29,
     "mods": [
       {
@@ -7699,6 +7805,7 @@
   {
     "name": "Hotspur",
     "base_code": "lbt",
+    "base_name": "Boots",
     "level_requirement": 5,
     "mods": [
       {
@@ -7769,6 +7876,7 @@
   {
     "name": "Gorefoot",
     "base_code": "vbt",
+    "base_name": "Heavy Boots",
     "level_requirement": 12,
     "mods": [
       {
@@ -7831,6 +7939,7 @@
   {
     "name": "Treads of Cthon",
     "base_code": "mbt",
+    "base_name": "Chain Boots",
     "level_requirement": 15,
     "mods": [
       {
@@ -7901,6 +8010,7 @@
   {
     "name": "Goblin Toe",
     "base_code": "tbt",
+    "base_name": "Light Plated Boots",
     "level_requirement": 22,
     "mods": [
       {
@@ -7962,7 +8072,7 @@
         "name": "dmg%",
         "display": "+15-30% Enhanced Damage",
         "min": 15,
-        "max": 15,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       }
@@ -7971,6 +8081,7 @@
   {
     "name": "Tearhaunch",
     "base_code": "hbt",
+    "base_name": "Greaves",
     "level_requirement": 29,
     "mods": [
       {
@@ -8068,6 +8179,7 @@
   {
     "name": "Lenymo",
     "base_code": "lbl",
+    "base_name": "Sash",
     "level_requirement": 7,
     "mods": [
       {
@@ -8137,6 +8249,7 @@
   {
     "name": "Snakecord",
     "base_code": "vbl",
+    "base_name": "Light Belt",
     "level_requirement": 12,
     "mods": [
       {
@@ -8198,6 +8311,7 @@
   {
     "name": "Nightsmoke",
     "base_code": "mbl",
+    "base_name": "Belt",
     "level_requirement": 20,
     "mods": [
       {
@@ -8276,6 +8390,7 @@
   {
     "name": "Goldwrap",
     "base_code": "tbl",
+    "base_name": "Heavy Belt",
     "level_requirement": 27,
     "mods": [
       {
@@ -8337,6 +8452,7 @@
   {
     "name": "Bladebuckle",
     "base_code": "hbl",
+    "base_name": "Plated Belt",
     "level_requirement": 39,
     "mods": [
       {
@@ -8416,6 +8532,7 @@
   {
     "name": "Nokozan Relic",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 10,
     "mods": [
       {
@@ -8477,6 +8594,7 @@
   {
     "name": "The Eye of Etlich",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 15,
     "mods": [
       {
@@ -8538,6 +8656,7 @@
   {
     "name": "The Mahim-Oak Curio",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 25,
     "mods": [
       {
@@ -8633,6 +8752,7 @@
   {
     "name": "Nagelring",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 7,
     "mods": [
       {
@@ -8685,6 +8805,7 @@
   {
     "name": "The Eye of Mordini",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 15,
     "mods": [
       {
@@ -8728,6 +8849,7 @@
   {
     "name": "The Stone of Jordan",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 29,
     "mods": [
       {
@@ -8780,6 +8902,7 @@
   {
     "name": "Coldkill",
     "base_code": "9ha",
+    "base_name": "Hatchet",
     "level_requirement": 36,
     "mods": [
       {
@@ -8852,7 +8975,7 @@
         "name": "dmg%",
         "display": "+150-190% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 190,
         "order": 160,
         "sub_stats": []
       },
@@ -8870,6 +8993,7 @@
   {
     "name": "Butcher's Pupil",
     "base_code": "9ax",
+    "base_name": "Cleaver",
     "level_requirement": 39,
     "mods": [
       {
@@ -8895,7 +9019,7 @@
         "name": "dmg%",
         "display": "+150-200% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -8905,7 +9029,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -8949,6 +9073,7 @@
   {
     "name": "Islestrike",
     "base_code": "92a",
+    "base_name": "Twin Axe",
     "level_requirement": 43,
     "mods": [
       {
@@ -9019,7 +9144,7 @@
         "name": "dmg%",
         "display": "+170-190% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 190,
         "order": 160,
         "sub_stats": []
       },
@@ -9057,6 +9182,7 @@
   {
     "name": "Pompeii's Wrath",
     "base_code": "9mp",
+    "base_name": "Crowbill",
     "level_requirement": 45,
     "mods": [
       {
@@ -9101,7 +9227,7 @@
         "name": "dmg%",
         "display": "+170-200% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -9119,6 +9245,7 @@
   {
     "name": "Guardian Naga",
     "base_code": "9wa",
+    "base_name": "Naga",
     "level_requirement": 48,
     "mods": [
       {
@@ -9154,7 +9281,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -9199,6 +9326,7 @@
   {
     "name": "Warlord's Trust",
     "base_code": "9la",
+    "base_name": "Military Axe",
     "level_requirement": 35,
     "mods": [
       {
@@ -9268,7 +9396,7 @@
         "name": "dmg%",
         "display": "+175-255% Enhanced Damage",
         "min": 175,
-        "max": 175,
+        "max": 255,
         "order": 160,
         "sub_stats": []
       },
@@ -9286,6 +9414,7 @@
   {
     "name": "Spellsteel",
     "base_code": "9ba",
+    "base_name": "Bearded Axe",
     "level_requirement": 39,
     "mods": [
       {
@@ -9329,7 +9458,7 @@
         "name": "dmg%",
         "display": "+165-245% Enhanced Damage",
         "min": 165,
-        "max": 165,
+        "max": 245,
         "order": 160,
         "sub_stats": []
       },
@@ -9396,6 +9525,7 @@
   {
     "name": "Stormrider",
     "base_code": "9bt",
+    "base_name": "Tabar",
     "level_requirement": 41,
     "mods": [
       {
@@ -9496,6 +9626,7 @@
   {
     "name": "Boneslayer Blade",
     "base_code": "9ga",
+    "base_name": "Gothic Axe",
     "level_requirement": 42,
     "mods": [
       {
@@ -9548,7 +9679,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -9566,9 +9697,9 @@
         "code": "gethit-skill",
         "name": "item_skillongethit",
         "skill": "Holy Bolt",
-        "display": "50% Chance to cast level (12-20) Holy Bolt when struck",
-        "min": 12,
-        "max": 20,
+        "display": "50% Chance to cast level 0 Holy Bolt when struck",
+        "min": 50,
+        "max": 0,
         "order": 160,
         "sub_stats": []
       },
@@ -9586,6 +9717,7 @@
   {
     "name": "The Minotaur",
     "base_code": "9gi",
+    "base_name": "Ancient Axe",
     "level_requirement": 45,
     "mods": [
       {
@@ -9656,7 +9788,7 @@
         "name": "dmg%",
         "display": "+200-260% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -9674,6 +9806,7 @@
   {
     "name": "Suicide Branch",
     "base_code": "9wn",
+    "base_name": "Burnt Wand",
     "level_requirement": 33,
     "mods": [
       {
@@ -9763,6 +9896,7 @@
   {
     "name": "Carin Shard",
     "base_code": "9yw",
+    "base_name": "Petrified Wand",
     "level_requirement": 35,
     "mods": [
       {
@@ -9843,6 +9977,7 @@
   {
     "name": "Arm of King Leoric",
     "base_code": "9bw",
+    "base_name": "Tomb Wand",
     "level_requirement": 36,
     "mods": [
       {
@@ -9935,6 +10070,7 @@
   {
     "name": "Blackhand Key",
     "base_code": "9gw",
+    "base_name": "Grave Wand",
     "level_requirement": 41,
     "mods": [
       {
@@ -10015,6 +10151,7 @@
   {
     "name": "Dark Clan Crusher",
     "base_code": "9cl",
+    "base_name": "Cudgel",
     "level_requirement": 34,
     "mods": [
       {
@@ -10094,6 +10231,7 @@
   {
     "name": "Zakarum's Hand",
     "base_code": "9sc",
+    "base_name": "Rune Scepter",
     "level_requirement": 37,
     "mods": [
       {
@@ -10147,7 +10285,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -10194,6 +10332,7 @@
   {
     "name": "The Fetid Sprinkler",
     "base_code": "9qs",
+    "base_name": "Holy Water Sprinkler",
     "level_requirement": 38,
     "mods": [
       {
@@ -10248,7 +10387,7 @@
         "name": "dmg%",
         "display": "+160-220% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -10293,6 +10432,7 @@
   {
     "name": "Hand of Blessed Light",
     "base_code": "9ws",
+    "base_name": "Divine Scepter",
     "level_requirement": 42,
     "mods": [
       {
@@ -10309,7 +10449,7 @@
         "name": "dmg%",
         "display": "+130-160% Enhanced Damage",
         "min": 130,
-        "max": 130,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -10412,6 +10552,7 @@
   {
     "name": "Fleshrender",
     "base_code": "9sp",
+    "base_name": "Barbed Club",
     "level_requirement": 38,
     "mods": [
       {
@@ -10473,7 +10614,7 @@
         "name": "dmg%",
         "display": "+130-200% Enhanced Damage",
         "min": 130,
-        "max": 130,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -10509,6 +10650,7 @@
   {
     "name": "Sureshrill Frost",
     "base_code": "9ma",
+    "base_name": "Flanged Mace",
     "level_requirement": 39,
     "mods": [
       {
@@ -10543,7 +10685,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -10612,6 +10754,7 @@
   {
     "name": "Moonfall",
     "base_code": "9mt",
+    "base_name": "Jagged Star",
     "level_requirement": 42,
     "mods": [
       {
@@ -10656,7 +10799,7 @@
         "name": "dmg%",
         "display": "+140-170% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 170,
         "order": 160,
         "sub_stats": []
       },
@@ -10715,6 +10858,7 @@
   {
     "name": "Baezil's Vortex",
     "base_code": "9fl",
+    "base_name": "Knout",
     "level_requirement": 45,
     "mods": [
       {
@@ -10768,7 +10912,7 @@
         "name": "dmg%",
         "display": "+160-200% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -10805,6 +10949,7 @@
   {
     "name": "Earthshaker",
     "base_code": "9wh",
+    "base_name": "Battle Hammer",
     "level_requirement": 43,
     "mods": [
       {
@@ -10840,7 +10985,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -10885,6 +11030,7 @@
   {
     "name": "Bloodtree Stump",
     "base_code": "9m9",
+    "base_name": "War Club",
     "level_requirement": 48,
     "mods": [
       {
@@ -10901,7 +11047,7 @@
         "name": "dmg%",
         "display": "+180-250% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -10982,6 +11128,7 @@
   {
     "name": "The Gavel of Pain",
     "base_code": "9gm",
+    "base_name": "Martel de Fer",
     "level_requirement": 45,
     "mods": [
       {
@@ -11045,7 +11192,7 @@
         "name": "dmg%",
         "display": "+230-260% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -11082,6 +11229,7 @@
   {
     "name": "Bloodletter",
     "base_code": "9ss",
+    "base_name": "Gladius",
     "level_requirement": 30,
     "mods": [
       {
@@ -11143,7 +11291,7 @@
         "name": "dmg%",
         "display": "+180-240% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -11181,6 +11329,7 @@
   {
     "name": "Coldsteel Eye",
     "base_code": "9sm",
+    "base_name": "Cutlass",
     "level_requirement": 31,
     "mods": [
       {
@@ -11215,7 +11364,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -11251,6 +11400,7 @@
   {
     "name": "Hexfire",
     "base_code": "9sb",
+    "base_name": "Shamshir",
     "level_requirement": 33,
     "mods": [
       {
@@ -11312,7 +11462,7 @@
         "name": "dmg%",
         "display": "+180-200% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -11344,6 +11494,7 @@
   {
     "name": "Blade of Ali Baba",
     "base_code": "9fc",
+    "base_name": "Tulwar",
     "level_requirement": 35,
     "mods": [
       {
@@ -11378,7 +11529,7 @@
         "name": "dmg%",
         "display": "+60-120% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -11405,6 +11556,7 @@
   {
     "name": "Ginther's Rift",
     "base_code": "9cr",
+    "base_name": "Dimensional Blade",
     "level_requirement": 37,
     "mods": [
       {
@@ -11457,7 +11609,7 @@
         "name": "dmg%",
         "display": "+100-150% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -11475,6 +11627,7 @@
   {
     "name": "Headstriker",
     "base_code": "9bs",
+    "base_name": "Battle Sword",
     "level_requirement": 39,
     "mods": [
       {
@@ -11536,6 +11689,7 @@
   {
     "name": "Plague Bearer",
     "base_code": "9ls",
+    "base_name": "Rune Sword",
     "level_requirement": 41,
     "mods": [
       {
@@ -11589,7 +11743,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -11626,6 +11780,7 @@
   {
     "name": "The Atlantean",
     "base_code": "9wd",
+    "base_name": "Ancient Sword",
     "level_requirement": 42,
     "mods": [
       {
@@ -11669,7 +11824,7 @@
         "name": "dmg%",
         "display": "+200-280% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -11705,6 +11860,7 @@
   {
     "name": "Crainte Vomir",
     "base_code": "92h",
+    "base_name": "Espandon",
     "level_requirement": 42,
     "mods": [
       {
@@ -11748,7 +11904,7 @@
         "name": "dmg%",
         "display": "+190-230% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -11775,6 +11931,7 @@
   {
     "name": "Bing Sz Wang",
     "base_code": "9cm",
+    "base_name": "Dacian Falx",
     "level_requirement": 43,
     "mods": [
       {
@@ -11837,7 +11994,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -11864,6 +12021,7 @@
   {
     "name": "The Vile Husk",
     "base_code": "9gs",
+    "base_name": "Tusk Sword",
     "level_requirement": 44,
     "mods": [
       {
@@ -11917,7 +12075,7 @@
         "name": "dmg%",
         "display": "+150-200% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -11953,6 +12111,7 @@
   {
     "name": "Cloudcrack",
     "base_code": "9b9",
+    "base_name": "Gothic Sword",
     "level_requirement": 45,
     "mods": [
       {
@@ -12015,7 +12174,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -12060,6 +12219,7 @@
   {
     "name": "Todesfaelle Flamme",
     "base_code": "9fb",
+    "base_name": "Zweihander",
     "level_requirement": 46,
     "mods": [
       {
@@ -12113,7 +12273,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -12151,6 +12311,7 @@
   {
     "name": "Swordguard",
     "base_code": "9gd",
+    "base_name": "Executioner Sword",
     "level_requirement": 48,
     "mods": [
       {
@@ -12220,7 +12381,7 @@
         "name": "dmg%",
         "display": "+210-240% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -12265,6 +12426,7 @@
   {
     "name": "Spineripper",
     "base_code": "9dg",
+    "base_name": "Poignard",
     "level_requirement": 32,
     "mods": [
       {
@@ -12317,7 +12479,7 @@
         "name": "dmg%",
         "display": "+200-240% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -12362,6 +12524,7 @@
   {
     "name": "Heart Carver",
     "base_code": "9di",
+    "base_name": "Rondel",
     "level_requirement": 36,
     "mods": [
       {
@@ -12405,7 +12568,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -12453,6 +12616,7 @@
   {
     "name": "Blackbog's Sharp",
     "base_code": "9kr",
+    "base_name": "Cinquedeas",
     "level_requirement": 38,
     "mods": [
       {
@@ -12562,6 +12726,7 @@
   {
     "name": "Stormspike",
     "base_code": "9bl",
+    "base_name": "Stiletto",
     "level_requirement": 41,
     "mods": [
       {
@@ -12633,6 +12798,7 @@
   {
     "name": "The Impaler",
     "base_code": "9sr",
+    "base_name": "War Spear",
     "level_requirement": 31,
     "mods": [
       {
@@ -12685,7 +12851,7 @@
         "name": "dmg%",
         "display": "+140-200% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -12733,6 +12899,7 @@
   {
     "name": "Kelpie Snare",
     "base_code": "9tr",
+    "base_name": "Fuscina",
     "level_requirement": 33,
     "mods": [
       {
@@ -12794,7 +12961,7 @@
         "name": "dmg%",
         "display": "+140-180% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -12812,6 +12979,7 @@
   {
     "name": "Soulfeast Tine",
     "base_code": "9br",
+    "base_name": "War Fork",
     "level_requirement": 35,
     "mods": [
       {
@@ -12855,7 +13023,7 @@
         "name": "dmg%",
         "display": "+150-230% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -12882,6 +13050,7 @@
   {
     "name": "Hone Sundan",
     "base_code": "9st",
+    "base_name": "Yari",
     "level_requirement": 37,
     "mods": [
       {
@@ -12925,7 +13094,7 @@
         "name": "dmg%",
         "display": "+160-200% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -12943,6 +13112,7 @@
   {
     "name": "Spire of Honor",
     "base_code": "9p9",
+    "base_name": "Lance",
     "level_requirement": 39,
     "mods": [
       {
@@ -13013,7 +13183,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -13049,6 +13219,7 @@
   {
     "name": "The Meat Scraper",
     "base_code": "9b7",
+    "base_name": "Lochaber Axe",
     "level_requirement": 41,
     "mods": [
       {
@@ -13056,7 +13227,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -13119,6 +13290,7 @@
   {
     "name": "Blackleach Blade",
     "base_code": "9vo",
+    "base_name": "Bill",
     "level_requirement": 42,
     "mods": [
       {
@@ -13172,7 +13344,7 @@
         "name": "dmg%",
         "display": "+140-180% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -13190,6 +13362,7 @@
   {
     "name": "Athena's Wrath",
     "base_code": "9s8",
+    "base_name": "Battle Scythe",
     "level_requirement": 42,
     "mods": [
       {
@@ -13242,7 +13415,7 @@
         "name": "dmg%",
         "display": "+200-230% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -13269,6 +13442,7 @@
   {
     "name": "Pierre Tombale Couant",
     "base_code": "9pa",
+    "base_name": "Partizan",
     "level_requirement": 43,
     "mods": [
       {
@@ -13312,7 +13486,7 @@
         "name": "dmg-min",
         "display": "+12-36 to Minimum Damage",
         "min": 12,
-        "max": 12,
+        "max": 36,
         "order": 160,
         "sub_stats": []
       },
@@ -13321,7 +13495,7 @@
         "name": "dmg-max",
         "display": "+20-60 to Maximum Damage",
         "min": 20,
-        "max": 20,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -13330,7 +13504,7 @@
         "name": "dmg%",
         "display": "+160-220% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -13357,6 +13531,7 @@
   {
     "name": "Husoldal Evo",
     "base_code": "9h9",
+    "base_name": "Bec-de-Corbin",
     "level_requirement": 44,
     "mods": [
       {
@@ -13409,7 +13584,7 @@
         "name": "dmg%",
         "display": "+220-260% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -13436,6 +13611,7 @@
   {
     "name": "Grim's Burning Dead",
     "base_code": "9wc",
+    "base_name": "Grim Scythe",
     "level_requirement": 45,
     "mods": [
       {
@@ -13470,7 +13646,7 @@
         "name": "dmg%",
         "display": "+220-260% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -13543,6 +13719,7 @@
   {
     "name": "Razorswitch",
     "base_code": "8ss",
+    "base_name": "Jo Staff",
     "level_requirement": 28,
     "mods": [
       {
@@ -13639,6 +13816,7 @@
   {
     "name": "Ribcracker",
     "base_code": "8ls",
+    "base_name": "Quarterstaff",
     "level_requirement": 31,
     "mods": [
       {
@@ -13664,7 +13842,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -13736,6 +13914,7 @@
   {
     "name": "Chromatic Ire",
     "base_code": "8cs",
+    "base_name": "Cedar Staff",
     "level_requirement": 35,
     "mods": [
       {
@@ -13844,6 +14023,7 @@
   {
     "name": "Warpspear",
     "base_code": "8bs",
+    "base_name": "Gothic Staff",
     "level_requirement": 39,
     "mods": [
       {
@@ -13936,6 +14116,7 @@
   {
     "name": "Skull Collector",
     "base_code": "8ws",
+    "base_name": "Rune Staff",
     "level_requirement": 41,
     "mods": [
       {
@@ -14006,6 +14187,7 @@
   {
     "name": "Skystrike",
     "base_code": "8sb",
+    "base_name": "Edge Bow",
     "level_requirement": 28,
     "mods": [
       {
@@ -14058,7 +14240,7 @@
         "name": "dmg%",
         "display": "+150-200% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -14086,6 +14268,7 @@
   {
     "name": "Riphook",
     "base_code": "8hb",
+    "base_name": "Razor Bow",
     "level_requirement": 31,
     "mods": [
       {
@@ -14102,7 +14285,7 @@
         "name": "dmg%",
         "display": "+220-260% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -14147,6 +14330,7 @@
   {
     "name": "Kuko Shakaku",
     "base_code": "8lb",
+    "base_name": "Cedar Bow",
     "level_requirement": 33,
     "mods": [
       {
@@ -14173,7 +14357,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -14218,6 +14402,7 @@
   {
     "name": "Endlesshail",
     "base_code": "8cb",
+    "base_name": "Double Bow",
     "level_requirement": 36,
     "mods": [
       {
@@ -14263,7 +14448,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -14290,6 +14475,7 @@
   {
     "name": "Whichwild String",
     "base_code": "8s8",
+    "base_name": "Short Siege Bow",
     "level_requirement": 39,
     "mods": [
       {
@@ -14342,7 +14528,7 @@
         "name": "dmg%",
         "display": "+150-190% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 190,
         "order": 160,
         "sub_stats": []
       },
@@ -14360,6 +14546,7 @@
   {
     "name": "Cliffkiller",
     "base_code": "8l8",
+    "base_name": "Large Siege Bow",
     "level_requirement": 41,
     "mods": [
       {
@@ -14376,7 +14563,7 @@
         "name": "dmg%",
         "display": "+190-230% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -14412,7 +14599,7 @@
         "name": "dmg-min",
         "display": "+5-10 to Minimum Damage",
         "min": 5,
-        "max": 5,
+        "max": 10,
         "order": 160,
         "sub_stats": []
       },
@@ -14421,7 +14608,7 @@
         "name": "dmg-max",
         "display": "+20-30 to Maximum Damage",
         "min": 20,
-        "max": 20,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -14439,6 +14626,7 @@
   {
     "name": "Magewrath",
     "base_code": "8sw",
+    "base_name": "Rune Bow",
     "level_requirement": 43,
     "mods": [
       {
@@ -14519,7 +14707,7 @@
         "name": "dmg%",
         "display": "+180-210% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 210,
         "order": 160,
         "sub_stats": []
       },
@@ -14547,6 +14735,7 @@
   {
     "name": "Goldstrike Arch",
     "base_code": "8lw",
+    "base_name": "Gothic Bow",
     "level_requirement": 46,
     "mods": [
       {
@@ -14554,7 +14743,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -14618,6 +14807,7 @@
   {
     "name": "Langer Briser",
     "base_code": "8lx",
+    "base_name": "Arbalest",
     "level_requirement": 32,
     "mods": [
       {
@@ -14634,7 +14824,7 @@
         "name": "dmg%",
         "display": "+170-200% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -14661,7 +14851,7 @@
         "name": "dmg-max",
         "display": "+10-30 to Maximum Damage",
         "min": 10,
-        "max": 10,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -14697,6 +14887,7 @@
   {
     "name": "Pus Spitter",
     "base_code": "8mx",
+    "base_name": "Siege Crossbow",
     "level_requirement": 36,
     "mods": [
       {
@@ -14769,7 +14960,7 @@
         "name": "dmg%",
         "display": "+150-220% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -14787,6 +14978,7 @@
   {
     "name": "Buriza-Do Kyanon",
     "base_code": "8hx",
+    "base_name": "Ballista",
     "level_requirement": 41,
     "mods": [
       {
@@ -14839,7 +15031,7 @@
         "name": "dmg%",
         "display": "+150-300% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -14875,6 +15067,7 @@
   {
     "name": "Demon Machine",
     "base_code": "8rx",
+    "base_name": "Chu-Ko-Nu",
     "level_requirement": 49,
     "mods": [
       {
@@ -14918,7 +15111,7 @@
         "name": "dmg-max",
         "display": "+66-99 to Maximum Damage",
         "min": 66,
-        "max": 66,
+        "max": 99,
         "order": 160,
         "sub_stats": []
       },
@@ -14927,7 +15120,7 @@
         "name": "dmg%",
         "display": "+266-299% Enhanced Damage",
         "min": 266,
-        "max": 266,
+        "max": 299,
         "order": 160,
         "sub_stats": []
       },
@@ -14954,6 +15147,7 @@
   {
     "name": "Peasant Crown",
     "base_code": "xap",
+    "base_name": "War Hat",
     "level_requirement": 28,
     "mods": [
       {
@@ -15015,6 +15209,7 @@
   {
     "name": "Rockstopper",
     "base_code": "xkp",
+    "base_name": "Sallet",
     "level_requirement": 31,
     "mods": [
       {
@@ -15085,6 +15280,7 @@
   {
     "name": "Stealskull",
     "base_code": "xlm",
+    "base_name": "Casque",
     "level_requirement": 35,
     "mods": [
       {
@@ -15146,6 +15342,7 @@
   {
     "name": "Darksight Helm",
     "base_code": "xhl",
+    "base_name": "Basinet",
     "level_requirement": 38,
     "mods": [
       {
@@ -15236,6 +15433,7 @@
   {
     "name": "Valkyrie Wing",
     "base_code": "xhm",
+    "base_name": "Winged Helm",
     "level_requirement": 44,
     "mods": [
       {
@@ -15288,7 +15486,7 @@
         "name": "dmg%",
         "display": "+20-40% Enhanced Damage",
         "min": 20,
-        "max": 20,
+        "max": 40,
         "order": 160,
         "sub_stats": []
       }
@@ -15297,6 +15495,7 @@
   {
     "name": "Crown of Thieves",
     "base_code": "xrn",
+    "base_name": "Grand Crown",
     "level_requirement": 49,
     "mods": [
       {
@@ -15385,6 +15584,7 @@
   {
     "name": "Blackhorn's Face",
     "base_code": "xsk",
+    "base_name": "Death Mask",
     "level_requirement": 41,
     "mods": [
       {
@@ -15455,6 +15655,7 @@
   {
     "name": "Vampire Gaze",
     "base_code": "xh9",
+    "base_name": "Grim Helm",
     "level_requirement": 41,
     "mods": [
       {
@@ -15534,6 +15735,7 @@
   {
     "name": "The Spirit Shroud",
     "base_code": "xui",
+    "base_name": "Ghost Armor",
     "level_requirement": 28,
     "mods": [
       {
@@ -15595,6 +15797,7 @@
   {
     "name": "Skin of the Vipermagi",
     "base_code": "xea",
+    "base_name": "Serpentskin Armor",
     "level_requirement": 29,
     "mods": [
       {
@@ -15664,6 +15867,7 @@
   {
     "name": "Skin of the Flayed One",
     "base_code": "xla",
+    "base_name": "Demonhide Armor",
     "level_requirement": 31,
     "mods": [
       {
@@ -15725,6 +15929,7 @@
   {
     "name": "Iron Pelt",
     "base_code": "xtu",
+    "base_name": "Trellised Armor",
     "level_requirement": 33,
     "mods": [
       {
@@ -15777,6 +15982,7 @@
   {
     "name": "Spirit Forge",
     "base_code": "xng",
+    "base_name": "Linked Mail",
     "level_requirement": 35,
     "mods": [
       {
@@ -15861,6 +16067,7 @@
   {
     "name": "Crow Caw",
     "base_code": "xcl",
+    "base_name": "Tigulated Mail",
     "level_requirement": 37,
     "mods": [
       {
@@ -15913,7 +16120,7 @@
         "name": "dmg%",
         "display": "+35-50% Enhanced Damage",
         "min": 35,
-        "max": 35,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -15931,6 +16138,7 @@
   {
     "name": "Shaftstop",
     "base_code": "xhn",
+    "base_name": "Mesh Armor",
     "level_requirement": 38,
     "mods": [
       {
@@ -15974,6 +16182,7 @@
   {
     "name": "Duriel's Shell",
     "base_code": "xrs",
+    "base_name": "Cuirass",
     "level_requirement": 41,
     "mods": [
       {
@@ -16062,6 +16271,7 @@
   {
     "name": "Skullder's Ire",
     "base_code": "xpl",
+    "base_name": "Russet Armor",
     "level_requirement": 42,
     "mods": [
       {
@@ -16114,6 +16324,7 @@
   {
     "name": "Guardian Angel",
     "base_code": "xlt",
+    "base_name": "Templar Coat",
     "level_requirement": 45,
     "mods": [
       {
@@ -16211,6 +16422,7 @@
   {
     "name": "Toothrow",
     "base_code": "xld",
+    "base_name": "Sharktooth Armor",
     "level_requirement": 48,
     "mods": [
       {
@@ -16281,6 +16493,7 @@
   {
     "name": "Atma's Wail",
     "base_code": "xth",
+    "base_name": "Embossed Plate",
     "level_requirement": 51,
     "mods": [
       {
@@ -16369,6 +16582,7 @@
   {
     "name": "Black Hades",
     "base_code": "xul",
+    "base_name": "Chaos Armor",
     "level_requirement": 53,
     "mods": [
       {
@@ -16421,6 +16635,7 @@
   {
     "name": "Corpsemourn",
     "base_code": "xar",
+    "base_name": "Ornate Plate",
     "level_requirement": 55,
     "mods": [
       {
@@ -16510,6 +16725,7 @@
   {
     "name": "Que-Hegan's Wisdom",
     "base_code": "xtp",
+    "base_name": "Mage Plate",
     "level_requirement": 51,
     "mods": [
       {
@@ -16580,6 +16796,7 @@
   {
     "name": "Visceratuant",
     "base_code": "xuc",
+    "base_name": "Defender",
     "level_requirement": 28,
     "mods": [
       {
@@ -16641,6 +16858,7 @@
   {
     "name": "Moser's Blessed Circle",
     "base_code": "xml",
+    "base_name": "Round Shield",
     "level_requirement": 31,
     "mods": [
       {
@@ -16701,6 +16919,7 @@
   {
     "name": "Stormchaser",
     "base_code": "xrg",
+    "base_name": "Scutum",
     "level_requirement": 35,
     "mods": [
       {
@@ -16809,6 +17028,7 @@
   {
     "name": "Tiamat's Rebuke",
     "base_code": "xit",
+    "base_name": "Dragon Shield",
     "level_requirement": 38,
     "mods": [
       {
@@ -16935,6 +17155,7 @@
   {
     "name": "Gerke's Sanctuary",
     "base_code": "xow",
+    "base_name": "Pavise",
     "level_requirement": 44,
     "mods": [
       {
@@ -17031,6 +17252,7 @@
   {
     "name": "Radament's Sphere",
     "base_code": "xts",
+    "base_name": "Ancient Shield",
     "level_requirement": 50,
     "mods": [
       {
@@ -17107,6 +17329,7 @@
   {
     "name": "Lidless Wall",
     "base_code": "xsh",
+    "base_name": "Grim Shield",
     "level_requirement": 41,
     "mods": [
       {
@@ -17177,6 +17400,7 @@
   {
     "name": "Lance Guard",
     "base_code": "xpk",
+    "base_name": "Barbed Shield",
     "level_requirement": 35,
     "mods": [
       {
@@ -17247,6 +17471,7 @@
   {
     "name": "Venom Grip",
     "base_code": "xlg",
+    "base_name": "Demonhide Gloves",
     "level_requirement": 29,
     "mods": [
       {
@@ -17317,6 +17542,7 @@
   {
     "name": "Gravepalm",
     "base_code": "xvg",
+    "base_name": "Sharkskin Gloves",
     "level_requirement": 32,
     "mods": [
       {
@@ -17387,6 +17613,7 @@
   {
     "name": "Ghoulhide",
     "base_code": "xmg",
+    "base_name": "Heavy Bracers",
     "level_requirement": 36,
     "mods": [
       {
@@ -17448,6 +17675,7 @@
   {
     "name": "Lava Gout",
     "base_code": "xtg",
+    "base_name": "Battle Gauntlets",
     "level_requirement": 42,
     "mods": [
       {
@@ -17528,6 +17756,7 @@
   {
     "name": "Hellmouth",
     "base_code": "xhg",
+    "base_name": "War Gauntlets",
     "level_requirement": 47,
     "mods": [
       {
@@ -17609,6 +17838,7 @@
   {
     "name": "Infernostride",
     "base_code": "xlb",
+    "base_name": "Demonhide Boots",
     "level_requirement": 29,
     "mods": [
       {
@@ -17707,6 +17937,7 @@
   {
     "name": "Waterwalk",
     "base_code": "xvb",
+    "base_name": "Sharkskin Boots",
     "level_requirement": 32,
     "mods": [
       {
@@ -17786,6 +18017,7 @@
   {
     "name": "Silkweave",
     "base_code": "xmb",
+    "base_name": "Mesh Boots",
     "level_requirement": 36,
     "mods": [
       {
@@ -17838,6 +18070,7 @@
   {
     "name": "War Traveler",
     "base_code": "xtb",
+    "base_name": "Battle Boots",
     "level_requirement": 42,
     "mods": [
       {
@@ -17926,6 +18159,7 @@
   {
     "name": "Gore Rider",
     "base_code": "xhb",
+    "base_name": "War Boots",
     "level_requirement": 47,
     "mods": [
       {
@@ -17996,6 +18230,7 @@
   {
     "name": "String of Ears",
     "base_code": "zlb",
+    "base_name": "Demonhide Sash",
     "level_requirement": 29,
     "mods": [
       {
@@ -18048,6 +18283,7 @@
   {
     "name": "Razortail",
     "base_code": "zvb",
+    "base_name": "Sharkskin Belt",
     "level_requirement": 32,
     "mods": [
       {
@@ -18109,6 +18345,7 @@
   {
     "name": "Gloom's Trap",
     "base_code": "zmb",
+    "base_name": "Mesh Belt",
     "level_requirement": 36,
     "mods": [
       {
@@ -18179,6 +18416,7 @@
   {
     "name": "Snowclash",
     "base_code": "ztb",
+    "base_name": "Battle Belt",
     "level_requirement": 42,
     "mods": [
       {
@@ -18275,6 +18513,7 @@
   {
     "name": "Thundergod's Vigor",
     "base_code": "zhb",
+    "base_name": "War Belt",
     "level_requirement": 47,
     "mods": [
       {
@@ -18389,6 +18628,7 @@
   {
     "name": "Harlequin Crest",
     "base_code": "uap",
+    "base_name": "Shako",
     "level_requirement": 62,
     "mods": [
       {
@@ -18477,6 +18717,7 @@
   {
     "name": "Veil of Steel",
     "base_code": "uhm",
+    "base_name": "Spired Helm",
     "level_requirement": 73,
     "mods": [
       {
@@ -18537,7 +18778,7 @@
         "name": "dmg%",
         "display": "+20-60% Enhanced Damage",
         "min": 20,
-        "max": 20,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -18564,6 +18805,7 @@
   {
     "name": "The Gladiator's Bane",
     "base_code": "utu",
+    "base_name": "Wire Fleece",
     "level_requirement": 85,
     "mods": [
       {
@@ -18643,6 +18885,7 @@
   {
     "name": "Arkaine's Valor",
     "base_code": "upl",
+    "base_name": "Balrog Skin",
     "level_requirement": 85,
     "mods": [
       {
@@ -18695,6 +18938,7 @@
   {
     "name": "Blackoak Shield",
     "base_code": "uml",
+    "base_name": "Luna",
     "level_requirement": 61,
     "mods": [
       {
@@ -18775,6 +19019,7 @@
   {
     "name": "Stormshield",
     "base_code": "uit",
+    "base_name": "Monarch",
     "level_requirement": 73,
     "mods": [
       {
@@ -18810,7 +19055,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -18863,6 +19108,7 @@
   {
     "name": "Hellslayer",
     "base_code": "7bt",
+    "base_name": "Decapitator",
     "level_requirement": 66,
     "mods": [
       {
@@ -18924,7 +19170,7 @@
         "name": "dmg%",
         "display": "+100-200% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -18952,6 +19198,7 @@
   {
     "name": "Messerschmidt's Reaver",
     "base_code": "7ga",
+    "base_name": "Champion Axe",
     "level_requirement": 70,
     "mods": [
       {
@@ -18968,7 +19215,7 @@
         "name": "dmg%",
         "display": "+200-275% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 275,
         "order": 160,
         "sub_stats": []
       },
@@ -19058,6 +19305,7 @@
   {
     "name": "Baranar's Star",
     "base_code": "7mt",
+    "base_name": "Devil Star",
     "level_requirement": 65,
     "mods": [
       {
@@ -19173,6 +19421,7 @@
   {
     "name": "Schaefer's Hammer",
     "base_code": "7wh",
+    "base_name": "Legendary Mallet",
     "level_requirement": 79,
     "mods": [
       {
@@ -19244,7 +19493,7 @@
         "name": "dmg%",
         "display": "+200-260% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -19289,6 +19538,7 @@
   {
     "name": "The Cranium Basher",
     "base_code": "7gm",
+    "base_name": "Thunder Maul",
     "level_requirement": 87,
     "mods": [
       {
@@ -19376,7 +19626,7 @@
         "name": "dmg%",
         "display": "+240-280% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -19404,6 +19654,7 @@
   {
     "name": "Lightsabre",
     "base_code": "7cr",
+    "base_name": "Phase Blade",
     "level_requirement": 58,
     "mods": [
       {
@@ -19502,7 +19753,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -19538,6 +19789,7 @@
   {
     "name": "Doombringer",
     "base_code": "7b7",
+    "base_name": "Champion Sword",
     "level_requirement": 69,
     "mods": [
       {
@@ -19554,7 +19806,7 @@
         "name": "dmg%",
         "display": "+210-280% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -19627,6 +19879,7 @@
   {
     "name": "The Grandfather",
     "base_code": "7gd",
+    "base_name": "Colossus Blade",
     "level_requirement": 81,
     "mods": [
       {
@@ -19706,7 +19959,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -19724,6 +19977,7 @@
   {
     "name": "Wizardspike",
     "base_code": "7dg",
+    "base_name": "Bone Knife",
     "level_requirement": 61,
     "mods": [
       {
@@ -19785,7 +20039,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -19811,6 +20065,7 @@
   {
     "name": "Stormspire",
     "base_code": "7wc",
+    "base_name": "Giant Thresher",
     "level_requirement": 70,
     "mods": [
       {
@@ -19837,7 +20092,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -19875,7 +20130,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -19928,6 +20183,7 @@
   {
     "name": "Eaglehorn",
     "base_code": "6l7",
+    "base_name": "Crusader Bow",
     "level_requirement": 69,
     "mods": [
       {
@@ -19962,7 +20218,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -19989,6 +20245,7 @@
   {
     "name": "Windforce",
     "base_code": "6lw",
+    "base_name": "Hydra Bow",
     "level_requirement": 73,
     "mods": [
       {
@@ -20042,7 +20299,7 @@
         "name": "dmg%",
         "display": "+250-325% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 325,
         "order": 160,
         "sub_stats": []
       },
@@ -20069,6 +20326,7 @@
   {
     "name": "Bul-Kathos' Wedding Band",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 58,
     "mods": [
       {
@@ -20112,6 +20370,7 @@
   {
     "name": "The Cat's Eye",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 50,
     "mods": [
       {
@@ -20164,6 +20423,7 @@
   {
     "name": "The Rising Sun",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 65,
     "mods": [
       {
@@ -20249,6 +20509,7 @@
   {
     "name": "Crescent Moon",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 50,
     "mods": [
       {
@@ -20324,6 +20585,7 @@
   {
     "name": "Mara's Kaleidoscope",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 67,
     "mods": [
       {
@@ -20402,6 +20664,7 @@
   {
     "name": "Atma's Scarab",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 60,
     "mods": [
       {
@@ -20473,6 +20736,7 @@
   {
     "name": "Dwarf Star",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 45,
     "mods": [
       {
@@ -20534,6 +20798,7 @@
   {
     "name": "Raven Frost",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 45,
     "mods": [
       {
@@ -20604,6 +20869,7 @@
   {
     "name": "Highlord's Wrath",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 65,
     "mods": [
       {
@@ -20674,6 +20940,7 @@
   {
     "name": "Saracen's Chance",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 47,
     "mods": [
       {
@@ -20707,7 +20974,7 @@
         "name": "dmg%",
         "display": "+30-50% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -20752,6 +21019,7 @@
   {
     "name": "Arreat's Face",
     "base_code": "baa",
+    "base_name": "Slayer Guard",
     "level_requirement": 42,
     "mods": [
       {
@@ -20857,6 +21125,7 @@
   {
     "name": "Homunculus",
     "base_code": "nea",
+    "base_name": "Hierophant Trophy",
     "level_requirement": 42,
     "mods": [
       {
@@ -20953,6 +21222,7 @@
   {
     "name": "Titan's Revenge",
     "base_code": "ama",
+    "base_name": "Ceremonial Javelin",
     "level_requirement": 42,
     "mods": [
       {
@@ -20978,7 +21248,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -21050,6 +21320,7 @@
   {
     "name": "Lycander's Aim",
     "base_code": "am7",
+    "base_name": "Ceremonial Bow",
     "level_requirement": 42,
     "mods": [
       {
@@ -21075,7 +21346,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -21147,6 +21418,7 @@
   {
     "name": "Lycander's Flank",
     "base_code": "am9",
+    "base_name": "Ceremonial Pike",
     "level_requirement": 42,
     "mods": [
       {
@@ -21172,7 +21444,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -21253,6 +21525,7 @@
   {
     "name": "The Oculus",
     "base_code": "oba",
+    "base_name": "Swirling Crystal",
     "level_requirement": 42,
     "mods": [
       {
@@ -21359,6 +21632,7 @@
   {
     "name": "Herald of Zakarum",
     "base_code": "pa9",
+    "base_name": "Gilded Shield",
     "level_requirement": 42,
     "mods": [
       {
@@ -21464,6 +21738,7 @@
   {
     "name": "Bartuc's Cut-Throat",
     "base_code": "9tw",
+    "base_name": "Greater Talons",
     "level_requirement": 42,
     "mods": [
       {
@@ -21489,7 +21764,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -21570,6 +21845,7 @@
   {
     "name": "Jalal's Mane",
     "base_code": "dra",
+    "base_name": "Totemic Mask",
     "level_requirement": 42,
     "mods": [
       {
@@ -21675,6 +21951,7 @@
   {
     "name": "The Scalper",
     "base_code": "9ta",
+    "base_name": "Francisca",
     "level_requirement": 57,
     "mods": [
       {
@@ -21682,7 +21959,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -21745,6 +22022,7 @@
   {
     "name": "Bloodmoon",
     "base_code": "7sb",
+    "base_name": "Elegant Blade",
     "level_requirement": 61,
     "mods": [
       {
@@ -21752,7 +22030,7 @@
         "name": "dmg%",
         "display": "+210-260% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -21817,6 +22095,7 @@
   {
     "name": "Djinn Slayer",
     "base_code": "7sm",
+    "base_name": "Ataghan",
     "level_requirement": 65,
     "mods": [
       {
@@ -21824,7 +22103,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -21896,6 +22175,7 @@
   {
     "name": "Deathbit",
     "base_code": "9tk",
+    "base_name": "Battle Dart",
     "level_requirement": 44,
     "mods": [
       {
@@ -21912,7 +22192,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -21957,6 +22237,7 @@
   {
     "name": "Warshrike",
     "base_code": "7bk",
+    "base_name": "Winged Knife",
     "level_requirement": 75,
     "mods": [
       {
@@ -21964,7 +22245,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -22019,6 +22300,7 @@
   {
     "name": "Gut Siphon",
     "base_code": "6rx",
+    "base_name": "Demon Crossbow",
     "level_requirement": 71,
     "mods": [
       {
@@ -22026,7 +22308,7 @@
         "name": "dmg%",
         "display": "+320-440% Enhanced Damage",
         "min": 320,
-        "max": 320,
+        "max": 440,
         "order": 160,
         "sub_stats": []
       },
@@ -22080,6 +22362,7 @@
   {
     "name": "Razor's Edge",
     "base_code": "7ha",
+    "base_name": "Tomahawk",
     "level_requirement": 67,
     "mods": [
       {
@@ -22087,7 +22370,7 @@
         "name": "dmg%",
         "display": "+175-275% Enhanced Damage",
         "min": 175,
-        "max": 175,
+        "max": 275,
         "order": 160,
         "sub_stats": []
       },
@@ -22141,6 +22424,7 @@
   {
     "name": "Demon Limb",
     "base_code": "7sp",
+    "base_name": "Tyrant Club",
     "level_requirement": 63,
     "mods": [
       {
@@ -22148,7 +22432,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -22230,6 +22514,7 @@
   {
     "name": "Steel Shade",
     "base_code": "ulm",
+    "base_name": "Armet",
     "level_requirement": 62,
     "mods": [
       {
@@ -22309,6 +22594,7 @@
   {
     "name": "Tomb Reaver",
     "base_code": "7pa",
+    "base_name": "Cryptic Axe",
     "level_requirement": 84,
     "mods": [
       {
@@ -22334,7 +22620,7 @@
         "name": "dmg%",
         "display": "+200-280% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -22423,6 +22709,7 @@
   {
     "name": "Death's Web",
     "base_code": "7gw",
+    "base_name": "Unearthed Wand",
     "level_requirement": 66,
     "mods": [
       {
@@ -22475,6 +22762,7 @@
   {
     "name": "Nature's Peace",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 69,
     "mods": [
       {
@@ -22555,6 +22843,7 @@
   {
     "name": "Azurewrath",
     "base_code": "7cr",
+    "base_name": "Phase Blade",
     "level_requirement": 85,
     "mods": [
       {
@@ -22580,7 +22869,7 @@
         "name": "dmg%",
         "display": "+230-270% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -22679,6 +22968,7 @@
   {
     "name": "Seraph's Hymn",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 65,
     "mods": [
       {
@@ -22749,6 +23039,7 @@
   {
     "name": "Fleshripper",
     "base_code": "7kr",
+    "base_name": "Fanged Knife",
     "level_requirement": 68,
     "mods": [
       {
@@ -22756,7 +23047,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -22828,6 +23119,7 @@
   {
     "name": "Horizon's Tornado",
     "base_code": "7fl",
+    "base_name": "Scourge",
     "level_requirement": 64,
     "mods": [
       {
@@ -22835,7 +23127,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -22901,6 +23193,7 @@
   {
     "name": "Stone Crusher",
     "base_code": "7wh",
+    "base_name": "Legendary Mallet",
     "level_requirement": 68,
     "mods": [
       {
@@ -22908,7 +23201,7 @@
         "name": "dmg%",
         "display": "+280-320% Enhanced Damage",
         "min": 280,
-        "max": 280,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -22980,6 +23273,7 @@
   {
     "name": "Jade Talon",
     "base_code": "7wb",
+    "base_name": "Wrist Sword",
     "level_requirement": 66,
     "mods": [
       {
@@ -22987,7 +23281,7 @@
         "name": "dmg%",
         "display": "+190-320% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -23067,6 +23361,7 @@
   {
     "name": "Shadow Dancer",
     "base_code": "uhb",
+    "base_name": "Myrmidon Greaves",
     "level_requirement": 71,
     "mods": [
       {
@@ -23128,6 +23423,7 @@
   {
     "name": "Cerebus' Bite",
     "base_code": "drb",
+    "base_name": "Blood Spirit",
     "level_requirement": 63,
     "mods": [
       {
@@ -23209,6 +23505,7 @@
   {
     "name": "Tyrael's Might",
     "base_code": "uar",
+    "base_name": "Sacred Armor",
     "level_requirement": 84,
     "mods": [
       {
@@ -23226,7 +23523,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -23314,6 +23611,7 @@
   {
     "name": "Soul Drainer",
     "base_code": "umg",
+    "base_name": "Vambraces",
     "level_requirement": 74,
     "mods": [
       {
@@ -23384,6 +23682,7 @@
   {
     "name": "Rune Master",
     "base_code": "72a",
+    "base_name": "Ettin Axe",
     "level_requirement": 72,
     "mods": [
       {
@@ -23391,7 +23690,7 @@
         "name": "dmg%",
         "display": "+220-270% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -23427,6 +23726,7 @@
   {
     "name": "Death Cleaver",
     "base_code": "7wa",
+    "base_name": "Berserker Axe",
     "level_requirement": 70,
     "mods": [
       {
@@ -23434,7 +23734,7 @@
         "name": "dmg%",
         "display": "+230-280% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -23488,6 +23788,7 @@
   {
     "name": "Executioner's Justice",
     "base_code": "7gi",
+    "base_name": "Glorious Axe",
     "level_requirement": 75,
     "mods": [
       {
@@ -23495,7 +23796,7 @@
         "name": "dmg%",
         "display": "+270-320% Enhanced Damage",
         "min": 270,
-        "max": 270,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -23550,6 +23851,7 @@
   {
     "name": "Stoneraven",
     "base_code": "amd",
+    "base_name": "Matriarchal Spear",
     "level_requirement": 64,
     "mods": [
       {
@@ -23557,7 +23859,7 @@
         "name": "dmg%",
         "display": "+330-380% Enhanced Damage",
         "min": 330,
-        "max": 330,
+        "max": 380,
         "order": 160,
         "sub_stats": []
       },
@@ -23637,6 +23939,7 @@
   {
     "name": "Leviathan",
     "base_code": "uld",
+    "base_name": "Kraken Shell",
     "level_requirement": 65,
     "mods": [
       {
@@ -23681,7 +23984,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       }
     ]
@@ -23689,6 +23992,7 @@
   {
     "name": "Wisp Projector",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 76,
     "mods": [
       {
@@ -23743,6 +24047,7 @@
   {
     "name": "Gargoyle's Bite",
     "base_code": "7ts",
+    "base_name": "Winged Harpoon",
     "level_requirement": 70,
     "mods": [
       {
@@ -23750,7 +24055,7 @@
         "name": "dmg%",
         "display": "+180-330% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 330,
         "order": 160,
         "sub_stats": []
       },
@@ -23800,6 +24105,7 @@
   {
     "name": "Lacerator",
     "base_code": "7b8",
+    "base_name": "Winged Axe",
     "level_requirement": 68,
     "mods": [
       {
@@ -23807,7 +24113,7 @@
         "name": "dmg%",
         "display": "+200-260% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -23862,6 +24168,7 @@
   {
     "name": "Mang Song's Lesson",
     "base_code": "6ws",
+    "base_name": "Archon Staff",
     "level_requirement": 82,
     "mods": [
       {
@@ -23932,6 +24239,7 @@
   {
     "name": "Viperfork",
     "base_code": "7br",
+    "base_name": "Mancatcher",
     "level_requirement": 71,
     "mods": [
       {
@@ -23939,7 +24247,7 @@
         "name": "dmg%",
         "display": "+240-290% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -24035,6 +24343,7 @@
   {
     "name": "Ethereal Edge",
     "base_code": "7ba",
+    "base_name": "Silver-edged Axe",
     "level_requirement": 74,
     "mods": [
       {
@@ -24042,7 +24351,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -24097,7 +24406,7 @@
         "display": "Ethereal",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -24106,7 +24415,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -24123,6 +24432,7 @@
   {
     "name": "Demonhorn's Edge",
     "base_code": "bad",
+    "base_name": "Destroyer Helm",
     "level_requirement": 61,
     "mods": [
       {
@@ -24219,6 +24529,7 @@
   {
     "name": "The Reaper's Toll",
     "base_code": "7s8",
+    "base_name": "Thresher",
     "level_requirement": 75,
     "mods": [
       {
@@ -24226,7 +24537,7 @@
         "name": "dmg%",
         "display": "+190-290% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -24308,6 +24619,7 @@
   {
     "name": "Spirit Keeper",
     "base_code": "drd",
+    "base_name": "Earth Spirit",
     "level_requirement": 67,
     "mods": [
       {
@@ -24388,6 +24700,7 @@
   {
     "name": "Hellrack",
     "base_code": "6hx",
+    "base_name": "Colossus Crossbow",
     "level_requirement": 76,
     "mods": [
       {
@@ -24395,7 +24708,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -24476,6 +24789,7 @@
   {
     "name": "Alma Negra",
     "base_code": "pac",
+    "base_name": "Sacred Rondache",
     "level_requirement": 77,
     "mods": [
       {
@@ -24537,7 +24851,7 @@
         "name": "dmg%",
         "display": "+70-125% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 125,
         "order": 160,
         "sub_stats": []
       }
@@ -24546,6 +24860,7 @@
   {
     "name": "Darkforce Spawn",
     "base_code": "nef",
+    "base_name": "Bloodlord Skull",
     "level_requirement": 64,
     "mods": [
       {
@@ -24625,6 +24940,7 @@
   {
     "name": "Widowmaker",
     "base_code": "6sw",
+    "base_name": "Ward Bow",
     "level_requirement": 65,
     "mods": [
       {
@@ -24632,7 +24948,7 @@
         "name": "dmg%",
         "display": "+150-350% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 350,
         "order": 160,
         "sub_stats": []
       },
@@ -24688,6 +25004,7 @@
   {
     "name": "Blood Raven's Charge",
     "base_code": "amb",
+    "base_name": "Matriarchal Bow",
     "level_requirement": 71,
     "mods": [
       {
@@ -24695,7 +25012,7 @@
         "name": "dmg%",
         "display": "+180-330% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 330,
         "order": 160,
         "sub_stats": []
       },
@@ -24769,6 +25086,7 @@
   {
     "name": "Ghostflame",
     "base_code": "7bl",
+    "base_name": "Legend Spike",
     "level_requirement": 62,
     "mods": [
       {
@@ -24776,7 +25094,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -24822,7 +25140,7 @@
         "display": "Ethereal",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -24831,7 +25149,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -24857,6 +25175,7 @@
   {
     "name": "Shadow Killer",
     "base_code": "7cs",
+    "base_name": "Battle Cestus",
     "level_requirement": 78,
     "mods": [
       {
@@ -24864,7 +25183,7 @@
         "name": "dmg%",
         "display": "+170-270% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -24911,7 +25230,7 @@
         "display": "Ethereal",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -24920,7 +25239,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -24955,6 +25274,7 @@
   {
     "name": "Gimmershred",
     "base_code": "7ta",
+    "base_name": "Flying Axe",
     "level_requirement": 70,
     "mods": [
       {
@@ -24962,7 +25282,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -25043,6 +25363,7 @@
   {
     "name": "Griffon's Eye",
     "base_code": "ci3",
+    "base_name": "Diadem",
     "level_requirement": 76,
     "mods": [
       {
@@ -25095,6 +25416,7 @@
   {
     "name": "Windhammer",
     "base_code": "7m7",
+    "base_name": "Ogre Maul",
     "level_requirement": 68,
     "mods": [
       {
@@ -25102,7 +25424,7 @@
         "name": "dmg%",
         "display": "+230-280% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -25148,6 +25470,7 @@
   {
     "name": "Thunderstroke",
     "base_code": "amf",
+    "base_name": "Matriarchal Javelin",
     "level_requirement": 69,
     "mods": [
       {
@@ -25155,7 +25478,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -25238,6 +25561,7 @@
   {
     "name": "Demon's Arch",
     "base_code": "7s7",
+    "base_name": "Balrog Spear",
     "level_requirement": 68,
     "mods": [
       {
@@ -25245,7 +25569,7 @@
         "name": "dmg%",
         "display": "+210-310% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 310,
         "order": 160,
         "sub_stats": []
       },
@@ -25335,6 +25659,7 @@
   {
     "name": "Boneflame",
     "base_code": "nee",
+    "base_name": "Succubus Skull",
     "level_requirement": 72,
     "mods": [
       {
@@ -25414,6 +25739,7 @@
   {
     "name": "Steel Pillar",
     "base_code": "7p7",
+    "base_name": "War Pike",
     "level_requirement": 69,
     "mods": [
       {
@@ -25421,7 +25747,7 @@
         "name": "dmg%",
         "display": "+210-260% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -25493,6 +25819,7 @@
   {
     "name": "Nightwing's Veil",
     "base_code": "uhm",
+    "base_name": "Spired Helm",
     "level_requirement": 67,
     "mods": [
       {
@@ -25572,6 +25899,7 @@
   {
     "name": "Crown of Ages",
     "base_code": "urn",
+    "base_name": "Corona",
     "level_requirement": 82,
     "mods": [
       {
@@ -25633,7 +25961,7 @@
         "display": "Indestructible",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -25659,6 +25987,7 @@
   {
     "name": "Andariel's Visage",
     "base_code": "usk",
+    "base_name": "Demonhead",
     "level_requirement": 83,
     "mods": [
       {
@@ -25758,6 +26087,7 @@
   {
     "name": "Dragonscale",
     "base_code": "pae",
+    "base_name": "Zakarum Shield",
     "level_requirement": 80,
     "mods": [
       {
@@ -25847,6 +26177,7 @@
   {
     "name": "Steel Carapace",
     "base_code": "uul",
+    "base_name": "Shadow Plate",
     "level_requirement": 66,
     "mods": [
       {
@@ -25918,6 +26249,7 @@
   {
     "name": "Medusa's Gaze",
     "base_code": "uow",
+    "base_name": "Aegis",
     "level_requirement": 76,
     "mods": [
       {
@@ -26003,6 +26335,7 @@
   {
     "name": "Ravenlore",
     "base_code": "dre",
+    "base_name": "Sky Spirit",
     "level_requirement": 74,
     "mods": [
       {
@@ -26082,6 +26415,7 @@
   {
     "name": "Boneshade",
     "base_code": "7bw",
+    "base_name": "Lich Wand",
     "level_requirement": 79,
     "mods": [
       {
@@ -26157,6 +26491,7 @@
   {
     "name": "Flamebellow",
     "base_code": "7gs",
+    "base_name": "Balrog Blade",
     "level_requirement": 71,
     "mods": [
       {
@@ -26164,7 +26499,7 @@
         "name": "dmg%",
         "display": "+170-240% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -26261,6 +26596,7 @@
   {
     "name": "Death's Fathom",
     "base_code": "obf",
+    "base_name": "Dimensional Shard",
     "level_requirement": 73,
     "mods": [
       {
@@ -26322,6 +26658,7 @@
   {
     "name": "Wolfhowl",
     "base_code": "bac",
+    "base_name": "Fury Visor",
     "level_requirement": 79,
     "mods": [
       {
@@ -26414,6 +26751,7 @@
   {
     "name": "Spirit Ward",
     "base_code": "uts",
+    "base_name": "Ward",
     "level_requirement": 68,
     "mods": [
       {
@@ -26491,7 +26829,7 @@
       {
         "code": "randclassskill2",
         "name": "item_addclassskills",
-        "display": "+2 Random Class Skills",
+        "display": "+0-6 to <RandomClass> Skills",
         "min": 0,
         "max": 6,
         "order": 150,
@@ -26502,6 +26840,7 @@
   {
     "name": "Kira's Guardian",
     "base_code": "ci2",
+    "base_name": "Tiara",
     "level_requirement": 77,
     "mods": [
       {
@@ -26589,6 +26928,7 @@
   {
     "name": "Ormus' Robes",
     "base_code": "uui",
+    "base_name": "Dusk Shroud",
     "level_requirement": 75,
     "mods": [
       {
@@ -26660,6 +27000,7 @@
   {
     "name": "Gheed's Fortune",
     "base_code": "cm3",
+    "base_name": "Grand Charm",
     "level_requirement": 62,
     "mods": [
       {
@@ -26694,6 +27035,7 @@
   {
     "name": "Stormlash",
     "base_code": "7fl",
+    "base_name": "Scourge",
     "level_requirement": 82,
     "mods": [
       {
@@ -26701,7 +27043,7 @@
         "name": "dmg%",
         "display": "+240-340% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 340,
         "order": 160,
         "sub_stats": []
       },
@@ -26793,6 +27135,7 @@
   {
     "name": "Halaberd's Reign",
     "base_code": "bae",
+    "base_name": "Conqueror Crown",
     "level_requirement": 77,
     "mods": [
       {
@@ -26883,6 +27226,7 @@
   {
     "name": "Spike Thorn",
     "base_code": "upk",
+    "base_name": "Blade Barrier",
     "level_requirement": 70,
     "mods": [
       {
@@ -26944,6 +27288,7 @@
   {
     "name": "Dracul's Grasp",
     "base_code": "uvg",
+    "base_name": "Vampirebone Gloves",
     "level_requirement": 76,
     "mods": [
       {
@@ -27005,6 +27350,7 @@
   {
     "name": "Frostwind",
     "base_code": "7ls",
+    "base_name": "Cryptic Sword",
     "level_requirement": 70,
     "mods": [
       {
@@ -27012,7 +27358,7 @@
         "name": "dmg%",
         "display": "+180-270% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -27094,6 +27440,7 @@
   {
     "name": "Templar's Might",
     "base_code": "uar",
+    "base_name": "Sacred Armor",
     "level_requirement": 74,
     "mods": [
       {
@@ -27174,6 +27521,7 @@
   {
     "name": "Eschuta's Temper",
     "base_code": "obc",
+    "base_name": "Eldritch Orb",
     "level_requirement": 72,
     "mods": [
       {
@@ -27244,6 +27592,7 @@
   {
     "name": "Firelizard's Talons",
     "base_code": "7lw",
+    "base_name": "Feral Claws",
     "level_requirement": 67,
     "mods": [
       {
@@ -27251,7 +27600,7 @@
         "name": "dmg%",
         "display": "+200-270% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -27337,6 +27686,7 @@
   {
     "name": "Sandstorm Trek",
     "base_code": "uvb",
+    "base_name": "Scarabshell Boots",
     "level_requirement": 64,
     "mods": [
       {
@@ -27425,6 +27775,7 @@
   {
     "name": "Marrowwalk",
     "base_code": "umb",
+    "base_name": "Boneweave Boots",
     "level_requirement": 66,
     "mods": [
       {
@@ -27505,6 +27856,7 @@
   {
     "name": "Heaven's Light",
     "base_code": "7sc",
+    "base_name": "Mighty Scepter",
     "level_requirement": 61,
     "mods": [
       {
@@ -27512,7 +27864,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -27584,6 +27936,7 @@
   {
     "name": "Arachnid Mesh",
     "base_code": "ulc",
+    "base_name": "Spiderweb Sash",
     "level_requirement": 80,
     "mods": [
       {
@@ -27646,6 +27999,7 @@
   {
     "name": "Nosferatu's Coil",
     "base_code": "uvc",
+    "base_name": "Vampirefang Belt",
     "level_requirement": 51,
     "mods": [
       {
@@ -27707,6 +28061,7 @@
   {
     "name": "Metalgrid",
     "base_code": "amu",
+    "base_name": "Amulet",
     "level_requirement": 81,
     "mods": [
       {
@@ -27778,6 +28133,7 @@
   {
     "name": "Verdungo's Hearty Cord",
     "base_code": "umc",
+    "base_name": "Mithril Coil",
     "level_requirement": 63,
     "mods": [
       {
@@ -27839,6 +28195,7 @@
   {
     "name": "Carrion Wind",
     "base_code": "rin",
+    "base_name": "Ring",
     "level_requirement": 60,
     "mods": [
       {
@@ -27911,6 +28268,7 @@
   {
     "name": "Giant Skull",
     "base_code": "uh9",
+    "base_name": "Bone Visage",
     "level_requirement": 65,
     "mods": [
       {
@@ -27963,7 +28321,7 @@
         "name": "dmg%",
         "display": "+30-60% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       }
@@ -27972,6 +28330,7 @@
   {
     "name": "Astreon's Iron Ward",
     "base_code": "7ws",
+    "base_name": "Caduceus",
     "level_requirement": 60,
     "mods": [
       {
@@ -27979,7 +28338,7 @@
         "name": "dmg%",
         "display": "+240-290% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -28078,6 +28437,7 @@
   {
     "name": "Annihilus",
     "base_code": "cm1",
+    "base_name": "Small Charm",
     "level_requirement": 70,
     "mods": [
       {
@@ -28147,6 +28507,7 @@
   {
     "name": "Arioc's Needle",
     "base_code": "7sr",
+    "base_name": "Hyperion Spear",
     "level_requirement": 81,
     "mods": [
       {
@@ -28154,7 +28515,7 @@
         "name": "dmg%",
         "display": "+240-290% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -28226,6 +28587,7 @@
   {
     "name": "Cranebeak",
     "base_code": "7mp",
+    "base_name": "War Spike",
     "level_requirement": 63,
     "mods": [
       {
@@ -28233,7 +28595,7 @@
         "name": "dmg%",
         "display": "+240-300% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -28306,6 +28668,7 @@
   {
     "name": "Nord's Tenderizer",
     "base_code": "7cl",
+    "base_name": "Truncheon",
     "level_requirement": 68,
     "mods": [
       {
@@ -28313,7 +28676,7 @@
         "name": "dmg%",
         "display": "+270-330% Enhanced Damage",
         "min": 270,
-        "max": 270,
+        "max": 330,
         "order": 160,
         "sub_stats": []
       },
@@ -28395,6 +28758,7 @@
   {
     "name": "Earth Shifter",
     "base_code": "7gm",
+    "base_name": "Thunder Maul",
     "level_requirement": 69,
     "mods": [
       {
@@ -28402,7 +28766,7 @@
         "name": "dmg%",
         "display": "+250-340% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 340,
         "order": 160,
         "sub_stats": []
       },
@@ -28476,6 +28840,7 @@
   {
     "name": "Wraith Flight",
     "base_code": "7gl",
+    "base_name": "Ghost Glaive",
     "level_requirement": 76,
     "mods": [
       {
@@ -28483,7 +28848,7 @@
         "name": "dmg%",
         "display": "+150-290% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -28511,7 +28876,7 @@
         "display": "Ethereal",
         "min": 1,
         "max": 1,
-        "order": 160,
+        "order": 0,
         "sub_stats": []
       },
       {
@@ -28537,6 +28902,7 @@
   {
     "name": "Bonehew",
     "base_code": "7o7",
+    "base_name": "Ogre Axe",
     "level_requirement": 64,
     "mods": [
       {
@@ -28544,7 +28910,7 @@
         "name": "dmg%",
         "display": "+270-320% Enhanced Damage",
         "min": 270,
-        "max": 270,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -28600,6 +28966,7 @@
   {
     "name": "Ondal's Wisdom",
     "base_code": "6cs",
+    "base_name": "Elder Staff",
     "level_requirement": 66,
     "mods": [
       {
@@ -28661,6 +29028,7 @@
   {
     "name": "The Redeemer",
     "base_code": "7sc",
+    "base_name": "Mighty Scepter",
     "level_requirement": 72,
     "mods": [
       {
@@ -28668,7 +29036,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -28770,6 +29138,7 @@
   {
     "name": "Head Hunter's Glory",
     "base_code": "ush",
+    "base_name": "Troll Nest",
     "level_requirement": 75,
     "mods": [
       {
@@ -28850,6 +29219,7 @@
   {
     "name": "Steelrend",
     "base_code": "uhg",
+    "base_name": "Ogre Gauntlets",
     "level_requirement": 70,
     "mods": [
       {
@@ -28875,7 +29245,7 @@
         "name": "dmg%",
         "display": "+40-80% Enhanced Damage",
         "min": 40,
-        "max": 40,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -28902,6 +29272,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -28955,6 +29326,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29008,6 +29380,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29061,6 +29434,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29114,6 +29488,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29167,6 +29542,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29220,6 +29596,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29273,6 +29650,7 @@
   {
     "name": "Rainbow Facet",
     "base_code": "jew",
+    "base_name": "Jewel",
     "level_requirement": 49,
     "mods": [
       {
@@ -29326,12 +29704,13 @@
   {
     "name": "Hellfire Torch",
     "base_code": "cm2",
+    "base_name": "Large Charm",
     "level_requirement": 75,
     "mods": [
       {
         "code": "randclassskill1",
         "name": "item_addclassskills",
-        "display": "+1 Random Class Skills",
+        "display": "+0-6 to <RandomClass> Skills",
         "min": 0,
         "max": 6,
         "order": 150,

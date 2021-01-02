@@ -37,7 +37,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Skull Cap",
@@ -77,7 +78,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Helm",
@@ -117,7 +119,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Full Helm",
@@ -157,7 +160,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Great Helm",
@@ -197,7 +201,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Crown",
@@ -237,7 +242,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mask",
@@ -277,7 +283,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Quilted Armor",
@@ -317,7 +324,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Leather Armor",
@@ -357,7 +365,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hard Leather Armor",
@@ -397,7 +406,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Studded Leather",
@@ -437,7 +447,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ring Mail",
@@ -477,7 +488,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Scale Mail",
@@ -517,7 +529,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Chain Mail",
@@ -557,7 +570,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Breast Plate",
@@ -597,7 +611,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Splint Mail",
@@ -637,7 +652,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Plate Mail",
@@ -677,7 +693,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Field Plate",
@@ -717,7 +734,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Gothic Plate",
@@ -757,7 +775,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Full Plate Mail",
@@ -797,7 +816,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ancient Armor",
@@ -837,7 +857,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Light Plate",
@@ -877,7 +898,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Buckler",
@@ -926,7 +948,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Small Shield",
@@ -975,7 +998,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Large Shield",
@@ -1024,7 +1048,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Kite Shield",
@@ -1073,7 +1098,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Tower Shield",
@@ -1122,7 +1148,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Gothic Shield",
@@ -1171,7 +1198,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Leather Gloves",
@@ -1211,7 +1239,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Heavy Gloves",
@@ -1251,7 +1280,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Chain Gloves",
@@ -1291,7 +1321,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Light Gauntlets",
@@ -1331,7 +1362,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Gauntlets",
@@ -1371,7 +1403,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Boots",
@@ -1420,7 +1453,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Heavy Boots",
@@ -1469,7 +1503,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Chain Boots",
@@ -1518,7 +1553,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Light Plated Boots",
@@ -1567,7 +1603,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Greaves",
@@ -1616,7 +1653,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sash",
@@ -1656,7 +1694,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Light Belt",
@@ -1696,7 +1735,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Belt",
@@ -1736,7 +1776,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Heavy Belt",
@@ -1776,7 +1817,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Plated Belt",
@@ -1816,7 +1858,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Bone Helm",
@@ -1856,7 +1899,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Bone Shield",
@@ -1905,7 +1949,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Spiked Shield",
@@ -1954,7 +1999,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "War Hat",
@@ -1994,7 +2040,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sallet",
@@ -2034,7 +2081,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Casque",
@@ -2074,7 +2122,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Basinet",
@@ -2114,7 +2163,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Winged Helm",
@@ -2154,7 +2204,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Grand Crown",
@@ -2194,7 +2245,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Death Mask",
@@ -2234,7 +2286,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ghost Armor",
@@ -2274,7 +2327,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Serpentskin Armor",
@@ -2314,7 +2368,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Demonhide Armor",
@@ -2354,7 +2409,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Trellised Armor",
@@ -2394,7 +2450,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Linked Mail",
@@ -2434,7 +2491,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Tigulated Mail",
@@ -2474,7 +2532,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mesh Armor",
@@ -2514,7 +2573,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Cuirass",
@@ -2554,7 +2614,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Russet Armor",
@@ -2594,7 +2655,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Templar Coat",
@@ -2634,7 +2696,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sharktooth Armor",
@@ -2674,7 +2737,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Embossed Plate",
@@ -2714,7 +2778,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Chaos Armor",
@@ -2754,7 +2819,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ornate Plate",
@@ -2794,7 +2860,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mage Plate",
@@ -2834,7 +2901,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Defender",
@@ -2883,7 +2951,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Round Shield",
@@ -2932,7 +3001,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Scutum",
@@ -2981,7 +3051,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Dragon Shield",
@@ -3030,7 +3101,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Pavise",
@@ -3079,7 +3151,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ancient Shield",
@@ -3128,7 +3201,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Demonhide Gloves",
@@ -3168,7 +3242,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sharkskin Gloves",
@@ -3208,7 +3283,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Heavy Bracers",
@@ -3248,7 +3324,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Battle Gauntlets",
@@ -3288,7 +3365,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "War Gauntlets",
@@ -3328,7 +3406,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Demonhide Boots",
@@ -3377,7 +3456,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sharkskin Boots",
@@ -3426,7 +3506,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mesh Boots",
@@ -3475,7 +3556,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Battle Boots",
@@ -3524,7 +3606,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "War Boots",
@@ -3573,7 +3656,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Demonhide Sash",
@@ -3613,7 +3697,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sharkskin Belt",
@@ -3653,7 +3738,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mesh Belt",
@@ -3693,7 +3779,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Battle Belt",
@@ -3733,7 +3820,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "War Belt",
@@ -3773,7 +3861,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Grim Helm",
@@ -3813,7 +3902,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Grim Shield",
@@ -3862,7 +3952,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Barbed Shield",
@@ -3911,7 +4002,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Wolf Head",
@@ -3951,7 +4043,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hawk Helm",
@@ -3991,7 +4084,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Antlers",
@@ -4031,7 +4125,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Falcon Mask",
@@ -4071,7 +4166,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Spirit Mask",
@@ -4111,7 +4207,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Jawbone Cap",
@@ -4151,7 +4248,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Fanged Helm",
@@ -4191,7 +4289,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Horned Helm",
@@ -4231,7 +4330,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Assault Helmet",
@@ -4271,7 +4371,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Avenger Guard",
@@ -4311,7 +4412,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Targe",
@@ -4360,7 +4462,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Rondache",
@@ -4409,7 +4512,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Heraldic Shield",
@@ -4458,7 +4562,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Aerin Shield",
@@ -4507,7 +4612,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Crown Shield",
@@ -4556,7 +4662,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Preserved Head",
@@ -4596,7 +4703,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Zombie Head",
@@ -4636,7 +4744,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Unraveller Head",
@@ -4676,7 +4785,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Gargoyle Head",
@@ -4716,7 +4826,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Demon Head",
@@ -4756,7 +4867,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Circlet",
@@ -4796,7 +4908,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Coronet",
@@ -4836,7 +4949,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Tiara",
@@ -4876,7 +4990,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Diadem",
@@ -4916,7 +5031,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Shako",
@@ -4956,7 +5072,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hydraskull",
@@ -4996,7 +5113,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Armet",
@@ -5036,7 +5154,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Giant Conch",
@@ -5076,7 +5195,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Spired Helm",
@@ -5116,7 +5236,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Corona",
@@ -5156,7 +5277,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Demonhead",
@@ -5196,7 +5318,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Dusk Shroud",
@@ -5236,7 +5359,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Wyrmhide",
@@ -5276,7 +5400,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Scarab Husk",
@@ -5316,7 +5441,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Wire Fleece",
@@ -5356,7 +5482,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Diamond Mail",
@@ -5396,7 +5523,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Loricated Mail",
@@ -5436,7 +5564,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Boneweave",
@@ -5476,7 +5605,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Great Hauberk",
@@ -5516,7 +5646,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Balrog Skin",
@@ -5556,7 +5687,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hellforge Plate",
@@ -5596,7 +5728,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Kraken Shell",
@@ -5636,7 +5769,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Lacquered Plate",
@@ -5676,7 +5810,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Shadow Plate",
@@ -5716,7 +5851,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sacred Armor",
@@ -5756,7 +5892,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Archon Plate",
@@ -5796,7 +5933,8 @@
     "equip": {
       "one": "tors",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Heater",
@@ -5845,7 +5983,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Luna",
@@ -5894,7 +6033,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hyperion",
@@ -5943,7 +6083,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Monarch",
@@ -5992,7 +6133,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Aegis",
@@ -6041,7 +6183,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ward",
@@ -6090,7 +6233,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Bramble Mitts",
@@ -6130,7 +6274,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Vampirebone Gloves",
@@ -6170,7 +6315,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Vambraces",
@@ -6210,7 +6356,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Crusader Gauntlets",
@@ -6250,7 +6397,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Ogre Gauntlets",
@@ -6290,7 +6438,8 @@
     "equip": {
       "one": "glov",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Wyrmhide Boots",
@@ -6339,7 +6488,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Scarabshell Boots",
@@ -6388,7 +6538,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Boneweave Boots",
@@ -6437,7 +6588,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mirrored Boots",
@@ -6486,7 +6638,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Myrmidon Greaves",
@@ -6535,7 +6688,8 @@
     "equip": {
       "one": "feet",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Spiderweb Sash",
@@ -6575,7 +6729,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Vampirefang Belt",
@@ -6615,7 +6770,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mithril Coil",
@@ -6655,7 +6811,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Troll Belt",
@@ -6695,7 +6852,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Colossus Girdle",
@@ -6735,7 +6893,8 @@
     "equip": {
       "one": "belt",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Bone Visage",
@@ -6775,7 +6934,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Troll Nest",
@@ -6824,7 +6984,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Blade Barrier",
@@ -6873,7 +7034,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Alpha Helm",
@@ -6913,7 +7075,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Griffon Headdress",
@@ -6953,7 +7116,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hunter's Guise",
@@ -6993,7 +7157,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sacred Feathers",
@@ -7033,7 +7198,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Totemic Mask",
@@ -7073,7 +7239,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Jawbone Visor",
@@ -7113,7 +7280,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Lion Helm",
@@ -7153,7 +7321,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Rage Mask",
@@ -7193,7 +7362,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Savage Helmet",
@@ -7233,7 +7403,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Slayer Guard",
@@ -7273,7 +7444,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Akaran Targe",
@@ -7322,7 +7494,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Akaran Rondache",
@@ -7371,7 +7544,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Protector Shield",
@@ -7420,7 +7594,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Gilded Shield",
@@ -7469,7 +7644,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Royal Shield",
@@ -7518,7 +7694,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Mummified Trophy",
@@ -7558,7 +7735,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Fetish Trophy",
@@ -7598,7 +7776,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sexton Trophy",
@@ -7638,7 +7817,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Cantor Trophy",
@@ -7678,7 +7858,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hierophant Trophy",
@@ -7718,7 +7899,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Blood Spirit",
@@ -7758,7 +7940,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sun Spirit",
@@ -7798,7 +7981,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Earth Spirit",
@@ -7838,7 +8022,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sky Spirit",
@@ -7878,7 +8063,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Dream Spirit",
@@ -7918,7 +8104,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Carnage Helm",
@@ -7958,7 +8145,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Fury Visor",
@@ -7998,7 +8186,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Destroyer Helm",
@@ -8038,7 +8227,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Conqueror Crown",
@@ -8078,7 +8268,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Guardian Crown",
@@ -8118,7 +8309,8 @@
     "equip": {
       "one": "head",
       "two": null
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sacred Targe",
@@ -8167,7 +8359,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Sacred Rondache",
@@ -8216,7 +8409,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Kurast Shield",
@@ -8265,7 +8459,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Zakarum Shield",
@@ -8314,7 +8509,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Vortex Shield",
@@ -8363,7 +8559,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Minion Skull",
@@ -8403,7 +8600,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Hellspawn Skull",
@@ -8443,7 +8641,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Overseer Skull",
@@ -8483,7 +8682,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Succubus Skull",
@@ -8523,7 +8723,8 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   },
   {
     "name": "Bloodlord Skull",
@@ -8563,6 +8764,7 @@
     "equip": {
       "one": "larm",
       "two": "rarm"
-    }
+    },
+    "stats": []
   }
 ]

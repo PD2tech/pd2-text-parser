@@ -54,7 +54,7 @@
         "name": "dmg%",
         "display": "+60-70% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -94,7 +94,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Hand Axe"
   },
   {
     "name": "Deathspade",
@@ -160,7 +161,7 @@
         "name": "dmg%",
         "display": "+60-70% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -200,7 +201,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Axe"
   },
   {
     "name": "Bladebone",
@@ -257,7 +259,7 @@
         "name": "dmg%",
         "display": "+30-50% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -324,7 +326,8 @@
         "order": 71,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Double Axe"
   },
   {
     "name": "Skull Splitter",
@@ -381,7 +384,7 @@
         "name": "dmg%",
         "display": "+60-100% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -448,7 +451,8 @@
         "order": 52,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Military Pick"
   },
   {
     "name": "Rakescar",
@@ -505,7 +509,7 @@
         "name": "dmg%",
         "display": "+75-150% Enhanced Damage",
         "min": 75,
-        "max": 75,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -563,7 +567,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Axe"
   },
   {
     "name": "Axe of Fechmar",
@@ -620,7 +625,7 @@
         "name": "dmg%",
         "display": "+70-90% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 90,
         "order": 160,
         "sub_stats": []
       },
@@ -660,7 +665,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Large Axe"
   },
   {
     "name": "Goreshovel",
@@ -717,7 +723,7 @@
         "name": "dmg%",
         "display": "+50-70% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -766,7 +772,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Broad Axe"
   },
   {
     "name": "The Chieftain",
@@ -898,7 +905,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Axe"
   },
   {
     "name": "Brainhew",
@@ -964,7 +972,7 @@
         "name": "dmg%",
         "display": "+50-80% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -1031,7 +1039,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Great Axe"
   },
   {
     "name": "Humongous",
@@ -1097,7 +1106,7 @@
         "name": "dmg-max",
         "display": "+15-25 to Maximum Damage",
         "min": 15,
-        "max": 15,
+        "max": 25,
         "order": 160,
         "sub_stats": []
       },
@@ -1106,7 +1115,7 @@
         "name": "dmg%",
         "display": "+180-240% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -1146,7 +1155,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Giant Axe"
   },
   {
     "name": "Torch of Iro",
@@ -1277,7 +1287,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Wand"
   },
   {
     "name": "Maelstrom",
@@ -1412,7 +1423,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Yew Wand"
   },
   {
     "name": "Gravenspine",
@@ -1554,7 +1566,8 @@
         "order": 55,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bone Wand"
   },
   {
     "name": "Ume's Lament",
@@ -1669,7 +1682,8 @@
         "order": 55,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Grim Wand"
   },
   {
     "name": "Felloak",
@@ -1726,7 +1740,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -1801,7 +1815,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Club"
   },
   {
     "name": "Knell Striker",
@@ -1858,7 +1873,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -1923,7 +1938,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Scepter"
   },
   {
     "name": "Rusthandle",
@@ -1980,7 +1996,7 @@
         "name": "dmg%",
         "display": "+50-60% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -2067,7 +2083,8 @@
         "order": 21,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Grand Scepter"
   },
   {
     "name": "Stormeye",
@@ -2124,7 +2141,7 @@
         "name": "dmg%",
         "display": "+80-120% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -2219,7 +2236,8 @@
         "order": 56,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Scepter"
   },
   {
     "name": "Stoutnail",
@@ -2333,7 +2351,8 @@
         "order": 13,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Spiked Club"
   },
   {
     "name": "Crushflange",
@@ -2390,7 +2409,7 @@
         "name": "dmg%",
         "display": "+50-100% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -2446,7 +2465,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Mace"
   },
   {
     "name": "Bloodrise",
@@ -2578,7 +2598,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Morning Star"
   },
   {
     "name": "The General's Tan Do Li Ga",
@@ -2644,7 +2665,7 @@
         "name": "dmg-max",
         "display": "+20-30 to Maximum Damage",
         "min": 20,
-        "max": 20,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -2653,7 +2674,7 @@
         "name": "dmg%",
         "display": "+50-60% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -2709,7 +2730,8 @@
         "order": 71,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Flail"
   },
   {
     "name": "Ironstone",
@@ -2766,7 +2788,7 @@
         "name": "dmg%",
         "display": "+100-150% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -2822,7 +2844,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Hammer"
   },
   {
     "name": "Bonesnap",
@@ -2879,7 +2902,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -2928,7 +2951,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Maul"
   },
   {
     "name": "Steeldriver",
@@ -2985,7 +3009,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -3032,7 +3056,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Great Maul"
   },
   {
     "name": "Rixot's Keen",
@@ -3147,7 +3172,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Short Sword"
   },
   {
     "name": "Blood Crescent",
@@ -3204,7 +3230,7 @@
         "name": "dmg%",
         "display": "+60-80% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -3288,7 +3314,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Scimitar"
   },
   {
     "name": "Skewer of Krintiz",
@@ -3345,7 +3372,7 @@
         "name": "dmg%",
         "display": "+50-70% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -3412,7 +3439,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Sabre"
   },
   {
     "name": "Gleamscythe",
@@ -3469,7 +3497,7 @@
         "name": "dmg%",
         "display": "+60-100% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -3536,7 +3564,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Falchion"
   },
   {
     "name": "Griswold's Edge",
@@ -3593,7 +3622,7 @@
         "name": "dmg%",
         "display": "+80-120% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -3651,7 +3680,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Broad Sword"
   },
   {
     "name": "Hellplague",
@@ -3708,7 +3738,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -3789,7 +3819,8 @@
         "order": 88,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Long Sword"
   },
   {
     "name": "Culwen's Point",
@@ -3846,7 +3877,7 @@
         "name": "dmg%",
         "display": "+90-150% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -3904,7 +3935,8 @@
         "order": 18,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Sword"
   },
   {
     "name": "Shadowfang",
@@ -3965,7 +3997,7 @@
         "name": "dmg%",
         "display": "+90-130% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 130,
         "order": 160,
         "sub_stats": []
       },
@@ -4032,7 +4064,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Two-Handed Sword"
   },
   {
     "name": "Soulflay",
@@ -4093,7 +4126,7 @@
         "name": "dmg%",
         "display": "+70-100% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -4159,7 +4192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Claymore"
   },
   {
     "name": "Kinemil's Awl",
@@ -4220,7 +4254,7 @@
         "name": "dmg%",
         "display": "+80-100% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -4279,7 +4313,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Giant Sword"
   },
   {
     "name": "Blacktongue",
@@ -4340,7 +4375,7 @@
         "name": "dmg%",
         "display": "+50-80% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -4398,7 +4433,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bastard Sword"
   },
   {
     "name": "Ripsaw",
@@ -4468,7 +4504,7 @@
         "name": "dmg%",
         "display": "+100-150% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -4499,7 +4535,8 @@
         "order": 83,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Flamberge"
   },
   {
     "name": "The Patriarch",
@@ -4560,7 +4597,7 @@
         "name": "dmg%",
         "display": "+180-240% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -4627,7 +4664,8 @@
         "order": 10,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Great Sword"
   },
   {
     "name": "Gull",
@@ -4724,7 +4762,8 @@
         "order": 8,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Dagger"
   },
   {
     "name": "The Diggler",
@@ -4839,7 +4878,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Dirk"
   },
   {
     "name": "The Jade Tan Do",
@@ -4964,7 +5004,8 @@
         "order": 20,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Kris"
   },
   {
     "name": "Spectral Shard",
@@ -5078,7 +5119,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Blade"
   },
   {
     "name": "The Dragon Chang",
@@ -5203,7 +5245,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Spear"
   },
   {
     "name": "Razortine",
@@ -5260,7 +5303,7 @@
         "name": "dmg%",
         "display": "+30-50% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -5318,7 +5361,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Trident"
   },
   {
     "name": "Bloodthief",
@@ -5375,7 +5419,7 @@
         "name": "dmg%",
         "display": "+50-110% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 110,
         "order": 160,
         "sub_stats": []
       },
@@ -5424,7 +5468,8 @@
         "order": 59,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Brandistock"
   },
   {
     "name": "Lance of Yaggai",
@@ -5567,7 +5612,8 @@
         "order": 13,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Spetum"
   },
   {
     "name": "The Tannr Gorerod",
@@ -5624,7 +5670,7 @@
         "name": "dmg%",
         "display": "+140-160% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -5700,7 +5746,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Pike"
   },
   {
     "name": "Dimoak's Hew",
@@ -5797,7 +5844,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bardiche"
   },
   {
     "name": "Steelgoad",
@@ -5854,7 +5902,7 @@
         "name": "dmg%",
         "display": "+60-80% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -5920,7 +5968,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Voulge"
   },
   {
     "name": "Soul Harvest",
@@ -5977,7 +6026,7 @@
         "name": "dmg%",
         "display": "+50-90% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 90,
         "order": 160,
         "sub_stats": []
       },
@@ -6053,7 +6102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Scythe"
   },
   {
     "name": "The Battlebranch",
@@ -6110,7 +6160,7 @@
         "name": "dmg%",
         "display": "+70-130% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 130,
         "order": 160,
         "sub_stats": []
       },
@@ -6159,7 +6209,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Poleaxe"
   },
   {
     "name": "Woestave",
@@ -6216,7 +6267,7 @@
         "name": "dmg%",
         "display": "+40-80% Enhanced Damage",
         "min": 40,
-        "max": 40,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -6292,7 +6343,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Halberd"
   },
   {
     "name": "The Grim Reaper",
@@ -6349,7 +6401,7 @@
         "name": "dmg%",
         "display": "+50-100% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 100,
         "order": 160,
         "sub_stats": []
       },
@@ -6409,7 +6461,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Scythe"
   },
   {
     "name": "Bane Ash",
@@ -6466,7 +6519,7 @@
         "name": "dmg%",
         "display": "+50-60% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -6551,7 +6604,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Short Staff"
   },
   {
     "name": "Serpent Lord",
@@ -6608,7 +6662,7 @@
         "name": "dmg%",
         "display": "+30-40% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 40,
         "order": 160,
         "sub_stats": []
       },
@@ -6702,7 +6756,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Long Staff"
   },
   {
     "name": "Spire of Lazarus",
@@ -6863,7 +6918,8 @@
         "order": 22,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Gnarled Staff"
   },
   {
     "name": "The Salamander",
@@ -7012,7 +7068,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Staff"
   },
   {
     "name": "The Iron Jang Bong",
@@ -7155,7 +7212,8 @@
         "order": 71,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Staff"
   },
   {
     "name": "Pluckeye",
@@ -7271,7 +7329,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Short Bow"
   },
   {
     "name": "Witherstring",
@@ -7346,7 +7405,7 @@
         "name": "dmg%",
         "display": "+40-50% Enhanced Damage",
         "min": 40,
-        "max": 40,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -7377,7 +7436,8 @@
         "order": 115,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Hunter's Bow"
   },
   {
     "name": "Raven Claw",
@@ -7434,7 +7494,7 @@
         "name": "dmg%",
         "display": "+60-70% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -7474,7 +7534,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Long Bow"
   },
   {
     "name": "Rogue's Bow",
@@ -7531,7 +7592,7 @@
         "name": "dmg%",
         "display": "+80-120% Enhanced Damage",
         "min": 80,
-        "max": 80,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -7607,7 +7668,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Composite Bow"
   },
   {
     "name": "Stormstrike",
@@ -7664,7 +7726,7 @@
         "name": "dmg%",
         "display": "+120-160% Enhanced Damage",
         "min": 120,
-        "max": 120,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -7722,7 +7784,8 @@
         "order": 38,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Short Battle Bow"
   },
   {
     "name": "Wizendraw",
@@ -7779,7 +7842,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -7846,7 +7909,8 @@
         "order": 40,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Long Battle Bow"
   },
   {
     "name": "Hellclap",
@@ -7903,7 +7967,7 @@
         "name": "dmg%",
         "display": "+120-160% Enhanced Damage",
         "min": 120,
-        "max": 120,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -7975,7 +8039,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Short War Bow"
   },
   {
     "name": "Blastbark",
@@ -8032,7 +8097,7 @@
         "name": "dmg%",
         "display": "+90-150% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -8073,7 +8138,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Long War Bow"
   },
   {
     "name": "Leadcrow",
@@ -8179,7 +8245,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Light Crossbow"
   },
   {
     "name": "Ichorsting",
@@ -8236,7 +8303,7 @@
         "name": "dmg%",
         "display": "+50-80% Enhanced Damage",
         "min": 50,
-        "max": 50,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -8294,7 +8361,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Crossbow"
   },
   {
     "name": "Hellcast",
@@ -8351,7 +8419,7 @@
         "name": "dmg%",
         "display": "+70-80% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -8418,7 +8486,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Heavy Crossbow"
   },
   {
     "name": "Doomslinger",
@@ -8475,7 +8544,7 @@
         "name": "dmg%",
         "display": "+90-140% Enhanced Damage",
         "min": 90,
-        "max": 90,
+        "max": 140,
         "order": 160,
         "sub_stats": []
       },
@@ -8525,7 +8594,8 @@
         "order": 59,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Repeating Crossbow"
   },
   {
     "name": "Biggin's Bonnet",
@@ -8566,6 +8636,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Cap",
     "stats": [
       {
         "code": "dmg%",
@@ -8653,6 +8724,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Skull Cap",
     "stats": [
       {
         "code": "allskills",
@@ -8731,6 +8803,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Helm",
     "stats": [
       {
         "code": "stupidity",
@@ -8827,6 +8900,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Full Helm",
     "stats": [
       {
         "code": "dmg-max",
@@ -8940,6 +9014,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Bone Helm",
     "stats": [
       {
         "code": "skilltab",
@@ -9027,6 +9102,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Great Helm",
     "stats": [
       {
         "code": "swing2",
@@ -9132,6 +9208,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Crown",
     "stats": [
       {
         "code": "dmg-undead",
@@ -9248,6 +9325,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Mask",
     "stats": [
       {
         "code": "dmg-undead",
@@ -9352,6 +9430,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Quilted Armor",
     "stats": [
       {
         "code": "lifesteal",
@@ -9448,6 +9527,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Leather Armor",
     "stats": [
       {
         "code": "move2",
@@ -9544,13 +9624,14 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Hard Leather Armor",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+15-25% Enhanced Damage",
         "min": 15,
-        "max": 15,
+        "max": 25,
         "order": 160,
         "sub_stats": []
       },
@@ -9658,6 +9739,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Studded Leather",
     "stats": [
       {
         "code": "swing2",
@@ -9754,6 +9836,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Ring Mail",
     "stats": [
       {
         "code": "att",
@@ -9884,6 +9967,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Scale Mail",
     "stats": [
       {
         "code": "move2",
@@ -9981,6 +10065,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Chain Mail",
     "stats": [
       {
         "code": "dmg-ltng",
@@ -10077,6 +10162,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Breast Plate",
     "stats": [
       {
         "code": "pierce-pois",
@@ -10173,6 +10259,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Splint Mail",
     "stats": [
       {
         "code": "coldskill",
@@ -10274,6 +10361,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Plate Mail",
     "stats": [
       {
         "code": "att",
@@ -10362,6 +10450,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Field Plate",
     "stats": [
       {
         "code": "ac%",
@@ -10449,13 +10538,14 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Gothic Plate",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+35-70% Enhanced Damage",
         "min": 35,
-        "max": 35,
+        "max": 70,
         "order": 160,
         "sub_stats": []
       },
@@ -10536,6 +10626,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Full Plate Mail",
     "stats": [
       {
         "code": "ac%",
@@ -10640,6 +10731,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Ancient Armor",
     "stats": [
       {
         "code": "allskills",
@@ -10736,6 +10828,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Light Plate",
     "stats": [
       {
         "code": "aura",
@@ -10882,6 +10975,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Buckler",
     "stats": [
       {
         "code": "block2",
@@ -10996,6 +11090,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Small Shield",
     "stats": [
       {
         "code": "block",
@@ -11119,6 +11214,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Large Shield",
     "stats": [
       {
         "code": "block",
@@ -11242,6 +11338,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Bone Shield",
     "stats": [
       {
         "code": "cast2",
@@ -11365,6 +11462,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Spiked Shield",
     "stats": [
       {
         "code": "block",
@@ -11470,6 +11568,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Kite Shield",
     "stats": [
       {
         "code": "allskills",
@@ -11601,6 +11700,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Tower Shield",
     "stats": [
       {
         "code": "block",
@@ -11715,6 +11815,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Gothic Shield",
     "stats": [
       {
         "code": "block",
@@ -11828,13 +11929,14 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Leather Gloves",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+20-30% Enhanced Damage",
         "min": 20,
-        "max": 20,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -11933,13 +12035,14 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Heavy Gloves",
     "stats": [
       {
         "code": "dmg-max",
         "name": "dmg-max",
         "display": "+5-10 to Maximum Damage",
         "min": 5,
-        "max": 5,
+        "max": 10,
         "order": 160,
         "sub_stats": []
       },
@@ -12029,6 +12132,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Chain Gloves",
     "stats": [
       {
         "code": "att",
@@ -12134,6 +12238,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Light Gauntlets",
     "stats": [
       {
         "code": "fireskill",
@@ -12244,6 +12349,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Gauntlets",
     "stats": [
       {
         "code": "dmg-fire",
@@ -12376,6 +12482,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Boots",
     "stats": [
       {
         "code": "dmg-fire",
@@ -12490,6 +12597,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Heavy Boots",
     "stats": [
       {
         "code": "move2",
@@ -12596,6 +12704,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Chain Boots",
     "stats": [
       {
         "code": "move2",
@@ -12710,13 +12819,14 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Light Plated Boots",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+15-30% Enhanced Damage",
         "min": 15,
-        "max": 15,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -12824,6 +12934,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Greaves",
     "stats": [
       {
         "code": "skilltab",
@@ -12956,6 +13067,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Sash",
     "stats": [
       {
         "code": "cast2",
@@ -13060,6 +13172,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Light Belt",
     "stats": [
       {
         "code": "extra-pois",
@@ -13156,6 +13269,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Belt",
     "stats": [
       {
         "code": "ac%",
@@ -13269,6 +13383,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Heavy Belt",
     "stats": [
       {
         "code": "swing2",
@@ -13365,6 +13480,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Plated Belt",
     "stats": [
       {
         "code": "balance2",
@@ -13445,7 +13561,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu3.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -13471,6 +13587,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "balance2",
@@ -13559,6 +13676,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "allskills",
@@ -13621,7 +13739,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu2.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu3.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -13647,6 +13765,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "cast2",
@@ -13743,7 +13862,7 @@
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin4.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin5.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -13769,6 +13888,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "att",
@@ -13822,7 +13942,7 @@
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin1.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin5.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -13848,6 +13968,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "manasteal",
@@ -13892,7 +14013,7 @@
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin5.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -13918,6 +14039,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "allskills",
@@ -14041,7 +14163,7 @@
         "name": "dmg%",
         "display": "+150-190% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 190,
         "order": 160,
         "sub_stats": []
       },
@@ -14099,7 +14221,8 @@
         "order": 40,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Hatchet"
   },
   {
     "name": "Butcher's Pupil",
@@ -14156,16 +14279,7 @@
         "name": "dmg%",
         "display": "+150-200% Enhanced Damage",
         "min": 150,
-        "max": 150,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -14222,8 +14336,18 @@
         "max": 25,
         "order": 83,
         "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cleaver"
   },
   {
     "name": "Islestrike",
@@ -14280,7 +14404,7 @@
         "name": "dmg%",
         "display": "+170-190% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 190,
         "order": 160,
         "sub_stats": []
       },
@@ -14376,7 +14500,8 @@
         "order": 61,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Twin Axe"
   },
   {
     "name": "Pompeii's Wrath",
@@ -14443,7 +14568,7 @@
         "name": "dmg%",
         "display": "+170-200% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -14483,7 +14608,8 @@
         "order": 77,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Crowbill"
   },
   {
     "name": "Guardian Naga",
@@ -14550,7 +14676,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -14608,7 +14734,8 @@
         "order": 13,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Naga"
   },
   {
     "name": "Warlord's Trust",
@@ -14665,7 +14792,7 @@
         "name": "dmg%",
         "display": "+175-255% Enhanced Damage",
         "min": 175,
-        "max": 175,
+        "max": 255,
         "order": 160,
         "sub_stats": []
       },
@@ -14740,7 +14867,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Military Axe"
   },
   {
     "name": "Spellsteel",
@@ -14797,7 +14925,7 @@
         "name": "dmg%",
         "display": "+165-245% Enhanced Damage",
         "min": 165,
-        "max": 165,
+        "max": 245,
         "order": 160,
         "sub_stats": []
       },
@@ -14895,7 +15023,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bearded Axe"
   },
   {
     "name": "Stormrider",
@@ -15040,7 +15169,8 @@
         "order": 14,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Tabar"
   },
   {
     "name": "Boneslayer Blade",
@@ -15097,7 +15227,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -15105,9 +15235,9 @@
         "code": "gethit-skill",
         "name": "item_skillongethit",
         "skill": "Holy Bolt",
-        "display": "50% Chance to cast level (12-20) Holy Bolt when struck",
-        "min": 12,
-        "max": 20,
+        "display": "50% Chance to cast level 0 Holy Bolt when struck",
+        "min": 50,
+        "max": 0,
         "order": 160,
         "sub_stats": []
       },
@@ -15175,7 +15305,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Gothic Axe"
   },
   {
     "name": "The Minotaur",
@@ -15232,7 +15363,7 @@
         "name": "dmg%",
         "display": "+200-260% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -15308,7 +15439,8 @@
         "order": 19,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ancient Axe"
   },
   {
     "name": "Suicide Branch",
@@ -15449,7 +15581,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Burnt Wand"
   },
   {
     "name": "Carin Shard",
@@ -15581,7 +15714,8 @@
         "order": 53,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Petrified Wand"
   },
   {
     "name": "Arm of King Leoric",
@@ -15725,7 +15859,8 @@
         "order": 53,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Tomb Wand"
   },
   {
     "name": "Blackhand Key",
@@ -15857,7 +15992,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Grave Wand"
   },
   {
     "name": "Dark Clan Crusher",
@@ -15988,7 +16124,8 @@
         "order": 15,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cudgel"
   },
   {
     "name": "Zakarum's Hand",
@@ -16055,7 +16192,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -16140,7 +16277,8 @@
         "order": 48,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Rune Scepter"
   },
   {
     "name": "The Fetid Sprinkler",
@@ -16217,7 +16355,7 @@
         "name": "dmg%",
         "display": "+160-220% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -16291,7 +16429,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Holy Water Sprinkler"
   },
   {
     "name": "Hand of Blessed Light",
@@ -16348,7 +16487,7 @@
         "name": "dmg%",
         "display": "+130-160% Enhanced Damage",
         "min": 130,
-        "max": 130,
+        "max": 160,
         "order": 160,
         "sub_stats": []
       },
@@ -16462,7 +16601,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Divine Scepter"
   },
   {
     "name": "Fleshrender",
@@ -16519,7 +16659,7 @@
         "name": "dmg%",
         "display": "+130-200% Enhanced Damage",
         "min": 130,
-        "max": 130,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -16611,7 +16751,8 @@
         "order": 83,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Barbed Club"
   },
   {
     "name": "Sureshrill Frost",
@@ -16668,7 +16809,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -16766,7 +16907,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Flanged Mace"
   },
   {
     "name": "Moonfall",
@@ -16833,7 +16975,7 @@
         "name": "dmg%",
         "display": "+140-170% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 170,
         "order": 160,
         "sub_stats": []
       },
@@ -16921,7 +17063,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Jagged Star"
   },
   {
     "name": "Baezil's Vortex",
@@ -16988,7 +17131,7 @@
         "name": "dmg%",
         "display": "+160-200% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -17063,7 +17206,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Knout"
   },
   {
     "name": "Earthshaker",
@@ -17130,7 +17274,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -17195,7 +17339,8 @@
         "order": 76,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Hammer"
   },
   {
     "name": "Bloodtree Stump",
@@ -17252,7 +17397,7 @@
         "name": "dmg%",
         "display": "+180-250% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -17344,7 +17489,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Club"
   },
   {
     "name": "The Gavel of Pain",
@@ -17421,7 +17567,7 @@
         "name": "dmg%",
         "display": "+230-260% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -17496,7 +17642,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Martel de Fer"
   },
   {
     "name": "Bloodletter",
@@ -17553,7 +17700,7 @@
         "name": "dmg%",
         "display": "+180-240% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -17640,7 +17787,8 @@
         "order": 49,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Gladius"
   },
   {
     "name": "Coldsteel Eye",
@@ -17697,7 +17845,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -17755,7 +17903,8 @@
         "order": 78,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cutlass"
   },
   {
     "name": "Hexfire",
@@ -17812,7 +17961,7 @@
         "name": "dmg%",
         "display": "+180-200% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -17893,7 +18042,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Shamshir"
   },
   {
     "name": "Blade of Ali Baba",
@@ -17950,7 +18100,7 @@
         "name": "dmg%",
         "display": "+60-120% Enhanced Damage",
         "min": 60,
-        "max": 60,
+        "max": 120,
         "order": 160,
         "sub_stats": []
       },
@@ -17999,7 +18149,8 @@
         "order": 7,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Tulwar"
   },
   {
     "name": "Ginther's Rift",
@@ -18056,7 +18207,7 @@
         "name": "dmg%",
         "display": "+100-150% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 150,
         "order": 160,
         "sub_stats": []
       },
@@ -18114,7 +18265,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Dimensional Blade"
   },
   {
     "name": "Headstriker",
@@ -18220,7 +18372,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Sword"
   },
   {
     "name": "Plague Bearer",
@@ -18287,7 +18440,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -18355,7 +18508,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Rune Sword"
   },
   {
     "name": "The Atlantean",
@@ -18412,7 +18566,7 @@
         "name": "dmg%",
         "display": "+200-280% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -18479,7 +18633,8 @@
         "order": 63,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ancient Sword"
   },
   {
     "name": "Crainte Vomir",
@@ -18540,7 +18695,7 @@
         "name": "dmg%",
         "display": "+190-230% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -18598,7 +18753,8 @@
         "order": 22,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Espandon"
   },
   {
     "name": "Bing Sz Wang",
@@ -18669,7 +18825,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -18736,7 +18892,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Dacian Falx"
   },
   {
     "name": "The Vile Husk",
@@ -18807,7 +18964,7 @@
         "name": "dmg%",
         "display": "+150-200% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -18874,7 +19031,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Tusk Sword"
   },
   {
     "name": "Cloudcrack",
@@ -18945,7 +19103,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -19030,7 +19188,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Gothic Sword"
   },
   {
     "name": "Todesfaelle Flamme",
@@ -19101,7 +19260,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -19170,7 +19329,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Zweihander"
   },
   {
     "name": "Swordguard",
@@ -19231,7 +19391,7 @@
         "name": "dmg%",
         "display": "+210-240% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -19333,7 +19493,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Executioner Sword"
   },
   {
     "name": "Spineripper",
@@ -19390,7 +19551,7 @@
         "name": "dmg%",
         "display": "+200-240% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -19475,7 +19636,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Poignard"
   },
   {
     "name": "Heart Carver",
@@ -19532,7 +19694,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -19611,7 +19773,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Rondel"
   },
   {
     "name": "Blackbog's Sharp",
@@ -19765,7 +19928,8 @@
         "order": 71,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cinquedeas"
   },
   {
     "name": "Stormspike",
@@ -19881,7 +20045,8 @@
         "order": 14,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Stiletto"
   },
   {
     "name": "The Impaler",
@@ -19938,7 +20103,7 @@
         "name": "dmg%",
         "display": "+140-200% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -20026,7 +20191,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Spear"
   },
   {
     "name": "Kelpie Snare",
@@ -20083,7 +20249,7 @@
         "name": "dmg%",
         "display": "+140-180% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -20150,7 +20316,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Fuscina"
   },
   {
     "name": "Soulfeast Tine",
@@ -20207,7 +20374,7 @@
         "name": "dmg%",
         "display": "+150-230% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -20265,7 +20432,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Fork"
   },
   {
     "name": "Hone Sundan",
@@ -20322,7 +20490,7 @@
         "name": "dmg%",
         "display": "+160-200% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -20371,7 +20539,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Yari"
   },
   {
     "name": "Spire of Honor",
@@ -20428,7 +20597,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -20522,7 +20691,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Lance"
   },
   {
     "name": "The Meat Scraper",
@@ -20579,7 +20749,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -20637,7 +20807,8 @@
         "order": 8,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Lochaber Axe"
   },
   {
     "name": "Blackleach Blade",
@@ -20704,7 +20875,7 @@
         "name": "dmg%",
         "display": "+140-180% Enhanced Damage",
         "min": 140,
-        "max": 140,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -20753,7 +20924,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bill"
   },
   {
     "name": "Athena's Wrath",
@@ -20810,7 +20982,7 @@
         "name": "dmg%",
         "display": "+200-230% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -20877,7 +21049,8 @@
         "order": 57,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Scythe"
   },
   {
     "name": "Pierre Tombale Couant",
@@ -20934,7 +21107,7 @@
         "name": "dmg-min",
         "display": "+12-36 to Minimum Damage",
         "min": 12,
-        "max": 12,
+        "max": 36,
         "order": 160,
         "sub_stats": []
       },
@@ -20943,7 +21116,7 @@
         "name": "dmg-max",
         "display": "+20-60 to Maximum Damage",
         "min": 20,
-        "max": 20,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -20952,7 +21125,7 @@
         "name": "dmg%",
         "display": "+160-220% Enhanced Damage",
         "min": 160,
-        "max": 160,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -21010,7 +21183,8 @@
         "order": 85,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Partizan"
   },
   {
     "name": "Husoldal Evo",
@@ -21067,7 +21241,7 @@
         "name": "dmg%",
         "display": "+220-260% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -21134,7 +21308,8 @@
         "order": 56,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bec-de-Corbin"
   },
   {
     "name": "Grim's Burning Dead",
@@ -21191,7 +21366,7 @@
         "name": "dmg%",
         "display": "+220-260% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -21286,7 +21461,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Grim Scythe"
   },
   {
     "name": "Razorswitch",
@@ -21434,7 +21610,8 @@
         "order": 13,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Jo Staff"
   },
   {
     "name": "Ribcracker",
@@ -21491,7 +21668,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -21583,7 +21760,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Quarterstaff"
   },
   {
     "name": "Chromatic Ire",
@@ -21743,7 +21921,8 @@
         "order": 14,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cedar Staff"
   },
   {
     "name": "Warspear",
@@ -21887,7 +22066,8 @@
         "order": 69,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Gothic Staff"
   },
   {
     "name": "Skull Collector",
@@ -22009,7 +22189,8 @@
         "order": 7,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Rune Staff"
   },
   {
     "name": "Skystrike",
@@ -22066,7 +22247,7 @@
         "name": "dmg%",
         "display": "+150-200% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -22134,7 +22315,8 @@
         "order": 61,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Edge Bow"
   },
   {
     "name": "Riphook",
@@ -22191,7 +22373,7 @@
         "name": "dmg%",
         "display": "+220-260% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -22240,7 +22422,8 @@
         "order": 55,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Razor Bow"
   },
   {
     "name": "Kuko Shakaku",
@@ -22297,7 +22480,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -22356,7 +22539,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cedar Bow"
   },
   {
     "name": "Endlesshail",
@@ -22423,7 +22607,7 @@
         "name": "dmg%",
         "display": "+180-220% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -22473,7 +22657,8 @@
         "order": 40,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Double Bow"
   },
   {
     "name": "Witchwild String",
@@ -22540,7 +22725,7 @@
         "name": "dmg%",
         "display": "+150-190% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 190,
         "order": 160,
         "sub_stats": []
       },
@@ -22588,7 +22773,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Short Siege Bow"
   },
   {
     "name": "Cliffkiller",
@@ -22645,7 +22831,7 @@
         "name": "dmg%",
         "display": "+190-230% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -22654,7 +22840,7 @@
         "name": "dmg-min",
         "display": "+5-10 to Minimum Damage",
         "min": 5,
-        "max": 5,
+        "max": 10,
         "order": 160,
         "sub_stats": []
       },
@@ -22663,7 +22849,7 @@
         "name": "dmg-max",
         "display": "+20-30 to Maximum Damage",
         "min": 20,
-        "max": 20,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -22712,7 +22898,8 @@
         "order": 59,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Large Siege Bow"
   },
   {
     "name": "Magewrath",
@@ -22769,7 +22956,7 @@
         "name": "dmg%",
         "display": "+180-210% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 210,
         "order": 160,
         "sub_stats": []
       },
@@ -22865,7 +23052,8 @@
         "order": 21,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Rune Bow"
   },
   {
     "name": "Goldstrike Arch",
@@ -22922,7 +23110,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -22981,7 +23169,8 @@
         "order": 56,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Gothic Bow"
   },
   {
     "name": "Langer Briser",
@@ -23038,7 +23227,7 @@
         "name": "dmg%",
         "display": "+170-200% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -23047,7 +23236,7 @@
         "name": "dmg-max",
         "display": "+10-30 to Maximum Damage",
         "min": 10,
-        "max": 10,
+        "max": 30,
         "order": 160,
         "sub_stats": []
       },
@@ -23105,7 +23294,8 @@
         "order": 8,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Arbalest"
   },
   {
     "name": "Pus Spitter",
@@ -23182,7 +23372,7 @@
         "name": "dmg%",
         "display": "+150-220% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 220,
         "order": 160,
         "sub_stats": []
       },
@@ -23240,7 +23430,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Siege Crossbow"
   },
   {
     "name": "Buriza-Do Kyanon",
@@ -23297,7 +23488,7 @@
         "name": "dmg%",
         "display": "+150-300% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -23373,7 +23564,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ballista"
   },
   {
     "name": "Demon Machine",
@@ -23430,7 +23622,7 @@
         "name": "dmg-max",
         "display": "+66-99 to Maximum Damage",
         "min": 66,
-        "max": 66,
+        "max": 99,
         "order": 160,
         "sub_stats": []
       },
@@ -23439,7 +23631,7 @@
         "name": "dmg%",
         "display": "+266-299% Enhanced Damage",
         "min": 266,
-        "max": 266,
+        "max": 299,
         "order": 160,
         "sub_stats": []
       },
@@ -23497,7 +23689,8 @@
         "order": 17,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Chu-Ko-Nu"
   },
   {
     "name": "Peasant Crown",
@@ -23538,6 +23731,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "War Hat",
     "stats": [
       {
         "code": "allskills",
@@ -23634,6 +23828,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Sallet",
     "stats": [
       {
         "code": "balance2",
@@ -23739,6 +23934,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Casque",
     "stats": [
       {
         "code": "swing2",
@@ -23835,6 +24031,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Basinet",
     "stats": [
       {
         "code": "gethit-skill",
@@ -23960,13 +24157,14 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Winged Helm",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+20-40% Enhanced Damage",
         "min": 20,
-        "max": 20,
+        "max": 40,
         "order": 160,
         "sub_stats": []
       },
@@ -24056,6 +24254,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Grand Crown",
     "stats": [
       {
         "code": "lifesteal",
@@ -24179,6 +24378,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Death Mask",
     "stats": [
       {
         "code": "noheal",
@@ -24284,6 +24484,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Grim Helm",
     "stats": [
       {
         "code": "dmg-cold",
@@ -24398,6 +24599,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Ghost Armor",
     "stats": [
       {
         "code": "allskills",
@@ -24494,6 +24696,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Serpentskin Armor",
     "stats": [
       {
         "code": "allskills",
@@ -24598,6 +24801,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Demonhide Armor",
     "stats": [
       {
         "code": "lifesteal",
@@ -24694,6 +24898,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Trellised Armor",
     "stats": [
       {
         "code": "ac%",
@@ -24781,6 +24986,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Linked Mail",
     "stats": [
       {
         "code": "fireskill",
@@ -24900,13 +25106,14 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Tigulated Mail",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+35-50% Enhanced Damage",
         "min": 35,
-        "max": 35,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -25005,6 +25212,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Mesh Armor",
     "stats": [
       {
         "code": "ac%",
@@ -25083,6 +25291,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Cuirass",
     "stats": [
       {
         "code": "ac%",
@@ -25206,6 +25415,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Russet Armor",
     "stats": [
       {
         "code": "allskills",
@@ -25293,6 +25503,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Templar Coat",
     "stats": [
       {
         "code": "pal",
@@ -25425,6 +25636,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Sharktooth Armor",
     "stats": [
       {
         "code": "deadly",
@@ -25530,6 +25742,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Embossed Plate",
     "stats": [
       {
         "code": "allskills",
@@ -25653,6 +25866,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Chaos Armor",
     "stats": [
       {
         "code": "dmg-demon",
@@ -25740,6 +25954,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Ornate Plate",
     "stats": [
       {
         "code": "fire-min",
@@ -25864,6 +26079,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Mage Plate",
     "stats": [
       {
         "code": "allskills",
@@ -25978,6 +26194,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Defender",
     "stats": [
       {
         "code": "sor",
@@ -26083,6 +26300,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Round Shield",
     "stats": [
       {
         "code": "block2",
@@ -26187,6 +26405,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Scutum",
     "stats": [
       {
         "code": "gethit-skill",
@@ -26339,6 +26558,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Dragon Shield",
     "stats": [
       {
         "code": "gethit-skill",
@@ -26509,6 +26729,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Pavise",
     "stats": [
       {
         "code": "allskills",
@@ -26649,6 +26870,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Ancient Shield",
     "stats": [
       {
         "code": "gethit-skill",
@@ -26769,6 +26991,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Grim Shield",
     "stats": [
       {
         "code": "allskills",
@@ -26883,6 +27106,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Barbed Shield",
     "stats": [
       {
         "code": "balance2",
@@ -26988,6 +27212,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Demonhide Gloves",
     "stats": [
       {
         "code": "extra-pois",
@@ -27093,6 +27318,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Sharkskin Gloves",
     "stats": [
       {
         "code": "skilltab",
@@ -27198,6 +27424,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Heavy Bracers",
     "stats": [
       {
         "code": "swing2",
@@ -27294,6 +27521,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Battle Gauntlets",
     "stats": [
       {
         "code": "hit-skill",
@@ -27409,6 +27637,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "War Gauntlets",
     "stats": [
       {
         "code": "hit-skill",
@@ -27534,6 +27763,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Demonhide Boots",
     "stats": [
       {
         "code": "gethit-skill",
@@ -27676,6 +27906,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Sharkskin Boots",
     "stats": [
       {
         "code": "move2",
@@ -27799,6 +28030,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Mesh Boots",
     "stats": [
       {
         "code": "move2",
@@ -27895,6 +28127,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Battle Boots",
     "stats": [
       {
         "code": "move2",
@@ -28027,6 +28260,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "War Boots",
     "stats": [
       {
         "code": "move2",
@@ -28132,6 +28366,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Demonhide Sash",
     "stats": [
       {
         "code": "lifesteal",
@@ -28219,6 +28454,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Sharkskin Belt",
     "stats": [
       {
         "code": "dmg-max",
@@ -28315,6 +28551,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Mesh Belt",
     "stats": [
       {
         "code": "cast2",
@@ -28420,6 +28657,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Battle Belt",
     "stats": [
       {
         "code": "gethit-skill",
@@ -28551,6 +28789,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "War Belt",
     "stats": [
       {
         "code": "gethit-skill",
@@ -28700,6 +28939,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Shako",
     "stats": [
       {
         "code": "allskills",
@@ -28823,13 +29063,14 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Spired Helm",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+20-60% Enhanced Damage",
         "min": 20,
-        "max": 20,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -28945,6 +29186,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Wire Fleece",
     "stats": [
       {
         "code": "balance2",
@@ -29059,6 +29301,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Balrog Skin",
     "stats": [
       {
         "code": "allskills",
@@ -29155,6 +29398,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Luna",
     "stats": [
       {
         "code": "gethit-skill",
@@ -29279,16 +29523,8 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Monarch",
     "stats": [
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
       {
         "code": "block2",
         "name": "item_fasterblockrate",
@@ -29360,6 +29596,15 @@
         "max": 1400,
         "order": 14,
         "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
     ]
   },
@@ -29418,7 +29663,7 @@
         "name": "dmg%",
         "display": "+100-200% Enhanced Damage",
         "min": 100,
-        "max": 100,
+        "max": 200,
         "order": 160,
         "sub_stats": []
       },
@@ -29495,7 +29740,8 @@
         "order": 59,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Decapitator"
   },
   {
     "name": "Messerschmidt's Reaver",
@@ -29552,7 +29798,7 @@
         "name": "dmg%",
         "display": "+200-275% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 275,
         "order": 160,
         "sub_stats": []
       },
@@ -29646,7 +29892,8 @@
         "order": 61,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Champion Axe"
   },
   {
     "name": "Baranar's Star",
@@ -29813,7 +30060,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Devil Star"
   },
   {
     "name": "Schaefer's Hammer",
@@ -29880,7 +30128,7 @@
         "name": "dmg%",
         "display": "+200-260% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -29981,7 +30229,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Legendary Mallet"
   },
   {
     "name": "The Cranium Basher",
@@ -30038,7 +30287,7 @@
         "name": "dmg%",
         "display": "+240-280% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -30148,7 +30397,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Thunder Maul"
   },
   {
     "name": "Lightsabre",
@@ -30215,7 +30465,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -30327,7 +30577,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Phase Blade"
   },
   {
     "name": "Doombringer",
@@ -30388,7 +30639,7 @@
         "name": "dmg%",
         "display": "+210-280% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -30465,7 +30716,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Champion Sword"
   },
   {
     "name": "The Grandfather",
@@ -30526,7 +30778,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -30611,7 +30863,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Colossus Blade"
   },
   {
     "name": "Wizardspike",
@@ -30663,15 +30916,6 @@
       "two": "rarm"
     },
     "stats": [
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
       {
         "code": "splash",
         "name": "item_splashonhit",
@@ -30742,8 +30986,18 @@
             "descstr": "Poison Resist +75%"
           }
         ]
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Bone Knife"
   },
   {
     "name": "Stormspire",
@@ -30810,7 +31064,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -30821,15 +31075,6 @@
         "display": "20% Chance to cast level 30 Charged Bolt when struck",
         "min": 20,
         "max": 30,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
         "order": 160,
         "sub_stats": []
       },
@@ -30904,8 +31149,18 @@
         "max": 540,
         "order": 14,
         "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Giant Thresher"
   },
   {
     "name": "Eaglehorn",
@@ -30962,7 +31217,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -31011,7 +31266,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Crusader Bow"
   },
   {
     "name": "Windforce",
@@ -31078,7 +31334,7 @@
         "name": "dmg%",
         "display": "+250-325% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 325,
         "order": 160,
         "sub_stats": []
       },
@@ -31136,14 +31392,15 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Hydra Bow"
   },
   {
     "name": "Bul-Kathos' Wedding Band",
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin5.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -31169,6 +31426,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "allskills",
@@ -31239,6 +31497,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "move2",
@@ -31318,6 +31577,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "gethit-skill",
@@ -31404,7 +31664,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu2.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -31430,6 +31690,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "coldskill",
@@ -31506,7 +31767,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu3.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -31532,6 +31793,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "allskills",
@@ -31611,7 +31873,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu3.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -31637,6 +31899,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "hit-skill",
@@ -31735,6 +31998,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "block",
@@ -31797,7 +32061,7 @@
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin5.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin3.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -31823,6 +32087,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "att",
@@ -31894,7 +32159,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -31920,6 +32185,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "allskills",
@@ -31991,7 +32257,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -32017,13 +32283,14 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+30-50% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 50,
         "order": 160,
         "sub_stats": []
       },
@@ -32130,6 +32397,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Slayer Guard",
     "stats": [
       {
         "code": "skilltab",
@@ -32270,6 +32538,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Hierophant Trophy",
     "stats": [
       {
         "code": "nec",
@@ -32421,7 +32690,7 @@
         "name": "dmg%",
         "display": "+150-250% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -32506,7 +32775,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ceremonial Javelin"
   },
   {
     "name": "Lycander's Aim",
@@ -32563,7 +32833,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -32648,7 +32918,8 @@
         "order": 61,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ceremonial Bow"
   },
   {
     "name": "Lycander's Flank",
@@ -32705,7 +32976,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -32799,7 +33070,8 @@
         "order": 63,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ceremonial Pike"
   },
   {
     "name": "The Oculus",
@@ -32950,7 +33222,8 @@
         "order": 8,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Swirling Crystal"
   },
   {
     "name": "Herald of Zakarum",
@@ -33000,6 +33273,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Gilded Shield",
     "stats": [
       {
         "code": "skilltab",
@@ -33156,7 +33430,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -33250,7 +33524,8 @@
         "order": 65,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Greater Talons"
   },
   {
     "name": "Jalal's Mane",
@@ -33291,6 +33566,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Totemic Mask",
     "stats": [
       {
         "code": "skilltab",
@@ -33451,7 +33727,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -33509,7 +33785,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Francisca"
   },
   {
     "name": "Bloodmoon",
@@ -33566,7 +33843,7 @@
         "name": "dmg%",
         "display": "+210-260% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -33626,7 +33903,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Elegant Blade"
   },
   {
     "name": "Djinn Slayer",
@@ -33683,7 +33961,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -33750,7 +34028,8 @@
         "order": 29,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ataghan"
   },
   {
     "name": "Deathbit",
@@ -33811,7 +34090,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -33860,7 +34139,8 @@
         "order": 85,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Dart"
   },
   {
     "name": "Warshrike",
@@ -33921,7 +34201,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -33971,7 +34251,8 @@
         "order": 85,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Winged Knife"
   },
   {
     "name": "Gut Siphon",
@@ -34028,7 +34309,7 @@
         "name": "dmg%",
         "display": "+320-440% Enhanced Damage",
         "min": 320,
-        "max": 320,
+        "max": 440,
         "order": 160,
         "sub_stats": []
       },
@@ -34077,7 +34358,8 @@
         "order": 56,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Demon Crossbow"
   },
   {
     "name": "Razor's Edge",
@@ -34134,7 +34416,7 @@
         "name": "dmg%",
         "display": "+175-275% Enhanced Damage",
         "min": 175,
-        "max": 175,
+        "max": 275,
         "order": 160,
         "sub_stats": []
       },
@@ -34183,7 +34465,8 @@
         "order": 83,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Tomahawk"
   },
   {
     "name": "Demon Limb",
@@ -34240,7 +34523,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -34324,7 +34607,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Tyrant Club"
   },
   {
     "name": "Steel Shade",
@@ -34365,6 +34649,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Armet",
     "stats": [
       {
         "code": "allskills",
@@ -34495,7 +34780,7 @@
         "name": "dmg%",
         "display": "+200-280% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -34597,7 +34882,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cryptic Axe"
   },
   {
     "name": "Death's Web",
@@ -34701,7 +34987,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Unearthed Wand"
   },
   {
     "name": "Nature's Peace",
@@ -34734,6 +35021,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "noheal",
@@ -34865,7 +35153,7 @@
         "name": "dmg%",
         "display": "+230-270% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -34977,14 +35265,15 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Phase Blade"
   },
   {
     "name": "Seraph's Hymn",
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu3.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -35010,6 +35299,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "allskills",
@@ -35131,7 +35421,7 @@
         "name": "dmg%",
         "display": "+200-300% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -35198,7 +35488,8 @@
         "order": 77,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Fanged Knife"
   },
   {
     "name": "Horizon's Tornado",
@@ -35255,7 +35546,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -35323,7 +35614,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Scourge"
   },
   {
     "name": "Stone Crusher",
@@ -35380,7 +35672,7 @@
         "name": "dmg%",
         "display": "+280-320% Enhanced Damage",
         "min": 280,
-        "max": 280,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -35454,7 +35746,8 @@
         "order": 67,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Legendary Mallet"
   },
   {
     "name": "Jade Talon",
@@ -35511,7 +35804,7 @@
         "name": "dmg%",
         "display": "+190-320% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -35586,7 +35879,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Wrist Sword"
   },
   {
     "name": "Shadow Dancer",
@@ -35636,6 +35930,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Myrmidon Greaves",
     "stats": [
       {
         "code": "skilltab",
@@ -35732,6 +36027,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Blood Spirit",
     "stats": [
       {
         "code": "skilltab",
@@ -35848,16 +36144,8 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Sacred Armor",
     "stats": [
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
       {
         "code": "move2",
         "name": "item_fastermovevelocity",
@@ -35946,6 +36234,15 @@
         "max": -100,
         "order": 0,
         "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
     ]
   },
@@ -35988,6 +36285,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Vambraces",
     "stats": [
       {
         "code": "balance2",
@@ -36109,7 +36407,7 @@
         "name": "dmg%",
         "display": "+220-270% Enhanced Damage",
         "min": 220,
-        "max": 220,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -36140,7 +36438,8 @@
         "order": 20,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ettin Axe"
   },
   {
     "name": "Death Cleaver",
@@ -36197,7 +36496,7 @@
         "name": "dmg%",
         "display": "+230-280% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -36246,7 +36545,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Berserker Axe"
   },
   {
     "name": "Executioner's Justice",
@@ -36303,7 +36603,7 @@
         "name": "dmg%",
         "display": "+270-320% Enhanced Damage",
         "min": 270,
-        "max": 270,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -36353,7 +36653,8 @@
         "order": 87,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Glorious Axe"
   },
   {
     "name": "Stoneraven",
@@ -36410,7 +36711,7 @@
         "name": "dmg%",
         "display": "+330-380% Enhanced Damage",
         "min": 330,
-        "max": 330,
+        "max": 380,
         "order": 160,
         "sub_stats": []
       },
@@ -36485,7 +36786,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Matriarchal Spear"
   },
   {
     "name": "Leviathan",
@@ -36526,16 +36828,8 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Kraken Shell",
     "stats": [
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
       {
         "code": "ac%",
         "name": "item_armor_percent",
@@ -36571,6 +36865,15 @@
         "max": 25,
         "order": 22,
         "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
     ]
   },
@@ -36579,7 +36882,7 @@
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin4.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin3.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -36605,6 +36908,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "allskills",
@@ -36714,7 +37018,7 @@
         "name": "dmg%",
         "display": "+180-330% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 330,
         "order": 160,
         "sub_stats": []
       },
@@ -36759,7 +37063,8 @@
         "order": 88,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Winged Harpoon"
   },
   {
     "name": "Lacerator",
@@ -36820,7 +37125,7 @@
         "name": "dmg%",
         "display": "+200-260% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -36870,7 +37175,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Winged Axe"
   },
   {
     "name": "Mang Song's Lesson",
@@ -36992,7 +37298,8 @@
         "order": 52,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Archon Staff"
   },
   {
     "name": "Viperfork",
@@ -37049,7 +37356,7 @@
         "name": "dmg%",
         "display": "+240-290% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -37140,7 +37447,8 @@
         "order": 34,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Mancatcher"
   },
   {
     "name": "Ethereal Edge",
@@ -37197,25 +37505,7 @@
         "name": "dmg%",
         "display": "+150-180% Enhanced Damage",
         "min": 150,
-        "max": 150,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "ethereal",
-        "name": "ethereal",
-        "display": "Ethereal",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
+        "max": 180,
         "order": 160,
         "sub_stats": []
       },
@@ -37272,8 +37562,27 @@
         "max": 10,
         "order": 15,
         "sub_stats": []
+      },
+      {
+        "code": "ethereal",
+        "name": "ethereal",
+        "display": "Ethereal",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Silver-edged Axe"
   },
   {
     "name": "Demonhorn's Edge",
@@ -37314,6 +37623,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Destroyer Helm",
     "stats": [
       {
         "code": "skilltab",
@@ -37461,7 +37771,7 @@
         "name": "dmg%",
         "display": "+190-290% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -37538,7 +37848,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Thresher"
   },
   {
     "name": "Spirit Keeper",
@@ -37579,6 +37890,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Earth Spirit",
     "stats": [
       {
         "code": "dru",
@@ -37710,7 +38022,7 @@
         "name": "dmg%",
         "display": "+180-230% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 230,
         "order": 160,
         "sub_stats": []
       },
@@ -37786,7 +38098,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Colossus Crossbow"
   },
   {
     "name": "Alma Negra",
@@ -37836,13 +38149,14 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Sacred Rondache",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+70-125% Enhanced Damage",
         "min": 70,
-        "max": 70,
+        "max": 125,
         "order": 160,
         "sub_stats": []
       },
@@ -37941,6 +38255,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Bloodlord Skull",
     "stats": [
       {
         "code": "maxcurse",
@@ -38071,7 +38386,7 @@
         "name": "dmg%",
         "display": "+150-350% Enhanced Damage",
         "min": 150,
-        "max": 150,
+        "max": 350,
         "order": 160,
         "sub_stats": []
       },
@@ -38122,7 +38437,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ward Bow"
   },
   {
     "name": "Blood Raven's Charge",
@@ -38179,7 +38495,7 @@
         "name": "dmg%",
         "display": "+180-330% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 330,
         "order": 160,
         "sub_stats": []
       },
@@ -38248,7 +38564,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Matriarchal Bow"
   },
   {
     "name": "Ghostflame",
@@ -38305,25 +38622,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "ethereal",
-        "name": "ethereal",
-        "display": "Ethereal",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -38380,8 +38679,27 @@
         "max": 2,
         "order": 6,
         "sub_stats": []
+      },
+      {
+        "code": "ethereal",
+        "name": "ethereal",
+        "display": "Ethereal",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Legend Spike"
   },
   {
     "name": "Shadow Killer",
@@ -38438,7 +38756,7 @@
         "name": "dmg%",
         "display": "+170-270% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -38449,24 +38767,6 @@
         "display": "33% Chance to cast level 18 Frost Nova on striking",
         "min": 33,
         "max": 18,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "ethereal",
-        "name": "ethereal",
-        "display": "Ethereal",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
         "order": 160,
         "sub_stats": []
       },
@@ -38523,8 +38823,27 @@
         "max": 15,
         "order": 16,
         "sub_stats": []
+      },
+      {
+        "code": "ethereal",
+        "name": "ethereal",
+        "display": "Ethereal",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Battle Cestus"
   },
   {
     "name": "Gimmershred",
@@ -38585,7 +38904,7 @@
         "name": "dmg%",
         "display": "+190-240% Enhanced Damage",
         "min": 190,
-        "max": 190,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -38661,7 +38980,8 @@
           }
         ]
       }
-    ]
+    ],
+    "base_name": "Flying Axe"
   },
   {
     "name": "Griffon's Eye",
@@ -38702,6 +39022,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Diadem",
     "stats": [
       {
         "code": "allskills",
@@ -38805,7 +39126,7 @@
         "name": "dmg%",
         "display": "+230-280% Enhanced Damage",
         "min": 230,
-        "max": 230,
+        "max": 280,
         "order": 160,
         "sub_stats": []
       },
@@ -38853,7 +39174,8 @@
         "order": 87,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ogre Maul"
   },
   {
     "name": "Thunderstroke",
@@ -38914,7 +39236,7 @@
         "name": "dmg%",
         "display": "+200-250% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 250,
         "order": 160,
         "sub_stats": []
       },
@@ -38992,7 +39314,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Matriarchal Javelin"
   },
   {
     "name": "Demon's Arch",
@@ -39053,7 +39376,7 @@
         "name": "dmg%",
         "display": "+210-310% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 310,
         "order": 160,
         "sub_stats": []
       },
@@ -39138,7 +39461,8 @@
         "order": 88,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Balrog Spear"
   },
   {
     "name": "Boneflame",
@@ -39179,6 +39503,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Succubus Skull",
     "stats": [
       {
         "code": "gethit-skill",
@@ -39309,7 +39634,7 @@
         "name": "dmg%",
         "display": "+210-260% Enhanced Damage",
         "min": 210,
-        "max": 210,
+        "max": 260,
         "order": 160,
         "sub_stats": []
       },
@@ -39376,7 +39701,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Pike"
   },
   {
     "name": "Nightwing's Veil",
@@ -39417,6 +39743,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Spired Helm",
     "stats": [
       {
         "code": "allskills",
@@ -39531,16 +39858,8 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Corona",
     "stats": [
-      {
-        "code": "indestruct",
-        "name": "indestruct",
-        "display": "Indestructible",
-        "min": 1,
-        "max": 1,
-        "order": 160,
-        "sub_stats": []
-      },
       {
         "code": "balance2",
         "name": "item_fastergethitrate",
@@ -39611,6 +39930,15 @@
         "max": 15,
         "order": 22,
         "sub_stats": []
+      },
+      {
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
     ]
   },
@@ -39653,6 +39981,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Demonhead",
     "stats": [
       {
         "code": "gethit-skill",
@@ -39796,6 +40125,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Zakarum Shield",
     "stats": [
       {
         "code": "cast2",
@@ -39920,6 +40250,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Shadow Plate",
     "stats": [
       {
         "code": "gethit-skill",
@@ -40035,6 +40366,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Aegis",
     "stats": [
       {
         "code": "gethit-skill",
@@ -40155,6 +40487,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Sky Spirit",
     "stats": [
       {
         "code": "skilltab",
@@ -40355,7 +40688,8 @@
         "order": 81,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Lich Wand"
   },
   {
     "name": "Flamebellow",
@@ -40416,7 +40750,7 @@
         "name": "dmg%",
         "display": "+170-240% Enhanced Damage",
         "min": 170,
-        "max": 170,
+        "max": 240,
         "order": 160,
         "sub_stats": []
       },
@@ -40508,7 +40842,8 @@
         "order": 23,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Balrog Blade"
   },
   {
     "name": "Death's Fathom",
@@ -40614,7 +40949,8 @@
         "order": 16,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Dimensional Shard"
   },
   {
     "name": "Wolfhowl",
@@ -40655,6 +40991,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Fury Visor",
     "stats": [
       {
         "code": "skilltab",
@@ -40791,6 +41128,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Ward",
     "stats": [
       {
         "code": "gethit-skill",
@@ -40805,7 +41143,7 @@
       {
         "code": "randclassskill2",
         "name": "item_addclassskills",
-        "display": "+2 Random Class Skills",
+        "display": "+0-6 to <RandomClass> Skills",
         "min": 0,
         "max": 6,
         "order": 150,
@@ -40914,6 +41252,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Tiara",
     "stats": [
       {
         "code": "balance2",
@@ -41036,6 +41375,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Dusk Shroud",
     "stats": [
       {
         "code": "cast2",
@@ -41108,7 +41448,7 @@
     "group": "misc",
     "type": "char",
     "code": "cm3",
-    "image": "https://pd2itemimages.s3.amazonaws.com/uniques/gheedsfortune.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/charms/cm31.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -41134,6 +41474,7 @@
       "one": "inv",
       "two": null
     },
+    "base_name": "Grand Charm",
     "stats": [
       {
         "code": "gold%",
@@ -41219,7 +41560,7 @@
         "name": "dmg%",
         "display": "+240-340% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 340,
         "order": 160,
         "sub_stats": []
       },
@@ -41313,7 +41654,8 @@
         "order": 14,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Scourge"
   },
   {
     "name": "Halaberd's Reign",
@@ -41354,6 +41696,7 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Conqueror Crown",
     "stats": [
       {
         "code": "skilltab",
@@ -41488,6 +41831,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Blade Barrier",
     "stats": [
       {
         "code": "balance2",
@@ -41584,6 +41928,7 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Vampirebone Gloves",
     "stats": [
       {
         "code": "swing2",
@@ -41696,7 +42041,7 @@
         "name": "dmg%",
         "display": "+180-270% Enhanced Damage",
         "min": 180,
-        "max": 180,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -41773,7 +42118,8 @@
         "order": 19,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Cryptic Sword"
   },
   {
     "name": "Templar's Might",
@@ -41814,6 +42160,7 @@
       "one": "tors",
       "two": null
     },
+    "base_name": "Sacred Armor",
     "stats": [
       {
         "code": "aura",
@@ -42003,7 +42350,8 @@
         "order": 61,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Eldritch Orb"
   },
   {
     "name": "Firelizard's Talons",
@@ -42060,7 +42408,7 @@
         "name": "dmg%",
         "display": "+200-270% Enhanced Damage",
         "min": 200,
-        "max": 200,
+        "max": 270,
         "order": 160,
         "sub_stats": []
       },
@@ -42141,7 +42489,8 @@
         "order": 36,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Feral Claws"
   },
   {
     "name": "Sandstorm Trek",
@@ -42191,6 +42540,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Scarabshell Boots",
     "stats": [
       {
         "code": "move2",
@@ -42323,6 +42673,7 @@
       "one": "feet",
       "two": null
     },
+    "base_name": "Boneweave Boots",
     "stats": [
       {
         "code": "move2",
@@ -42454,7 +42805,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -42528,7 +42879,8 @@
         "order": 6,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Mighty Scepter"
   },
   {
     "name": "Arachnid Mesh",
@@ -42569,6 +42921,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Spiderweb Sash",
     "stats": [
       {
         "code": "allskills",
@@ -42666,6 +43019,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Vampirefang Belt",
     "stats": [
       {
         "code": "swing2",
@@ -42728,7 +43082,7 @@
     "group": "misc",
     "type": "amul",
     "code": "amu",
-    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu1.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/amulets/amu3.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -42754,6 +43108,7 @@
       "one": "neck",
       "two": null
     },
+    "base_name": "Amulet",
     "stats": [
       {
         "code": "att",
@@ -42860,6 +43215,7 @@
       "one": "belt",
       "two": null
     },
+    "base_name": "Mithril Coil",
     "stats": [
       {
         "code": "balance2",
@@ -42922,7 +43278,7 @@
     "group": "misc",
     "type": "ring",
     "code": "rin",
-    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin3.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/rings/rin2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -42948,6 +43304,7 @@
       "one": "rrin",
       "two": "lring"
     },
+    "base_name": "Ring",
     "stats": [
       {
         "code": "hit-skill",
@@ -43055,13 +43412,14 @@
       "one": "head",
       "two": null
     },
+    "base_name": "Bone Visage",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+30-60% Enhanced Damage",
         "min": 30,
-        "max": 30,
+        "max": 60,
         "order": 160,
         "sub_stats": []
       },
@@ -43167,7 +43525,7 @@
         "name": "dmg%",
         "display": "+240-290% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -43268,14 +43626,15 @@
         "order": 22,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Caduceus"
   },
   {
     "name": "Annihilus",
     "group": "misc",
     "type": "char",
     "code": "cm1",
-    "image": "https://pd2itemimages.s3.amazonaws.com/uniques/annihilus.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/utility/mss.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -43301,6 +43660,7 @@
       "one": "inv",
       "two": null
     },
+    "base_name": "Small Charm",
     "stats": [
       {
         "code": "allskills",
@@ -43421,7 +43781,7 @@
         "name": "dmg%",
         "display": "+240-290% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -43488,7 +43848,8 @@
         "order": 85,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Hyperion Spear"
   },
   {
     "name": "Cranebeak",
@@ -43545,7 +43906,7 @@
         "name": "dmg%",
         "display": "+240-300% Enhanced Damage",
         "min": 240,
-        "max": 240,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -43613,7 +43974,8 @@
         "order": 8,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "War Spike"
   },
   {
     "name": "Nord's Tenderizer",
@@ -43670,7 +44032,7 @@
         "name": "dmg%",
         "display": "+270-330% Enhanced Damage",
         "min": 270,
-        "max": 270,
+        "max": 330,
         "order": 160,
         "sub_stats": []
       },
@@ -43754,7 +44116,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Truncheon"
   },
   {
     "name": "Earth Shifter",
@@ -43811,7 +44174,7 @@
         "name": "dmg%",
         "display": "+250-340% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 340,
         "order": 160,
         "sub_stats": []
       },
@@ -43887,7 +44250,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Thunder Maul"
   },
   {
     "name": "Wraith Flight",
@@ -43948,16 +44312,7 @@
         "name": "dmg%",
         "display": "+150-290% Enhanced Damage",
         "min": 150,
-        "max": 150,
-        "order": 160,
-        "sub_stats": []
-      },
-      {
-        "code": "ethereal",
-        "name": "ethereal",
-        "display": "Ethereal",
-        "min": 1,
-        "max": 1,
+        "max": 290,
         "order": 160,
         "sub_stats": []
       },
@@ -43996,8 +44351,18 @@
         "max": 15,
         "order": 16,
         "sub_stats": []
+      },
+      {
+        "code": "ethereal",
+        "name": "ethereal",
+        "display": "Ethereal",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ghost Glaive"
   },
   {
     "name": "Bonehew",
@@ -44054,7 +44419,7 @@
         "name": "dmg%",
         "display": "+270-320% Enhanced Damage",
         "min": 270,
-        "max": 270,
+        "max": 320,
         "order": 160,
         "sub_stats": []
       },
@@ -44105,7 +44470,8 @@
         "order": 1,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Ogre Axe"
   },
   {
     "name": "Ondal's Wisdom",
@@ -44218,7 +44584,8 @@
         "order": 21,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Elder Staff"
   },
   {
     "name": "The Redeemer",
@@ -44275,7 +44642,7 @@
         "name": "dmg%",
         "display": "+250-300% Enhanced Damage",
         "min": 250,
-        "max": 250,
+        "max": 300,
         "order": 160,
         "sub_stats": []
       },
@@ -44379,7 +44746,8 @@
         "order": 0,
         "sub_stats": []
       }
-    ]
+    ],
+    "base_name": "Mighty Scepter"
   },
   {
     "name": "Head Hunter's Glory",
@@ -44429,6 +44797,7 @@
       "one": "larm",
       "two": "rarm"
     },
+    "base_name": "Troll Nest",
     "stats": [
       {
         "code": "att-skill",
@@ -44544,13 +44913,14 @@
       "one": "glov",
       "two": null
     },
+    "base_name": "Ogre Gauntlets",
     "stats": [
       {
         "code": "dmg%",
         "name": "dmg%",
         "display": "+40-80% Enhanced Damage",
         "min": 40,
-        "max": 40,
+        "max": 80,
         "order": 160,
         "sub_stats": []
       },
@@ -44597,7 +44967,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew4.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew3.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -44623,6 +44993,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "death-skill",
@@ -44677,7 +45048,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew5.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew4.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -44703,6 +45074,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "death-skill",
@@ -44757,7 +45129,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew6.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew4.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -44783,6 +45155,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "death-skill",
@@ -44837,7 +45210,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew2.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew3.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -44863,6 +45236,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "death-skill",
@@ -44917,7 +45291,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew5.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew4.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -44943,6 +45317,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "levelup-skill",
@@ -44997,7 +45372,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew6.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew4.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -45023,6 +45398,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "levelup-skill",
@@ -45077,7 +45453,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew1.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew2.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -45103,6 +45479,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "levelup-skill",
@@ -45157,7 +45534,7 @@
     "group": "misc",
     "type": "jewl",
     "code": "jew",
-    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew5.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/jewels/jew1.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -45183,6 +45560,7 @@
       "one": "sock",
       "two": null
     },
+    "base_name": "Jewel",
     "stats": [
       {
         "code": "levelup-skill",
@@ -45237,7 +45615,7 @@
     "group": "misc",
     "type": "char",
     "code": "cm2",
-    "image": "https://pd2itemimages.s3.amazonaws.com/uniques/hellfiretorch.png",
+    "image": "https://pd2itemimages.s3.amazonaws.com/utility/trch.png",
     "props": {
       "tier": null,
       "rarity": "uni",
@@ -45263,11 +45641,12 @@
       "one": "inv",
       "two": null
     },
+    "base_name": "Large Charm",
     "stats": [
       {
         "code": "randclassskill1",
         "name": "item_addclassskills",
-        "display": "+1 Random Class Skills",
+        "display": "+0-6 to <RandomClass> Skills",
         "min": 0,
         "max": 6,
         "order": 150,

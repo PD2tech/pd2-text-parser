@@ -21,7 +21,6 @@
         "name": "Hatchet"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -54,7 +53,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -80,7 +79,6 @@
         "name": "Cleaver"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -113,7 +111,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -139,7 +137,6 @@
         "name": "Twin Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -172,7 +169,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -198,7 +195,6 @@
         "name": "Crowbill"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -231,7 +227,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -257,7 +253,6 @@
         "name": "Naga"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -290,7 +285,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -316,7 +311,6 @@
         "name": "Military Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -349,7 +343,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -375,7 +369,6 @@
         "name": "Bearded Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -408,7 +401,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -434,7 +427,6 @@
         "name": "Tabar"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -467,7 +459,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -493,7 +485,6 @@
         "name": "Gothic Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -526,7 +517,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -552,7 +543,6 @@
         "name": "Ancient Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -585,7 +575,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -611,7 +601,6 @@
         "name": "Burnt Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -644,7 +633,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -670,7 +659,6 @@
         "name": "Petrified Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -703,7 +691,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -729,7 +717,6 @@
         "name": "Tomb Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -762,7 +749,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -788,7 +775,6 @@
         "name": "Grave Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -821,7 +807,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -847,7 +833,6 @@
         "name": "Cudgel"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -880,14 +865,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -913,7 +898,6 @@
         "name": "Rune Scepter"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -946,14 +930,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -979,7 +963,6 @@
         "name": "Holy Water Sprinkler"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1012,14 +995,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1045,7 +1028,6 @@
         "name": "Divine Scepter"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1078,14 +1060,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1111,7 +1093,6 @@
         "name": "Barbed Club"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1144,14 +1125,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1177,7 +1158,6 @@
         "name": "Flanged Mace"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1210,14 +1190,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1243,7 +1223,6 @@
         "name": "Jagged Star"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1276,14 +1255,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1309,7 +1288,6 @@
         "name": "Knout"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1342,14 +1320,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1375,7 +1353,6 @@
         "name": "Battle Hammer"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1408,14 +1385,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1441,7 +1418,6 @@
         "name": "War Club"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -1474,14 +1450,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1507,7 +1483,6 @@
         "name": "Martel de Fer"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -1540,14 +1515,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -1573,7 +1548,6 @@
         "name": "Gladius"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1606,7 +1580,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1632,7 +1606,6 @@
         "name": "Cutlass"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1665,7 +1638,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1691,7 +1664,6 @@
         "name": "Shamshir"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1724,7 +1696,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1750,7 +1722,6 @@
         "name": "Tulwar"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1783,7 +1754,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1809,7 +1780,6 @@
         "name": "Dimensional Blade"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1842,7 +1812,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1868,7 +1838,6 @@
         "name": "Battle Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1901,7 +1870,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1927,7 +1896,6 @@
         "name": "Rune Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -1960,7 +1928,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -1986,7 +1954,6 @@
         "name": "Ancient Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2019,7 +1986,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2045,7 +2012,6 @@
         "name": "Espandon"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -2082,7 +2048,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2108,7 +2074,6 @@
         "name": "Dacian Falx"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -2145,7 +2110,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2171,7 +2136,6 @@
         "name": "Tusk Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -2208,7 +2172,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2234,7 +2198,6 @@
         "name": "Gothic Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -2271,7 +2234,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2297,7 +2260,6 @@
         "name": "Zweihander"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -2334,7 +2296,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2360,7 +2322,6 @@
         "name": "Executioner Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -2397,7 +2358,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2423,7 +2384,6 @@
         "name": "Poignard"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2456,7 +2416,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2482,7 +2442,6 @@
         "name": "Rondel"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2515,7 +2474,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2541,7 +2500,6 @@
         "name": "Cinquedeas"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2574,7 +2532,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2600,7 +2558,6 @@
         "name": "Stiletto"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2633,7 +2590,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2659,7 +2616,6 @@
         "name": "Battle Dart"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2696,7 +2652,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2722,7 +2678,6 @@
         "name": "Francisca"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2759,7 +2714,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2785,7 +2740,6 @@
         "name": "War Dart"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2822,7 +2776,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2848,7 +2802,6 @@
         "name": "Hurlbat"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2885,7 +2838,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2911,7 +2864,6 @@
         "name": "War Javelin"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -2948,7 +2900,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -2974,7 +2926,6 @@
         "name": "Great Pilum"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -3011,7 +2962,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3037,7 +2988,6 @@
         "name": "Simbilan"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -3074,7 +3024,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3100,7 +3050,6 @@
         "name": "Spiculum"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -3137,7 +3086,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3163,7 +3112,6 @@
         "name": "Harpoon"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -3200,7 +3148,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3226,7 +3174,6 @@
         "name": "War Spear"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3259,7 +3206,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3285,7 +3232,6 @@
         "name": "Fuscina"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3318,7 +3264,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3344,7 +3290,6 @@
         "name": "War Fork"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3377,7 +3322,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3403,7 +3348,6 @@
         "name": "Yari"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3436,7 +3380,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3462,7 +3406,6 @@
         "name": "Lance"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3495,7 +3438,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3521,7 +3464,6 @@
         "name": "Lochaber Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3554,7 +3496,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3580,7 +3522,6 @@
         "name": "Bill"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3613,7 +3554,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3639,7 +3580,6 @@
         "name": "Battle Scythe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3672,7 +3612,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3698,7 +3638,6 @@
         "name": "Partizan"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3731,7 +3670,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3757,7 +3696,6 @@
         "name": "Bec-de-Corbin"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3790,7 +3728,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3816,7 +3754,6 @@
         "name": "Grim Scythe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3849,7 +3786,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -3875,7 +3812,6 @@
         "name": "Jo Staff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3908,7 +3844,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -3934,7 +3870,6 @@
         "name": "Quarterstaff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -3967,7 +3902,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -3993,7 +3928,6 @@
         "name": "Cedar Staff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4026,7 +3960,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -4052,7 +3986,6 @@
         "name": "Gothic Staff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4085,7 +4018,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -4111,7 +4044,6 @@
         "name": "Rune Staff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4144,7 +4076,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -4170,7 +4102,6 @@
         "name": "Edge Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4221,7 +4152,6 @@
         "name": "Razor Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4272,7 +4202,6 @@
         "name": "Cedar Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4323,7 +4252,6 @@
         "name": "Double Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4374,7 +4302,6 @@
         "name": "Short Siege Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4425,7 +4352,6 @@
         "name": "Large Siege Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4476,7 +4402,6 @@
         "name": "Rune Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4527,7 +4452,6 @@
         "name": "Gothic Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4578,7 +4502,6 @@
         "name": "Arbalest"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4629,7 +4552,6 @@
         "name": "Siege Crossbow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4680,7 +4602,6 @@
         "name": "Ballista"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4731,7 +4652,6 @@
         "name": "Chu-Ko-Nu"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -4782,7 +4702,6 @@
         "name": "Tomahawk"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -4815,7 +4734,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -4841,7 +4760,6 @@
         "name": "Small Crescent"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -4874,7 +4792,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -4900,7 +4818,6 @@
         "name": "Ettin Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -4933,7 +4850,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -4959,7 +4876,6 @@
         "name": "War Spike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -4992,7 +4908,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5018,7 +4934,6 @@
         "name": "Berserker Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5051,7 +4966,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5077,7 +4992,6 @@
         "name": "Feral Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -5110,7 +5024,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5136,7 +5050,6 @@
         "name": "Silver-edged Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -5169,7 +5082,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5195,7 +5108,6 @@
         "name": "Decapitator"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -5228,7 +5140,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5254,7 +5166,6 @@
         "name": "Champion Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -5287,7 +5198,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5313,7 +5224,6 @@
         "name": "Glorious Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -5346,7 +5256,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -5372,7 +5282,6 @@
         "name": "Polished Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5405,7 +5314,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5431,7 +5340,6 @@
         "name": "Ghost Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5464,7 +5372,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5490,7 +5398,6 @@
         "name": "Lich Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5523,7 +5430,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5549,7 +5456,6 @@
         "name": "Unearthed Wand"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5582,7 +5488,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5608,7 +5514,6 @@
         "name": "Truncheon"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5641,14 +5546,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5674,7 +5579,6 @@
         "name": "Mighty Scepter"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5707,14 +5611,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5740,7 +5644,6 @@
         "name": "Seraph Rod"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5773,14 +5676,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5806,7 +5709,6 @@
         "name": "Caduceus"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5839,14 +5741,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5872,7 +5774,6 @@
         "name": "Tyrant Club"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5905,14 +5806,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -5938,7 +5839,6 @@
         "name": "Reinforced Mace"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -5971,14 +5871,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -6004,7 +5904,6 @@
         "name": "Devil Star"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6037,14 +5936,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -6070,7 +5969,6 @@
         "name": "Scourge"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6103,14 +6001,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -6136,7 +6034,6 @@
         "name": "Legendary Mallet"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6169,14 +6066,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -6202,7 +6099,6 @@
         "name": "Ogre Maul"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -6235,14 +6131,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -6268,7 +6164,6 @@
         "name": "Thunder Maul"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -6301,14 +6196,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -6334,7 +6229,6 @@
         "name": "Falcata"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6367,7 +6261,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6393,7 +6287,6 @@
         "name": "Ataghan"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6426,7 +6319,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6452,7 +6345,6 @@
         "name": "Elegant Blade"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6485,7 +6377,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6511,7 +6403,6 @@
         "name": "Hydra Edge"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6544,7 +6435,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6570,7 +6461,6 @@
         "name": "Phase Blade"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6603,7 +6493,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6629,7 +6519,6 @@
         "name": "Conquest Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6662,7 +6551,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6688,7 +6577,6 @@
         "name": "Cryptic Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6721,7 +6609,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6747,7 +6635,6 @@
         "name": "Mythical Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -6780,7 +6667,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6806,7 +6693,6 @@
         "name": "Legend Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -6843,7 +6729,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6869,7 +6755,6 @@
         "name": "Highland Blade"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -6906,7 +6791,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6932,7 +6817,6 @@
         "name": "Balrog Blade"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -6969,7 +6853,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -6995,7 +6879,6 @@
         "name": "Champion Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -7032,7 +6915,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7058,7 +6941,6 @@
         "name": "Colossus Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -7095,7 +6977,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7121,7 +7003,6 @@
         "name": "Colossus Blade"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -7158,7 +7039,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7184,7 +7065,6 @@
         "name": "Bone Knife"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7217,7 +7097,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7243,7 +7123,6 @@
         "name": "Mithril Point"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7276,7 +7155,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7302,7 +7181,6 @@
         "name": "Fanged Knife"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7335,7 +7213,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7361,7 +7239,6 @@
         "name": "Legend Spike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7394,7 +7271,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7420,7 +7297,6 @@
         "name": "Flying Knife"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7457,7 +7333,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7483,7 +7359,6 @@
         "name": "Flying Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7520,7 +7395,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7546,7 +7421,6 @@
         "name": "Winged Knife"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7583,7 +7457,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7609,7 +7483,6 @@
         "name": "Winged Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7646,7 +7519,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7672,7 +7545,6 @@
         "name": "Hyperion Javelin"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7709,7 +7581,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7735,7 +7607,6 @@
         "name": "Stygian Pilum"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7772,7 +7643,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7798,7 +7669,6 @@
         "name": "Balrog Spear"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7835,7 +7705,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7861,7 +7731,6 @@
         "name": "Ghost Glaive"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7898,7 +7767,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7924,7 +7793,6 @@
         "name": "Winged Harpoon"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -7961,7 +7829,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -7987,7 +7855,6 @@
         "name": "Hyperion Spear"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8020,7 +7887,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8046,7 +7913,6 @@
         "name": "Stygian Pike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8079,7 +7945,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8105,7 +7971,6 @@
         "name": "Mancatcher"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8138,7 +8003,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8164,7 +8029,6 @@
         "name": "Ghost Spear"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8197,7 +8061,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8223,7 +8087,6 @@
         "name": "War Pike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8256,7 +8119,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8282,7 +8145,6 @@
         "name": "Ogre Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8315,7 +8177,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8341,7 +8203,6 @@
         "name": "Colossus Voulge"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8374,7 +8235,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8400,7 +8261,6 @@
         "name": "Thresher"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8433,7 +8293,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8459,7 +8319,6 @@
         "name": "Cryptic Axe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8492,7 +8351,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8518,7 +8377,6 @@
         "name": "Great Poleaxe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8551,7 +8409,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8577,7 +8435,6 @@
         "name": "Giant Thresher"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8610,7 +8467,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -8636,7 +8493,6 @@
         "name": "Walking Stick"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8669,7 +8525,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -8695,7 +8551,6 @@
         "name": "Stalagmite"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8728,7 +8583,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -8754,7 +8609,6 @@
         "name": "Elder Staff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8787,7 +8641,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -8813,7 +8667,6 @@
         "name": "Shillelagh"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8846,7 +8699,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -8872,7 +8725,6 @@
         "name": "Archon Staff"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8905,7 +8757,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -8931,7 +8783,6 @@
         "name": "Spider Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -8982,7 +8833,6 @@
         "name": "Blade Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9033,7 +8883,6 @@
         "name": "Shadow Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9084,7 +8933,6 @@
         "name": "Great Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9135,7 +8983,6 @@
         "name": "Diamond Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9186,7 +9033,6 @@
         "name": "Crusader Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9237,7 +9083,6 @@
         "name": "Ward Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9288,7 +9133,6 @@
         "name": "Hydra Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9339,7 +9183,6 @@
         "name": "Pellet Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9390,7 +9233,6 @@
         "name": "Gorgon Crossbow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9441,7 +9283,6 @@
         "name": "Colossus Crossbow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9492,7 +9333,6 @@
         "name": "Demon Crossbow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -9525,139 +9365,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
-      }
-    ]
-  },
-  {
-    "name": "Khalim's Flail",
-    "group": "weapon",
-    "type": "mace",
-    "code": "qf1",
-    "image": "https://pd2itemimages.s3.amazonaws.com/maces/qf1.png",
-    "props": {
-      "tier": "norm",
-      "rarity": "nmag",
-      "class_only": null,
-      "level_req": 0,
-      "str_req": 41,
-      "dex_req": 41,
-      "speed": -10,
-      "range": 0,
-      "durability": 30,
-      "sockets": 3,
-      "upgrade": {
-        "code": null,
-        "name": null
-      }
-    },
-    "defense": null,
-    "damage": {
-      "is2h": false,
-      "has_barb_1h": false,
-      "throwable": false,
-      "bonus": {
-        "str": 100,
-        "dex": 0
-      },
-      "main": {
-        "min": 1,
-        "max": 15
-      }
-    },
-    "quality": {
-      "inferior": false,
-      "superior": false,
-      "ethereal": false
-    },
-    "inventory": {
-      "height": 3,
-      "width": 2
-    },
-    "equip": {
-      "one": "larm",
-      "two": "rarm"
-    },
-    "stats": [
-      {
-        "code": "splash",
-        "min": 100,
-        "max": 1,
-        "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
-      },
-      {
-        "code": "dmg-undead",
-        "min": 50,
-        "max": 50,
-        "order": 108,
-        "string": "+50% Damage To Undead"
-      }
-    ]
-  },
-  {
-    "name": "Khalim's Will",
-    "group": "weapon",
-    "type": "mace",
-    "code": "qf2",
-    "image": "https://pd2itemimages.s3.amazonaws.com/maces/qf2.png",
-    "props": {
-      "tier": "norm",
-      "rarity": "nmag",
-      "class_only": null,
-      "level_req": 0,
-      "str_req": 0,
-      "dex_req": 0,
-      "speed": -10,
-      "range": 0,
-      "durability": 30,
-      "sockets": 3,
-      "upgrade": {
-        "code": null,
-        "name": null
-      }
-    },
-    "defense": null,
-    "damage": {
-      "is2h": false,
-      "has_barb_1h": false,
-      "throwable": false,
-      "bonus": {
-        "str": 100,
-        "dex": 0
-      },
-      "main": {
-        "min": 1,
-        "max": 15
-      }
-    },
-    "quality": {
-      "inferior": false,
-      "superior": false,
-      "ethereal": false
-    },
-    "inventory": {
-      "height": 3,
-      "width": 2
-    },
-    "equip": {
-      "one": "larm",
-      "two": "rarm"
-    },
-    "stats": [
-      {
-        "code": "splash",
-        "min": 100,
-        "max": 1,
-        "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
-      },
-      {
-        "code": "dmg-undead",
-        "min": 50,
-        "max": 50,
-        "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -9683,7 +9391,6 @@
         "name": "Quhab"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -9716,7 +9423,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -9742,7 +9449,6 @@
         "name": "Wrist Spike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -9775,7 +9481,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -9801,7 +9507,6 @@
         "name": "Fascia"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -9834,7 +9539,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -9860,7 +9565,6 @@
         "name": "Hand Scythe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -9893,7 +9597,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -9919,7 +9623,6 @@
         "name": "Greater Claws"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -9952,7 +9655,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -9978,7 +9681,6 @@
         "name": "Greater Talons"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10011,7 +9713,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10037,7 +9739,6 @@
         "name": "Scissors Quhab"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10070,7 +9771,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10096,7 +9797,6 @@
         "name": "Suwayyah"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10129,7 +9829,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10155,7 +9855,6 @@
         "name": "Wrist Sword"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10188,7 +9887,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10214,7 +9913,6 @@
         "name": "War Fist"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10247,7 +9945,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10273,7 +9971,6 @@
         "name": "Battle Cestus"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10306,7 +10003,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10332,7 +10029,6 @@
         "name": "Feral Claws"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10365,7 +10061,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10391,7 +10087,6 @@
         "name": "Runic Talons"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10424,7 +10119,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10450,7 +10145,6 @@
         "name": "Scissors Suwayyah"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10483,7 +10177,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10509,7 +10203,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10542,7 +10235,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10568,7 +10261,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10601,7 +10293,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10627,7 +10319,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10660,7 +10351,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10686,7 +10377,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10719,7 +10409,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10745,7 +10435,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10778,7 +10467,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10804,7 +10493,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10837,7 +10525,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10863,7 +10551,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10896,7 +10583,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10922,7 +10609,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -10955,7 +10641,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -10981,7 +10667,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11014,7 +10699,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11040,7 +10725,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11073,7 +10757,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11099,7 +10783,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11132,7 +10815,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11158,7 +10841,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11191,7 +10873,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11217,7 +10899,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -11250,7 +10931,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11276,7 +10957,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -11309,7 +10989,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11335,7 +11015,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -11368,7 +11047,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11394,7 +11073,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -11427,7 +11105,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11453,7 +11131,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -11486,7 +11163,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -11512,7 +11189,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11545,7 +11221,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11571,7 +11247,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11604,7 +11279,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11630,7 +11305,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11663,7 +11337,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11689,7 +11363,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11722,7 +11395,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11748,7 +11421,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11781,14 +11453,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11814,7 +11486,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11847,14 +11518,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11880,7 +11551,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11913,14 +11583,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -11946,7 +11616,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -11979,14 +11648,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12012,7 +11681,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12045,14 +11713,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12078,7 +11746,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12111,14 +11778,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12144,7 +11811,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12177,14 +11843,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12210,7 +11876,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12243,14 +11908,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12276,7 +11941,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12309,14 +11973,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12342,7 +12006,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -12375,14 +12038,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12408,7 +12071,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -12441,14 +12103,14 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       },
       {
         "code": "dmg-undead",
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -12474,7 +12136,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12507,7 +12168,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12533,7 +12194,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12566,7 +12226,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12592,7 +12252,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12625,7 +12284,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12651,7 +12310,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12684,7 +12342,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12710,7 +12368,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12743,7 +12400,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12769,7 +12426,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12802,7 +12458,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12828,7 +12484,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12861,7 +12516,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12887,7 +12542,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -12920,7 +12574,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -12946,7 +12600,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -12983,7 +12636,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13009,7 +12662,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -13046,7 +12698,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13072,7 +12724,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -13109,7 +12760,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13135,7 +12786,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -13172,7 +12822,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13198,7 +12848,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -13235,7 +12884,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13261,7 +12910,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": true,
@@ -13298,7 +12946,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13324,7 +12972,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13357,7 +13004,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13383,7 +13030,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13416,7 +13062,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13442,7 +13088,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13475,7 +13120,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13501,7 +13146,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13534,7 +13178,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13560,7 +13204,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13597,7 +13240,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13623,7 +13266,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13660,7 +13302,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13686,7 +13328,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13723,7 +13364,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13749,7 +13390,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13786,7 +13426,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13812,7 +13452,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13849,7 +13488,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13875,7 +13514,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13912,7 +13550,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -13938,7 +13576,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -13975,7 +13612,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14001,7 +13638,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -14038,7 +13674,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14064,7 +13700,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -14101,7 +13736,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14127,7 +13762,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14160,7 +13794,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14186,7 +13820,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14219,7 +13852,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14245,7 +13878,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14278,7 +13910,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14304,7 +13936,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14337,7 +13968,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14363,7 +13994,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14396,7 +14026,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14422,7 +14052,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14455,7 +14084,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14481,7 +14110,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14514,7 +14142,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14540,7 +14168,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14573,7 +14200,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14599,7 +14226,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14632,7 +14258,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14658,7 +14284,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14691,7 +14316,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14717,7 +14342,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14750,7 +14374,7 @@
         "min": 100,
         "max": 1,
         "order": 160,
-        "string": "Melee Attacks Deal Splash Damage"
+        "display": "Melee Attacks Deal Splash Damage"
       }
     ]
   },
@@ -14776,7 +14400,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14809,7 +14432,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -14835,7 +14458,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14868,7 +14490,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -14894,7 +14516,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14927,7 +14548,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -14953,7 +14574,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -14986,7 +14606,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -15012,7 +14632,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15045,7 +14664,7 @@
         "min": 50,
         "max": 50,
         "order": 108,
-        "string": "+50% Damage To Undead"
+        "display": "+50% Damage To Undead"
       }
     ]
   },
@@ -15071,7 +14690,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15122,7 +14740,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15173,7 +14790,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15224,7 +14840,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15275,7 +14890,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15326,7 +14940,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15377,7 +14990,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15428,7 +15040,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15479,7 +15090,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15530,7 +15140,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15581,7 +15190,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15632,7 +15240,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15683,7 +15290,6 @@
         "name": "Glowing Orb"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -15734,7 +15340,6 @@
         "name": "Crystalline Globe"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -15785,7 +15390,6 @@
         "name": "Cloudy Sphere"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -15836,7 +15440,6 @@
         "name": "Sparkling Ball"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -15887,7 +15490,6 @@
         "name": "Swirling Crystal"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -15938,7 +15540,6 @@
         "name": "Ashwood Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -15989,7 +15590,6 @@
         "name": "Ceremonial Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16040,7 +15640,6 @@
         "name": "Ceremonial Spear"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16091,7 +15690,6 @@
         "name": "Ceremonial Pike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16142,7 +15740,6 @@
         "name": "Ceremonial Javelin"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16197,7 +15794,6 @@
         "name": "Heavenly Stone"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16248,7 +15844,6 @@
         "name": "Eldritch Orb"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16299,7 +15894,6 @@
         "name": "Demon Heart"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16350,7 +15944,6 @@
         "name": "Vortex Orb"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16401,7 +15994,6 @@
         "name": "Dimensional Shard"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16452,7 +16044,6 @@
         "name": "Matriarchal Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16503,7 +16094,6 @@
         "name": "Grand Matron Bow"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16554,7 +16144,6 @@
         "name": "Matriarchal Spear"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16605,7 +16194,6 @@
         "name": "Matriarchal Pike"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -16656,7 +16244,6 @@
         "name": "Matriarchal Javelin"
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16711,7 +16298,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16762,7 +16348,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16813,7 +16398,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16864,7 +16448,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16915,7 +16498,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,
@@ -16966,7 +16548,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -17017,7 +16598,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -17068,7 +16648,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -17119,7 +16698,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": true,
       "has_barb_1h": false,
@@ -17170,7 +16748,6 @@
         "name": ""
       }
     },
-    "defense": null,
     "damage": {
       "is2h": false,
       "has_barb_1h": false,

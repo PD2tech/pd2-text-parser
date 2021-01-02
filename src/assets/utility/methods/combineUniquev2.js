@@ -42,11 +42,11 @@ export const combineUnique = () => {
       let int = randomInt(6);
       int += 1;
       image = `https://pd2itemimages.s3.amazonaws.com/jewels/jew${int}.png`;
-    } else if (base.type === "cm3") {
+    } else if (base.code === "cm3") {
       image = "https://pd2itemimages.s3.amazonaws.com/charms/cm31.png";
-    } else if (base.type === "cm2") {
+    } else if (base.code === "cm2") {
       image = "https://pd2itemimages.s3.amazonaws.com/utility/trch.png";
-    } else if (base.type === "cm1") {
+    } else if (base.code === "cm1") {
       image = "https://pd2itemimages.s3.amazonaws.com/utility/mss.png";
     }
 
@@ -85,6 +85,7 @@ export const combineUnique = () => {
       group: base.group,
       type: base.type,
       code: base.code,
+      base_name: base.name,
       image: image,
       props: {
         ...base.props,

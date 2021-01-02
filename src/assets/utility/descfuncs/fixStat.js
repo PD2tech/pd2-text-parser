@@ -30,13 +30,17 @@ export const fixStat = (propCode, min, max) => {
   }
   const func = fixStats.find((obj) => obj.code === propCode);
   const handler = descFuncs[`${func.descfunc}`];
+  let order = 160;
+  if (propCode === "ethereal" || propCode === "indestruct") {
+    order = 0;
+  }
   return {
     code: propCode,
     name: propCode,
     display: handler(min, max),
     min: min,
-    max: min,
-    order: 160,
+    max: max,
+    order: order,
     sub_stats: [],
   };
 };
