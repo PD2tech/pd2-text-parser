@@ -471,7 +471,7 @@
   },
   {
     "skill": "Curse Mastery",
-    "id": "curs",
+    "id": "374",
     "char": "Necromancer"
   },
   {
@@ -636,7 +636,7 @@
   },
   {
     "skill": "Joust",
-    "id": "jous",
+    "id": "378",
     "char": "Paladin"
   },
   {
@@ -926,7 +926,7 @@
   },
   {
     "skill": "Gust",
-    "id": "gust",
+    "id": "370",
     "char": "Druid"
   },
   {
@@ -1081,31 +1081,11 @@
   },
   {
     "skill": "Lightning Sentry",
-    "id": "ligh",
-    "char": "Assassin"
-  },
-  {
-    "skill": "Wake Of Destruction Sentry",
-    "id": "281",
+    "id": "366",
     "char": "Assassin"
   },
   {
     "skill": "Blink",
     "id": "357"
-  },
-  {
-    "skill": "Inferno Sentry",
-    "id": "311",
-    "char": "Assassin"
-  },
-  {
-    "skill": "Death Sentry",
-    "id": "312",
-    "char": "Assassin"
-  },
-  {
-    "skill": "Sentry Lightning",
-    "id": "313",
-    "char": "Assassin"
   }
 ]

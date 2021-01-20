@@ -1,0 +1,2609 @@
+[
+  {
+    "name": "Chipped Amethyst",
+    "code": "gcv",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att",
+        "name": "tohit",
+        "display": "+40 to Attack Rating",
+        "min": 40,
+        "max": 40,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "str",
+        "name": "strength",
+        "display": "+3 to Strength",
+        "min": 3,
+        "max": 3,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac",
+        "name": "armorclass",
+        "display": "+8 Defense",
+        "min": 8,
+        "max": 8,
+        "order": 71,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawed Amethyst",
+    "code": "gfv",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att",
+        "name": "tohit",
+        "display": "+60 to Attack Rating",
+        "min": 60,
+        "max": 60,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "str",
+        "name": "strength",
+        "display": "+4 to Strength",
+        "min": 4,
+        "max": 4,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac",
+        "name": "armorclass",
+        "display": "+12 Defense",
+        "min": 12,
+        "max": 12,
+        "order": 71,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Amethyst",
+    "code": "gsv",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att",
+        "name": "tohit",
+        "display": "+80 to Attack Rating",
+        "min": 80,
+        "max": 80,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "str",
+        "name": "strength",
+        "display": "+6 to Strength",
+        "min": 6,
+        "max": 6,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac",
+        "name": "armorclass",
+        "display": "+18 Defense",
+        "min": 18,
+        "max": 18,
+        "order": 71,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawless Amethyst",
+    "code": "gzv",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att",
+        "name": "tohit",
+        "display": "+100 to Attack Rating",
+        "min": 100,
+        "max": 100,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "str",
+        "name": "strength",
+        "display": "+8 to Strength",
+        "min": 8,
+        "max": 8,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac",
+        "name": "armorclass",
+        "display": "+24 Defense",
+        "min": 24,
+        "max": 24,
+        "order": 71,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Perfect Amethyst",
+    "code": "gpv",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att",
+        "name": "tohit",
+        "display": "+150 to Attack Rating",
+        "min": 150,
+        "max": 150,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "str",
+        "name": "strength",
+        "display": "+10 to Strength",
+        "min": 10,
+        "max": 10,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac",
+        "name": "armorclass",
+        "display": "+30 Defense",
+        "min": 30,
+        "max": 30,
+        "order": 71,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Chipped Saphire",
+    "code": "gcb",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "cold-min",
+        "name": "coldmindam",
+        "display": "+1 to Minimum Cold Damage",
+        "min": 1,
+        "max": 1,
+        "order": 96,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana",
+        "name": "maxmana",
+        "display": "+10 to Mana",
+        "min": 10,
+        "max": 10,
+        "order": 55,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +12%",
+        "min": 12,
+        "max": 12,
+        "order": 40,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawed Saphire",
+    "code": "gfb",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "cold-min",
+        "name": "coldmindam",
+        "display": "+3 to Minimum Cold Damage",
+        "min": 3,
+        "max": 3,
+        "order": 96,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana",
+        "name": "maxmana",
+        "display": "+17 to Mana",
+        "min": 17,
+        "max": 17,
+        "order": 55,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +16%",
+        "min": 16,
+        "max": 16,
+        "order": 40,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Saphire",
+    "code": "gsb",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "cold-min",
+        "name": "coldmindam",
+        "display": "+4 to Minimum Cold Damage",
+        "min": 4,
+        "max": 4,
+        "order": 96,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana",
+        "name": "maxmana",
+        "display": "+24 to Mana",
+        "min": 24,
+        "max": 24,
+        "order": 55,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +22%",
+        "min": 22,
+        "max": 22,
+        "order": 40,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flwless Saphire",
+    "code": "glb",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "cold-min",
+        "name": "coldmindam",
+        "display": "+6 to Minimum Cold Damage",
+        "min": 6,
+        "max": 6,
+        "order": 96,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana",
+        "name": "maxmana",
+        "display": "+31 to Mana",
+        "min": 31,
+        "max": 31,
+        "order": 55,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +28%",
+        "min": 28,
+        "max": 28,
+        "order": 40,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Perfect Saphire",
+    "code": "gpb",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "cold-min",
+        "name": "coldmindam",
+        "display": "+10 to Minimum Cold Damage",
+        "min": 10,
+        "max": 10,
+        "order": 96,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana",
+        "name": "maxmana",
+        "display": "+38 to Mana",
+        "min": 38,
+        "max": 38,
+        "order": 55,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +40%",
+        "min": 40,
+        "max": 40,
+        "order": 40,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Chipped Emerald",
+    "code": "gcg",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "pois-min",
+        "name": "poisonmindam",
+        "display": "+34 to Minimum Poison Damage",
+        "min": 34,
+        "max": 34,
+        "order": 92,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+3 to Dexterity",
+        "min": 3,
+        "max": 3,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +12%",
+        "min": 12,
+        "max": 12,
+        "order": 34,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawed Emerald",
+    "code": "gfg",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "pois-min",
+        "name": "poisonmindam",
+        "display": "+51 to Minimum Poison Damage",
+        "min": 51,
+        "max": 51,
+        "order": 92,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+4 to Dexterity",
+        "min": 4,
+        "max": 4,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +16%",
+        "min": 16,
+        "max": 16,
+        "order": 34,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Emerald",
+    "code": "gsg",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "pois-min",
+        "name": "poisonmindam",
+        "display": "+82 to Minimum Poison Damage",
+        "min": 82,
+        "max": 82,
+        "order": 92,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+6 to Dexterity",
+        "min": 6,
+        "max": 6,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +22%",
+        "min": 22,
+        "max": 22,
+        "order": 34,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawless Emerald",
+    "code": "glg",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "pois-min",
+        "name": "poisonmindam",
+        "display": "+101 to Minimum Poison Damage",
+        "min": 101,
+        "max": 101,
+        "order": 92,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+8 to Dexterity",
+        "min": 8,
+        "max": 8,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +28%",
+        "min": 28,
+        "max": 28,
+        "order": 34,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Perfect Emerald",
+    "code": "gpg",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "pois-min",
+        "name": "poisonmindam",
+        "display": "+143 to Minimum Poison Damage",
+        "min": 143,
+        "max": 143,
+        "order": 92,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+10 to Dexterity",
+        "min": 10,
+        "max": 10,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +40%",
+        "min": 40,
+        "max": 40,
+        "order": 34,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Chipped Ruby",
+    "code": "gcr",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "fire-min",
+        "name": "firemindam",
+        "display": "+3 to Minimum Fire Damage",
+        "min": 3,
+        "max": 3,
+        "order": 102,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "hp",
+        "name": "maxhp",
+        "display": "+10 to Life",
+        "min": 10,
+        "max": 10,
+        "order": 59,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +12%",
+        "min": 12,
+        "max": 12,
+        "order": 36,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawed Ruby",
+    "code": "gfr",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "fire-min",
+        "name": "firemindam",
+        "display": "+5 to Minimum Fire Damage",
+        "min": 5,
+        "max": 5,
+        "order": 102,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "hp",
+        "name": "maxhp",
+        "display": "+17 to Life",
+        "min": 17,
+        "max": 17,
+        "order": 59,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +16%",
+        "min": 16,
+        "max": 16,
+        "order": 36,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ruby",
+    "code": "gsr",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "fire-min",
+        "name": "firemindam",
+        "display": "+8 to Minimum Fire Damage",
+        "min": 8,
+        "max": 8,
+        "order": 102,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "hp",
+        "name": "maxhp",
+        "display": "+24 to Life",
+        "min": 24,
+        "max": 24,
+        "order": 59,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +22%",
+        "min": 22,
+        "max": 22,
+        "order": 36,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawless Ruby",
+    "code": "glr",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "fire-min",
+        "name": "firemindam",
+        "display": "+10 to Minimum Fire Damage",
+        "min": 10,
+        "max": 10,
+        "order": 102,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "hp",
+        "name": "maxhp",
+        "display": "+31 to Life",
+        "min": 31,
+        "max": 31,
+        "order": 59,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +28%",
+        "min": 28,
+        "max": 28,
+        "order": 36,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Perfect Ruby",
+    "code": "gpr",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "fire-min",
+        "name": "firemindam",
+        "display": "+15 to Minimum Fire Damage",
+        "min": 15,
+        "max": 15,
+        "order": 102,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "hp",
+        "name": "maxhp",
+        "display": "+38 to Life",
+        "min": 38,
+        "max": 38,
+        "order": 59,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +40%",
+        "min": 40,
+        "max": 40,
+        "order": 36,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Chipped Diamond",
+    "code": "gcw",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-undead",
+        "name": "item_undeaddamage_percent",
+        "display": "+28% Damage to Undead",
+        "min": 28,
+        "max": 28,
+        "order": 108,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "att",
+        "name": "tohit",
+        "display": "+20 to Attack Rating",
+        "min": 20,
+        "max": 20,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +6",
+        "min": 6,
+        "max": 6,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +6%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +6%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +6%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +6%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flawed Diamond",
+    "code": "gfw",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-undead",
+        "name": "item_undeaddamage_percent",
+        "display": "+34% Damage to Undead",
+        "min": 34,
+        "max": 34,
+        "order": 108,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "att",
+        "name": "tohit",
+        "display": "+40 to Attack Rating",
+        "min": 40,
+        "max": 40,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +8",
+        "min": 8,
+        "max": 8,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +8%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +8%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +8%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +8%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Diamond",
+    "code": "gsw",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-undead",
+        "name": "item_undeaddamage_percent",
+        "display": "+44% Damage to Undead",
+        "min": 44,
+        "max": 44,
+        "order": 108,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "att",
+        "name": "tohit",
+        "display": "+60 to Attack Rating",
+        "min": 60,
+        "max": 60,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +11",
+        "min": 11,
+        "max": 11,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +11%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +11%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +11%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +11%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flawless Diamond",
+    "code": "glw",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-undead",
+        "name": "item_undeaddamage_percent",
+        "display": "+54% Damage to Undead",
+        "min": 54,
+        "max": 54,
+        "order": 108,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "att",
+        "name": "tohit",
+        "display": "+80 to Attack Rating",
+        "min": 80,
+        "max": 80,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +14",
+        "min": 14,
+        "max": 14,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +14%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +14%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +14%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +14%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Perfect Diamond",
+    "code": "gpw",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-undead",
+        "name": "item_undeaddamage_percent",
+        "display": "+68% Damage to Undead",
+        "min": 68,
+        "max": 68,
+        "order": 108,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "att",
+        "name": "tohit",
+        "display": "+100 to Attack Rating",
+        "min": 100,
+        "max": 100,
+        "order": 115,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +19",
+        "min": 19,
+        "max": 19,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +19%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +19%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +19%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +19%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chipped Topaz",
+    "code": "gcy",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ltng-min",
+        "name": "lightmindam",
+        "display": "+1 to Minimum Lightning Damage",
+        "min": 1,
+        "max": 1,
+        "order": 99,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "9% Better Chance of Getting Magic Items",
+        "min": 9,
+        "max": 9,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +12%",
+        "min": 12,
+        "max": 12,
+        "order": 38,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawed Topaz",
+    "code": "gfy",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ltng-min",
+        "name": "lightmindam",
+        "display": "+1 to Minimum Lightning Damage",
+        "min": 1,
+        "max": 1,
+        "order": 99,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "13% Better Chance of Getting Magic Items",
+        "min": 13,
+        "max": 13,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +16%",
+        "min": 16,
+        "max": 16,
+        "order": 38,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Topaz",
+    "code": "gsy",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ltng-min",
+        "name": "lightmindam",
+        "display": "+1 to Minimum Lightning Damage",
+        "min": 1,
+        "max": 1,
+        "order": 99,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "16% Better Chance of Getting Magic Items",
+        "min": 16,
+        "max": 16,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +22%",
+        "min": 22,
+        "max": 22,
+        "order": 38,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawless Topaz",
+    "code": "gly",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ltng-min",
+        "name": "lightmindam",
+        "display": "+1 to Minimum Lightning Damage",
+        "min": 1,
+        "max": 1,
+        "order": 99,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "20% Better Chance of Getting Magic Items",
+        "min": 20,
+        "max": 20,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +28%",
+        "min": 28,
+        "max": 28,
+        "order": 38,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Perfect Topaz",
+    "code": "gpy",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ltng-min",
+        "name": "lightmindam",
+        "display": "+1 to Minimum Lightning Damage",
+        "min": 1,
+        "max": 1,
+        "order": 99,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "24% Better Chance of Getting Magic Items",
+        "min": 24,
+        "max": 24,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +40%",
+        "min": 40,
+        "max": 40,
+        "order": 38,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Chipped Skull",
+    "code": "skc",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "manasteal",
+        "name": "manadrainmindam",
+        "display": "1% Mana stolen per hit",
+        "min": 1,
+        "max": 1,
+        "order": 89,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +2",
+        "min": 2,
+        "max": 2,
+        "order": 56,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 4",
+        "min": 4,
+        "max": 4,
+        "order": 13,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawed Skull",
+    "code": "skf",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "manasteal",
+        "name": "manadrainmindam",
+        "display": "2% Mana stolen per hit",
+        "min": 2,
+        "max": 2,
+        "order": 89,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +3",
+        "min": 3,
+        "max": 3,
+        "order": 56,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 8",
+        "min": 8,
+        "max": 8,
+        "order": 13,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Skull",
+    "code": "sku",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "manasteal",
+        "name": "manadrainmindam",
+        "display": "2% Mana stolen per hit",
+        "min": 2,
+        "max": 2,
+        "order": 89,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +3",
+        "min": 3,
+        "max": 3,
+        "order": 56,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 12",
+        "min": 12,
+        "max": 12,
+        "order": 13,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Flawless Skull",
+    "code": "skl",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "manasteal",
+        "name": "manadrainmindam",
+        "display": "3% Mana stolen per hit",
+        "min": 3,
+        "max": 3,
+        "order": 89,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +4",
+        "min": 4,
+        "max": 4,
+        "order": 56,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 16",
+        "min": 16,
+        "max": 16,
+        "order": 13,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Perfect Skull",
+    "code": "skz",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "manasteal",
+        "name": "manadrainmindam",
+        "display": "3% Mana stolen per hit",
+        "min": 3,
+        "max": 3,
+        "order": 89,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +5",
+        "min": 5,
+        "max": 5,
+        "order": 56,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 20",
+        "min": 20,
+        "max": 20,
+        "order": 13,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Expansion",
+    "sockets": []
+  },
+  {
+    "name": "El Rune",
+    "code": "r01",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "light",
+        "name": "item_lightradius",
+        "display": "+1 to Light Radius",
+        "min": 1,
+        "max": 1,
+        "order": 6,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "light",
+        "name": "item_lightradius",
+        "display": "+1 to Light Radius",
+        "min": 1,
+        "max": 1,
+        "order": 6,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "light",
+        "name": "item_lightradius",
+        "display": "+1 to Light Radius",
+        "min": 1,
+        "max": 1,
+        "order": 6,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Eld Rune",
+    "code": "r02",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att-undead",
+        "name": "item_undead_tohit",
+        "display": "+50 to Attack Rating against Undead",
+        "min": 50,
+        "max": 50,
+        "order": 106,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "stamdrain",
+        "name": "item_staminadrainpct",
+        "display": "15% Slower Stamina Drain",
+        "min": 15,
+        "max": 15,
+        "order": 49,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "block",
+        "name": "toblock",
+        "display": "7% Increased Chance of Blocking",
+        "min": 7,
+        "max": 7,
+        "order": 134,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Tir Rune",
+    "code": "r03",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "mana-kill",
+        "name": "item_manaafterkill",
+        "display": "+2 to Mana after each Kill",
+        "min": 2,
+        "max": 2,
+        "order": 16,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana-kill",
+        "name": "item_manaafterkill",
+        "display": "+2 to Mana after each Kill",
+        "min": 2,
+        "max": 2,
+        "order": 16,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "mana-kill",
+        "name": "item_manaafterkill",
+        "display": "+2 to Mana after each Kill",
+        "min": 2,
+        "max": 2,
+        "order": 16,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Nef Rune",
+    "code": "r04",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "knock",
+        "name": "item_knockback",
+        "display": "Knockback",
+        "min": 1,
+        "max": 1,
+        "order": 76,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "ac-miss",
+        "name": "armorclass_vs_missile",
+        "display": "+30 Defense vs. Missile",
+        "min": 30,
+        "max": 30,
+        "order": 69,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac-miss",
+        "name": "armorclass_vs_missile",
+        "display": "+30 Defense vs. Missile",
+        "min": 30,
+        "max": 30,
+        "order": 69,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Eth Rune",
+    "code": "r05",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "reduce-ac",
+        "name": "item_fractionaltargetac",
+        "display": "-25% Target Defense",
+        "min": 25,
+        "max": 25,
+        "order": 118,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen-mana",
+        "name": "manarecoverybonus",
+        "display": "Regenerate Mana 15%",
+        "min": 15,
+        "max": 15,
+        "order": 52,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "regen-mana",
+        "name": "manarecoverybonus",
+        "display": "Regenerate Mana 15%",
+        "min": 15,
+        "max": 15,
+        "order": 52,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ith Rune",
+    "code": "r06",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-max",
+        "name": "dmg-max",
+        "display": "+9 to Maximum Damage",
+        "min": 9,
+        "max": 9,
+        "order": 160,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dmg-to-mana",
+        "name": "item_damagetomana",
+        "display": "15% Damage Taken Gained as Mana when Hit",
+        "min": 15,
+        "max": 15,
+        "order": 11,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "dmg-to-mana",
+        "name": "item_damagetomana",
+        "display": "15% Damage Taken Gained as Mana when Hit",
+        "min": 15,
+        "max": 15,
+        "order": 11,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Tal Rune",
+    "code": "r07",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-pois",
+        "name": "dmg-pois",
+        "display": "Adds 154-154 Poison Damage",
+        "min": 154,
+        "max": 154,
+        "order": 92,
+        "sub_stats": [
+          {
+            "stat": "poisonmindam",
+            "descstr": "+154 to Minimum Poison Damage"
+          },
+          {
+            "stat": "poisonmaxdam",
+            "descstr": "+154 to Maximum Poison Damage"
+          }
+        ]
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +30%",
+        "min": 30,
+        "max": 30,
+        "order": 34,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois",
+        "name": "poisonresist",
+        "display": "Poison Resist +35%",
+        "min": 35,
+        "max": 35,
+        "order": 34,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ral Rune",
+    "code": "r08",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-fire",
+        "name": "dmg-fire",
+        "display": "Adds 5-30 Fire Damage",
+        "min": 5,
+        "max": 30,
+        "order": 102,
+        "sub_stats": [
+          {
+            "stat": "firemindam",
+            "descstr": "+5-30 to Minimum Fire Damage"
+          },
+          {
+            "stat": "firemaxdam",
+            "descstr": "+5-30 to Maximum Fire Damage"
+          }
+        ]
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +30%",
+        "min": 30,
+        "max": 30,
+        "order": 36,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire",
+        "name": "fireresist",
+        "display": "Fire Resist +35%",
+        "min": 35,
+        "max": 35,
+        "order": 36,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ort Rune",
+    "code": "r09",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-ltng",
+        "name": "dmg-ltng",
+        "display": "Adds 1-50 Lightning Damage",
+        "min": 1,
+        "max": 50,
+        "order": 99,
+        "sub_stats": [
+          {
+            "stat": "lightmindam",
+            "descstr": "+1-50 to Minimum Lightning Damage"
+          },
+          {
+            "stat": "lightmaxdam",
+            "descstr": "+1-50 to Maximum Lightning Damage"
+          }
+        ]
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +30%",
+        "min": 30,
+        "max": 30,
+        "order": 38,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng",
+        "name": "lightresist",
+        "display": "Lightning Resist +35%",
+        "min": 35,
+        "max": 35,
+        "order": 38,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Thul Rune",
+    "code": "r10",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-cold",
+        "name": "dmg-cold",
+        "display": "Adds 3-14 Cold Damage",
+        "min": 3,
+        "max": 14,
+        "order": 96,
+        "sub_stats": [
+          {
+            "stat": "coldmindam",
+            "descstr": "+3-14 to Minimum Cold Damage"
+          },
+          {
+            "stat": "coldmaxdam",
+            "descstr": "+3-14 to Maximum Cold Damage"
+          }
+        ]
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +30%",
+        "min": 30,
+        "max": 30,
+        "order": 40,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold",
+        "name": "coldresist",
+        "display": "Cold Resist +35%",
+        "min": 35,
+        "max": 35,
+        "order": 40,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Amn Rune",
+    "code": "r11",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "lifesteal",
+        "name": "lifedrainmindam",
+        "display": "7% Life stolen per hit",
+        "min": 7,
+        "max": 7,
+        "order": 88,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 14",
+        "min": 14,
+        "max": 14,
+        "order": 13,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "thorns",
+        "name": "item_attackertakesdamage",
+        "display": "Attacker Takes Damage of 14",
+        "min": 14,
+        "max": 14,
+        "order": 13,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Sol Rune",
+    "code": "r12",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg-min",
+        "name": "dmg-min",
+        "display": "+9 to Minimum Damage",
+        "min": 9,
+        "max": 9,
+        "order": 160,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "red-dmg",
+        "name": "normal_damage_reduction",
+        "display": "Physical Damage Taken Reduced by 7",
+        "min": 7,
+        "max": 7,
+        "order": 22,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "red-dmg",
+        "name": "normal_damage_reduction",
+        "display": "Physical Damage Taken Reduced by 7",
+        "min": 7,
+        "max": 7,
+        "order": 22,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Shael Rune",
+    "code": "r13",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "swing2",
+        "name": "item_fasterattackrate",
+        "display": "+20% Increased Attack Speed",
+        "min": 20,
+        "max": 20,
+        "order": 145,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "balance2",
+        "name": "item_fastergethitrate",
+        "display": "+20% Faster Hit Recovery",
+        "min": 20,
+        "max": 20,
+        "order": 139,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "block2",
+        "name": "item_fasterblockrate",
+        "display": "+20% Faster Block Rate",
+        "min": 20,
+        "max": 20,
+        "order": 136,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Dol Rune",
+    "code": "r14",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "howl",
+        "name": "item_howl",
+        "display": "Hit Causes Monster to Flee 32%",
+        "min": 32,
+        "max": 32,
+        "order": 79,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +7",
+        "min": 7,
+        "max": 7,
+        "order": 56,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "regen",
+        "name": "hpregen",
+        "display": "Replenish Life +7",
+        "min": 7,
+        "max": 7,
+        "order": 56,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Hel Rune",
+    "code": "r15",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ease",
+        "name": "item_req_percent",
+        "display": "Requirements -20%",
+        "min": -20,
+        "max": -20,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "ease",
+        "name": "item_req_percent",
+        "display": "Requirements -15%",
+        "min": -15,
+        "max": -15,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ease",
+        "name": "item_req_percent",
+        "display": "Requirements -15%",
+        "min": -15,
+        "max": -15,
+        "order": 0,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Io Rune",
+    "code": "r16",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "vit",
+        "name": "vitality",
+        "display": "+10 to Vitality",
+        "min": 10,
+        "max": 10,
+        "order": 63,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "vit",
+        "name": "vitality",
+        "display": "+10 to Vitality",
+        "min": 10,
+        "max": 10,
+        "order": 63,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "vit",
+        "name": "vitality",
+        "display": "+10 to Vitality",
+        "min": 10,
+        "max": 10,
+        "order": 63,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Lum Rune",
+    "code": "r17",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "enr",
+        "name": "energy",
+        "display": "+10 to Energy",
+        "min": 10,
+        "max": 10,
+        "order": 61,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "enr",
+        "name": "energy",
+        "display": "+10 to Energy",
+        "min": 10,
+        "max": 10,
+        "order": 61,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "enr",
+        "name": "energy",
+        "display": "+10 to Energy",
+        "min": 10,
+        "max": 10,
+        "order": 61,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ko Rune",
+    "code": "r18",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+10 to Dexterity",
+        "min": 10,
+        "max": 10,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+10 to Dexterity",
+        "min": 10,
+        "max": 10,
+        "order": 65,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "dex",
+        "name": "dexterity",
+        "display": "+10 to Dexterity",
+        "min": 10,
+        "max": 10,
+        "order": 65,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Fal Rune",
+    "code": "r19",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "str",
+        "name": "strength",
+        "display": "+10 to Strength",
+        "min": 10,
+        "max": 10,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "str",
+        "name": "strength",
+        "display": "+10 to Strength",
+        "min": 10,
+        "max": 10,
+        "order": 67,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "str",
+        "name": "strength",
+        "display": "+10 to Strength",
+        "min": 10,
+        "max": 10,
+        "order": 67,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Lem Rune",
+    "code": "r20",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "gold%",
+        "name": "item_goldbonus",
+        "display": "75% Extra Gold from Monsters",
+        "min": 75,
+        "max": 75,
+        "order": 10,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "gold%",
+        "name": "item_goldbonus",
+        "display": "50% Extra Gold from Monsters",
+        "min": 50,
+        "max": 50,
+        "order": 10,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "gold%",
+        "name": "item_goldbonus",
+        "display": "50% Extra Gold from Monsters",
+        "min": 50,
+        "max": 50,
+        "order": 10,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Pul Rune",
+    "code": "r21",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att-demon",
+        "name": "item_demon_tohit",
+        "display": "+100 to Attack Rating against Demons",
+        "min": 100,
+        "max": 100,
+        "order": 110,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "ac%",
+        "name": "item_armor_percent",
+        "display": "+30% Enhanced Defense",
+        "min": 30,
+        "max": 30,
+        "order": 74,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "ac%",
+        "name": "item_armor_percent",
+        "display": "+30% Enhanced Defense",
+        "min": 30,
+        "max": 30,
+        "order": 74,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Um Rune",
+    "code": "r22",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "openwounds",
+        "name": "item_openwounds",
+        "display": "25% Chance of Open Wounds",
+        "min": 25,
+        "max": 25,
+        "order": 83,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +15",
+        "min": 15,
+        "max": 15,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +15%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +15%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +15%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +15%"
+          }
+        ]
+      },
+      {
+        "group": "shield",
+        "code": "res-all",
+        "name": "res-all",
+        "display": "All Resistances +22",
+        "min": 22,
+        "max": 22,
+        "order": 36,
+        "sub_stats": [
+          {
+            "stat": "fireresist",
+            "descstr": "Fire Resist +22%"
+          },
+          {
+            "stat": "lightresist",
+            "descstr": "Lightning Resist +22%"
+          },
+          {
+            "stat": "coldresist",
+            "descstr": "Cold Resist +22%"
+          },
+          {
+            "stat": "poisonresist",
+            "descstr": "Poison Resist +22%"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mal Rune",
+    "code": "r23",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "noheal",
+        "name": "item_preventheal",
+        "display": "Prevent Monster Heal",
+        "min": 1,
+        "max": 1,
+        "order": 81,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "red-mag",
+        "name": "magic_damage_reduction",
+        "display": "Magic Damage Taken Reduced by 7",
+        "min": 7,
+        "max": 7,
+        "order": 21,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "red-mag",
+        "name": "magic_damage_reduction",
+        "display": "Magic Damage Taken Reduced by 7",
+        "min": 7,
+        "max": 7,
+        "order": 21,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ist Rune",
+    "code": "r24",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "30% Better Chance of Getting Magic Items",
+        "min": 30,
+        "max": 30,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "25% Better Chance of Getting Magic Items",
+        "min": 25,
+        "max": 25,
+        "order": 8,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "mag%",
+        "name": "item_magicbonus",
+        "display": "25% Better Chance of Getting Magic Items",
+        "min": 25,
+        "max": 25,
+        "order": 8,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Gul Rune",
+    "code": "r25",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "att%",
+        "name": "item_tohit_percent",
+        "display": "20% Bonus to Attack Rating",
+        "min": 20,
+        "max": 20,
+        "order": 117,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-pois-max",
+        "name": "maxpoisonresist",
+        "display": "+4% to Maximum Poison Resist",
+        "min": 4,
+        "max": 4,
+        "order": 45,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-pois-max",
+        "name": "maxpoisonresist",
+        "display": "+4% to Maximum Poison Resist",
+        "min": 4,
+        "max": 4,
+        "order": 45,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Vex Rune",
+    "code": "r26",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "manasteal",
+        "name": "manadrainmindam",
+        "display": "7% Mana stolen per hit",
+        "min": 7,
+        "max": 7,
+        "order": 89,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-fire-max",
+        "name": "maxfireresist",
+        "display": "+4% to Maximum Fire Resist",
+        "min": 4,
+        "max": 4,
+        "order": 42,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-fire-max",
+        "name": "maxfireresist",
+        "display": "+4% to Maximum Fire Resist",
+        "min": 4,
+        "max": 4,
+        "order": 42,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ohm Rune",
+    "code": "r27",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "dmg%",
+        "name": "dmg%",
+        "display": "+50% Enhanced Damage",
+        "min": 50,
+        "max": 50,
+        "order": 160,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-cold-max",
+        "name": "maxcoldresist",
+        "display": "+4% to Maximum Cold Resist",
+        "min": 4,
+        "max": 4,
+        "order": 44,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-cold-max",
+        "name": "maxcoldresist",
+        "display": "+4% to Maximum Cold Resist",
+        "min": 4,
+        "max": 4,
+        "order": 44,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Lo Rune",
+    "code": "r28",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "deadly",
+        "name": "item_deadlystrike",
+        "display": "20% Deadly Strike",
+        "min": 20,
+        "max": 20,
+        "order": 85,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "res-ltng-max",
+        "name": "maxlightresist",
+        "display": "+4% to Maximum Lightning Resist",
+        "min": 4,
+        "max": 4,
+        "order": 43,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "res-ltng-max",
+        "name": "maxlightresist",
+        "display": "+4% to Maximum Lightning Resist",
+        "min": 4,
+        "max": 4,
+        "order": 43,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Sur Rune",
+    "code": "r29",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "heal-kill",
+        "name": "item_healafterkill",
+        "display": "+4 Life after each Kill",
+        "min": 4,
+        "max": 4,
+        "order": 16,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "mana%",
+        "name": "item_maxmana_percent",
+        "display": "Increase Maximum Mana 5%",
+        "min": 5,
+        "max": 5,
+        "order": 54,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "mana",
+        "name": "maxmana",
+        "display": "+50 to Mana",
+        "min": 50,
+        "max": 50,
+        "order": 55,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Ber Rune",
+    "code": "r30",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "crush",
+        "name": "item_crushingblow",
+        "display": "20% Chance of Crushing Blow",
+        "min": 20,
+        "max": 20,
+        "order": 87,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "red-dmg%",
+        "name": "damageresist",
+        "display": "Physical Damage Taken Reduced by 8%",
+        "min": 8,
+        "max": 8,
+        "order": 22,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "red-dmg%",
+        "name": "damageresist",
+        "display": "Physical Damage Taken Reduced by 8%",
+        "min": 8,
+        "max": 8,
+        "order": 22,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Jah Rune",
+    "code": "r31",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "ignore-ac",
+        "name": "item_ignoretargetac",
+        "display": "Ignore Target's Defense",
+        "min": 1,
+        "max": 1,
+        "order": 119,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "hp%",
+        "name": "item_maxhp_percent",
+        "display": "Increase Maximum Life 5%",
+        "min": 5,
+        "max": 5,
+        "order": 58,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "hp",
+        "name": "maxhp",
+        "display": "+50 to Life",
+        "min": 50,
+        "max": 50,
+        "order": 59,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Cham Rune",
+    "code": "r32",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "freeze",
+        "name": "item_freeze",
+        "display": "Freezes target +3",
+        "min": 3,
+        "max": 3,
+        "order": 78,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "nofreeze",
+        "name": "item_cannotbefrozen",
+        "display": "Cannot Be Frozen",
+        "min": 1,
+        "max": 1,
+        "order": 20,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "nofreeze",
+        "name": "item_cannotbefrozen",
+        "display": "Cannot Be Frozen",
+        "min": 1,
+        "max": 1,
+        "order": 20,
+        "sub_stats": []
+      }
+    ]
+  },
+  {
+    "name": "Zod Rune",
+    "code": "r33",
+    "sockets": [
+      {
+        "group": "weapon",
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "group": "armor/helm",
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
+      },
+      {
+        "group": "shield",
+        "code": "indestruct",
+        "name": "indestruct",
+        "display": "Indestructible",
+        "min": 1,
+        "max": 1,
+        "order": 0,
+        "sub_stats": []
+      }
+    ]
+  }
+]

@@ -15,6 +15,15 @@ const isMulti = (propObj) => {
   return Object.keys(propObj).includes("stat2");
 };
 
+// for set items names real quicl
+// export const parseUniques = (uniqueItems) => {
+//   return uniqueItems.map((item) => {
+//     const str_obj_name = allStrings.find((str) => str.id === item.index);
+//     const item_name = str_obj_name !== undefined ? str_obj_name.str : item.index;
+//     return item_name;
+//   });
+// };
+
 export const parseUniques = (uniqueItems) => {
   return uniqueItems.map((item) => {
     const str_obj_name = allStrings.find((str) => str.id === item.index);

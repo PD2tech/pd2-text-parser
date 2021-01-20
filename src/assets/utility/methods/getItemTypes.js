@@ -6,110 +6,121 @@ import weapons from "../../results/weapon_bases.json";
 export const armorTypes = () => {
   const helms = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "helm") {
+      if (obj.type === "helm") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const circlets = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "circ") {
+      if (obj.type === "circ") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const barbhelms = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "phlm") {
+      if (obj.type === "phlm") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const pelts = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "pelt") {
+      if (obj.type === "pelt") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const bodyarmors = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "tors") {
+      if (obj.type === "tors") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const gloves = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "glov") {
+      if (obj.type === "glov") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const boots = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "boot") {
+      if (obj.type === "boot") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const belts = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "belt") {
+      if (obj.type === "belt") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const shields = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "shie") {
+      if (obj.type === "shie") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const pallyshields = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "ashd") {
+      if (obj.type === "ashd") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
     .filter((obj) => obj);
   const heads = armors
     .map((obj) => {
-      if (obj.item_props.sub_type === "head") {
+      if (obj.type === "head") {
         return {
-          item_code: obj.item_props.item_base_code,
-          item_name: obj.item_name,
+          item_code: obj.code,
+          item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -180,6 +191,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -190,6 +202,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -200,6 +213,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -210,6 +224,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -220,6 +235,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -230,6 +246,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -240,6 +257,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -250,6 +268,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -260,6 +279,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -270,6 +290,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -280,6 +301,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -290,6 +312,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -300,6 +323,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -310,6 +334,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -320,6 +345,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -330,6 +356,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -340,6 +367,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -350,6 +378,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -360,6 +389,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -370,6 +400,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -380,6 +411,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -390,6 +422,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })
@@ -400,6 +433,7 @@ export const weaponTypes = () => {
         return {
           item_code: obj.code,
           item_name: obj.name,
+          item_base: obj.image.slice(obj.image.length - 7).replace(".png", ""),
         };
       }
     })

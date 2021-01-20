@@ -1,0 +1,1518 @@
+[
+  {
+    "string": "The Gnasher",
+    "id": "The Gnasher"
+  },
+  {
+    "string": "Deathspade",
+    "id": "Deathspade"
+  },
+  {
+    "string": "Bladebone",
+    "id": "Bladebone"
+  },
+  {
+    "string": "Skull Splitter",
+    "id": "Mindrend"
+  },
+  {
+    "string": "Rakescar",
+    "id": "Rakescar"
+  },
+  {
+    "string": "Axe of Fechmar",
+    "id": "Fechmars Axe"
+  },
+  {
+    "string": "Goreshovel",
+    "id": "Goreshovel"
+  },
+  {
+    "string": "The Chieftain",
+    "id": "The Chieftan"
+  },
+  {
+    "string": "Brainhew",
+    "id": "Brainhew"
+  },
+  {
+    "string": "Humongous",
+    "id": "The Humongous"
+  },
+  {
+    "string": "Torch of Iro",
+    "id": "Iros Torch"
+  },
+  {
+    "string": "Maelstrom",
+    "id": "Maelstromwrath"
+  },
+  {
+    "string": "Gravenspine",
+    "id": "Gravenspine"
+  },
+  {
+    "string": "Ume's Lament",
+    "id": "Umes Lament"
+  },
+  {
+    "string": "Felloak",
+    "id": "Felloak"
+  },
+  {
+    "string": "Knell Striker",
+    "id": "Knell Striker"
+  },
+  {
+    "string": "Rusthandle",
+    "id": "Rusthandle"
+  },
+  {
+    "string": "Stormeye",
+    "id": "Stormeye"
+  },
+  {
+    "string": "Stoutnail",
+    "id": "Stoutnail"
+  },
+  {
+    "string": "Crushflange",
+    "id": "Crushflange"
+  },
+  {
+    "string": "Bloodrise",
+    "id": "Bloodrise"
+  },
+  {
+    "string": "The General's Tan Do Li Ga",
+    "id": "The Generals Tan Do Li Ga"
+  },
+  {
+    "string": "Ironstone",
+    "id": "Ironstone"
+  },
+  {
+    "string": "Bonesnap",
+    "id": "Bonesob"
+  },
+  {
+    "string": "Steeldriver",
+    "id": "Steeldriver"
+  },
+  {
+    "string": "Rixot's Keen",
+    "id": "Rixots Keen"
+  },
+  {
+    "string": "Blood Crescent",
+    "id": "Blood Crescent"
+  },
+  {
+    "string": "Skewer of Krintiz",
+    "id": "Krintizs Skewer"
+  },
+  {
+    "string": "Gleamscythe",
+    "id": "Gleamscythe"
+  },
+  {
+    "string": "Griswold's Edge",
+    "id": "Griswolds Edge"
+  },
+  {
+    "string": "Hellplague",
+    "id": "Hellplague"
+  },
+  {
+    "string": "Culwen's Point",
+    "id": "Culwens Point"
+  },
+  {
+    "string": "Shadowfang",
+    "id": "Shadowfang"
+  },
+  {
+    "string": "Soulflay",
+    "id": "Soulflay"
+  },
+  {
+    "string": "Kinemil's Awl",
+    "id": "Kinemils Awl"
+  },
+  {
+    "string": "Blacktongue",
+    "id": "Blacktongue"
+  },
+  {
+    "string": "Ripsaw",
+    "id": "Ripsaw"
+  },
+  {
+    "string": "The Patriarch",
+    "id": "The Patriarch"
+  },
+  {
+    "string": "Gull",
+    "id": "Gull"
+  },
+  {
+    "string": "The Diggler",
+    "id": "The Diggler"
+  },
+  {
+    "string": "The Jade Tan Do",
+    "id": "The Jade Tan Do"
+  },
+  {
+    "string": "Spectral Shard",
+    "id": "Irices Shard"
+  },
+  {
+    "string": "The Dragon Chang",
+    "id": "The Dragon Chang"
+  },
+  {
+    "string": "Razortine",
+    "id": "Razortine"
+  },
+  {
+    "string": "Bloodthief",
+    "id": "Bloodthief"
+  },
+  {
+    "string": "Lance of Yaggai",
+    "id": "Lance of Yaggai"
+  },
+  {
+    "string": "The Tannr Gorerod",
+    "id": "The Tannr Gorerod"
+  },
+  {
+    "string": "Dimoak's Hew",
+    "id": "Dimoaks Hew"
+  },
+  {
+    "string": "Steelgoad",
+    "id": "Steelgoad"
+  },
+  {
+    "string": "Soul Harvest",
+    "id": "Soul Harvest"
+  },
+  {
+    "string": "The Battlebranch",
+    "id": "The Battlebranch"
+  },
+  {
+    "string": "Woestave",
+    "id": "Woestave"
+  },
+  {
+    "string": "The Grim Reaper",
+    "id": "The Grim Reaper"
+  },
+  {
+    "string": "Bane Ash",
+    "id": "Bane Ash"
+  },
+  {
+    "string": "Serpent Lord",
+    "id": "Serpent Lord"
+  },
+  {
+    "string": "Spire of Lazarus",
+    "id": "Lazarus Spire"
+  },
+  {
+    "string": "The Salamander",
+    "id": "The Salamander"
+  },
+  {
+    "string": "The Iron Jang Bong",
+    "id": "The Iron Jang Bong"
+  },
+  {
+    "string": "Pluckeye",
+    "id": "Pluckeye"
+  },
+  {
+    "string": "Witherstring",
+    "id": "Witherstring"
+  },
+  {
+    "string": "Raven Claw",
+    "id": "Rimeraven"
+  },
+  {
+    "string": "Rogue's Bow",
+    "id": "Piercerib"
+  },
+  {
+    "string": "Stormstrike",
+    "id": "Pullspite"
+  },
+  {
+    "string": "Wizendraw",
+    "id": "Wizendraw"
+  },
+  {
+    "string": "Hellclap",
+    "id": "Hellclap"
+  },
+  {
+    "string": "Blastbark",
+    "id": "Blastbark"
+  },
+  {
+    "string": "Leadcrow",
+    "id": "Leadcrow"
+  },
+  {
+    "string": "Ichorsting",
+    "id": "Ichorsting"
+  },
+  {
+    "string": "Hellcast",
+    "id": "Hellcast"
+  },
+  {
+    "string": "Doomslinger",
+    "id": "Doomspittle"
+  },
+  {
+    "string": "Biggin's Bonnet",
+    "id": "War Bonnet"
+  },
+  {
+    "string": "Tarnhelm",
+    "id": "Tarnhelm"
+  },
+  {
+    "string": "Coif of Glory",
+    "id": "Coif of Glory"
+  },
+  {
+    "string": "Duskdeep",
+    "id": "Duskdeep"
+  },
+  {
+    "string": "Wormskull",
+    "id": "Wormskull"
+  },
+  {
+    "string": "Howltusk",
+    "id": "Howltusk"
+  },
+  {
+    "string": "Undead Crown",
+    "id": "Undead Crown"
+  },
+  {
+    "string": "The Face of Horror",
+    "id": "The Face of Horror"
+  },
+  {
+    "string": "Greyform",
+    "id": "Greyform"
+  },
+  {
+    "string": "Blinkbat's Form",
+    "id": "Blinkbats Form"
+  },
+  {
+    "string": "The Centurion",
+    "id": "The Centurion"
+  },
+  {
+    "string": "Twitchthroe",
+    "id": "Twitchthroe"
+  },
+  {
+    "string": "Darkglow",
+    "id": "Darkglow"
+  },
+  {
+    "string": "Hawkmail",
+    "id": "Hawkmail"
+  },
+  {
+    "string": "Sparking Mail",
+    "id": "Sparking Mail"
+  },
+  {
+    "string": "Venom Ward",
+    "id": "Venomsward"
+  },
+  {
+    "string": "Iceblink",
+    "id": "Iceblink"
+  },
+  {
+    "string": "Boneflesh",
+    "id": "Boneflesh"
+  },
+  {
+    "string": "Rockfleece",
+    "id": "Rockfleece"
+  },
+  {
+    "string": "Rattlecage",
+    "id": "Rattlecage"
+  },
+  {
+    "string": "Goldskin",
+    "id": "Goldskin"
+  },
+  {
+    "string": "Silks of the Victor",
+    "id": "Victors Silk"
+  },
+  {
+    "string": "Heavenly Garb",
+    "id": "Heavenly Garb"
+  },
+  {
+    "string": "Pelta Lunata",
+    "id": "Pelta Lunata"
+  },
+  {
+    "string": "Umbral Disk",
+    "id": "Umbral Disk"
+  },
+  {
+    "string": "Stormguild",
+    "id": "Stormguild"
+  },
+  {
+    "string": "Wall of the Eyeless",
+    "id": "Wall of the Eyeless"
+  },
+  {
+    "string": "Swordback Hold",
+    "id": "Swordback Hold"
+  },
+  {
+    "string": "Steelclash",
+    "id": "Steelclash"
+  },
+  {
+    "string": "Bverrit Keep",
+    "id": "Bverrit Keep"
+  },
+  {
+    "string": "The Ward",
+    "id": "The Ward"
+  },
+  {
+    "string": "The Hand of Broc",
+    "id": "The Hand of Broc"
+  },
+  {
+    "string": "Bloodfist",
+    "id": "Bloodfist"
+  },
+  {
+    "string": "Chance Guards",
+    "id": "Chance Guards"
+  },
+  {
+    "string": "Magefist",
+    "id": "Magefist"
+  },
+  {
+    "string": "Frostburn",
+    "id": "Frostburn"
+  },
+  {
+    "string": "Hotspur",
+    "id": "Hotspur"
+  },
+  {
+    "string": "Gorefoot",
+    "id": "Gorefoot"
+  },
+  {
+    "string": "Treads of Cthon",
+    "id": "Treads of Cthon"
+  },
+  {
+    "string": "Goblin Toe",
+    "id": "Goblin Toe"
+  },
+  {
+    "string": "Tearhaunch",
+    "id": "Tearhaunch"
+  },
+  {
+    "string": "Lenymo",
+    "id": "Lenyms Cord"
+  },
+  {
+    "string": "Snakecord",
+    "id": "Snakecord"
+  },
+  {
+    "string": "Nightsmoke",
+    "id": "Nightsmoke"
+  },
+  {
+    "string": "Goldwrap",
+    "id": "Goldwrap"
+  },
+  {
+    "string": "Bladebuckle",
+    "id": "Bladebuckle"
+  },
+  {
+    "string": "Nokozan Relic",
+    "id": "Nokozan Relic"
+  },
+  {
+    "string": "The Eye of Etlich",
+    "id": "The Eye of Etlich"
+  },
+  {
+    "string": "The Mahim-Oak Curio",
+    "id": "The Mahim-Oak Curio"
+  },
+  {
+    "string": "Nagelring",
+    "id": "Nagelring"
+  },
+  {
+    "string": "The Eye of Mordini",
+    "id": "Manald Heal"
+  },
+  {
+    "string": "The Stone of Jordan",
+    "id": "The Stone of Jordan"
+  },
+  {
+    "string": "Coldkill",
+    "id": "Coldkill"
+  },
+  {
+    "string": "Butcher's Pupil",
+    "id": "Butcher's Pupil"
+  },
+  {
+    "string": "Islestrike",
+    "id": "Islestrike"
+  },
+  {
+    "string": "Pompeii's Wrath",
+    "id": "Pompe's Wrath"
+  },
+  {
+    "string": "Guardian Naga",
+    "id": "Guardian Naga"
+  },
+  {
+    "string": "Warlord's Trust",
+    "id": "Warlord's Trust"
+  },
+  {
+    "string": "Spellsteel",
+    "id": "Spellsteel"
+  },
+  {
+    "string": "Stormrider",
+    "id": "Stormrider"
+  },
+  {
+    "string": "Boneslayer Blade",
+    "id": "Boneslayer Blade"
+  },
+  {
+    "string": "The Minotaur",
+    "id": "The Minataur"
+  },
+  {
+    "string": "Suicide Branch",
+    "id": "Suicide Branch"
+  },
+  {
+    "string": "Carin Shard",
+    "id": "Carin Shard"
+  },
+  {
+    "string": "Arm of King Leoric",
+    "id": "Arm of King Leoric"
+  },
+  {
+    "string": "Blackhand Key",
+    "id": "Blackhand Key"
+  },
+  {
+    "string": "Dark Clan Crusher",
+    "id": "Dark Clan Crusher"
+  },
+  {
+    "string": "Zakarum's Hand",
+    "id": "Zakarum's Hand"
+  },
+  {
+    "string": "The Fetid Sprinkler",
+    "id": "The Fetid Sprinkler"
+  },
+  {
+    "string": "Hand of Blessed Light",
+    "id": "Hand of Blessed Light"
+  },
+  {
+    "string": "Fleshrender",
+    "id": "Fleshrender"
+  },
+  {
+    "string": "Sureshrill Frost",
+    "id": "Sureshrill Frost"
+  },
+  {
+    "string": "Moonfall",
+    "id": "Moonfall"
+  },
+  {
+    "string": "Baezil's Vortex",
+    "id": "Baezil's Vortex"
+  },
+  {
+    "string": "Earthshaker",
+    "id": "Earthshaker"
+  },
+  {
+    "string": "Bloodtree Stump",
+    "id": "Bloodtree Stump"
+  },
+  {
+    "string": "The Gavel of Pain",
+    "id": "The Gavel of Pain"
+  },
+  {
+    "string": "Bloodletter",
+    "id": "Bloodletter"
+  },
+  {
+    "string": "Coldsteel Eye",
+    "id": "Coldsteel Eye"
+  },
+  {
+    "string": "Hexfire",
+    "id": "Hexfire"
+  },
+  {
+    "string": "Blade of Ali Baba",
+    "id": "Blade of Ali Baba"
+  },
+  {
+    "string": "Ginther's Rift",
+    "id": "Ginther's Rift"
+  },
+  {
+    "string": "Headstriker",
+    "id": "Headstriker"
+  },
+  {
+    "string": "Plague Bearer",
+    "id": "Plague Bearer"
+  },
+  {
+    "string": "The Atlantean",
+    "id": "The Atlantian"
+  },
+  {
+    "string": "Crainte Vomir",
+    "id": "Crainte Vomir"
+  },
+  {
+    "string": "Bing Sz Wang",
+    "id": "Bing Sz Wang"
+  },
+  {
+    "string": "The Vile Husk",
+    "id": "The Vile Husk"
+  },
+  {
+    "string": "Cloudcrack",
+    "id": "Cloudcrack"
+  },
+  {
+    "string": "Todesfaelle Flamme",
+    "id": "Todesfaelle Flamme"
+  },
+  {
+    "string": "Swordguard",
+    "id": "Swordguard"
+  },
+  {
+    "string": "Spineripper",
+    "id": "Spineripper"
+  },
+  {
+    "string": "Heart Carver",
+    "id": "Heart Carver"
+  },
+  {
+    "string": "Blackbog's Sharp",
+    "id": "Blackbog's Sharp"
+  },
+  {
+    "string": "Stormspike",
+    "id": "Stormspike"
+  },
+  {
+    "string": "The Impaler",
+    "id": "The Impaler"
+  },
+  {
+    "string": "Kelpie Snare",
+    "id": "Kelpie Snare"
+  },
+  {
+    "string": "Soulfeast Tine",
+    "id": "Soulfeast Tine"
+  },
+  {
+    "string": "Hone Sundan",
+    "id": "Hone Sundan"
+  },
+  {
+    "string": "Spire of Honor",
+    "id": "Spire of Honor"
+  },
+  {
+    "string": "The Meat Scraper",
+    "id": "The Meat Scraper"
+  },
+  {
+    "string": "Blackleach Blade",
+    "id": "Blackleach Blade"
+  },
+  {
+    "string": "Athena's Wrath",
+    "id": "Athena's Wrath"
+  },
+  {
+    "string": "Pierre Tombale Couant",
+    "id": "Pierre Tombale Couant"
+  },
+  {
+    "string": "Husoldal Evo",
+    "id": "Husoldal Evo"
+  },
+  {
+    "string": "Grim's Burning Dead",
+    "id": "Grim's Burning Dead"
+  },
+  {
+    "string": "Razorswitch",
+    "id": "Razorswitch"
+  },
+  {
+    "string": "Ribcracker",
+    "id": "Ribcracker"
+  },
+  {
+    "string": "Chromatic Ire",
+    "id": "Chromatic Ire"
+  },
+  {
+    "string": "Warpspear",
+    "id": "Warpspear"
+  },
+  {
+    "string": "Skull Collector",
+    "id": "Skullcollector"
+  },
+  {
+    "string": "Skystrike",
+    "id": "Skystrike"
+  },
+  {
+    "string": "Riphook",
+    "id": "Riphook"
+  },
+  {
+    "string": "Kuko Shakaku",
+    "id": "Kuko Shakaku"
+  },
+  {
+    "string": "Endlesshail",
+    "id": "Endlesshail"
+  },
+  {
+    "string": "Whichwild String",
+    "id": "Whichwild String"
+  },
+  {
+    "string": "Cliffkiller",
+    "id": "Cliffkiller"
+  },
+  {
+    "string": "Magewrath",
+    "id": "Magewrath"
+  },
+  {
+    "string": "Goldstrike Arch",
+    "id": "Godstrike Arch"
+  },
+  {
+    "string": "Langer Briser",
+    "id": "Langer Briser"
+  },
+  {
+    "string": "Pus Spitter",
+    "id": "Pus Spiter"
+  },
+  {
+    "string": "Buriza-Do Kyanon",
+    "id": "Buriza-Do Kyanon"
+  },
+  {
+    "string": "Demon Machine",
+    "id": "Demon Machine"
+  },
+  {
+    "string": "Peasant Crown",
+    "id": "Peasent Crown"
+  },
+  {
+    "string": "Rockstopper",
+    "id": "Rockstopper"
+  },
+  {
+    "string": "Stealskull",
+    "id": "Stealskull"
+  },
+  {
+    "string": "Darksight Helm",
+    "id": "Darksight Helm"
+  },
+  {
+    "string": "Valkyrie Wing",
+    "id": "Valkiry Wing"
+  },
+  {
+    "string": "Crown of Thieves",
+    "id": "Crown of Thieves"
+  },
+  {
+    "string": "Blackhorn's Face",
+    "id": "Blackhorn's Face"
+  },
+  {
+    "string": "Vampire Gaze",
+    "id": "Vampiregaze"
+  },
+  {
+    "string": "The Spirit Shroud",
+    "id": "The Spirit Shroud"
+  },
+  {
+    "string": "Skin of the Vipermagi",
+    "id": "Skin of the Vipermagi"
+  },
+  {
+    "string": "Skin of the Flayed One",
+    "id": "Skin of the Flayerd One"
+  },
+  {
+    "string": "Iron Pelt",
+    "id": "Ironpelt"
+  },
+  {
+    "string": "Spirit Forge",
+    "id": "Spiritforge"
+  },
+  {
+    "string": "Crow Caw",
+    "id": "Crow Caw"
+  },
+  {
+    "string": "Shaftstop",
+    "id": "Shaftstop"
+  },
+  {
+    "string": "Duriel's Shell",
+    "id": "Duriel's Shell"
+  },
+  {
+    "string": "Skullder's Ire",
+    "id": "Skullder's Ire"
+  },
+  {
+    "string": "Guardian Angel",
+    "id": "Guardian Angel"
+  },
+  {
+    "string": "Toothrow",
+    "id": "Toothrow"
+  },
+  {
+    "string": "Atma's Wail",
+    "id": "Atma's Wail"
+  },
+  {
+    "string": "Black Hades",
+    "id": "Black Hades"
+  },
+  {
+    "string": "Corpsemourn",
+    "id": "Corpsemourn"
+  },
+  {
+    "string": "Que-Hegan's Wisdom",
+    "id": "Que-Hegan's Wisdon"
+  },
+  {
+    "string": "Visceratuant",
+    "id": "Visceratuant"
+  },
+  {
+    "string": "Moser's Blessed Circle",
+    "id": "Mosers Blessed Circle"
+  },
+  {
+    "string": "Stormchaser",
+    "id": "Stormchaser"
+  },
+  {
+    "string": "Tiamat's Rebuke",
+    "id": "Tiamat's Rebuke"
+  },
+  {
+    "string": "Gerke's Sanctuary",
+    "id": "Kerke's Sanctuary"
+  },
+  {
+    "string": "Radament's Sphere",
+    "id": "Radimant's Sphere"
+  },
+  {
+    "string": "Lidless Wall",
+    "id": "Lidless Wall"
+  },
+  {
+    "string": "Lance Guard",
+    "id": "Lance Guard"
+  },
+  {
+    "string": "Venom Grip",
+    "id": "Venom Grip"
+  },
+  {
+    "string": "Gravepalm",
+    "id": "Gravepalm"
+  },
+  {
+    "string": "Ghoulhide",
+    "id": "Ghoulhide"
+  },
+  {
+    "string": "Lava Gout",
+    "id": "Lavagout"
+  },
+  {
+    "string": "Hellmouth",
+    "id": "Hellmouth"
+  },
+  {
+    "string": "Infernostride",
+    "id": "Infernostride"
+  },
+  {
+    "string": "Waterwalk",
+    "id": "Waterwalk"
+  },
+  {
+    "string": "Silkweave",
+    "id": "Silkweave"
+  },
+  {
+    "string": "War Traveler",
+    "id": "Wartraveler"
+  },
+  {
+    "string": "Gore Rider",
+    "id": "Gorerider"
+  },
+  {
+    "string": "String of Ears",
+    "id": "String of Ears"
+  },
+  {
+    "string": "Razortail",
+    "id": "Razortail"
+  },
+  {
+    "string": "Gloom's Trap",
+    "id": "Gloomstrap"
+  },
+  {
+    "string": "Snowclash",
+    "id": "Snowclash"
+  },
+  {
+    "string": "Thundergod's Vigor",
+    "id": "Thudergod's Vigor"
+  },
+  {
+    "string": "Harlequin Crest",
+    "id": "Harlequin Crest"
+  },
+  {
+    "string": "Veil of Steel",
+    "id": "Veil of Steel"
+  },
+  {
+    "string": "The Gladiator's Bane",
+    "id": "The Gladiator's Bane"
+  },
+  {
+    "string": "Arkaine's Valor",
+    "id": "Arkaine's Valor"
+  },
+  {
+    "string": "Blackoak Shield",
+    "id": "Blackoak Shield"
+  },
+  {
+    "string": "Stormshield",
+    "id": "Stormshield"
+  },
+  {
+    "string": "Hellslayer",
+    "id": "Hellslayer"
+  },
+  {
+    "string": "Messerschmidt's Reaver",
+    "id": "Messerschmidt's Reaver"
+  },
+  {
+    "string": "Baranar's Star",
+    "id": "Baranar's Star"
+  },
+  {
+    "string": "Schaefer's Hammer",
+    "id": "Schaefer's Hammer"
+  },
+  {
+    "string": "The Cranium Basher",
+    "id": "The Cranium Basher"
+  },
+  {
+    "string": "Lightsabre",
+    "id": "Lightsabre"
+  },
+  {
+    "string": "Doombringer",
+    "id": "Doombringer"
+  },
+  {
+    "string": "The Grandfather",
+    "id": "The Grandfather"
+  },
+  {
+    "string": "Wizardspike",
+    "id": "Wizardspike"
+  },
+  {
+    "string": "Stormspire",
+    "id": "Stormspire"
+  },
+  {
+    "string": "Eaglehorn",
+    "id": "Eaglehorn"
+  },
+  {
+    "string": "Windforce",
+    "id": "Windforce"
+  },
+  {
+    "string": "Bul-Kathos' Wedding Band",
+    "id": "Bul Katho's Wedding Band"
+  },
+  {
+    "string": "The Cat's Eye",
+    "id": "The Cat's Eye"
+  },
+  {
+    "string": "The Rising Sun",
+    "id": "The Rising Sun"
+  },
+  {
+    "string": "Crescent Moon",
+    "id": "Crescent Moon"
+  },
+  {
+    "string": "Mara's Kaleidoscope",
+    "id": "Mara's Kaleidoscope"
+  },
+  {
+    "string": "Atma's Scarab",
+    "id": "Atma's Scarab"
+  },
+  {
+    "string": "Dwarf Star",
+    "id": "Dwarf Star"
+  },
+  {
+    "string": "Raven Frost",
+    "id": "Raven Frost"
+  },
+  {
+    "string": "Highlord's Wrath",
+    "id": "Highlord's Wrath"
+  },
+  {
+    "string": "Saracen's Chance",
+    "id": "Saracen's Chance"
+  },
+  {
+    "string": "Arreat's Face",
+    "id": "Arreat's Face"
+  },
+  {
+    "string": "Homunculus",
+    "id": "Homunculus"
+  },
+  {
+    "string": "Titan's Revenge",
+    "id": "Titan's Revenge"
+  },
+  {
+    "string": "Lycander's Aim",
+    "id": "Lycander's Aim"
+  },
+  {
+    "string": "Lycander's Flank",
+    "id": "Lycander's Flank"
+  },
+  {
+    "string": "The Oculus",
+    "id": "The Oculus"
+  },
+  {
+    "string": "Herald of Zakarum",
+    "id": "Herald of Zakarum"
+  },
+  {
+    "string": "Bartuc's Cut-Throat",
+    "id": "Cutthroat1"
+  },
+  {
+    "string": "Jalal's Mane",
+    "id": "Jalal's Mane"
+  },
+  {
+    "string": "The Scalper",
+    "id": "The Scalper"
+  },
+  {
+    "string": "Bloodmoon",
+    "id": "Bloodmoon"
+  },
+  {
+    "string": "Djinn Slayer",
+    "id": "Djinnslayer"
+  },
+  {
+    "string": "Deathbit",
+    "id": "Deathbit"
+  },
+  {
+    "string": "Warshrike",
+    "id": "Warshrike"
+  },
+  {
+    "string": "Gut Siphon",
+    "id": "Gutsiphon"
+  },
+  {
+    "string": "Razor's Edge",
+    "id": "Razoredge"
+  },
+  {
+    "string": "Demon Limb",
+    "id": "Demonlimb"
+  },
+  {
+    "string": "Steel Shade",
+    "id": "Steelshade"
+  },
+  {
+    "string": "Tomb Reaver",
+    "id": "Tomb Reaver"
+  },
+  {
+    "string": "Death's Web",
+    "id": "Deaths's Web"
+  },
+  {
+    "string": "Nature's Peace",
+    "id": "Nature's Peace"
+  },
+  {
+    "string": "Azurewrath",
+    "id": "Azurewrath"
+  },
+  {
+    "string": "Seraph's Hymn",
+    "id": "Seraph's Hymn"
+  },
+  {
+    "string": "Fleshripper",
+    "id": "Fleshripper"
+  },
+  {
+    "string": "Horizon's Tornado",
+    "id": "Horizon's Tornado"
+  },
+  {
+    "string": "Stone Crusher",
+    "id": "Stone Crusher"
+  },
+  {
+    "string": "Jade Talon",
+    "id": "Jadetalon"
+  },
+  {
+    "string": "Shadow Dancer",
+    "id": "Shadowdancer"
+  },
+  {
+    "string": "Cerebus' Bite",
+    "id": "Cerebus"
+  },
+  {
+    "string": "Tyrael's Might",
+    "id": "Tyrael's Might"
+  },
+  {
+    "string": "Soul Drainer",
+    "id": "Souldrain"
+  },
+  {
+    "string": "Rune Master",
+    "id": "Runemaster"
+  },
+  {
+    "string": "Death Cleaver",
+    "id": "Deathcleaver"
+  },
+  {
+    "string": "Executioner's Justice",
+    "id": "Executioner's Justice"
+  },
+  {
+    "string": "Stoneraven",
+    "id": "Stoneraven"
+  },
+  {
+    "string": "Leviathan",
+    "id": "Leviathan"
+  },
+  {
+    "string": "Wisp Projector",
+    "id": "Wisp"
+  },
+  {
+    "string": "Gargoyle's Bite",
+    "id": "Gargoyle's Bite"
+  },
+  {
+    "string": "Lacerator",
+    "id": "Lacerator"
+  },
+  {
+    "string": "Mang Song's Lesson",
+    "id": "Mang Song's Lesson"
+  },
+  {
+    "string": "Viperfork",
+    "id": "Viperfork"
+  },
+  {
+    "string": "Ethereal Edge",
+    "id": "Ethereal Edge"
+  },
+  {
+    "string": "Demonhorn's Edge",
+    "id": "Demonhorn's Edge"
+  },
+  {
+    "string": "The Reaper's Toll",
+    "id": "The Reaper's Toll"
+  },
+  {
+    "string": "Spirit Keeper",
+    "id": "Spiritkeeper"
+  },
+  {
+    "string": "Hellrack",
+    "id": "Hellrack"
+  },
+  {
+    "string": "Alma Negra",
+    "id": "Alma Negra"
+  },
+  {
+    "string": "Darkforce Spawn",
+    "id": "Darkforge Spawn"
+  },
+  {
+    "string": "Widowmaker",
+    "id": "Widowmaker"
+  },
+  {
+    "string": "Blood Raven's Charge",
+    "id": "Bloodraven's Charge"
+  },
+  {
+    "string": "Ghostflame",
+    "id": "Ghostflame"
+  },
+  {
+    "string": "Shadow Killer",
+    "id": "Shadowkiller"
+  },
+  {
+    "string": "Gimmershred",
+    "id": "Gimmershred"
+  },
+  {
+    "string": "Griffon's Eye",
+    "id": "Griffon's Eye"
+  },
+  {
+    "string": "Windhammer",
+    "id": "Windhammer"
+  },
+  {
+    "string": "Thunderstroke",
+    "id": "Thunderstroke"
+  },
+  {
+    "string": "Demon's Arch",
+    "id": "Demon's Arch"
+  },
+  {
+    "string": "Boneflame",
+    "id": "Boneflame"
+  },
+  {
+    "string": "Steel Pillar",
+    "id": "Steelpillar"
+  },
+  {
+    "string": "Nightwing's Veil",
+    "id": "Nightwing's Veil"
+  },
+  {
+    "string": "Crown of Ages",
+    "id": "Crown of Ages"
+  },
+  {
+    "string": "Andariel's Visage",
+    "id": "Andariel's Visage"
+  },
+  {
+    "string": "Dragonscale",
+    "id": "Dragonscale"
+  },
+  {
+    "string": "Steel Carapace",
+    "id": "Steel Carapice"
+  },
+  {
+    "string": "Medusa's Gaze",
+    "id": "Medusa's Gaze"
+  },
+  {
+    "string": "Ravenlore",
+    "id": "Ravenlore"
+  },
+  {
+    "string": "Boneshade",
+    "id": "Boneshade"
+  },
+  {
+    "string": "Flamebellow",
+    "id": "Flamebellow"
+  },
+  {
+    "string": "Death's Fathom",
+    "id": "Fathom"
+  },
+  {
+    "string": "Wolfhowl",
+    "id": "Wolfhowl"
+  },
+  {
+    "string": "Spirit Ward",
+    "id": "Spirit Ward"
+  },
+  {
+    "string": "Kira's Guardian",
+    "id": "Kira's Guardian"
+  },
+  {
+    "string": "Ormus' Robes",
+    "id": "Ormus' Robes"
+  },
+  {
+    "string": "Gheed's Fortune",
+    "id": "Gheed's Fortune"
+  },
+  {
+    "string": "Stormlash",
+    "id": "Stormlash"
+  },
+  {
+    "string": "Halaberd's Reign",
+    "id": "Halaberd's Reign"
+  },
+  {
+    "string": "Spike Thorn",
+    "id": "Spike Thorn"
+  },
+  {
+    "string": "Dracul's Grasp",
+    "id": "Dracul's Grasp"
+  },
+  {
+    "string": "Frostwind",
+    "id": "Frostwind"
+  },
+  {
+    "string": "Templar's Might",
+    "id": "Templar's Might"
+  },
+  {
+    "string": "Eschuta's Temper",
+    "id": "Eschuta's temper"
+  },
+  {
+    "string": "Firelizard's Talons",
+    "id": "Firelizard's Talons"
+  },
+  {
+    "string": "Sandstorm Trek",
+    "id": "Sandstorm Trek"
+  },
+  {
+    "string": "Marrowwalk",
+    "id": "Marrowwalk"
+  },
+  {
+    "string": "Heaven's Light",
+    "id": "Heaven's Light"
+  },
+  {
+    "string": "Arachnid Mesh",
+    "id": "Arachnid Mesh"
+  },
+  {
+    "string": "Nosferatu's Coil",
+    "id": "Nosferatu's Coil"
+  },
+  {
+    "string": "Metalgrid",
+    "id": "Metalgrid"
+  },
+  {
+    "string": "Verdungo's Hearty Cord",
+    "id": "Verdugo's Hearty Cord"
+  },
+  {
+    "string": "Carrion Wind",
+    "id": "Carrion Wind"
+  },
+  {
+    "string": "Giant Skull",
+    "id": "Giantskull"
+  },
+  {
+    "string": "Astreon's Iron Ward",
+    "id": "Ironward"
+  },
+  {
+    "string": "Annihilus",
+    "id": "Annihilus"
+  },
+  {
+    "string": "Arioc's Needle",
+    "id": "Arioc's Needle"
+  },
+  {
+    "string": "Cranebeak",
+    "id": "Cranebeak"
+  },
+  {
+    "string": "Nord's Tenderizer",
+    "id": "Nord's Tenderizer"
+  },
+  {
+    "string": "Earth Shifter",
+    "id": "Earthshifter"
+  },
+  {
+    "string": "Wraith Flight",
+    "id": "Wraithflight"
+  },
+  {
+    "string": "Bonehew",
+    "id": "Bonehew"
+  },
+  {
+    "string": "Ondal's Wisdom",
+    "id": "Ondal's Wisdom"
+  },
+  {
+    "string": "The Redeemer",
+    "id": "The Reedeemer"
+  },
+  {
+    "string": "Head Hunter's Glory",
+    "id": "Headhunter's Glory"
+  },
+  {
+    "string": "Steelrend",
+    "id": "Steelrend"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Rainbow Facet",
+    "id": "Rainbow Facet"
+  },
+  {
+    "string": "Hellfire Torch",
+    "id": "Hellfire Torch"
+  }
+]
